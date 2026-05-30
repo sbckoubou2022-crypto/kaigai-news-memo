@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>海外ニュースメモ</title>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header class="hero">
+    <div class="hero-overlay"></div>
+
+    <div class="hero-content">
+      <div class="site-label">INTERNATIONAL NEWS CURATION</div>
+
+      <h1>海外ニュースメモ</h1>
+
+      <p>
+        海外で話題になっている出来事を、<br>
+        ゆっくり整理して眺めるニュースノート。
+      </p>
+    </div>
+
+    <nav class="category-nav">
+      <a href="#">ALL</a>
+      <a href="#">WORLD</a>
+      <a href="#">EUROPE</a>
+      <a href="#">AMERICAS</a>
+      <a href="#">ASIA</a>
+      <a href="#">MIDDLE EAST</a>
+      <a href="#">AFRICA</a>
+      <a href="#">OCEANIA</a>
+      <a href="#">TECH</a>
+      <a href="#">BUSINESS</a>
+      <a href="#">SCIENCE</a>
+      <a href="#">CULTURE</a>
+      <a href="#">LIFE</a>
+      <a href="#">ENVIRONMENT</a>
+      <a href="#">HEALTH</a>
+      <a href="#">DESIGN</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="news-grid">
+      <article class="news-card large">
+        <img src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">TECH</span>
+          <h2>AI startups raise record funding in 2024</h2>
+          <time>2024.05.21</time>
+        </div>
+      </article>
+
+      <article class="news-card">
+        <img src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">EUROPE</span>
+          <h2>EU approves new climate targets for 2040</h2>
+          <time>2024.05.20</time>
+        </div>
+      </article>
+
+      <article class="news-card wide">
+        <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">ASIA</span>
+          <h2>Japan and India strengthen tech partnership</h2>
+          <time>2024.05.19</time>
+        </div>
+      </article>
+
+      <article class="news-card">
+        <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">BUSINESS</span>
+          <h2>Global markets react to US inflation data</h2>
+          <time>2024.05.18</time>
+        </div>
+      </article>
+
+      <article class="news-card wide">
+        <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">ENVIRONMENT</span>
+          <h2>New ocean conservation initiative launched</h2>
+          <time>2024.05.17</time>
+        </div>
+      </article>
+
+      <article class="news-card">
+        <img src="https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">CULTURE</span>
+          <h2>Venice Biennale opens with calls for peace</h2>
+          <time>2024.05.16</time>
+        </div>
+      </article>
+
+      <article class="news-card">
+        <img src="https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">HEALTH</span>
+          <h2>WHO reports progress on global pandemic treaty</h2>
+          <time>2024.05.15</time>
+        </div>
+      </article>
+
+      <article class="news-card">
+        <img src="https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">DESIGN</span>
+          <h2>Minimalist design trends shaping 2024</h2>
+          <time>2024.05.14</time>
+        </div>
+      </article>
+
+      <article class="news-card">
+        <img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">MIDDLE EAST</span>
+          <h2>Renewable energy projects expand across the region</h2>
+          <time>2024.05.13</time>
+        </div>
+      </article>
+
+      <article class="news-card">
+        <img src="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">SCIENCE</span>
+          <h2>New research unveils mysteries of the brain</h2>
+          <time>2024.05.12</time>
+        </div>
+      </article>
+
+      <article class="news-card">
+        <img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">LIFE</span>
+          <h2>Slow living movement grows worldwide</h2>
+          <time>2024.05.11</time>
+        </div>
+      </article>
+
+      <article class="news-card">
+        <img src="https://images.unsplash.com/photo-1484318571209-661cf29a69c3?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">AFRICA</span>
+          <h2>Youth entrepreneurship on the rise in Africa</h2>
+          <time>2024.05.10</time>
+        </div>
+      </article>
+
+      <article class="news-card wide">
+        <img src="https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">AMERICAS</span>
+          <h2>New immigration reforms debated in the US</h2>
+          <time>2024.05.09</time>
+        </div>
+      </article>
+
+      <article class="news-card wide">
+        <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">OCEANIA</span>
+          <h2>Australia invests in sustainable future</h2>
+          <time>2024.05.08</time>
+        </div>
+      </article>
+
+      <article class="news-card">
+        <img src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">WORLD</span>
+          <h2>Global tourism begins strong recovery in 2024</h2>
+          <time>2024.05.07</time>
+        </div>
+      </article>
+
+      <article class="news-card">
+        <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80" alt="">
+        <div class="card-shade"></div>
+        <div class="card-content">
+          <span class="category">TECH</span>
+          <h2>Next-generation robotics enter everyday life</h2>
+          <time>2024.05.06</time>
+        </div>
+      </article>
+
+    </section>
+  </main>
+</body>
+</html>

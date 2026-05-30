@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>記事詳細 | 海外ニュースメモ</title>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <main class="article-page">
+    <a href="index.html" class="back-link">← トップへ戻る</a>
+
+    <article class="article-detail">
+      <img id="articleImage" class="article-hero-image" src="" alt="">
+
+      <div class="article-meta">
+        <span id="articleCategory"></span>
+        <time id="articleDate"></time>
+      </div>
+
+      <h1 id="articleTitle"></h1>
+
+      <p id="articleSummary"></p>
+
+      <div id="articleContent"></div>
+    </article>
+
+    <section class="related-section">
+      <h2>RELATED ARTICLES</h2>
+
+      <div class="related-grid" id="relatedGrid"></div>
+    </section>
+  </main>
+
+  <script src="article.js"></script>
+</body>
+</html>
