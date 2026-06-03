@@ -1,3 +1,6 @@
+const ITEMS_PER_FEED = 5;
+const OG_IMAGE_TIMEOUT_MS = 2500;
+
 const fs = require("fs");
 const Parser = require("rss-parser");
 
@@ -82,12 +85,12 @@ const RSS_FEEDS = [
   {
     name: "MIT News Science",
     url: "https://news.mit.edu/rss/school/science",
-    category: "TECH"
+    category: "SCIENCE"
   },
   {
     name: "Phys.org",
     url: "https://phys.org/rss-feed/",
-    category: "TECH"
+    category: "SCIENCE"
   },
   {
     name: "Phys.org Space",
@@ -117,7 +120,7 @@ const RSS_FEEDS = [
   {
     name: "VentureBeat AI",
     url: "https://venturebeat.com/category/ai/feed/",
-    category: "TECH"
+    category: "AI"
   },
   {
     name: "MIT Technology Review",
@@ -166,6 +169,56 @@ async function main() {
 
       const feed = await parser.parseURL(feedInfo.url);
 
+      const newsItems = await Promise.all(
+        feed.items.slice(0, ITEMS_PER_FEED).map(async (item) => {
+          const image = await getImageFromItem(item, feedInfo.category);
+
+          return {
+            title: item.title || "No title",
+            category: feedInfo.category,
+            date: item.pubDate || item.isoDate || "",
+            image: image,
+            summary: item.contentSnippet || "",
+            content: `<h2>概要</h2><p>${item.contentSnippet || ""}</p><p><a href="${item.link}" target="_blank">出典記事を読む</a></p>`,
+            source: feedInfo.name,
+            sourceUrl: item.link || ""
+          };
+        })
+      );
+
+      allNews.push(...newsItems);
+    } catch (error) {
+      console.log(`スキップ: ${feedInfo.name}`);
+      console.log(`理由: ${error.message}`);
+    }
+  }
+
+  const sortedNews = allNews
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .map((item, index) => ({
+      id: index + 1,
+      ...item
+    }));
+
+  fs.writeFileSync(
+    "data/news.json",
+    JSON.stringify(sortedNews, null, 2),
+    "utf-8"
+  );
+
+  console.log(`${sortedNews.length}件の記事を data/news.json に保存しました`);
+}
+
+/*
+async function main() {
+  const allNews = [];
+
+  for (const feedInfo of RSS_FEEDS) {
+    try {
+      console.log(`取得中: ${feedInfo.name}`);
+
+      const feed = await parser.parseURL(feedInfo.url);
+
       for (const item of feed.items.slice(0, 5)) {
         const image = await getImageFromItem(item, feedInfo.category);
 
@@ -195,6 +248,8 @@ async function main() {
 
   console.log(`${allNews.length}件の記事を data/news.json に保存しました`);
 }
+*/
+
 /*
 async function main() {
   const allNews = [];
@@ -267,6 +322,36 @@ async function getImageFromItem(item, category) {
 async function getOgImage(url) {
   if (!url) return null;
 
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), OG_IMAGE_TIMEOUT_MS);
+
+  try {
+    const res = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        "User-Agent": "Mozilla/5.0"
+      }
+    });
+
+    const html = await res.text();
+
+    const match = html.match(
+      /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i
+    );
+
+    return match?.[1] || null;
+  } catch (error) {
+    console.log("画像取得スキップ:", url);
+    return null;
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+/*
+async function getOgImage(url) {
+  if (!url) return null;
+
   try {
     const res = await fetch(url);
     const html = await res.text();
@@ -285,3 +370,4 @@ async function getOgImage(url) {
     return null;
   }
 }
+*/
