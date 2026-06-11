@@ -1,13 +1,16 @@
 const newsGrid = document.querySelector(".news-grid");
 const categoryLinks = document.querySelectorAll(".category-nav a");
+const searchInput = document.querySelector("#searchInput");
 
 let allNews = [];
+let activeCategory = "ALL";
+let searchKeyword = "";
 
 fetch("data/news.json")
   .then((response) => response.json())
   .then((newsList) => {
     allNews = newsList;
-    displayNews(allNews);
+    renderFilteredNews();
   })
   .catch((error) => {
     console.error("JSON読み込み失敗:", error);
@@ -38,36 +41,81 @@ function displayNews(newsList) {
   });
 }
 
+function renderFilteredNews() {
+  const filteredNews = allNews.filter((news) => {
+    const matchesCategory =
+      activeCategory === "ALL" || news.category === activeCategory;
+    const normalizedKeyword = searchKeyword.toLowerCase();
+    const matchesKeyword =
+      normalizedKeyword === "" ||
+      news.title.toLowerCase().includes(normalizedKeyword) ||
+      news.category.toLowerCase().includes(normalizedKeyword) ||
+      (news.summary || "").toLowerCase().includes(normalizedKeyword) ||
+      (news.country || "").toLowerCase().includes(normalizedKeyword);
+
+    return matchesCategory && matchesKeyword;
+  });
+
+  displayNews(filteredNews);
+}
+
 categoryLinks.forEach((link) => {
   link.addEventListener("click", (event) => {
     event.preventDefault();
 
-    const selectedCategory = link.textContent.trim();
-
-    if (selectedCategory === "ALL") {
-      displayNews(allNews);
-      return;
-    }
-
-    const filteredNews = allNews.filter((news) => {
-      return news.category === selectedCategory;
-    });
-
-    displayNews(filteredNews);
+    activeCategory = link.textContent.trim();
+    renderFilteredNews();
   });
 });
 
-searchInput.addEventListener("input", () => {
-  const keyword = searchInput.value.toLowerCase();
+if (searchInput) {
+  searchInput.addEventListener("input", () => {
+    searchKeyword = searchInput.value.trim();
+    renderFilteredNews();
+  });
+}
 
-  const searchedNews = allNews.filter((news) => {
-    return (
-      news.title.toLowerCase().includes(keyword) ||
-      news.category.toLowerCase().includes(keyword) ||
-      (news.summary || "").toLowerCase().includes(keyword) ||
-      (news.country || "").toLowerCase().includes(keyword)
-    );
+function playRadio(newsList) {
+
+  speechSynthesis.cancel();
+
+  const latest = newsList.slice(0, 10);
+
+  let script =
+    "本日の海外ニュースです。";
+
+  latest.forEach((item) => {
+
+    /*script += `${item.category}ニュース。`
+    'script += `${item.title}。`;*/
+    script += `${item.source}より。`;
+    script += `${item.title}。`;
+    script += `${item.summary}。`;
   });
 
-  displayNews(searchedNews);
-});
+  script +=
+    "以上、本日の海外ニュースでした。";
+
+  const speech =
+    new SpeechSynthesisUtterance(script);
+
+  speech.lang = "ja-JP";
+  speech.rate = 1;
+  speech.pitch = 1;
+
+  speechSynthesis.speak(speech);
+}
+
+const radioBtn = document.getElementById("radioBtn");
+
+if (radioBtn) {
+  radioBtn.addEventListener("click", () => {
+    playRadio(allNews);
+  });
+}
+
+document
+  .getElementById("stopRadioBtn")
+  ?.addEventListener("click", () => {
+    speechSynthesis.cancel();
+  });

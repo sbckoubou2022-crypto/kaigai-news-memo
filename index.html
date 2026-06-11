@@ -19,10 +19,28 @@
       <h1>海外ニュースメモ</h1>
 
       <p>
-        海外で話題になっている出来事を、<br>
-        ゆっくり整理して眺めるニュースノート。
+        海外で話題になっている出来事を、ゆっくり整理して眺めるニュースノート。
       </p>
     </div>
+  </header>
+
+  <section class="control-area">
+    <div class="top-controls">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="キーワードで検索"
+      >
+
+      <button id="radioBtn" class="radio-btn">
+        🎙 本日の海外ニュースを聴く
+      </button>
+
+      <button id="stopRadioBtn" class="stop-btn">
+        ■ 停止
+      </button>
+    </div>
+
     <nav class="category-nav">
       <a href="#">ALL</a>
       <a href="#">WORLD</a>
@@ -35,10 +53,7 @@
       <a href="#">CULTURE</a>
       <a href="#">DESIGN</a>
     </nav>
-    <div class="search-area">
-      <input type="text" id="searchInput" placeholder="キーワードで検索">
-    </div>
-</header>
+  </section>
 
   <main>
     <section class="news-grid"></section>

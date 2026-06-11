@@ -200,6 +200,7 @@ async function main() {
       ...item
     }));
 
+  fs.mkdirSync("data", { recursive: true });
   fs.writeFileSync(
     "data/news.json",
     JSON.stringify(sortedNews, null, 2),
