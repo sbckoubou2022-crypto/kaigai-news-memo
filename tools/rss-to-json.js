@@ -163,6 +163,8 @@ const FALLBACK_IMAGES = {
 async function main() {
   const allNews = [];
 
+  const start = Date.now();
+
   for (const feedInfo of RSS_FEEDS) {
     try {
       console.log(`取得中: ${feedInfo.name}`);
@@ -176,7 +178,7 @@ async function main() {
           return {
             title: item.title || "No title",
             category: feedInfo.category,
-            date: item.pubDate || item.isoDate || "",
+            date: item.isoDate || item.pubDate || "",
             image: image,
             summary: item.contentSnippet || "",
             content: `<h2>概要</h2><p>${item.contentSnippet || ""}</p><p><a href="${item.link}" target="_blank">出典記事を読む</a></p>`,
@@ -187,6 +189,13 @@ async function main() {
       );
 
       allNews.push(...newsItems);
+  
+      console.log(
+        `${feedInfo.name}: ${
+          ((Date.now() - start) / 1000).toFixed(1)
+        }秒`
+      );
+
     } catch (error) {
       console.log(`スキップ: ${feedInfo.name}`);
       console.log(`理由: ${error.message}`);
@@ -208,6 +217,7 @@ async function main() {
   );
 
   console.log(`${sortedNews.length}件の記事を data/news.json に保存しました`);
+  process.exit(0);
 }
 
 /*
@@ -290,6 +300,44 @@ main().catch((error) => {
 });
 
 async function getImageFromItem(item, category) {
+
+  if (item.enclosure?.url) {
+    return item.enclosure.url;
+  }
+
+  if (item["media:content"]?.url) {
+    return item["media:content"].url;
+  }
+
+  if (item["media:thumbnail"]?.url) {
+    return item["media:thumbnail"].url;
+  }
+
+  const html =
+    item["content:encoded"] ||
+    item.content ||
+    item.summary ||
+    item.description ||
+    "";
+
+  const match = html.match(
+    /<img[^>]+src=["']([^"']+)["']/i
+  );
+
+  if (match?.[1]) {
+    return match[1];
+  }
+
+  // const ogImage = await getOgImage(item.link);
+  // return ogImage || FALLBACK_IMAGES[category];
+
+  return (
+    FALLBACK_IMAGES[category] ||
+    FALLBACK_IMAGES.DEFAULT
+  );
+}
+
+/*async function getImageFromItem(item, category) {
   if (item.enclosure?.url) {
     return item.enclosure.url;
   }
@@ -316,9 +364,10 @@ async function getImageFromItem(item, category) {
   }
 
   const ogImage = await getOgImage(item.link);
+  return ogImage || FALLBACK_IMAGES[category];
 
   return ogImage || FALLBACK_IMAGES[category] || FALLBACK_IMAGES.DEFAULT;
-}
+}*/
 
 async function getOgImage(url) {
   if (!url) return null;

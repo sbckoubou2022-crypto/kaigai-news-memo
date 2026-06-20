@@ -521,14 +521,14 @@ body {
   padding: 28px 5vw 24px;
   background: transparent;
   /*margin-top: -110px;*/
-  margin-top: -160px;
+  margin-top: -188px;
   position: relative;
   z-index: 5;
 }
 
-main {
+/*main {
   padding: 40px 5vw 60px;
-}
+}*/
 
 /*main {
   padding: 8px 5vw 60px;
@@ -605,4 +605,14 @@ main {
   .stop-btn {
     width: 100%;
   }
+}
+
+.site-info {
+  margin-bottom: 18px;
+
+  color: rgba(255,255,255,.75);
+
+  font-size: 0.9rem;
+
+  letter-spacing: .04em;
 }

@@ -9,9 +9,14 @@ let searchKeyword = "";
 fetch("data/news.json")
   .then((response) => response.json())
   .then((newsList) => {
+
     allNews = newsList;
+
+    updateSiteInfo(newsList);
+
     renderFilteredNews();
   })
+
   .catch((error) => {
     console.error("JSON読み込み失敗:", error);
   });
@@ -30,7 +35,15 @@ function displayNews(newsList) {
       <div class="card-content">
         <span class="category">${news.category}</span>
         <h2>${news.title}</h2>
-        <time>${news.date}</time>
+        <time>
+          ${new Date(news.date).toLocaleString("ja-JP", {
+            year: "numeric",
+            month: "2-digit",
+            day: "2-digit",
+            hour: "2-digit",
+            minute: "2-digit"
+          })}
+        </time>
       </div>
     `;
     card.addEventListener("click", () => {
@@ -119,3 +132,26 @@ document
   ?.addEventListener("click", () => {
     speechSynthesis.cancel();
   });
+
+function updateSiteInfo(newsList) {
+
+  const info = document.getElementById("siteInfo");
+
+  if (!info || newsList.length === 0) return;
+
+  const latestDate = new Date(newsList[0].date);
+
+  info.innerHTML = `
+    最終更新：
+    ${latestDate.toLocaleString("ja-JP", {
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit"
+    })}
+    ／
+    掲載記事数：
+    ${newsList.length}件
+  `;
+}
