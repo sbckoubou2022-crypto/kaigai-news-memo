@@ -1,86 +1,141 @@
 [
   {
     "id": 1,
-    "title": "Need a MacBook? Don't buy it from Apple while these Amazon deals are still live",
-    "category": "TECH",
-    "date": "2026-06-25T20:01:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Apple increased prices in its official store, but Amazon still has the lowest prices for Prime Day.",
-    "content": "<h2>概要</h2><p>Apple increased prices in its official store, but Amazon still has the lowest prices for Prime Day.</p><p><a href=\"https://www.zdnet.com/article/macbook-air-m5-standalone-apple-deals/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/macbook-air-m5-standalone-apple-deals/"
+    "title": "The Battle for Sullivan’s Island",
+    "category": "SPACE",
+    "date": "2026-06-26T04:00:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-battle-for-sullivan",
+    "summary": "Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776.",
+    "content": "<h2>概要</h2><p>Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/"
   },
   {
     "id": 2,
-    "title": "Why AI rules in science matter now: Nature backs wider debate beyond mathematics",
-    "category": "SCIENCE",
-    "date": "2026-06-25T20:00:10.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "In an editorial, Nature endorses the \"Leiden Declaration on Artificial Intelligence and Mathematics,\" which was published earlier this month by researchers from 15 different universities, including Rodrigo Ochigame (CADS) and David Holmes (FWN).",
-    "content": "<h2>概要</h2><p>In an editorial, Nature endorses the \"Leiden Declaration on Artificial Intelligence and Mathematics,\" which was published earlier this month by researchers from 15 different universities, including Rodrigo Ochigame (CADS) and David Holmes (FWN).</p><p><a href=\"https://phys.org/news/2026-06-ai-science-nature-wider-debate.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-06-ai-science-nature-wider-debate.html"
+    "title": "Listening for the echoes of black holes ",
+    "category": "TECH",
+    "date": "2026-06-26T04:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "By analyzing X-ray reverberations and other astrophysical data, Erin Kara seeks to understand the most extreme objects in the universe.",
+    "content": "<h2>概要</h2><p>By analyzing X-ray reverberations and other astrophysical data, Erin Kara seeks to understand the most extreme objects in the universe.</p><p><a href=\"https://news.mit.edu/2026/listening-for-echoes-of-black-holes-erin-kara-0626\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/listening-for-echoes-of-black-holes-erin-kara-0626"
   },
   {
     "id": 3,
-    "title": "Fossil fish tooth chemistry uncovers Southern Hemisphere role in Earth's ice age shift",
+    "title": "Listening for the echoes of black holes ",
     "category": "SCIENCE",
-    "date": "2026-06-25T20:00:04.000Z",
+    "date": "2026-06-26T04:00:00.000Z",
     "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "To understand where Earth might be headed, it's important to know where it has been. Throughout its existence, especially over the past couple of million years, Earth has experienced periodic cold and warm intervals, known as glacial and interglacial periods.",
-    "content": "<h2>概要</h2><p>To understand where Earth might be headed, it's important to know where it has been. Throughout its existence, especially over the past couple of million years, Earth has experienced periodic cold and warm intervals, known as glacial and interglacial periods.</p><p><a href=\"https://phys.org/news/2026-06-fossil-fish-tooth-chemistry-uncovers.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-06-fossil-fish-tooth-chemistry-uncovers.html"
+    "summary": "By analyzing X-ray reverberations and other astrophysical data, Erin Kara seeks to understand the most extreme objects in the universe.",
+    "content": "<h2>概要</h2><p>By analyzing X-ray reverberations and other astrophysical data, Erin Kara seeks to understand the most extreme objects in the universe.</p><p><a href=\"https://news.mit.edu/2026/listening-for-echoes-of-black-holes-erin-kara-0626\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News Science",
+    "sourceUrl": "https://news.mit.edu/2026/listening-for-echoes-of-black-holes-erin-kara-0626"
   },
   {
     "id": 4,
-    "title": "RAMageddon just got extremely real",
-    "category": "TECH",
-    "date": "2026-06-25T20:00:00.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03702_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Even Tim Cook couldn’t supply chain his way out of the RAM crisis. | Photo: Allison Johnson / The Verge\t\n\nAs far as prices go, Apple is kind of a reverse canary in the coal mine. \nWith its famously generous margins and immense purchasing volume, it can afford to ride out price fluctuations in its supply chain in a way no other consumer tech company can. So when Apple raises prices across nearly all of its product lines, you know that shit is well and truly real.\nThat's what happened earlier today: Apple increased pricing across Macs, iPads, HomePods, and even the Vision Pro. Prices jumped hundreds of dollars in many cases. The MacBook Neo's key feature - a $599 starting price - is now $699. The iPhone appears to be safe for now, but I'd be sho …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Even Tim Cook couldn’t supply chain his way out of the RAM crisis. | Photo: Allison Johnson / The Verge\t\n\nAs far as prices go, Apple is kind of a reverse canary in the coal mine. \nWith its famously generous margins and immense purchasing volume, it can afford to ride out price fluctuations in its supply chain in a way no other consumer tech company can. So when Apple raises prices across nearly all of its product lines, you know that shit is well and truly real.\nThat's what happened earlier today: Apple increased pricing across Macs, iPads, HomePods, and even the Vision Pro. Prices jumped hundreds of dollars in many cases. The MacBook Neo's key feature - a $599 starting price - is now $699. The iPhone appears to be safe for now, but I'd be sho …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase"
+    "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+    "category": "WORLD",
+    "date": "2026-06-26T03:24:12.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
+    "content": "<h2>概要</h2><p>At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": 5,
-    "title": "Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)",
-    "category": "TECH",
-    "date": "2026-06-25T19:58:52.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "This Peloton-adjacent rowing machine gamifies your workout to a satisfying effect, and is up to 25 percent off right now for Prime Day.",
-    "content": "<h2>概要</h2><p>This Peloton-adjacent rowing machine gamifies your workout to a satisfying effect, and is up to 25 percent off right now for Prime Day.</p><p><a href=\"https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/"
+    "title": "Extreme heat is harming remote First Nations communities. It's time we listen to them",
+    "category": "SCIENCE",
+    "date": "2026-06-26T03:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "In remote Australia, First Nations communities battle extreme heat each summer. In January 2026 alone, the town of Alice Springs (Mparntwe) endured 20 days of temperatures above 40°C (104°F). This prolonged heat wave—defined as a period of unusually hot weather—can have long-lasting effects on human health, infrastructure and the environment.",
+    "content": "<h2>概要</h2><p>In remote Australia, First Nations communities battle extreme heat each summer. In January 2026 alone, the town of Alice Springs (Mparntwe) endured 20 days of temperatures above 40°C (104°F). This prolonged heat wave—defined as a period of unusually hot weather—can have long-lasting effects on human health, infrastructure and the environment.</p><p><a href=\"https://phys.org/news/2026-06-extreme-remote-nations-communities.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-06-extreme-remote-nations-communities.html"
   },
   {
     "id": 6,
-    "title": "Polymarket says hackers stole users’ funds",
-    "category": "TECH",
-    "date": "2026-06-25T19:58:46.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third party breach.",
-    "content": "<h2>概要</h2><p>The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third party breach.</p><p><a href=\"https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/"
+    "title": " Turn your room into a galaxy: The best Prime Day deals on star projectors for aspiring astronomers ",
+    "category": "SPACE",
+    "date": "2026-06-26T03:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/9HPYdbV8FgMXLrwUBaRsTG-1280-80.jpg",
+    "summary": "Whether light pollution is foiling your stargazing or you just want to transform a room, there are great star projector deals this Prime Day and I've picked out the best.",
+    "content": "<h2>概要</h2><p>Whether light pollution is foiling your stargazing or you just want to transform a room, there are great star projector deals this Prime Day and I've picked out the best.</p><p><a href=\"https://www.space.com/entertainment/space-toys-lego/turn-your-room-into-a-galaxy-the-best-prime-day-deals-on-star-projectors-for-aspiring-astronomers\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/entertainment/space-toys-lego/turn-your-room-into-a-galaxy-the-best-prime-day-deals-on-star-projectors-for-aspiring-astronomers"
   },
   {
     "id": 7,
-    "title": "UK suffers as heat breaks new June record",
-    "category": "SCIENCE",
-    "date": "2026-06-25T19:50:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The UK suffered its hottest-ever June day Thursday, with temperatures reaching 36.7C in the southwest, breaking a record set earlier that day as the extreme heat stretched London's ambulance services.",
-    "content": "<h2>概要</h2><p>The UK suffered its hottest-ever June day Thursday, with temperatures reaching 36.7C in the southwest, breaking a record set earlier that day as the extreme heat stretched London's ambulance services.</p><p><a href=\"https://phys.org/news/2026-06-uk-june.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-06-uk-june.html"
+    "title": "Earthquake is devastating blow to Venezuela at time of uncertainty  ",
+    "category": "WORLD",
+    "date": "2026-06-26T02:12:07.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+    "content": "<h2>概要</h2><p>The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": 8,
+    "title": "Economic and environmental benefits of regenerative agriculture vary widely across farms and regions",
+    "category": "SCIENCE",
+    "date": "2026-06-26T02:00:04.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Regenerative agriculture can deliver both economic and environmental benefits for European farmers, Wageningen University & Research (WUR) concludes in the research project Regenomics. Whether these benefits are actually present depends strongly on regional conditions, such as the availability of water and livestock manure. As a result, the transition to regenerative agriculture requires tailored, farm-specific approaches.",
+    "content": "<h2>概要</h2><p>Regenerative agriculture can deliver both economic and environmental benefits for European farmers, Wageningen University & Research (WUR) concludes in the research project Regenomics. Whether these benefits are actually present depends strongly on regional conditions, such as the availability of water and livestock manure. As a result, the transition to regenerative agriculture requires tailored, farm-specific approaches.</p><p><a href=\"https://phys.org/news/2026-06-economic-environmental-benefits-regenerative-agriculture.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-06-economic-environmental-benefits-regenerative-agriculture.html"
+  },
+  {
+    "id": 9,
+    "title": "The $25 Fire TV Stick is my favorite Prime Day purchase yet",
+    "category": "TECH",
+    "date": "2026-06-26T01:38:11.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Amazon Prime Day has many good deals, but the 50% off Fire TV Stick 4K Plus is one of the best.",
+    "content": "<h2>概要</h2><p>Amazon Prime Day has many good deals, but the 50% off Fire TV Stick 4K Plus is one of the best.</p><p><a href=\"https://www.zdnet.com/article/the-25-fire-tv-stick-is-my-favorite-prime-day-purchase-yet/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/the-25-fire-tv-stick-is-my-favorite-prime-day-purchase-yet/"
+  },
+  {
+    "id": 10,
+    "title": "The 2 earthquakes that struck Venezuela are known as a 'doublet.' Here's how they happen",
+    "category": "SCIENCE",
+    "date": "2026-06-26T01:20:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The two powerful earthquakes that struck Venezuela's northern coast, killing more than 180 people, were an event known as a \"doublet.\"",
+    "content": "<h2>概要</h2><p>The two powerful earthquakes that struck Venezuela's northern coast, killing more than 180 people, were an event known as a \"doublet.\"</p><p><a href=\"https://phys.org/news/2026-06-earthquakes-struck-venezuela-doublet.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-06-earthquakes-struck-venezuela-doublet.html"
+  },
+  {
+    "id": 11,
+    "title": "Nanoparticle exsolution opens a new route to functional oxide electronics and spintronics",
+    "category": "SCIENCE",
+    "date": "2026-06-26T01:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A research team has developed a new strategy to simultaneously control the electronic and magnetic properties of oxide thin films through a process known as exsolution. The team was led by Professor Hyeon Han and Professor Donghwa Lee from the Department of Materials Science and Engineering at Pohang University of Science and Technology (POSTECH), together with Professor Sang Ho Oh's group at Korea Institute of Energy Technology (KENTECH). The findings are published in the journal Advanced Materials.",
+    "content": "<h2>概要</h2><p>A research team has developed a new strategy to simultaneously control the electronic and magnetic properties of oxide thin films through a process known as exsolution. The team was led by Professor Hyeon Han and Professor Donghwa Lee from the Department of Materials Science and Engineering at Pohang University of Science and Technology (POSTECH), together with Professor Sang Ho Oh's group at Korea Institute of Energy Technology (KENTECH). The findings are published in the journal Advanced Materials.</p><p><a href=\"https://phys.org/news/2026-06-nanoparticle-exsolution-route-functional-oxide.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-06-nanoparticle-exsolution-route-functional-oxide.html"
+  },
+  {
+    "id": 12,
+    "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+    "category": "TECH",
+    "date": "2026-06-26T00:49:13.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+    "content": "<h2>概要</h2><p>Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.</p><p><a href=\"https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/"
+  },
+  {
+    "id": 13,
     "title": "Prime Day ends soon: We hand-picked the 95+ best deals still live, before they disappear",
     "category": "TECH",
-    "date": "2026-06-25T19:48:11.000Z",
+    "date": "2026-06-26T00:47:00.000Z",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "summary": "LIVE: Amazon Prime Day 2026 deals are here. Follow our live blog for real-time tracking on editor-approved products like TVs, MacBooks, Samsung devices, SSDs, and more before the sale ends tomorrow.",
     "content": "<h2>概要</h2><p>LIVE: Amazon Prime Day 2026 deals are here. Follow our live blog for real-time tracking on editor-approved products like TVs, MacBooks, Samsung devices, SSDs, and more before the sale ends tomorrow.</p><p><a href=\"https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-25-2026/\" target=\"_blank\">出典記事を読む</a></p>",
@@ -88,7 +143,414 @@
     "sourceUrl": "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-25-2026/"
   },
   {
-    "id": 9,
+    "id": 14,
+    "title": "How to manage public investment in science with balance",
+    "category": "SCIENCE",
+    "date": "2026-06-26T00:40:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Public debt is higher today and growing at a faster rate than before the pandemic in 80% of the world's economies. According to the latest fiscal report from the International Monetary Fund, global public debt could rise to 100% of GDP by the end of this decade if it continues to increase at the current rate. The increase in public debt also comes against a backdrop of great geopolitical and economic uncertainty, which could seriously jeopardize global financial resilience.",
+    "content": "<h2>概要</h2><p>Public debt is higher today and growing at a faster rate than before the pandemic in 80% of the world's economies. According to the latest fiscal report from the International Monetary Fund, global public debt could rise to 100% of GDP by the end of this decade if it continues to increase at the current rate. The increase in public debt also comes against a backdrop of great geopolitical and economic uncertainty, which could seriously jeopardize global financial resilience.</p><p><a href=\"https://phys.org/news/2026-06-investment-science.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-06-investment-science.html"
+  },
+  {
+    "id": 15,
+    "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+    "category": "WORLD",
+    "date": "2026-06-26T00:28:02.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
+    "content": "<h2>概要</h2><p>The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 16,
+    "title": "With Apple prices going up, this is the last chance to get a MacBook Neo at $590",
+    "category": "TECH",
+    "date": "2026-06-26T00:18:14.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "If you've been looking at buying a MacBook Neo, now is the time.",
+    "content": "<h2>概要</h2><p>If you've been looking at buying a MacBook Neo, now is the time.</p><p><a href=\"https://www.zdnet.com/article/apple-macbook-neo-at-590-amazon-prime-day-2026/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/apple-macbook-neo-at-590-amazon-prime-day-2026/"
+  },
+  {
+    "id": 17,
+    "title": "This Is Probably Your Last Chance to Buy a Cheap MacBook for a While",
+    "category": "TECH",
+    "date": "2026-06-26T00:07:57.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Apple has dramatically jacked up the prices of MacBooks, making the current Prime Day pricing that much more enticing.",
+    "content": "<h2>概要</h2><p>Apple has dramatically jacked up the prices of MacBooks, making the current Prime Day pricing that much more enticing.</p><p><a href=\"https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/"
+  },
+  {
+    "id": 18,
+    "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+    "category": "WORLD",
+    "date": "2026-06-26T00:06:45.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Temperatures in Germany could hit 40C in some areas while French officials bring in alcohol restrictions to ease pressure on hospitals.",
+    "content": "<h2>概要</h2><p>Temperatures in Germany could hit 40C in some areas while French officials bring in alcohol restrictions to ease pressure on hospitals.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 19,
+    "title": "Ancient stellar flyby may still be steering long-period comets today",
+    "category": "SPACE",
+    "date": "2026-06-25T23:40:04.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The Gaia mission has allowed researchers to understand the motions of stars like never before, even revealing possible interactions between our solar system and nearby stars. Planetary Science Institute Senior Scientist Nathan Kaib and collaborator Sean Raymond (Universite de Bordeaux) have found that a recent stellar passage likely triggered a huge increase in comet formation as the star's gravity altered Oort cloud objects' orbits, sending them cascading into the inner solar system. We may even still be feeling the effects of this passage today. This work is being presented at the American Astronomical Society Division on Dynamical Astronomy.",
+    "content": "<h2>概要</h2><p>The Gaia mission has allowed researchers to understand the motions of stars like never before, even revealing possible interactions between our solar system and nearby stars. Planetary Science Institute Senior Scientist Nathan Kaib and collaborator Sean Raymond (Universite de Bordeaux) have found that a recent stellar passage likely triggered a huge increase in comet formation as the star's gravity altered Oort cloud objects' orbits, sending them cascading into the inner solar system. We may even still be feeling the effects of this passage today. This work is being presented at the American Astronomical Society Division on Dynamical Astronomy.</p><p><a href=\"https://phys.org/news/2026-06-ancient-stellar-flyby-period-comets.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-06-ancient-stellar-flyby-period-comets.html"
+  },
+  {
+    "id": 20,
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "category": "TECH",
+    "date": "2026-06-25T23:34:39.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+    "content": "<h2>概要</h2><p>penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.</p><p><a href=\"https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
+  },
+  {
+    "id": 21,
+    "title": "Warning over power bank fire risk on flights as summer holidays begin",
+    "category": "BUSINESS",
+    "date": "2026-06-25T23:28:13.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
+    "content": "<h2>概要</h2><p>Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 22,
+    "title": "Teens who hacked TfL were known to police years before cyber-attack",
+    "category": "TECH",
+    "date": "2026-06-25T23:19:48.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+    "content": "<h2>概要</h2><p>Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Technology",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 23,
+    "title": "Teens who hacked TfL were known to police years before cyber-attack",
+    "category": "BUSINESS",
+    "date": "2026-06-25T23:19:48.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+    "content": "<h2>概要</h2><p>Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 24,
+    "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+    "category": "TECH",
+    "date": "2026-06-25T23:13:45.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
+    "content": "<h2>概要</h2><p>The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.</p><p><a href=\"https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/"
+  },
+  {
+    "id": 25,
+    "title": "The abundant but expensive energy source that's under your feet",
+    "category": "TECH",
+    "date": "2026-06-25T23:05:05.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
+    "content": "<h2>概要</h2><p>Start-ups are taking fresh approaches to geothermal energy, but will the economics work?</p><p><a href=\"https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Technology",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 26,
+    "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+    "category": "TECH",
+    "date": "2026-06-25T23:04:23.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268386_iPad_Air_M4_AKrales_0107.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The latest iPad Air is still available at its pre-price hike discount. | Photo by Amelia Holowaty Krales / The Verge\t\n\nAmazon’s Prime Day is now in its third day, and whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With Apple recently raising prices on several Macs and iPads, now may be one of the last chances to pick up the company’s hardware before those increases fully take effect. Some retailers are still offering discounts based on the previous list prices, making today’s deals even better. With that in mind, we’ve added several new tablet and laptop deals below.\nBelow are the best Apple deals currently available. Some are exclusive to Prime Day, while others are simply great discounts we think are worth highlighting. We’ll continue updating this guide throughout Prime Day, highlighting more deals as they become available.\nEarbud and headphone deals\nAirPods Pro 3\nThe latest AirPods Pro offer improved noise cancellation and richer bass, along with built-in heart sensors that work with Apple’s Fitness app to monitor calories burned across more than 50 workouts. Read our review.\n\nWhere to Buy:\n\n $249 $179 at Walmart\n $249 $179.99 at Best Buy\n\nThe AirPods 4 are on sale at Amazon, Walmart, and Best Buy for around $99 ($30 off). Apple’s entry-level earbuds offer richer bass than previous generations along with a more robust IP54 rating for water and dust resistance. They match the latest AirPods Pro in voice call quality and work well with other Apple devices too, though they lack more advanced features like active noise cancellation. It might be a pro or con to some that this model simply rests in your ear. They don’t create a tight seal like the AirPods Pro.\nThe AirPods 4 with Active Noise Cancellation and wireless charging are also on sale at Amazon, Walmart, and Best Buy for $148.99 ($30 off). It’s a solid deal, but given the AirPods Pro 3 are currently available for about $30 or so more, we’d recommend buying those instead. They drown out noise better and offer additional features like a heart rate sensor that justify the small price difference. Read our review.\nAirPods Max 2\nApple’s over-ears retain the premium design of the original while delivering improved sound quality and better noise cancellation. They also sport Apple’s H2 chip, which enables newer features like live translation. Read our review.\n\nWhere to Buy:\n\n $549 $399 at Amazon\n\nThe Beats Powerbeats Fit are on sale for $159.95 ($40 off) at Amazon and Best Buy, which is $20 shy of their all-time low and their second-best price to date. Like all Beats earbuds and headphones, the noise-canceling Fit are platform-agnostic and natively support a number of iOS and Android features like one-step pairing and Find My support. The Beats Fit Pro successor also features a redesigned wingtip with built-in silicone fins and ear tips that are designed to provide a more secure fit during workouts than traditional earbuds.\nThe Beats Powerbeats Pro 2 are on sale for $179.95 ($90 off) at Amazon, Best Buy, and Walmart, which is also $20 shy of their all-time low price. Their ear-hook design helps keep them securely in place, while Apple’s H2 chip grants access to AirPods Pro features like Adaptive Audio, Conversation Awareness, and better noise cancellation than you’ll get with the Powerbeats Fit. Plus, unlike the Fit, they support wireless charging. Read our review.\nBeats Studio Pro\nThe latest Beats Studio Pro feature improved noise cancellation, sound quality, and comfort. They also support lossless audio over USB-C and offer native support for a range of iOS and Android features like other Beats headphones. Read our review.\n\nWhere to Buy:\n\n $349.99 $132.05 at Walmart\n $349.99 $149.99 at Best Buy\n\nThe Beats Solo 4 have dropped to $99.95 ($100 off) at Amazon and Walmart, which is $10 more than their all-time low we saw last year. The wireless headphones offer a noticeable step up in performance from the Beats Solo 3, delivering more detailed sound and support for lossless audio over the included USB-C or 3.5mm cable. They also provide up to 50 hours of battery life, plus comfortable memory foam ear cushions, though they don’t include active noise cancellation. Read our review.\nYou can buy the Beats Studio Buds Plus on sale for $89.95 ($80 off) at Amazon, Best Buy, and Target, which is one of their better prices to date. The wireless earbuds offer good active noise cancellation along with four swappable ear tips for a comfortable, secure fit (though perhaps not as secure as the Powerbeats Pro 2). They also sport a slick translucent colorway and can last up to 27 hours on a single charge. Read our review.\nApple Watch deals\nApple Watch Series 11 (42mm, GPS)\nAlthough the Apple Watch Series 11 is the same size as its predecessor, it features a display that’s twice as durable, 5G modem on cellular models, and slightly improved battery life. Read our review.\n\nWhere to Buy:\n\n $399 $279 at Amazon\n $399 $279 at Walmart\n\nYou can buy the Apple Watch Ultra 3 with an Ocean Band, Trail Loop strap, and Alpine Loop strap for $649 ($150 off) at Amazon, which is a new low price. The Ultra 3 is Apple’s most rugged and feature-packed smartwatch, making it a great choice for athletes and outdoorsy folks. It delivers up to 42 hours of battery life — six hours more than its predecessor — and features a larger wide-angle OLED display with a refresh rate that goes down to just 1Hz for battery savings, plus slimmer bezels. It also supports both satellite connectivity and 5G. Read our review.\nApple Watch SE 3\nThe Apple Watch SE 3 offers some big upgrades over its predecessor, including an always-on display, allowing you to glance at the time or unread notifications. It also has Apple’s powerful S10 chip, which enables on-device Siri requests. Read our review.\n\nWhere to Buy:\n\n $249 $199 at Amazon (40mm, GPS)\n $249 $219 at Best Buy (40mm, GPS)\n\nIf you’re looking to change up the look of your Apple Watch Series 11, Woot is selling a variety of Apple Watch bands starting at $14.99 ($35 off) through June 26th. They’re available in multiple colors, sizes, and styles, and the deal marks a new low price.\niPad deals\niPad (2025)\nApple’s entry-level iPad is an excellent tablet for casual use, even if it is getting a little long in the tooth. Its high-res screen is great for watching video, and its A16 processor is still fast enough to handle light games and productivity apps. Read our review.\n\nWhere to Buy:\n\n $449 $299 at Amazon (128GB, Wi-Fi)\n $449 $299 at Walmart (128GB, Wi-Fi)\n $449 $299 at Best Buy (128GB, Wi-Fi)\n\nThe latest 11-inch iPad Air is now pricier at $749, but you can still get the 128GB base model on sale for $519 at Best Buy or with LTE connectivity at Amazon for $699 ($200 off). The Air is a sizable step up from Apple’s entry-level iPad, combining a faster M4 chip with 12GB of RAM, Apple Intelligence features, and support for the Apple Pencil Pro. It also includes newer connectivity standards like Wi-Fi 7 and Bluetooth 6, making it more future-proof. Read our review.\niPad Mini (2024)\nThe seventh-gen iPad Mini comes with Apple’s A17 Pro chip and support for Apple Intelligence. It’s also compatible with the Apple Pencil Pro and offers faster Wi-Fi and USB-C speeds. Read our review.\n\nWhere to Buy:\n\n $599 $449 at Best Buy (128GB, Wi-Fi)\n\nThe 13-inch M4-powered iPad Air is on sale for $699.99 ($250 off) at Best Buy. The tablet is identical to the 11-inch model, but sports a larger display that’s better suited for multitasking.\niPad Pro (2025)\nApple’s newest iPad Pros have an M5 processor, an N1 chip, and a C1X chip for cellular versions. They’re faster, support Wi-Fi 7, charge more quickly, and start with 12GB of RAM. Read our review.\n\nWhere to Buy:\n\n $1199 $899 at Amazon (11-inch, 256GB)\n $1399 $1099 at Amazon (11-inch, 512GB)\n $1299 $1499 at Amazon (13-inch, 256GB)\n\nThe Apple Magic Keyboard for the 13-inch iPad Air (M2, M3, and M4 models) is on sale for $279 ($40 off) at Amazon, which is just $2 shy of its all-time low price. The accessory combines a keyboard and built-in trackpad, features adjustable viewing angles and USB-C support, and magnetically attaches to compatible 13-inch iPad Air models.\nApple Pencil (USB-C)\nApple-s entry-level stylus attaches magnetically on supported iPads, though it doesn’t support magnetic charging. Instead, you pair and charge it by connecting it to your device’s USB-C port. it comes with features like tilt sensitivity and Apple Pencil Hover support, but it doesn’t support double-tap gestures and pressure sensitivity.\n\nWhere to Buy:\n\n $79 $59 at Amazon\n $79 $59 at Walmart\n $79 $59 at Best Buy\n\nMacBook deals\nMacBook Neo\nApple’s most affordable laptop, with a 13-inch display, A18 Pro chip, 8GB of RAM, and optional Touch ID fingerprint sensor. Read our review.\n\nWhere to Buy:\n\n $799 $689.99 at Amazon (512GB)\n $699 $599 at Best Buy (256GB)\n $699 $589.99 at Amazon (256GB)\n\nThe 13-inch MacBook Air is available with an M5 chip, 16GB of RAM, and a 512GB SSD for $949.99 at Amazon, much cheaper than the  the $1,299 Apple is now charging. The 15-inch model, meanwhile, is also on sale at Amazon and Best Buy for $1,149 (also $350 off its new price). As good as the Neo is, the Air is still Apple’s best all-around laptop. Its balance of performance, battery life, and portability is still unmatched. And for $949 or $1,149 you’re getting a laptop that should last you the better part of a decade for what’s sadly now such a good deal. Read our review.\nThe base 14-inch MacBook Pro with an M5 chip is my the sweet spot of Apple’s lineup if you do frequent content creation but can’t fathom paying much higher M5 Pro / M5 Max prices. It’s on sale for $1,549 ($450 off Apple’s new MSRP) at Amazon, Best Buy, and Costco. The base model revised for 2026 comes with 16GB of RAM, 1TB of faster storage, and has lots of ports. It’s the ideal step up from a MacBook Air, but paying Apple’s new price of $1,999 makes it much less attainable than it was.\nApple MacBook Pro (M5 Pro / Max, 2026)\nThe M5 Pro and M5 Max versions of the latest MacBook Pro deliver exceptional power and speed, making them ideal for creative work while offering best-in-class battery life. Read our review.\n\nWhere to Buy:\n\n $2499 $2034 at Amazon (14-inch M5 Pro, 1TB SSD, 24GB RAM)\n $2999 $2494 at Amazon (16-inch M5 Pro, 1TB SSD, 24GB RAM)\n $4099 $3649 at Amazon (14-inch M5 Max, 2TB SSD, 36GB RAM)\n\nThe M4 iMac from 2024 is going from a starting price of $1,299 to $1,499. You can still get a base model with 8-core M4 chip, 16GB of memory, and 256GB SSD in various colors for $1,149 ($350 off the new price) at Amazon, Best Buy, and Costco. The 10-core M4 iMac with four Thunderbolt 4 ports instead of just two is $1,349 ($350 off the new price) at Best Buy and Costco.\nOther Apple deals\nApple AirTags (second-generation)\nApple’s latest AirTag features an upgraded ultra-wideband chip for more precise location tracking, a noticeably louder speaker, and an expanded Bluetooth range. Read our review.\n\nWhere to Buy:\n\n $99 $89 at Amazon (pack of four)\n $99 $89 at Best Buy (pack of four)\n\n\nApple MagSafe Charger (2m)\nApple’s latest MagSafe charger fully supports the newer Qi2.2 standard, allowing it to charge compatible devices (including the iPhone 17 series and Google’s Pixel 10 lineup) at 25W speeds.\n\nWhere to Buy:\n\n $49 $28 at Amazon\n\nYou can buy a pack of four first-generation AirTags on sale for $69.99 at Woot, which isn’t the lowest price we’ve seen but still a decent $30 discount off the original price. The last-gen AirTags aren’t as precise as the newer model and don’t feature as loud of a built-in speaker, but they still offer more impressive item tracking than other competitors when paired with an iPhone. Read our review.\nThe Apple Magic Mouse is on sale for $59.99 ($19 off) at Amazon, which is a new low price. The wireless mouse features a multi-touch surface for gestures like scrolling and swiping between web pages, and a battery that lasts about a month on a single charge. It also pairs automatically with compatible Macs and charges via USB-C.\nUpdate, June 25th: Adjusted prices and availability.",
+    "content": "<h2>概要</h2><p>The latest iPad Air is still available at its pre-price hike discount. | Photo by Amelia Holowaty Krales / The Verge\t\n\nAmazon’s Prime Day is now in its third day, and whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With Apple recently raising prices on several Macs and iPads, now may be one of the last chances to pick up the company’s hardware before those increases fully take effect. Some retailers are still offering discounts based on the previous list prices, making today’s deals even better. With that in mind, we’ve added several new tablet and laptop deals below.\nBelow are the best Apple deals currently available. Some are exclusive to Prime Day, while others are simply great discounts we think are worth highlighting. We’ll continue updating this guide throughout Prime Day, highlighting more deals as they become available.\nEarbud and headphone deals\nAirPods Pro 3\nThe latest AirPods Pro offer improved noise cancellation and richer bass, along with built-in heart sensors that work with Apple’s Fitness app to monitor calories burned across more than 50 workouts. Read our review.\n\nWhere to Buy:\n\n $249 $179 at Walmart\n $249 $179.99 at Best Buy\n\nThe AirPods 4 are on sale at Amazon, Walmart, and Best Buy for around $99 ($30 off). Apple’s entry-level earbuds offer richer bass than previous generations along with a more robust IP54 rating for water and dust resistance. They match the latest AirPods Pro in voice call quality and work well with other Apple devices too, though they lack more advanced features like active noise cancellation. It might be a pro or con to some that this model simply rests in your ear. They don’t create a tight seal like the AirPods Pro.\nThe AirPods 4 with Active Noise Cancellation and wireless charging are also on sale at Amazon, Walmart, and Best Buy for $148.99 ($30 off). It’s a solid deal, but given the AirPods Pro 3 are currently available for about $30 or so more, we’d recommend buying those instead. They drown out noise better and offer additional features like a heart rate sensor that justify the small price difference. Read our review.\nAirPods Max 2\nApple’s over-ears retain the premium design of the original while delivering improved sound quality and better noise cancellation. They also sport Apple’s H2 chip, which enables newer features like live translation. Read our review.\n\nWhere to Buy:\n\n $549 $399 at Amazon\n\nThe Beats Powerbeats Fit are on sale for $159.95 ($40 off) at Amazon and Best Buy, which is $20 shy of their all-time low and their second-best price to date. Like all Beats earbuds and headphones, the noise-canceling Fit are platform-agnostic and natively support a number of iOS and Android features like one-step pairing and Find My support. The Beats Fit Pro successor also features a redesigned wingtip with built-in silicone fins and ear tips that are designed to provide a more secure fit during workouts than traditional earbuds.\nThe Beats Powerbeats Pro 2 are on sale for $179.95 ($90 off) at Amazon, Best Buy, and Walmart, which is also $20 shy of their all-time low price. Their ear-hook design helps keep them securely in place, while Apple’s H2 chip grants access to AirPods Pro features like Adaptive Audio, Conversation Awareness, and better noise cancellation than you’ll get with the Powerbeats Fit. Plus, unlike the Fit, they support wireless charging. Read our review.\nBeats Studio Pro\nThe latest Beats Studio Pro feature improved noise cancellation, sound quality, and comfort. They also support lossless audio over USB-C and offer native support for a range of iOS and Android features like other Beats headphones. Read our review.\n\nWhere to Buy:\n\n $349.99 $132.05 at Walmart\n $349.99 $149.99 at Best Buy\n\nThe Beats Solo 4 have dropped to $99.95 ($100 off) at Amazon and Walmart, which is $10 more than their all-time low we saw last year. The wireless headphones offer a noticeable step up in performance from the Beats Solo 3, delivering more detailed sound and support for lossless audio over the included USB-C or 3.5mm cable. They also provide up to 50 hours of battery life, plus comfortable memory foam ear cushions, though they don’t include active noise cancellation. Read our review.\nYou can buy the Beats Studio Buds Plus on sale for $89.95 ($80 off) at Amazon, Best Buy, and Target, which is one of their better prices to date. The wireless earbuds offer good active noise cancellation along with four swappable ear tips for a comfortable, secure fit (though perhaps not as secure as the Powerbeats Pro 2). They also sport a slick translucent colorway and can last up to 27 hours on a single charge. Read our review.\nApple Watch deals\nApple Watch Series 11 (42mm, GPS)\nAlthough the Apple Watch Series 11 is the same size as its predecessor, it features a display that’s twice as durable, 5G modem on cellular models, and slightly improved battery life. Read our review.\n\nWhere to Buy:\n\n $399 $279 at Amazon\n $399 $279 at Walmart\n\nYou can buy the Apple Watch Ultra 3 with an Ocean Band, Trail Loop strap, and Alpine Loop strap for $649 ($150 off) at Amazon, which is a new low price. The Ultra 3 is Apple’s most rugged and feature-packed smartwatch, making it a great choice for athletes and outdoorsy folks. It delivers up to 42 hours of battery life — six hours more than its predecessor — and features a larger wide-angle OLED display with a refresh rate that goes down to just 1Hz for battery savings, plus slimmer bezels. It also supports both satellite connectivity and 5G. Read our review.\nApple Watch SE 3\nThe Apple Watch SE 3 offers some big upgrades over its predecessor, including an always-on display, allowing you to glance at the time or unread notifications. It also has Apple’s powerful S10 chip, which enables on-device Siri requests. Read our review.\n\nWhere to Buy:\n\n $249 $199 at Amazon (40mm, GPS)\n $249 $219 at Best Buy (40mm, GPS)\n\nIf you’re looking to change up the look of your Apple Watch Series 11, Woot is selling a variety of Apple Watch bands starting at $14.99 ($35 off) through June 26th. They’re available in multiple colors, sizes, and styles, and the deal marks a new low price.\niPad deals\niPad (2025)\nApple’s entry-level iPad is an excellent tablet for casual use, even if it is getting a little long in the tooth. Its high-res screen is great for watching video, and its A16 processor is still fast enough to handle light games and productivity apps. Read our review.\n\nWhere to Buy:\n\n $449 $299 at Amazon (128GB, Wi-Fi)\n $449 $299 at Walmart (128GB, Wi-Fi)\n $449 $299 at Best Buy (128GB, Wi-Fi)\n\nThe latest 11-inch iPad Air is now pricier at $749, but you can still get the 128GB base model on sale for $519 at Best Buy or with LTE connectivity at Amazon for $699 ($200 off). The Air is a sizable step up from Apple’s entry-level iPad, combining a faster M4 chip with 12GB of RAM, Apple Intelligence features, and support for the Apple Pencil Pro. It also includes newer connectivity standards like Wi-Fi 7 and Bluetooth 6, making it more future-proof. Read our review.\niPad Mini (2024)\nThe seventh-gen iPad Mini comes with Apple’s A17 Pro chip and support for Apple Intelligence. It’s also compatible with the Apple Pencil Pro and offers faster Wi-Fi and USB-C speeds. Read our review.\n\nWhere to Buy:\n\n $599 $449 at Best Buy (128GB, Wi-Fi)\n\nThe 13-inch M4-powered iPad Air is on sale for $699.99 ($250 off) at Best Buy. The tablet is identical to the 11-inch model, but sports a larger display that’s better suited for multitasking.\niPad Pro (2025)\nApple’s newest iPad Pros have an M5 processor, an N1 chip, and a C1X chip for cellular versions. They’re faster, support Wi-Fi 7, charge more quickly, and start with 12GB of RAM. Read our review.\n\nWhere to Buy:\n\n $1199 $899 at Amazon (11-inch, 256GB)\n $1399 $1099 at Amazon (11-inch, 512GB)\n $1299 $1499 at Amazon (13-inch, 256GB)\n\nThe Apple Magic Keyboard for the 13-inch iPad Air (M2, M3, and M4 models) is on sale for $279 ($40 off) at Amazon, which is just $2 shy of its all-time low price. The accessory combines a keyboard and built-in trackpad, features adjustable viewing angles and USB-C support, and magnetically attaches to compatible 13-inch iPad Air models.\nApple Pencil (USB-C)\nApple-s entry-level stylus attaches magnetically on supported iPads, though it doesn’t support magnetic charging. Instead, you pair and charge it by connecting it to your device’s USB-C port. it comes with features like tilt sensitivity and Apple Pencil Hover support, but it doesn’t support double-tap gestures and pressure sensitivity.\n\nWhere to Buy:\n\n $79 $59 at Amazon\n $79 $59 at Walmart\n $79 $59 at Best Buy\n\nMacBook deals\nMacBook Neo\nApple’s most affordable laptop, with a 13-inch display, A18 Pro chip, 8GB of RAM, and optional Touch ID fingerprint sensor. Read our review.\n\nWhere to Buy:\n\n $799 $689.99 at Amazon (512GB)\n $699 $599 at Best Buy (256GB)\n $699 $589.99 at Amazon (256GB)\n\nThe 13-inch MacBook Air is available with an M5 chip, 16GB of RAM, and a 512GB SSD for $949.99 at Amazon, much cheaper than the  the $1,299 Apple is now charging. The 15-inch model, meanwhile, is also on sale at Amazon and Best Buy for $1,149 (also $350 off its new price). As good as the Neo is, the Air is still Apple’s best all-around laptop. Its balance of performance, battery life, and portability is still unmatched. And for $949 or $1,149 you’re getting a laptop that should last you the better part of a decade for what’s sadly now such a good deal. Read our review.\nThe base 14-inch MacBook Pro with an M5 chip is my the sweet spot of Apple’s lineup if you do frequent content creation but can’t fathom paying much higher M5 Pro / M5 Max prices. It’s on sale for $1,549 ($450 off Apple’s new MSRP) at Amazon, Best Buy, and Costco. The base model revised for 2026 comes with 16GB of RAM, 1TB of faster storage, and has lots of ports. It’s the ideal step up from a MacBook Air, but paying Apple’s new price of $1,999 makes it much less attainable than it was.\nApple MacBook Pro (M5 Pro / Max, 2026)\nThe M5 Pro and M5 Max versions of the latest MacBook Pro deliver exceptional power and speed, making them ideal for creative work while offering best-in-class battery life. Read our review.\n\nWhere to Buy:\n\n $2499 $2034 at Amazon (14-inch M5 Pro, 1TB SSD, 24GB RAM)\n $2999 $2494 at Amazon (16-inch M5 Pro, 1TB SSD, 24GB RAM)\n $4099 $3649 at Amazon (14-inch M5 Max, 2TB SSD, 36GB RAM)\n\nThe M4 iMac from 2024 is going from a starting price of $1,299 to $1,499. You can still get a base model with 8-core M4 chip, 16GB of memory, and 256GB SSD in various colors for $1,149 ($350 off the new price) at Amazon, Best Buy, and Costco. The 10-core M4 iMac with four Thunderbolt 4 ports instead of just two is $1,349 ($350 off the new price) at Best Buy and Costco.\nOther Apple deals\nApple AirTags (second-generation)\nApple’s latest AirTag features an upgraded ultra-wideband chip for more precise location tracking, a noticeably louder speaker, and an expanded Bluetooth range. Read our review.\n\nWhere to Buy:\n\n $99 $89 at Amazon (pack of four)\n $99 $89 at Best Buy (pack of four)\n\n\nApple MagSafe Charger (2m)\nApple’s latest MagSafe charger fully supports the newer Qi2.2 standard, allowing it to charge compatible devices (including the iPhone 17 series and Google’s Pixel 10 lineup) at 25W speeds.\n\nWhere to Buy:\n\n $49 $28 at Amazon\n\nYou can buy a pack of four first-generation AirTags on sale for $69.99 at Woot, which isn’t the lowest price we’ve seen but still a decent $30 discount off the original price. The last-gen AirTags aren’t as precise as the newer model and don’t feature as loud of a built-in speaker, but they still offer more impressive item tracking than other competitors when paired with an iPhone. Read our review.\nThe Apple Magic Mouse is on sale for $59.99 ($19 off) at Amazon, which is a new low price. The wireless mouse features a multi-touch surface for gestures like scrolling and swiping between web pages, and a battery that lasts about a month on a single charge. It also pairs automatically with compatible Macs and charges via USB-C.\nUpdate, June 25th: Adjusted prices and availability.</p><p><a href=\"https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026"
+  },
+  {
+    "id": 27,
+    "title": "Yes, there have been rows but here's how I've made moving back home work",
+    "category": "BUSINESS",
+    "date": "2026-06-25T23:03:48.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+    "content": "<h2>概要</h2><p>Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 28,
+    "title": "Your Windows 10 PC just quietly got another year of free support - but why?",
+    "category": "TECH",
+    "date": "2026-06-25T22:53:47.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "If you're still running Windows 10, Microsoft has some good news: it has extended the free Extended Security Update program for consumers by one full year. Here's everything you need to know.",
+    "content": "<h2>概要</h2><p>If you're still running Windows 10, Microsoft has some good news: it has extended the free Extended Security Update program for consumers by one full year. Here's everything you need to know.</p><p><a href=\"https://www.zdnet.com/article/microsoft-windows-10-esu-support-extension/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/microsoft-windows-10-esu-support-extension/"
+  },
+  {
+    "id": 29,
+    "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun",
+    "category": "TECH",
+    "date": "2026-06-25T22:33:54.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games.\nWith foldable gaming mode, which is set to launch in the coming months, the virtual controller emulates physical button presses at a system level and is designed to work \"with any game that supports physical controllers,\" says Google's Mishaal Rahman on Reddit. For the actual inputs, the virtual controller will have a D-pad; left and right virtual sticks; A, B, X, and Y buttons; L1, L2, L3; R1, R2, and R3; and a start button. And you'll be able to configure the  …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games.\nWith foldable gaming mode, which is set to launch in the coming months, the virtual controller emulates physical button presses at a system level and is designed to work \"with any game that supports physical controllers,\" says Google's Mishaal Rahman on Reddit. For the actual inputs, the virtual controller will have a D-pad; left and right virtual sticks; A, B, X, and Y buttons; L1, L2, L3; R1, R2, and R3; and a start button. And you'll be able to configure the  …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller"
+  },
+  {
+    "id": 30,
+    "title": "99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off (2026)",
+    "category": "TECH",
+    "date": "2026-06-25T22:32:07.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
+    "content": "<h2>概要</h2><p>We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.</p><p><a href=\"https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/"
+  },
+  {
+    "id": 31,
+    "title": "Venezuela’s Powerful Earthquakes Were a Rare ‘Seismic Doublet’",
+    "category": "TECH",
+    "date": "2026-06-25T22:31:21.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The country was hit hard by a pair of quakes that happened in quick succession and were likely driven by stress being transferred from one part of the fault that runs through the country to another.",
+    "content": "<h2>概要</h2><p>The country was hit hard by a pair of quakes that happened in quick succession and were likely driven by stress being transferred from one part of the fault that runs through the country to another.</p><p><a href=\"https://www.wired.com/story/venezuelas-powerful-earthquakes-rare-seismic-doublet/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/venezuelas-powerful-earthquakes-rare-seismic-doublet/"
+  },
+  {
+    "id": 32,
+    "title": "YouTube updates Shorts to make it even more like TikTok",
+    "category": "TECH",
+    "date": "2026-06-25T22:08:30.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/youtube-shorts-clear-screen.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "YouTube is adding even more TikTok-like features to Shorts, including a new \"clear screen\" mode that removes the icons and text from the video you're watching. In a blog post on Thursday, YouTube says it's also replacing the \"thumbs-up\" button with a \"heart\" icon, and is introducing a new option that lets you watch Shorts at 2x speed.\nAs noted by YouTube, you can speed up a video by holding down the edge of your screen and lifting your finger when you want it to return to normal speed. You can lock the speed at 2x by pressing the player and swiping down. Another change allows you to mute watching by tapping the video and selecting the \"mute …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>YouTube is adding even more TikTok-like features to Shorts, including a new \"clear screen\" mode that removes the icons and text from the video you're watching. In a blog post on Thursday, YouTube says it's also replacing the \"thumbs-up\" button with a \"heart\" icon, and is introducing a new option that lets you watch Shorts at 2x speed.\nAs noted by YouTube, you can speed up a video by holding down the edge of your screen and lifting your finger when you want it to return to normal speed. You can lock the speed at 2x by pressing the player and swiping down. Another change allows you to mute watching by tapping the video and selecting the \"mute …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok"
+  },
+  {
+    "id": 33,
+    "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+    "category": "TECH",
+    "date": "2026-06-25T22:02:12.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "YouTube Shorts is getting a makeover.",
+    "content": "<h2>概要</h2><p>YouTube Shorts is getting a makeover.</p><p><a href=\"https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/"
+  },
+  {
+    "id": 34,
+    "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+    "category": "TECH",
+    "date": "2026-06-25T21:57:06.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. \nThe Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5.6 in limited preview form - granting access only to a small group of enterprise customers - in compliance with a request from the federal government. During that preview period, the Trump administration itself would reportedly approve access for customers on a case-by-case basis.\nIt's a more favorable deal than the Trump administration gave OpenAI rival Anthropic …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. \nThe Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5.6 in limited preview form - granting access only to a small group of enterprise customers - in compliance with a request from the federal government. During that preview period, the Trump administration itself would reportedly approve access for customers on a case-by-case basis.\nIt's a more favorable deal than the Trump administration gave OpenAI rival Anthropic …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request"
+  },
+  {
+    "id": 35,
+    "title": "Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit ",
+    "category": "SPACE",
+    "date": "2026-06-25T21:30:32.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/06/jsc2026e395621.jpg?w=2048",
+    "summary": "On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their missions possible.  The Expedition 73 Welcome Home Ceremony brought together members of NASA’s SpaceX Crew-10, Soyuz MS-27, and NASA’s SpaceX Crew-11 missions. […]",
+    "content": "<h2>概要</h2><p>On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their missions possible.  The Expedition 73 Welcome Home Ceremony brought together members of NASA’s SpaceX Crew-10, Soyuz MS-27, and NASA’s SpaceX Crew-11 missions. […]</p><p><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/"
+  },
+  {
+    "id": 36,
+    "title": "Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit ",
+    "category": "SPACE",
+    "date": "2026-06-25T21:30:32.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/06/jsc2026e395621.jpg?w=2048",
+    "summary": "On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their missions possible.  The Expedition 73 Welcome Home Ceremony brought together members of NASA’s SpaceX Crew-10, Soyuz MS-27, and NASA’s SpaceX Crew-11 missions. […]",
+    "content": "<h2>概要</h2><p>On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their missions possible.  The Expedition 73 Welcome Home Ceremony brought together members of NASA’s SpaceX Crew-10, Soyuz MS-27, and NASA’s SpaceX Crew-11 missions. […]</p><p><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/"
+  },
+  {
+    "id": 37,
+    "title": "Framework has good news and bad news",
+    "category": "TECH",
+    "date": "2026-06-25T21:23:47.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/framework-laptop-13-pro-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the \"MacBook Pro for Linux users\" - the company shared good news on Thursday that might mean yours will cost less than you expected. The company announced that it has secured cheaper new PCIe Gen 5 SSDs from its supplier, Adata, and if you had put in an order for a configuration with a 500GB SSD, you'll now get a 1TB SSD at a lower price. Framework also said you can also now order configurations with the new 1TB or 2TB SSDs onboard, though I'm not seeing them in the DI …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the \"MacBook Pro for Linux users\" - the company shared good news on Thursday that might mean yours will cost less than you expected. The company announced that it has secured cheaper new PCIe Gen 5 SSDs from its supplier, Adata, and if you had put in an order for a configuration with a 500GB SSD, you'll now get a 1TB SSD at a lower price. Framework also said you can also now order configurations with the new 1TB or 2TB SSDs onboard, though I'm not seeing them in the DI …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu"
+  },
+  {
+    "id": 38,
+    "title": "NASA, US Small Business Administration to Announce Partnership",
+    "category": "SPACE",
+    "date": "2026-06-25T21:10:38.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920",
+    "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency initiative that directly responds to President Donald J. Trump’s National Space Policy and supports the growth of the American space […]",
+    "content": "<h2>概要</h2><p>NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency initiative that directly responds to President Donald J. Trump’s National Space Policy and supports the growth of the American space […]</p><p><a href=\"https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/"
+  },
+  {
+    "id": 39,
+    "title": "NASA, US Small Business Administration to Announce Partnership",
+    "category": "SPACE",
+    "date": "2026-06-25T21:10:38.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920",
+    "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency initiative that directly responds to President Donald J. Trump’s National Space Policy and supports the growth of the American space […]",
+    "content": "<h2>概要</h2><p>NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency initiative that directly responds to President Donald J. Trump’s National Space Policy and supports the growth of the American space […]</p><p><a href=\"https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/"
+  },
+  {
+    "id": 40,
+    "title": "NASA Welcomes Botswana as 68th Artemis Accords Signatory  ",
+    "category": "SPACE",
+    "date": "2026-06-25T21:09:42.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/06/accords06252026.jpg?w=2048",
+    "summary": "The Republic of Botswana signed the Artemis Accords Thursday during a ceremony hosted by NASA at the agency’s headquarters in Washington, becoming the sixth African nation to join a growing community of nations committed to the peaceful, transparent, and responsible exploration of space. “It is my privilege to welcome Botswana as the newest signatory of the Artemis Accords,” said NASA Deputy […]",
+    "content": "<h2>概要</h2><p>The Republic of Botswana signed the Artemis Accords Thursday during a ceremony hosted by NASA at the agency’s headquarters in Washington, becoming the sixth African nation to join a growing community of nations committed to the peaceful, transparent, and responsible exploration of space. “It is my privilege to welcome Botswana as the newest signatory of the Artemis Accords,” said NASA Deputy […]</p><p><a href=\"https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/"
+  },
+  {
+    "id": 41,
+    "title": "NASA Welcomes Botswana as 68th Artemis Accords Signatory  ",
+    "category": "SPACE",
+    "date": "2026-06-25T21:09:42.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/06/accords06252026.jpg?w=2048",
+    "summary": "The Republic of Botswana signed the Artemis Accords Thursday during a ceremony hosted by NASA at the agency’s headquarters in Washington, becoming the sixth African nation to join a growing community of nations committed to the peaceful, transparent, and responsible exploration of space. “It is my privilege to welcome Botswana as the newest signatory of the Artemis Accords,” said NASA Deputy […]",
+    "content": "<h2>概要</h2><p>The Republic of Botswana signed the Artemis Accords Thursday during a ceremony hosted by NASA at the agency’s headquarters in Washington, becoming the sixth African nation to join a growing community of nations committed to the peaceful, transparent, and responsible exploration of space. “It is my privilege to welcome Botswana as the newest signatory of the Artemis Accords,” said NASA Deputy […]</p><p><a href=\"https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/"
+  },
+  {
+    "id": 42,
+    "title": "What are supermassive black holes? Everything you need to know about these mysterious objects",
+    "category": "SPACE",
+    "date": "2026-06-25T21:00:02.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Nearly every massive galaxy observed hosts a supermassive black hole at its center. NASA's James Webb Space Telescope has discovered that some of these supermassive black holes may even be too big for the galaxy they're found in, challenging astronomers' understanding of these objects and prompting questions about their growth in the early universe. Astronomers are still investigating many key questions about these mysterious and powerful objects, and studying them can help researchers understand how galaxies form and grow.",
+    "content": "<h2>概要</h2><p>Nearly every massive galaxy observed hosts a supermassive black hole at its center. NASA's James Webb Space Telescope has discovered that some of these supermassive black holes may even be too big for the galaxy they're found in, challenging astronomers' understanding of these objects and prompting questions about their growth in the early universe. Astronomers are still investigating many key questions about these mysterious and powerful objects, and studying them can help researchers understand how galaxies form and grow.</p><p><a href=\"https://phys.org/news/2026-06-supermassive-black-holes-mysterious.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-06-supermassive-black-holes-mysterious.html"
+  },
+  {
+    "id": 43,
+    "title": " Two 'super-puff' cotton candy exoplanets are the lightest gas giants ever discovered ",
+    "category": "SPACE",
+    "date": "2026-06-25T21:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/MeZYuqKuiYn3Ruhgr4Broj-1280-80.png",
+    "summary": "Astronomers have discovered two \"super-puff\" exoplanets orbiting the same star that have densities lower than cotton candy, making them the lightest worlds ever seen.",
+    "content": "<h2>概要</h2><p>Astronomers have discovered two \"super-puff\" exoplanets orbiting the same star that have densities lower than cotton candy, making them the lightest worlds ever seen.</p><p><a href=\"https://www.space.com/astronomy/exoplanets/two-super-puff-cotton-candy-exoplanets-are-the-lightest-gas-giants-ever-discovered\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/astronomy/exoplanets/two-super-puff-cotton-candy-exoplanets-are-the-lightest-gas-giants-ever-discovered"
+  },
+  {
+    "id": 44,
+    "title": "Want a solar generator without spending $2,000? This EcoFlow bundle is $599 for Prime Day",
+    "category": "TECH",
+    "date": "2026-06-25T20:34:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The EcoFlow Delta 3 Classic and solar panel bundle is a whopping 40% off during Amazon Prime Day.",
+    "content": "<h2>概要</h2><p>The EcoFlow Delta 3 Classic and solar panel bundle is a whopping 40% off during Amazon Prime Day.</p><p><a href=\"https://www.zdnet.com/article/ecoflow-delta-3-classic-220w-solar-panel-amazon-prime-day-2026-deal/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/ecoflow-delta-3-classic-220w-solar-panel-amazon-prime-day-2026-deal/"
+  },
+  {
+    "id": 45,
+    "title": "Microsoft adds another year to Windows 10 extended update program",
+    "category": "TECH",
+    "date": "2026-06-25T20:24:09.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "About a quarter of PCs are still running Microsoft's previous operating system.",
+    "content": "<h2>概要</h2><p>About a quarter of PCs are still running Microsoft's previous operating system.</p><p><a href=\"https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/"
+  },
+  {
+    "id": 46,
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "category": "TECH",
+    "date": "2026-06-25T20:19:25.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+    "content": "<h2>概要</h2><p>Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.</p><p><a href=\"https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
+  },
+  {
+    "id": 47,
+    "title": "NASA Selects Rocket Lab to Launch Sun, Earth Science Missions",
+    "category": "SPACE",
+    "date": "2026-06-25T20:06:40.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/03/iss-blog-nasa-meatball.jpg?w=2048",
+    "summary": "NASA has selected Rocket Lab to provide the launch service for both the agency’s PolSIR (Polarized Submillimeter Ice-cloud Radiometer) and Total and Spectral Solar Irradiance Sensor-2 (TSIS-2) missions. The two selections are part of NASA’s Venture-Class Acquisition of Dedicated and Rideshare (VADR) launch services contract. This contract allows the agency to award fixed-price indefinite-delivery/indefinite-quantity launch […]",
+    "content": "<h2>概要</h2><p>NASA has selected Rocket Lab to provide the launch service for both the agency’s PolSIR (Polarized Submillimeter Ice-cloud Radiometer) and Total and Spectral Solar Irradiance Sensor-2 (TSIS-2) missions. The two selections are part of NASA’s Venture-Class Acquisition of Dedicated and Rideshare (VADR) launch services contract. This contract allows the agency to award fixed-price indefinite-delivery/indefinite-quantity launch […]</p><p><a href=\"https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/"
+  },
+  {
+    "id": 48,
+    "title": "NASA Selects Rocket Lab to Launch Sun, Earth Science Missions",
+    "category": "SPACE",
+    "date": "2026-06-25T20:06:40.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/03/iss-blog-nasa-meatball.jpg?w=2048",
+    "summary": "NASA has selected Rocket Lab to provide the launch service for both the agency’s PolSIR (Polarized Submillimeter Ice-cloud Radiometer) and Total and Spectral Solar Irradiance Sensor-2 (TSIS-2) missions. The two selections are part of NASA’s Venture-Class Acquisition of Dedicated and Rideshare (VADR) launch services contract. This contract allows the agency to award fixed-price indefinite-delivery/indefinite-quantity launch […]",
+    "content": "<h2>概要</h2><p>NASA has selected Rocket Lab to provide the launch service for both the agency’s PolSIR (Polarized Submillimeter Ice-cloud Radiometer) and Total and Spectral Solar Irradiance Sensor-2 (TSIS-2) missions. The two selections are part of NASA’s Venture-Class Acquisition of Dedicated and Rideshare (VADR) launch services contract. This contract allows the agency to award fixed-price indefinite-delivery/indefinite-quantity launch […]</p><p><a href=\"https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/"
+  },
+  {
+    "id": 49,
+    "title": "FCC may kill $2B program that connects schools and libraries to Internet",
+    "category": "TECH",
+    "date": "2026-06-25T20:01:08.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
+    "content": "<h2>概要</h2><p>Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"</p><p><a href=\"https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/"
+  },
+  {
+    "id": 50,
+    "title": "Polymarket says hackers stole users’ funds",
+    "category": "TECH",
+    "date": "2026-06-25T19:58:46.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
+    "content": "<h2>概要</h2><p>The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.</p><p><a href=\"https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/"
+  },
+  {
+    "id": 51,
     "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
     "category": "TECH",
     "date": "2026-06-25T19:41:22.000Z",
@@ -99,7 +561,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 10,
+    "id": 52,
     "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
     "category": "BUSINESS",
     "date": "2026-06-25T19:41:22.000Z",
@@ -110,29 +572,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 11,
-    "title": "New insight into how cells move copper out of the mitochondrial matrix could guide novel treatments",
-    "category": "SCIENCE",
-    "date": "2026-06-25T19:40:06.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Copper is essential for life. Our cells need the metal to make energy and stay healthy, but if it is in the wrong place or present in excess, copper can be deadly. Texas A&M AgriLife Research scientists have identified a key protein that helps maintain copper balance, with implications for treating heart failure and rare diseases.",
-    "content": "<h2>概要</h2><p>Copper is essential for life. Our cells need the metal to make energy and stay healthy, but if it is in the wrong place or present in excess, copper can be deadly. Texas A&M AgriLife Research scientists have identified a key protein that helps maintain copper balance, with implications for treating heart failure and rare diseases.</p><p><a href=\"https://phys.org/news/2026-06-insight-cells-copper-mitochondrial-matrix.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-06-insight-cells-copper-mitochondrial-matrix.html"
-  },
-  {
-    "id": 12,
-    "title": "What people with intersex traits want you to know",
-    "category": "SCIENCE",
-    "date": "2026-06-25T19:40:02.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "According to the Australian Bureau of Statistics, around 63,300 Australians age 16 and older—0.3% of the overall population—know they were born with variations of sex characteristics. This means their bodies don't fit medical norms about how female or male bodies should look or function.",
-    "content": "<h2>概要</h2><p>According to the Australian Bureau of Statistics, around 63,300 Australians age 16 and older—0.3% of the overall population—know they were born with variations of sex characteristics. This means their bodies don't fit medical norms about how female or male bodies should look or function.</p><p><a href=\"https://phys.org/news/2026-06-people-intersex-traits.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-06-people-intersex-traits.html"
-  },
-  {
-    "id": 13,
+    "id": 53,
     "title": "Xbox follows Apple with price increases ",
     "category": "TECH",
     "date": "2026-06-25T19:39:55.000Z",
@@ -143,73 +583,7 @@
     "sourceUrl": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/"
   },
   {
-    "id": 14,
-    "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
-    "category": "TECH",
-    "date": "2026-06-25T19:27:07.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
-    "content": "<h2>概要</h2><p>Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.</p><p><a href=\"https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/"
-  },
-  {
-    "id": 15,
-    "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-    "category": "WORLD",
-    "date": "2026-06-25T19:19:12.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
-    "content": "<h2>概要</h2><p>The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 16,
-    "title": "This Anker solar power station kept my home running during an outage - and it's $600 off",
-    "category": "TECH",
-    "date": "2026-06-25T19:18:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Anker Solix F3000 and solar panel combo is 30% off this Amazon Prime Day.",
-    "content": "<h2>概要</h2><p>The Anker Solix F3000 and solar panel combo is 30% off this Amazon Prime Day.</p><p><a href=\"https://www.zdnet.com/article/anker-solix-power-station-and-solar-panel-combo-deal-amazon-prime-day-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/anker-solix-power-station-and-solar-panel-combo-deal-amazon-prime-day-2026/"
-  },
-  {
-    "id": 17,
-    "title": "Notion Mail shuts down amid agent takeover",
-    "category": "TECH",
-    "date": "2026-06-25T19:14:46.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
-    "content": "<h2>概要</h2><p>The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.</p><p><a href=\"https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/"
-  },
-  {
-    "id": 18,
-    "title": "We're Live-Blogging For The Real Heads Still Shopping Amazon Prime Day",
-    "category": "TECH",
-    "date": "2026-06-25T19:13:33.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The third day of Amazon Prime Day is for the real heads, and so is our live blog. We'll bring you deals, trends, and commentary until Amazon's annual summer sale finally hangs up its cleats.",
-    "content": "<h2>概要</h2><p>The third day of Amazon Prime Day is for the real heads, and so is our live blog. We'll bring you deals, trends, and commentary until Amazon's annual summer sale finally hangs up its cleats.</p><p><a href=\"https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/"
-  },
-  {
-    "id": 19,
-    "title": "I wore the best Garmin and Amazfit smartwatches for a month - is the $250 price gap noticeable?",
-    "category": "TECH",
-    "date": "2026-06-25T19:08:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "How does the latest Amazfit Cheetah 2 Ultra stack up against the Garmin Fenix 8? Here's what I discovered after living with both for a month.",
-    "content": "<h2>概要</h2><p>How does the latest Amazfit Cheetah 2 Ultra stack up against the Garmin Fenix 8? Here's what I discovered after living with both for a month.</p><p><a href=\"https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-garmin-fenix-8/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-garmin-fenix-8/"
-  },
-  {
-    "id": 20,
+    "id": 54,
     "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
     "category": "TECH",
     "date": "2026-06-25T19:04:57.000Z",
@@ -220,7 +594,7 @@
     "sourceUrl": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/"
   },
   {
-    "id": 21,
+    "id": 55,
     "title": "A 'direct wave' from colliding black holes reveals signature of a whirlpool in spacetime",
     "category": "SPACE",
     "date": "2026-06-25T19:00:10.000Z",
@@ -231,7 +605,7 @@
     "sourceUrl": "https://phys.org/news/2026-06-colliding-black-holes-reveals-signature.html"
   },
   {
-    "id": 22,
+    "id": 56,
     "title": " Modern sci-fi movie posters usually suck, but Supergirl shows that it doesn't have to be that way ",
     "category": "SPACE",
     "date": "2026-06-25T19:00:00.000Z",
@@ -242,29 +616,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/modern-sci-fi-movie-posters-usually-suck-but-supergirl-shows-that-it-doesnt-have-to-be-that-way"
   },
   {
-    "id": 23,
-    "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-    "category": "WORLD",
-    "date": "2026-06-25T18:50:12.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
-    "content": "<h2>概要</h2><p>More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.</p><p><a href=\"https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 24,
-    "title": "The 16 best robot vacuum deals available during Prime Day",
-    "category": "TECH",
-    "date": "2026-06-25T18:47:26.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Roborock-Q10-S5-Plus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "The Roborock S10 S5 Plus has dropped to a new low price. | Image: Roborock\t\n\nIf you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on day three of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is offering discounts on several models we’ve tested from brands like Roborock, Dreame, and Shark. Whether you’re looking for a basic robot vacuum that can cut down on the amount of vacuuming you have to do or a high-end model that can wash and dry its own mop pads and climb over room thresholds, there are deals available across a wide range of price points.\nRoborock Saros 20\n\nWhere to Buy:\n\n $1599.99 $1424.99 at Amazon\n $1599.99 $1359.99 at Roborock\n\nThe Roborock Q10 S5 Plus is down to $239.99 ($310 off), which is a new low price, at Amazon. The Q10 S5 Plus is one of our favorite budget-friendly robot vacuum / mop hybrids, combining good AI-powered obstacle avoidance with automatic carpet detection. It also features a vibrating mop that does a solid job scrubbing hard floors while lifting itself over rugs, and the set includes a self-emptying dock for added convenience. It can’t match the suction power or tall threshold-climbing abilities of pricier models like the Saros 20, but this is a good value under $300.\nRoborock Saros 10\nRoborock’s Saros 10 combines powerful 22,000Pa suction with excellent dual spinning mop pads that do a great job tackling dried-on messes. It can also automatically leave its mop pads at the dock before vacuuming carpets. The newer Saros 20 offers more powerful suction and can tackle taller thresholds, but the Saros 10 is still a great cleaning machine.\n\nWhere to Buy:\n\n $1599.99 $999.99 at Best Buy\n $1599.99 $1299.99 at Roborock\n\nThe Tapo RV30 Max Plus is another excellent budget-friendly option that’s on sale. It includes a self-emptying dock and costs $199.99 ($200 off) at Amazon. You don’t get AI-powered obstacle avoidance with this one, and its 5,200Pa suction isn’t the most powerful we’ve seen, but it’s still a capable cleaning machine with a wide mop pad that performs surprisingly well. The RV30 Max also offers excellent lidar-based navigation, support for room-specific cleaning, and Matter compatibility, allowing you to control it through all the major smart home platforms.\nEufy Omni C28\nThe Eufy Omni C28 combines excellent mopping performance with a small self-cleaning dock that’s well suited for apartments and other smaller spaces. It navigates around furniture and into tight areas with ease, while its roller mop does a great job cleaning hard floors.\n\nWhere to Buy:\n\n $799.99 $449.99 at Amazon\n $799.99 $449.99 at Eufy (with code WS24C28200NEW)\n\nDreame’s X60 Max Ultra is on sale for $1,344.99 ($355 off) at Amazon and Dreame (with code X60UMCWS), which is its best price to date. We highly recommend the Dreame X60 Ultra for homes with lots of carpet, as it combines powerful 35,000Pa suction with dual rubber brushes that excel at lifting hair and debris. It can also climb over tall thresholds and thick rugs with ease, while its spinning mop pads do a good job on hard floors and automatically detach when vacuuming carpet. Other highlights include quiet mop washing and drying along with a slim design that can fit under low furniture.\nRoborock Qrevo Curv 2 Flow\nRoborock’s first roller-mop robot vacuum, the Curv 2 Flow, features flagship specs at a midrange price, including excellent mopping, a retractable mop cover, 20,000Pa suction, AI-powered obstacle avoidance, and a compact design.\n\nWhere to Buy:\n\n $999.99 $699.99 at Amazon \n\nYou can pick up the Dreame X60 Max Ultra’s predecessor, the Dreame X50 Ultra, for $884.99 ($265 off) at Amazon and $807.99 at Dreame ($342). While its 20,000Pa suction isn’t quite as powerful as the X60 Ultra’s and it can’t tackle especially high thresholds as well, it’s still an excellent robot vacuum-mop hybrid. Its edge cleaning also isn’t quite as effective as the X60 Ultra’s, but you’re otherwise getting many of the same features for a lot less.\nDreame’s L40 Ultra Gen 2 is on sale for $384.99 ($265 off) at Amazon and directly from Dreame with code L40UGWS. It delivers powerful 25,000Pa suction, AI-powered obstacle avoidance, and a self-cleaning dock that empties the dustbin, washes the mop, and refills its water tanks. Unlike the X50 Ultra, however, it lacks the ability to climb high thresholds or stairs.\nNarwal Flow 2\nOur pick for the best robot vacuum-mop if you have all hardwood floors is the Narwal Flow 2. A superb mop with a wide flat roller pad and an excellent vacuum, the Flow 2 also has top-notch navigation and obstacle detection. Its sleek base station is also less of an eyesore than most.\n\nWhere to Buy:\n\n $1499.99 $949.99 at Amazon\n $1499.99 $949.99 at Narwal\n\nThe original Narwal Flow is available for $649.99 ($500 off) at Amazon, which is its best price to date. Like the Flow 2, it offers a self-cleaning roller mop along with a dock that automatically empties the dustbin and washes the mop and a tangle-resistant brush. The tradeoff is that it lacks the Flow 2’s upgraded AI-powered obstacle avoidance, uses lower-temperature water when washing the mop, and delivers slightly less suction power.\nYou can buy the SwitchBot K11 Plus on sale for around $169.99 at Amazon when you apply the on-page coupon, which is a new low price. It’s also available for $19 more from SwitchBot with code PDDAY53. It’s a tiny bot with an equally small self-emptying dock, making it a great fit for smaller spaces. Its suction power tops out at 6,000Pa, but it’s still an effective cleaning machine with a rubber roller brush and a single side brush that does a solid job picking up dirt, dust, and debris from both hard floors and carpets.\nEcovacs Deebot X12 OmniCyclone\nEcovacs’ latest flagship robot vacuum and mop can pretreat stains, keep carpets dry with a smart mop cover, and deliver powerful 22,000Pa suction. It also comes with an all-in-one dock that automatically empties the dustbin, washes the mop with heated, pressurized water, and refills its water tanks.\n\n\nWhere to Buy:\n\n $1499.99 $799 at Amazon\n $1499.99 $946.99 at Best Buy\n $1499.99 $842 at Ecovacs\n\n\nEcovacs Deebot X9 Pro Omni\nThe Ecovacs Deebot X9 Pro Omni features an extendable mop that can clean itself, just like its predecessor. However, it also features Ecovacs’ Boosted Large-Airflow Suction Technology, which optimizes the airflow path from intake to exhaust, rather than relying solely on suction power. \n\nWhere to Buy:\n\n $1299.99 $499 at Amazon\n $1299.99 $525.99 at Best Buy\n $1299.99 $526 at Ecovacs\n\nThe Dreame L10s Pro Ultra is down to $349.99 when you buy it at Amazon, matching its best price to date and $950 less than its original launch price in 2024. Despite its age, it still offers a self-cleaning dock that can wash and dry its mop pads, dispense cleaning solution, refill its water tank, and empty its dustbin. It also features AI-powered obstacle avoidance. Its 7,000Pa suction is lower than Dreame’s newer models, and it can’t climb tall thresholds, but it’s still a lot of robot vacuum for the price.\nThe Shark Navigator Robot Vacuum RV2110 has dropped to $179 ($121 off) at Amazon. While we’ve previously seen it go for as low as $129.99, that’s still a notable 40 percent discount on the basic bot. The Navigator uses lidar-based navigation to create a map of your home and is equipped with a brushroll designed to minimize hair tangles.\nUpdate, June 25th: Adjusted prices and availability.",
-    "content": "<h2>概要</h2><p>The Roborock S10 S5 Plus has dropped to a new low price. | Image: Roborock\t\n\nIf you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on day three of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is offering discounts on several models we’ve tested from brands like Roborock, Dreame, and Shark. Whether you’re looking for a basic robot vacuum that can cut down on the amount of vacuuming you have to do or a high-end model that can wash and dry its own mop pads and climb over room thresholds, there are deals available across a wide range of price points.\nRoborock Saros 20\n\nWhere to Buy:\n\n $1599.99 $1424.99 at Amazon\n $1599.99 $1359.99 at Roborock\n\nThe Roborock Q10 S5 Plus is down to $239.99 ($310 off), which is a new low price, at Amazon. The Q10 S5 Plus is one of our favorite budget-friendly robot vacuum / mop hybrids, combining good AI-powered obstacle avoidance with automatic carpet detection. It also features a vibrating mop that does a solid job scrubbing hard floors while lifting itself over rugs, and the set includes a self-emptying dock for added convenience. It can’t match the suction power or tall threshold-climbing abilities of pricier models like the Saros 20, but this is a good value under $300.\nRoborock Saros 10\nRoborock’s Saros 10 combines powerful 22,000Pa suction with excellent dual spinning mop pads that do a great job tackling dried-on messes. It can also automatically leave its mop pads at the dock before vacuuming carpets. The newer Saros 20 offers more powerful suction and can tackle taller thresholds, but the Saros 10 is still a great cleaning machine.\n\nWhere to Buy:\n\n $1599.99 $999.99 at Best Buy\n $1599.99 $1299.99 at Roborock\n\nThe Tapo RV30 Max Plus is another excellent budget-friendly option that’s on sale. It includes a self-emptying dock and costs $199.99 ($200 off) at Amazon. You don’t get AI-powered obstacle avoidance with this one, and its 5,200Pa suction isn’t the most powerful we’ve seen, but it’s still a capable cleaning machine with a wide mop pad that performs surprisingly well. The RV30 Max also offers excellent lidar-based navigation, support for room-specific cleaning, and Matter compatibility, allowing you to control it through all the major smart home platforms.\nEufy Omni C28\nThe Eufy Omni C28 combines excellent mopping performance with a small self-cleaning dock that’s well suited for apartments and other smaller spaces. It navigates around furniture and into tight areas with ease, while its roller mop does a great job cleaning hard floors.\n\nWhere to Buy:\n\n $799.99 $449.99 at Amazon\n $799.99 $449.99 at Eufy (with code WS24C28200NEW)\n\nDreame’s X60 Max Ultra is on sale for $1,344.99 ($355 off) at Amazon and Dreame (with code X60UMCWS), which is its best price to date. We highly recommend the Dreame X60 Ultra for homes with lots of carpet, as it combines powerful 35,000Pa suction with dual rubber brushes that excel at lifting hair and debris. It can also climb over tall thresholds and thick rugs with ease, while its spinning mop pads do a good job on hard floors and automatically detach when vacuuming carpet. Other highlights include quiet mop washing and drying along with a slim design that can fit under low furniture.\nRoborock Qrevo Curv 2 Flow\nRoborock’s first roller-mop robot vacuum, the Curv 2 Flow, features flagship specs at a midrange price, including excellent mopping, a retractable mop cover, 20,000Pa suction, AI-powered obstacle avoidance, and a compact design.\n\nWhere to Buy:\n\n $999.99 $699.99 at Amazon \n\nYou can pick up the Dreame X60 Max Ultra’s predecessor, the Dreame X50 Ultra, for $884.99 ($265 off) at Amazon and $807.99 at Dreame ($342). While its 20,000Pa suction isn’t quite as powerful as the X60 Ultra’s and it can’t tackle especially high thresholds as well, it’s still an excellent robot vacuum-mop hybrid. Its edge cleaning also isn’t quite as effective as the X60 Ultra’s, but you’re otherwise getting many of the same features for a lot less.\nDreame’s L40 Ultra Gen 2 is on sale for $384.99 ($265 off) at Amazon and directly from Dreame with code L40UGWS. It delivers powerful 25,000Pa suction, AI-powered obstacle avoidance, and a self-cleaning dock that empties the dustbin, washes the mop, and refills its water tanks. Unlike the X50 Ultra, however, it lacks the ability to climb high thresholds or stairs.\nNarwal Flow 2\nOur pick for the best robot vacuum-mop if you have all hardwood floors is the Narwal Flow 2. A superb mop with a wide flat roller pad and an excellent vacuum, the Flow 2 also has top-notch navigation and obstacle detection. Its sleek base station is also less of an eyesore than most.\n\nWhere to Buy:\n\n $1499.99 $949.99 at Amazon\n $1499.99 $949.99 at Narwal\n\nThe original Narwal Flow is available for $649.99 ($500 off) at Amazon, which is its best price to date. Like the Flow 2, it offers a self-cleaning roller mop along with a dock that automatically empties the dustbin and washes the mop and a tangle-resistant brush. The tradeoff is that it lacks the Flow 2’s upgraded AI-powered obstacle avoidance, uses lower-temperature water when washing the mop, and delivers slightly less suction power.\nYou can buy the SwitchBot K11 Plus on sale for around $169.99 at Amazon when you apply the on-page coupon, which is a new low price. It’s also available for $19 more from SwitchBot with code PDDAY53. It’s a tiny bot with an equally small self-emptying dock, making it a great fit for smaller spaces. Its suction power tops out at 6,000Pa, but it’s still an effective cleaning machine with a rubber roller brush and a single side brush that does a solid job picking up dirt, dust, and debris from both hard floors and carpets.\nEcovacs Deebot X12 OmniCyclone\nEcovacs’ latest flagship robot vacuum and mop can pretreat stains, keep carpets dry with a smart mop cover, and deliver powerful 22,000Pa suction. It also comes with an all-in-one dock that automatically empties the dustbin, washes the mop with heated, pressurized water, and refills its water tanks.\n\n\nWhere to Buy:\n\n $1499.99 $799 at Amazon\n $1499.99 $946.99 at Best Buy\n $1499.99 $842 at Ecovacs\n\n\nEcovacs Deebot X9 Pro Omni\nThe Ecovacs Deebot X9 Pro Omni features an extendable mop that can clean itself, just like its predecessor. However, it also features Ecovacs’ Boosted Large-Airflow Suction Technology, which optimizes the airflow path from intake to exhaust, rather than relying solely on suction power. \n\nWhere to Buy:\n\n $1299.99 $499 at Amazon\n $1299.99 $525.99 at Best Buy\n $1299.99 $526 at Ecovacs\n\nThe Dreame L10s Pro Ultra is down to $349.99 when you buy it at Amazon, matching its best price to date and $950 less than its original launch price in 2024. Despite its age, it still offers a self-cleaning dock that can wash and dry its mop pads, dispense cleaning solution, refill its water tank, and empty its dustbin. It also features AI-powered obstacle avoidance. Its 7,000Pa suction is lower than Dreame’s newer models, and it can’t climb tall thresholds, but it’s still a lot of robot vacuum for the price.\nThe Shark Navigator Robot Vacuum RV2110 has dropped to $179 ($121 off) at Amazon. While we’ve previously seen it go for as low as $129.99, that’s still a notable 40 percent discount on the basic bot. The Navigator uses lidar-based navigation to create a map of your home and is equipped with a brushroll designed to minimize hair tangles.\nUpdate, June 25th: Adjusted prices and availability.</p><p><a href=\"https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026"
-  },
-  {
-    "id": 25,
+    "id": 57,
     "title": "Photos: See Venezuela destruction after earthquakes",
     "category": "WORLD",
     "date": "2026-06-25T18:44:52.000Z",
@@ -275,7 +627,7 @@
     "sourceUrl": "https://www.npr.org/sections/the-picture-show/2026/06/25/nx-s1-5870661/photos-see-venezuela-destruction-after-earthquakes"
   },
   {
-    "id": 26,
+    "id": 58,
     "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
     "category": "TECH",
     "date": "2026-06-25T18:38:51.000Z",
@@ -286,29 +638,7 @@
     "sourceUrl": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/"
   },
   {
-    "id": 27,
-    "title": "It&#8217;s a bad time to want a new computer",
-    "category": "TECH",
-    "date": "2026-06-25T18:20:17.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0020.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "It's not exactly surprising that RAMaggeddon is making new tech hardware really expensive. But if you've been in the market for things like a new computer or tablet, this week has been filled with sticker shock. Given how many companies announced price hikes related to component shortages, it seems unlikely things will get cheaper any time soon.\nValve started the week off by finally revealing the price of the Steam Machine, its long-delayed, console-like PC that, in our tests, has performance on par with the PS5. It starts at $1,049, nearly double the price of the six-year-old PS5, and that's for the base configuration with 512GB of storage …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>It's not exactly surprising that RAMaggeddon is making new tech hardware really expensive. But if you've been in the market for things like a new computer or tablet, this week has been filled with sticker shock. Given how many companies announced price hikes related to component shortages, it seems unlikely things will get cheaper any time soon.\nValve started the week off by finally revealing the price of the Steam Machine, its long-delayed, console-like PC that, in our tests, has performance on par with the PS5. It starts at $1,049, nearly double the price of the six-year-old PS5, and that's for the base configuration with 512GB of storage …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve"
-  },
-  {
-    "id": 28,
-    "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
-    "category": "WORLD",
-    "date": "2026-06-25T18:12:27.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
-    "content": "<h2>概要</h2><p>Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 29,
+    "id": 59,
     "title": " This Prime Day, save nearly $700 on 'a camera of epic proportions' ",
     "category": "SPACE",
     "date": "2026-06-25T18:11:43.000Z",
@@ -319,18 +649,7 @@
     "sourceUrl": "https://www.space.com/stargazing/skywatching-kit/this-prime-day-save-nearly-usd700-on-a-camera-of-epic-proportions"
   },
   {
-    "id": 30,
-    "title": "You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike",
-    "category": "TECH",
-    "date": "2026-06-25T18:04:13.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268386_iPad_Air_M4_AKrales_0020.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "You can save hundreds on the latest iPad Air. | Photo by Amelia Holowaty Krales / The Verge\t\n\nApple just raised prices across its iPad and MacBook lineup. The good news is that many retailers are still selling their inventory at the old prices or far less, which means you can still score some of the best iPad deals we may see in awhile — if ever again. So if you’ve been thinking about picking up a new iPad, now is probably the time to do it.\nNow the bad news: those discounts are starting to disappear, though. One of the best iPad deals of Prime Day, for instance, saw the M4-powered iPad Air with Wi-Fi and 128GB of storage drop to a record low of $519 when the sale kicked off. Amazon has since sold out, but Best Buy is still offering it for $519, which is $230 less than Apple’s new list price. You can also still buy it with LTE connectivity at Amazon for $699 ($200 off).\nApple iPad Air M4\nThe M4-powered iPad Air offers 12GB of RAM, Apple Intelligence features, Apple Pencil Pro support, and Wi-Fi 7 and Bluetooth 6, making it a great middle ground between the entry-level iPad and iPad Pro. Read our review.\n\nWhere to Buy:\n\n $899 $669 at Amazon (128GB, LTE)\n $749 $519.99 at Amazon (128GB, Wi-Fi)\n\nCompared to Apple’s entry-level iPad, the Air offers a faster M4 chip, 12GB of RAM, Apple Intelligence features, Apple Pencil Pro support. It also offers newer connectivity standards like Wi-Fi 7 and Bluetooth 6, making it a more future-proof option.\nIf the iPad Air isn’t what you’re after, though, don’t worry. There are still plenty of other iPad deals worth considering, whether you’re shopping for Apple’s affordable entry-level model or its high-end iPad Pro. Here are the best discounts we could find.\niPad deals\niPad (2025)\nApple’s entry-level iPad is an excellent tablet for casual use, even if it is getting a little long in the tooth. Its high-res screen is great for watching video, and its A16 processor is still fast enough to handle light games and productivity apps. Read our review.\n\nWhere to Buy:\n\n $449 $299 at Amazon (128GB, Wi-Fi)\n $449 $299 at Walmart (128GB, Wi-Fi)\n $449 $299 at Best Buy (128GB, Wi-Fi)\n\n\niPad Mini (2024)\nThe iPad Mini’s smaller size is tailor-made for travel, with a light, sturdy design that’s easy to slip into a carry-on. Its compact 8.3-inch display is great for reading, watching movies, and playing games, and it even supports the Apple Pencil Pro, making it an excellent tool for doodling. The battery holds up well, too, and you can easily pair it with a Bluetooth keyboard to tackle some light work. Read our review.\n\nWhere to Buy:\n\n $699 $499.99 at Amazon (256GB, Wi-Fi)\n $599 $449 at Best Buy (128GB, Wi-Fi)\n $599 $499.99 at Target (128GB, Wi-Fi)\n\n\niPad Pro (2025)\nApple’s newest iPad Pros have an M5 processor, an N1 chip, and a C1X chip for cellular versions. They’re faster, support Wi-Fi 7, charge more quickly, and start with 12GB of RAM. Read our review.\n\nWhere to Buy:\n\n $1199 $899 at Amazon (11-inch, 256GB)\n $1399 $1099 at Amazon (11-inch, 512GB)\n $1299 $1499 at Amazon (13-inch, 256GB)",
-    "content": "<h2>概要</h2><p>You can save hundreds on the latest iPad Air. | Photo by Amelia Holowaty Krales / The Verge\t\n\nApple just raised prices across its iPad and MacBook lineup. The good news is that many retailers are still selling their inventory at the old prices or far less, which means you can still score some of the best iPad deals we may see in awhile — if ever again. So if you’ve been thinking about picking up a new iPad, now is probably the time to do it.\nNow the bad news: those discounts are starting to disappear, though. One of the best iPad deals of Prime Day, for instance, saw the M4-powered iPad Air with Wi-Fi and 128GB of storage drop to a record low of $519 when the sale kicked off. Amazon has since sold out, but Best Buy is still offering it for $519, which is $230 less than Apple’s new list price. You can also still buy it with LTE connectivity at Amazon for $699 ($200 off).\nApple iPad Air M4\nThe M4-powered iPad Air offers 12GB of RAM, Apple Intelligence features, Apple Pencil Pro support, and Wi-Fi 7 and Bluetooth 6, making it a great middle ground between the entry-level iPad and iPad Pro. Read our review.\n\nWhere to Buy:\n\n $899 $669 at Amazon (128GB, LTE)\n $749 $519.99 at Amazon (128GB, Wi-Fi)\n\nCompared to Apple’s entry-level iPad, the Air offers a faster M4 chip, 12GB of RAM, Apple Intelligence features, Apple Pencil Pro support. It also offers newer connectivity standards like Wi-Fi 7 and Bluetooth 6, making it a more future-proof option.\nIf the iPad Air isn’t what you’re after, though, don’t worry. There are still plenty of other iPad deals worth considering, whether you’re shopping for Apple’s affordable entry-level model or its high-end iPad Pro. Here are the best discounts we could find.\niPad deals\niPad (2025)\nApple’s entry-level iPad is an excellent tablet for casual use, even if it is getting a little long in the tooth. Its high-res screen is great for watching video, and its A16 processor is still fast enough to handle light games and productivity apps. Read our review.\n\nWhere to Buy:\n\n $449 $299 at Amazon (128GB, Wi-Fi)\n $449 $299 at Walmart (128GB, Wi-Fi)\n $449 $299 at Best Buy (128GB, Wi-Fi)\n\n\niPad Mini (2024)\nThe iPad Mini’s smaller size is tailor-made for travel, with a light, sturdy design that’s easy to slip into a carry-on. Its compact 8.3-inch display is great for reading, watching movies, and playing games, and it even supports the Apple Pencil Pro, making it an excellent tool for doodling. The battery holds up well, too, and you can easily pair it with a Bluetooth keyboard to tackle some light work. Read our review.\n\nWhere to Buy:\n\n $699 $499.99 at Amazon (256GB, Wi-Fi)\n $599 $449 at Best Buy (128GB, Wi-Fi)\n $599 $499.99 at Target (128GB, Wi-Fi)\n\n\niPad Pro (2025)\nApple’s newest iPad Pros have an M5 processor, an N1 chip, and a C1X chip for cellular versions. They’re faster, support Wi-Fi 7, charge more quickly, and start with 12GB of RAM. Read our review.\n\nWhere to Buy:\n\n $1199 $899 at Amazon (11-inch, 256GB)\n $1399 $1099 at Amazon (11-inch, 512GB)\n $1299 $1499 at Amazon (13-inch, 256GB)</p><p><a href=\"https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes"
-  },
-  {
-    "id": 31,
+    "id": 60,
     "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
     "category": "TECH",
     "date": "2026-06-25T18:01:48.000Z",
@@ -341,18 +660,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/"
   },
   {
-    "id": 32,
-    "title": "Planet orbits so close to its star that their magnetic fields connect",
-    "category": "TECH",
-    "date": "2026-06-25T18:00:39.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens.",
-    "content": "<h2>概要</h2><p>At the right point of the orbit and stellar cycle, the star's chromosphere brightens.</p><p><a href=\"https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/"
-  },
-  {
-    "id": 33,
+    "id": 61,
     "title": " James Webb Space Telescope catches 6 galaxies merging into one of the largest galaxies in the universe ",
     "category": "SPACE",
     "date": "2026-06-25T18:00:00.000Z",
@@ -363,40 +671,7 @@
     "sourceUrl": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-catches-6-galaxies-merging-into-one-of-the-largest-galaxies-in-the-universe"
   },
   {
-    "id": 34,
-    "title": "Polestar has been muscled out of the US market",
-    "category": "TECH",
-    "date": "2026-06-25T17:58:37.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/2026VolvoPolestar4PeterNelson30.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Polestar won't be allowed to sell its electric vehicles model year 2027 and beyond in the US after the federal government denied the company's request for authorization under a new rule banning vehicles with software from China.  \nIn a press release, the company says the decision to retreat from the US follows a recent decision by the Department of Commerce's Bureau of Industry and Security to not grant Polestar an authorization under the current Connected Vehicle Rule to sell vehicles from model year 2027 and beyond. The rule, which passed under the Biden administration, blocks the import and sale of any vehicle with software from \"countri …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Polestar won't be allowed to sell its electric vehicles model year 2027 and beyond in the US after the federal government denied the company's request for authorization under a new rule banning vehicles with software from China.  \nIn a press release, the company says the decision to retreat from the US follows a recent decision by the Department of Commerce's Bureau of Industry and Security to not grant Polestar an authorization under the current Connected Vehicle Rule to sell vehicles from model year 2027 and beyond. The rule, which passed under the Biden administration, blocks the import and sale of any vehicle with software from \"countri …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software"
-  },
-  {
-    "id": 35,
-    "title": "A Fatal Tesla Crash in Texas Sets Up a Legal Showdown",
-    "category": "TECH",
-    "date": "2026-06-25T17:52:51.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Did Full Self-Driving (Supervised), Tesla’s driver assistance feature, play a role in a woman’s death?",
-    "content": "<h2>概要</h2><p>Did Full Self-Driving (Supervised), Tesla’s driver assistance feature, play a role in a woman’s death?</p><p><a href=\"https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/"
-  },
-  {
-    "id": 36,
-    "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
-    "category": "TECH",
-    "date": "2026-06-25T17:52:05.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.",
-    "content": "<h2>概要</h2><p>Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.</p><p><a href=\"https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/"
-  },
-  {
-    "id": 37,
+    "id": 62,
     "title": "Smile spacecraft reaches science orbit",
     "category": "SPACE",
     "date": "2026-06-25T17:40:02.000Z",
@@ -407,18 +682,7 @@
     "sourceUrl": "https://phys.org/news/2026-06-spacecraft-science-orbit.html"
   },
   {
-    "id": 38,
-    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "category": "TECH",
-    "date": "2026-06-25T17:38:27.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-    "content": "<h2>概要</h2><p>Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.</p><p><a href=\"https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/"
-  },
-  {
-    "id": 39,
+    "id": 63,
     "title": "“We Call It Weather Jiu-Jitsu”: Scientists Want to Fight Extreme Weather With Precision ‘Nudges’ Instead of Force",
     "category": "MYSTERY",
     "date": "2026-06-25T17:04:34.000Z",
@@ -429,29 +693,7 @@
     "sourceUrl": "https://thedebrief.org/we-call-it-weather-jiu-jitsu-scientists-want-to-fight-extreme-weather-with-precision-nudges-instead-of-force/"
   },
   {
-    "id": 40,
-    "title": " I got a sneak peek at space shuttle Endeavour's new home in California, and it's breathtaking (photos) ",
-    "category": "SPACE",
-    "date": "2026-06-25T17:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/K7AqXzZGQrUWtmxnwdgzTK-1280-80.png",
-    "summary": "The spectacular new Air & Space Center, which is more than three decades in the making, will open on Nov. 13.",
-    "content": "<h2>概要</h2><p>The spectacular new Air & Space Center, which is more than three decades in the making, will open on Nov. 13.</p><p><a href=\"https://www.space.com/space-exploration/human-spaceflight/i-got-a-sneak-peek-at-space-shuttle-endeavours-new-home-and-its-breathtaking\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/space-exploration/human-spaceflight/i-got-a-sneak-peek-at-space-shuttle-endeavours-new-home-and-its-breathtaking"
-  },
-  {
-    "id": 41,
-    "title": "The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63 Percent Discount",
-    "category": "TECH",
-    "date": "2026-06-25T16:54:55.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "This flash deal is a rare chance to buy one of our favorite hydroponic gardens for less than $100.",
-    "content": "<h2>概要</h2><p>This flash deal is a rare chance to buy one of our favorite hydroponic gardens for less than $100.</p><p><a href=\"https://www.wired.com/story/amazon-prime-day-aerogarden-deal-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/amazon-prime-day-aerogarden-deal-2026/"
-  },
-  {
-    "id": 42,
+    "id": 64,
     "title": "The universe should look the same in all directions at large scales, but DESI data suggest otherwise",
     "category": "SPACE",
     "date": "2026-06-25T16:50:01.000Z",
@@ -462,7 +704,7 @@
     "sourceUrl": "https://phys.org/news/2026-06-universe-large-scales-desi.html"
   },
   {
-    "id": 43,
+    "id": 65,
     "title": "Millions of Stars in Cigar Galaxy",
     "category": "SPACE",
     "date": "2026-06-25T16:24:23.000Z",
@@ -473,18 +715,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/"
   },
   {
-    "id": 44,
-    "title": " Hosting a solar eclipse viewing party? Get money off solar eclipse multipacks this Prime Day ",
-    "category": "SPACE",
-    "date": "2026-06-25T16:18:03.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/ze3beQqVQW7FBPf8E5p9iE-1280-80.jpg",
-    "summary": "Grab some solar eclipse glasses so you and a big group can enjoy one of the most impressive natural wonders in safety. Multipacks are available from Galaxium, Helioclipse and Rainbow Symphony.",
-    "content": "<h2>概要</h2><p>Grab some solar eclipse glasses so you and a big group can enjoy one of the most impressive natural wonders in safety. Multipacks are available from Galaxium, Helioclipse and Rainbow Symphony.</p><p><a href=\"https://www.space.com/stargazing/skywatching-kit/hosting-a-solar-eclipse-viewing-party-get-money-off-solar-eclipse-multipacks-this-prime-day\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/stargazing/skywatching-kit/hosting-a-solar-eclipse-viewing-party-get-money-off-solar-eclipse-multipacks-this-prime-day"
-  },
-  {
-    "id": 45,
+    "id": 66,
     "title": "U.S. Tests Directed-Energy Weapon as Golden Dome Missile Shield Advances—Here’s What We Know",
     "category": "MYSTERY",
     "date": "2026-06-25T16:15:19.000Z",
@@ -495,29 +726,7 @@
     "sourceUrl": "https://thedebrief.org/u-s-tests-directed-energy-weapon-as-golden-dome-missile-shield-advances-heres-what-we-know/"
   },
   {
-    "id": 46,
-    "title": "17 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
-    "category": "TECH",
-    "date": "2026-06-25T16:05:30.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "I've compiled a list of the best fitness tech deals this Amazon Prime Day, including smartwatches, walking pads, and recovery gear. You can thank me later.",
-    "content": "<h2>概要</h2><p>I've compiled a list of the best fitness tech deals this Amazon Prime Day, including smartwatches, walking pads, and recovery gear. You can thank me later.</p><p><a href=\"https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/"
-  },
-  {
-    "id": 47,
-    "title": "Reeves urges Burnham to 'stick to what I'm doing' on economy",
-    "category": "BUSINESS",
-    "date": "2026-06-25T16:04:42.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
-    "content": "<h2>概要</h2><p>The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 48,
+    "id": 67,
     "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
     "category": "WORLD",
     "date": "2026-06-25T16:04:41.000Z",
@@ -528,18 +737,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term"
   },
   {
-    "id": 49,
-    "title": "Companies Could Soon Staff ‘Stubbornly Local’ Jobs With Workers 4,000 Miles Away",
-    "category": "MYSTERY",
-    "date": "2026-06-25T16:02:56.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Companies once moved whole factories overseas to reduce labor costs. Now, workers a world away can operate local excavators, forklifts, and even humanoid robots with an internet connection.\nThe post Companies Could Soon Staff ‘Stubbornly Local’ Jobs With Workers 4,000 Miles Away appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>Companies once moved whole factories overseas to reduce labor costs. Now, workers a world away can operate local excavators, forklifts, and even humanoid robots with an internet connection.\nThe post Companies Could Soon Staff ‘Stubbornly Local’ Jobs With Workers 4,000 Miles Away appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/06/25/companies-could-soon-staff-stubbornly-local-jobs-with-workers-4000-miles-away/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/06/25/companies-could-soon-staff-stubbornly-local-jobs-with-workers-4000-miles-away/"
-  },
-  {
-    "id": 50,
+    "id": 68,
     "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
     "category": "TECH",
     "date": "2026-06-25T16:00:00.000Z",
@@ -550,7 +748,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success"
   },
   {
-    "id": 51,
+    "id": 69,
     "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
     "category": "TECH",
     "date": "2026-06-25T16:00:00.000Z",
@@ -561,7 +759,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success"
   },
   {
-    "id": 52,
+    "id": 70,
     "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
     "category": "SCIENCE",
     "date": "2026-06-25T16:00:00.000Z",
@@ -572,29 +770,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success"
   },
   {
-    "id": 53,
-    "title": "Oil price falls back to pre-Iran war levels",
-    "category": "BUSINESS",
-    "date": "2026-06-25T15:32:04.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-    "content": "<h2>概要</h2><p>Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 54,
-    "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-    "category": "TECH",
-    "date": "2026-06-25T14:40:23.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here.",
-    "content": "<h2>概要</h2><p>Unlike with Volvo, there will be no authorization for Polestar to sell its cars here.</p><p><a href=\"https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/"
-  },
-  {
-    "id": 55,
+    "id": 71,
     "title": "Repositioning retail for the AI era",
     "category": "TECH",
     "date": "2026-06-25T14:22:59.000Z",
@@ -605,7 +781,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
   },
   {
-    "id": 56,
+    "id": 72,
     "title": "Repositioning retail for the AI era",
     "category": "TECH",
     "date": "2026-06-25T14:22:59.000Z",
@@ -616,7 +792,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
   },
   {
-    "id": 57,
+    "id": 73,
     "title": "Summer 2026 recommended reading from MIT",
     "category": "TECH",
     "date": "2026-06-25T14:00:00.000Z",
@@ -627,7 +803,7 @@
     "sourceUrl": "https://news.mit.edu/2026/summer-reading-from-mit-0625"
   },
   {
-    "id": 58,
+    "id": 74,
     "title": "Summer 2026 recommended reading from MIT",
     "category": "TECH",
     "date": "2026-06-25T14:00:00.000Z",
@@ -638,7 +814,7 @@
     "sourceUrl": "https://news.mit.edu/2026/summer-reading-from-mit-0625"
   },
   {
-    "id": 59,
+    "id": 75,
     "title": "Summer 2026 recommended reading from MIT",
     "category": "SCIENCE",
     "date": "2026-06-25T14:00:00.000Z",
@@ -649,18 +825,7 @@
     "sourceUrl": "https://news.mit.edu/2026/summer-reading-from-mit-0625"
   },
   {
-    "id": 60,
-    "title": "Earthquake is devastating blow to Venezuela at time of uncertainty  ",
-    "category": "WORLD",
-    "date": "2026-06-25T13:09:58.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
-    "content": "<h2>概要</h2><p>The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 61,
+    "id": 76,
     "title": "Two-Century-Old Light Phenomenon Could Power the Next Generation of Communications and Data Storage Tech",
     "category": "MYSTERY",
     "date": "2026-06-25T13:07:52.000Z",
@@ -671,7 +836,7 @@
     "sourceUrl": "https://thedebrief.org/two-century-old-light-phenomenon-could-power-the-next-generation-of-communications-and-data-storage-tech/"
   },
   {
-    "id": 62,
+    "id": 77,
     "title": "Discovery of Fungi Living Within Desert Moss is Challenging Past Thinking on How Organisms Thrive in Arid Environments",
     "category": "MYSTERY",
     "date": "2026-06-25T13:03:31.000Z",
@@ -682,7 +847,7 @@
     "sourceUrl": "https://thedebrief.org/discovery-of-fungi-living-within-desert-moss-is-challenging-past-thinking-on-how-organisms-thrive-in-arid-environments/"
   },
   {
-    "id": 63,
+    "id": 78,
     "title": "Europe faces the heat",
     "category": "SPACE",
     "date": "2026-06-25T13:00:00.000Z",
@@ -693,7 +858,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Europe_faces_the_heat"
   },
   {
-    "id": 64,
+    "id": 79,
     "title": "Sunscreen Misinformation Attracts High Engagement on TikTok, Study Finds",
     "category": "MYSTERY",
     "date": "2026-06-25T12:55:52.000Z",
@@ -704,7 +869,7 @@
     "sourceUrl": "https://thedebrief.org/sunscreen-misinformation-attracts-high-engagement-on-tiktok-study-finds/"
   },
   {
-    "id": 65,
+    "id": 80,
     "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
     "category": "TECH",
     "date": "2026-06-25T12:10:00.000Z",
@@ -715,7 +880,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/"
   },
   {
-    "id": 66,
+    "id": 81,
     "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
     "category": "TECH",
     "date": "2026-06-25T12:10:00.000Z",
@@ -726,7 +891,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/"
   },
   {
-    "id": 67,
+    "id": 82,
     "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
     "category": "BUSINESS",
     "date": "2026-06-25T12:08:33.000Z",
@@ -737,7 +902,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 68,
+    "id": 83,
     "title": "People flee as building collapses on Caracas outskirts",
     "category": "WORLD",
     "date": "2026-06-25T12:08:30.000Z",
@@ -748,18 +913,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 69,
-    "title": "Image: Galaxy pair NGC 3504 and NGC 3512",
-    "category": "SPACE",
-    "date": "2026-06-25T12:00:08.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "This striking pair of galaxies located 80 million light-years from Earth lies in the constellation Leo against a backdrop of distant galaxies. The barred spiral galaxy NGC 3504 is seen on the right, and the spiral galaxy NGC 3512 is on the left. Although the two galaxies are thought to be physically close to one another, no clear evidence of ongoing gravitational interaction has been found.",
-    "content": "<h2>概要</h2><p>This striking pair of galaxies located 80 million light-years from Earth lies in the constellation Leo against a backdrop of distant galaxies. The barred spiral galaxy NGC 3504 is seen on the right, and the spiral galaxy NGC 3512 is on the left. Although the two galaxies are thought to be physically close to one another, no clear evidence of ongoing gravitational interaction has been found.</p><p><a href=\"https://phys.org/news/2026-06-image-galaxy-pair-ngc.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-06-image-galaxy-pair-ngc.html"
-  },
-  {
-    "id": 70,
+    "id": 84,
     "title": "2 earthquakes in Venezuela kill at least 164. And, Trump cancels housing bill signing",
     "category": "WORLD",
     "date": "2026-06-25T11:09:35.000Z",
@@ -770,18 +924,7 @@
     "sourceUrl": "https://www.npr.org/2026/06/25/g-s1-130184/up-first-newsletter-venezuela-earthquakes-trump-senate-tensions-chris-donahue"
   },
   {
-    "id": 71,
-    "title": "How you can save money on your energy bill as debts rise",
-    "category": "BUSINESS",
-    "date": "2026-06-25T11:04:09.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Experts say support is available as total debt and arrears to suppliers hit a new record.",
-    "content": "<h2>概要</h2><p>Experts say support is available as total debt and arrears to suppliers hit a new record.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 72,
+    "id": 85,
     "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
     "category": "TECH",
     "date": "2026-06-25T10:04:43.000Z",
@@ -792,7 +935,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 73,
+    "id": 86,
     "title": "What Europe’s heat wave means for the power grid",
     "category": "TECH",
     "date": "2026-06-25T10:00:00.000Z",
@@ -803,7 +946,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/"
   },
   {
-    "id": 74,
+    "id": 87,
     "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
     "category": "TECH",
     "date": "2026-06-25T10:00:00.000Z",
@@ -814,7 +957,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/"
   },
   {
-    "id": 75,
+    "id": 88,
     "title": "What Europe’s heat wave means for the power grid",
     "category": "TECH",
     "date": "2026-06-25T10:00:00.000Z",
@@ -825,7 +968,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/"
   },
   {
-    "id": 76,
+    "id": 89,
     "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
     "category": "TECH",
     "date": "2026-06-25T10:00:00.000Z",
@@ -836,7 +979,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/"
   },
   {
-    "id": 77,
+    "id": 90,
     "title": "'They can kill you': Immigrants fear a surge in xenophobic violence in South Africa",
     "category": "WORLD",
     "date": "2026-06-25T09:00:00.000Z",
@@ -847,18 +990,7 @@
     "sourceUrl": "https://www.npr.org/2026/06/25/nx-s1-5866241/they-can-kill-you-immigrants-fear-a-surge-in-xenophobic-violence-in-south-africa"
   },
   {
-    "id": 78,
-    "title": "Space shuttle ready for new mission in California",
-    "category": "SPACE",
-    "date": "2026-06-25T08:50:01.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The space shuttle Endeavour, which took astronauts into orbit 25 times, went on display at the California Science Center on its final mission Wednesday.",
-    "content": "<h2>概要</h2><p>The space shuttle Endeavour, which took astronauts into orbit 25 times, went on display at the California Science Center on its final mission Wednesday.</p><p><a href=\"https://phys.org/news/2026-06-space-shuttle-ready-mission-california.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-06-space-shuttle-ready-mission-california.html"
-  },
-  {
-    "id": 79,
+    "id": 91,
     "title": "The science behind the back-to-back earthquakes that struck northern Venezuela",
     "category": "WORLD",
     "date": "2026-06-25T08:45:26.000Z",
@@ -869,7 +1001,7 @@
     "sourceUrl": "https://www.npr.org/2026/06/25/nx-s1-5869928/the-science-behind-the-back-to-back-earthquakes-that-struck-northern-venezuela"
   },
   {
-    "id": 80,
+    "id": 92,
     "title": "Trump airs grievances with NATO chief over alliance's lack of Iran war support",
     "category": "WORLD",
     "date": "2026-06-25T08:44:55.000Z",
@@ -880,7 +1012,7 @@
     "sourceUrl": "https://www.npr.org/2026/06/25/nx-s1-5869806/trump-airs-grievances-with-nato-chief-over-alliances-lack-of-iran-war-support"
   },
   {
-    "id": 81,
+    "id": 93,
     "title": "European Flight Ticket Initiative opens to more launch service providers",
     "category": "SPACE",
     "date": "2026-06-25T08:16:00.000Z",
@@ -891,7 +1023,7 @@
     "sourceUrl": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/European_Flight_Ticket_Initiative_opens_to_more_launch_service_providers"
   },
   {
-    "id": 82,
+    "id": 94,
     "title": "Smile reaches science orbit",
     "category": "SPACE",
     "date": "2026-06-25T08:00:00.000Z",
@@ -902,7 +1034,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Smile_reaches_science_orbit"
   },
   {
-    "id": 83,
+    "id": 95,
     "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
     "category": "TECH",
     "date": "2026-06-25T07:47:54.000Z",
@@ -913,7 +1045,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 84,
+    "id": 96,
     "title": "A first: EarthCARE cloud data sharpen weather forecasts",
     "category": "SPACE",
     "date": "2026-06-25T07:00:00.000Z",
@@ -924,29 +1056,7 @@
     "sourceUrl": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/A_first_EarthCARE_cloud_data_sharpen_weather_forecasts"
   },
   {
-    "id": 85,
-    "title": "A Turquoise Tint for the Black Sea",
-    "category": "SPACE",
-    "date": "2026-06-25T04:00:00.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/blackseabloom_pace_20260622.jpg?w=2160&#038;h=1600&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
-    "content": "<h2>概要</h2><p>Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/"
-  },
-  {
-    "id": 86,
-    "title": "A Turquoise Tint for the Black Sea",
-    "category": "SPACE",
-    "date": "2026-06-25T04:00:00.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/blackseabloom_pace_20260622.jpg?w=2160&#038;h=1600&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
-    "content": "<h2>概要</h2><p>Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/"
-  },
-  {
-    "id": 87,
+    "id": 97,
     "title": "How architecture influences political activity  ",
     "category": "TECH",
     "date": "2026-06-25T04:00:00.000Z",
@@ -957,7 +1067,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-architecture-influences-political-activity-0625"
   },
   {
-    "id": 88,
+    "id": 98,
     "title": "Improving the speed and energy-efficiency of AI agents",
     "category": "TECH",
     "date": "2026-06-25T04:00:00.000Z",
@@ -968,7 +1078,7 @@
     "sourceUrl": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625"
   },
   {
-    "id": 89,
+    "id": 99,
     "title": "Improving the speed and energy-efficiency of AI agents",
     "category": "TECH",
     "date": "2026-06-25T04:00:00.000Z",
@@ -979,136 +1089,26 @@
     "sourceUrl": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625"
   },
   {
-    "id": 90,
-    "title": "NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found",
-    "category": "SPACE",
-    "date": "2026-06-25T01:04:16.000Z",
-    "image": "https://science.nasa.gov/wp-content/uploads/2026/06/super-puff-03-v03.jpg?w=2048",
-    "summary": "NASA has revealed two new “super-puff” planets, giant worlds so light that their density is comparable to cotton candy. Scientists calculate that these Jupiter-sized planets are the “puffiest” worlds ever found.",
-    "content": "<h2>概要</h2><p>NASA has revealed two new “super-puff” planets, giant worlds so light that their density is comparable to cotton candy. Scientists calculate that these Jupiter-sized planets are the “puffiest” worlds ever found.</p><p><a href=\"https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/"
-  },
-  {
-    "id": 91,
-    "title": "NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found",
-    "category": "SPACE",
-    "date": "2026-06-25T01:04:16.000Z",
-    "image": "https://science.nasa.gov/wp-content/uploads/2026/06/super-puff-03-v03.jpg?w=2048",
-    "summary": "NASA has revealed two new “super-puff” planets, giant worlds so light that their density is comparable to cotton candy. Scientists calculate that these Jupiter-sized planets are the “puffiest” worlds ever found.",
-    "content": "<h2>概要</h2><p>NASA has revealed two new “super-puff” planets, giant worlds so light that their density is comparable to cotton candy. Scientists calculate that these Jupiter-sized planets are the “puffiest” worlds ever found.</p><p><a href=\"https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/"
-  },
-  {
-    "id": 92,
-    "title": "GTA 6 will cost £70 - and physical edition will not contain a disc",
-    "category": "TECH",
-    "date": "2026-06-24T23:20:12.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Rockstar has said physical copies of the game will contain a code for a digital download for the game.",
-    "content": "<h2>概要</h2><p>Rockstar has said physical copies of the game will contain a code for a digital download for the game.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Technology",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 93,
-    "title": "NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path",
-    "category": "SPACE",
-    "date": "2026-06-24T21:29:16.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/06/dsc-7169-nef.jpg?w=2048",
-    "summary": "Seven weeks after the Orion spacecraft returned four astronauts from humanity’s first crewed journey around the Moon since Apollo, Artemis II Orion Vehicle Manager Branelle Rodriguez reflected on the mission’s achievements and how it is shaping NASA’s return to the lunar surface and future missions to Mars.  Introduced by NASA’s Johnson Space Center Acting Director of Business Development and Technology Integration Monte Goforth, Rodriguez spoke at the Ion in […]",
-    "content": "<h2>概要</h2><p>Seven weeks after the Orion spacecraft returned four astronauts from humanity’s first crewed journey around the Moon since Apollo, Artemis II Orion Vehicle Manager Branelle Rodriguez reflected on the mission’s achievements and how it is shaping NASA’s return to the lunar surface and future missions to Mars.  Introduced by NASA’s Johnson Space Center Acting Director of Business Development and Technology Integration Monte Goforth, Rodriguez spoke at the Ion in […]</p><p><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/"
-  },
-  {
-    "id": 94,
-    "title": "NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path",
-    "category": "SPACE",
-    "date": "2026-06-24T21:29:16.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/06/dsc-7169-nef.jpg?w=2048",
-    "summary": "Seven weeks after the Orion spacecraft returned four astronauts from humanity’s first crewed journey around the Moon since Apollo, Artemis II Orion Vehicle Manager Branelle Rodriguez reflected on the mission’s achievements and how it is shaping NASA’s return to the lunar surface and future missions to Mars.  Introduced by NASA’s Johnson Space Center Acting Director of Business Development and Technology Integration Monte Goforth, Rodriguez spoke at the Ion in […]",
-    "content": "<h2>概要</h2><p>Seven weeks after the Orion spacecraft returned four astronauts from humanity’s first crewed journey around the Moon since Apollo, Artemis II Orion Vehicle Manager Branelle Rodriguez reflected on the mission’s achievements and how it is shaping NASA’s return to the lunar surface and future missions to Mars.  Introduced by NASA’s Johnson Space Center Acting Director of Business Development and Technology Integration Monte Goforth, Rodriguez spoke at the Ion in […]</p><p><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/"
-  },
-  {
-    "id": 95,
-    "title": "La NASA compartirá los últimos avances del programa Base Lunar",
-    "category": "SPACE",
-    "date": "2026-06-24T21:17:40.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/06/feature-moonbase-img.png?w=1024",
-    "summary": "Lea esta nota de prensa en inglés aquí. El administrador de la NASA, Jared Isaacman, ofrecerá una conversación virtual el martes 30 de junio a las 2:30 p.m. EDT (hora del este) para compartir las novedades más recientes sobre los planes de la agencia para construir una base en la superficie de la Luna. El […]",
-    "content": "<h2>概要</h2><p>Lea esta nota de prensa en inglés aquí. El administrador de la NASA, Jared Isaacman, ofrecerá una conversación virtual el martes 30 de junio a las 2:30 p.m. EDT (hora del este) para compartir las novedades más recientes sobre los planes de la agencia para construir una base en la superficie de la Luna. El […]</p><p><a href=\"https://www.nasa.gov/news-release/la-nasa-compartira-los-ultimos-avances-del-programa-base-lunar/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://www.nasa.gov/news-release/la-nasa-compartira-los-ultimos-avances-del-programa-base-lunar/"
-  },
-  {
-    "id": 96,
-    "title": "La NASA compartirá los últimos avances del programa Base Lunar",
-    "category": "SPACE",
-    "date": "2026-06-24T21:17:40.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/06/feature-moonbase-img.png?w=1024",
-    "summary": "Lea esta nota de prensa en inglés aquí. El administrador de la NASA, Jared Isaacman, ofrecerá una conversación virtual el martes 30 de junio a las 2:30 p.m. EDT (hora del este) para compartir las novedades más recientes sobre los planes de la agencia para construir una base en la superficie de la Luna. El […]",
-    "content": "<h2>概要</h2><p>Lea esta nota de prensa en inglés aquí. El administrador de la NASA, Jared Isaacman, ofrecerá una conversación virtual el martes 30 de junio a las 2:30 p.m. EDT (hora del este) para compartir las novedades más recientes sobre los planes de la agencia para construir una base en la superficie de la Luna. El […]</p><p><a href=\"https://www.nasa.gov/news-release/la-nasa-compartira-los-ultimos-avances-del-programa-base-lunar/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/news-release/la-nasa-compartira-los-ultimos-avances-del-programa-base-lunar/"
-  },
-  {
-    "id": 97,
-    "title": "NASA to Share Latest Moon Base Mission Progress",
-    "category": "SPACE",
-    "date": "2026-06-24T21:13:03.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/06/feature-moonbase-img-2f4057.png?w=1280",
-    "summary": "NASA Administrator Jared Isaacman will host a virtual conversation at 2:30 p.m. EDT, Tuesday, June 30, to share updates to NASA’s plans to build a Moon Base on the lunar surface. Administrator Isaacman and Carlos García-Galán, Moon Base program manager, will discuss the next set of awards for new lunar lander missions and preview upcoming […]",
-    "content": "<h2>概要</h2><p>NASA Administrator Jared Isaacman will host a virtual conversation at 2:30 p.m. EDT, Tuesday, June 30, to share updates to NASA’s plans to build a Moon Base on the lunar surface. Administrator Isaacman and Carlos García-Galán, Moon Base program manager, will discuss the next set of awards for new lunar lander missions and preview upcoming […]</p><p><a href=\"https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/"
-  },
-  {
-    "id": 98,
-    "title": "Europe’s extreme heat is shutting down power plants",
-    "category": "TECH",
-    "date": "2026-06-24T15:25:28.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…",
-    "content": "<h2>概要</h2><p>Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…</p><p><a href=\"https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/"
-  },
-  {
-    "id": 99,
-    "title": "Europe’s extreme heat is shutting down power plants",
-    "category": "TECH",
-    "date": "2026-06-24T15:25:28.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…",
-    "content": "<h2>概要</h2><p>Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…</p><p><a href=\"https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/"
-  },
-  {
     "id": 100,
-    "title": "Scientist publishes fresh doubts over Microsoft's quantum claims",
+    "title": "Europe’s extreme heat is shutting down power plants",
     "category": "TECH",
-    "date": "2026-06-24T15:00:34.000Z",
+    "date": "2026-06-24T15:25:28.000Z",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The tech giant has consistently stood by its Majorana chip research despite scepticism from some experts in the field.",
-    "content": "<h2>概要</h2><p>The tech giant has consistently stood by its Majorana chip research despite scepticism from some experts in the field.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Technology",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss"
+    "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…",
+    "content": "<h2>概要</h2><p>Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…</p><p><a href=\"https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/"
   },
   {
     "id": 101,
-    "title": "What happens when environmental change outpaces life’s ability to adapt?",
+    "title": "Europe’s extreme heat is shutting down power plants",
     "category": "TECH",
-    "date": "2026-06-24T15:00:00.000Z",
+    "date": "2026-06-24T15:25:28.000Z",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new model links Earth’s mass extinctions to mismatches between rates of environmental change and biological adaptation.",
-    "content": "<h2>概要</h2><p>A new model links Earth’s mass extinctions to mismatches between rates of environmental change and biological adaptation.</p><p><a href=\"https://news.mit.edu/2026/when-environmental-change-outpaces-life-ability-to-adapt-0624\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News",
-    "sourceUrl": "https://news.mit.edu/2026/when-environmental-change-outpaces-life-ability-to-adapt-0624"
+    "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…",
+    "content": "<h2>概要</h2><p>Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…</p><p><a href=\"https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/"
   },
   {
     "id": 102,
@@ -1178,17 +1178,6 @@
   },
   {
     "id": 108,
-    "title": "AI Collapses on a Classic Psychology Test. What It Reveals Could Stall Human-Level AI.",
-    "category": "MYSTERY",
-    "date": "2026-06-23T18:35:30.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "AI needs to focus more like we do.\nThe post AI Collapses on a Classic Psychology Test. What It Reveals Could Stall Human-Level AI. appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>AI needs to focus more like we do.\nThe post AI Collapses on a Classic Psychology Test. What It Reveals Could Stall Human-Level AI. appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/06/23/ai-collapses-on-a-classic-psychology-test-what-it-reveals-could-stall-human-level-ai/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/06/23/ai-collapses-on-a-classic-psychology-test-what-it-reveals-could-stall-human-level-ai/"
-  },
-  {
-    "id": 109,
     "title": "Kenyan minister orders halt to construction of US Ebola facility",
     "category": "WORLD",
     "date": "2026-06-23T13:22:39.000Z",
@@ -1199,7 +1188,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility"
   },
   {
-    "id": 110,
+    "id": 109,
     "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
     "category": "WORLD",
     "date": "2026-06-23T13:15:28.000Z",
@@ -1210,51 +1199,7 @@
     "sourceUrl": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond"
   },
   {
-    "id": 111,
-    "title": "Can Psychedelics Reboot Aging Brains? We’re About to Find Out",
-    "category": "MYSTERY",
-    "date": "2026-06-22T22:46:18.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "An audacious trial will test psilocybin in people over age sixty to see if increases plasticity in healthy aging brains.\nThe post Can Psychedelics Reboot Aging Brains? We’re About to Find Out appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>An audacious trial will test psilocybin in people over age sixty to see if increases plasticity in healthy aging brains.\nThe post Can Psychedelics Reboot Aging Brains? We’re About to Find Out appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/06/22/can-psychedelics-reboot-aging-brains-were-about-to-find-out/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/06/22/can-psychedelics-reboot-aging-brains-were-about-to-find-out/"
-  },
-  {
-    "id": 112,
-    "title": "Meet the leader of the Department of Biology’s all-important “kitchen”",
-    "category": "SCIENCE",
-    "date": "2026-06-22T20:30:00.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Karen O’Leary, lab associate and acting supervisor in the Glassware Sterilization Facility (a.k.a. “the kitchen”), has become a cornerstone of the department’s operations.",
-    "content": "<h2>概要</h2><p>Karen O’Leary, lab associate and acting supervisor in the Glassware Sterilization Facility (a.k.a. “the kitchen”), has become a cornerstone of the department’s operations.</p><p><a href=\"https://news.mit.edu/2026/department-of-biology-kitchen-karen-o-leary-0622\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News Science",
-    "sourceUrl": "https://news.mit.edu/2026/department-of-biology-kitchen-karen-o-leary-0622"
-  },
-  {
-    "id": 113,
-    "title": "This Week’s Awesome Tech Stories From Around the Web (Through June 20)",
-    "category": "MYSTERY",
-    "date": "2026-06-20T14:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Every week, we scour the web for important, insightful, and fascinating stories in science and technology.\nThe post This Week’s Awesome Tech Stories From Around the Web (Through June 20) appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>Every week, we scour the web for important, insightful, and fascinating stories in science and technology.\nThe post This Week’s Awesome Tech Stories From Around the Web (Through June 20) appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/06/20/this-weeks-awesome-tech-stories-from-around-the-web-through-june-20-2/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/06/20/this-weeks-awesome-tech-stories-from-around-the-web-through-june-20-2/"
-  },
-  {
-    "id": 114,
-    "title": "Solar Beat Coal in US Electricity Mix for the First Time in May",
-    "category": "MYSTERY",
-    "date": "2026-06-19T20:57:26.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Coal’s share has nearly halved over the last five years, while solar's has more than doubled. But tariffs and permitting delays could slow growth in the years ahead.\nThe post Solar Beat Coal in US Electricity Mix for the First Time in May appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>Coal’s share has nearly halved over the last five years, while solar's has more than doubled. But tariffs and permitting delays could slow growth in the years ahead.\nThe post Solar Beat Coal in US Electricity Mix for the First Time in May appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/06/19/solar-beat-coal-in-us-electricity-mix-for-the-first-time-in-may/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/06/19/solar-beat-coal-in-us-electricity-mix-for-the-first-time-in-may/"
-  },
-  {
-    "id": 115,
+    "id": 110,
     "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
     "category": "AI",
     "date": "2026-05-19T17:45:00.000Z",
@@ -1265,7 +1210,7 @@
     "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
   },
   {
-    "id": 116,
+    "id": 111,
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "category": "AI",
     "date": "2026-01-22T14:00:00.000Z",
@@ -1276,7 +1221,7 @@
     "sourceUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": 117,
+    "id": 112,
     "title": "εpsilon",
     "category": "SPACE",
     "date": "2026-01-21T12:54:00.000Z",
@@ -1287,7 +1232,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon"
   },
   {
-    "id": 118,
+    "id": 113,
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
     "category": "AI",
     "date": "2026-01-19T14:00:00.000Z",
@@ -1298,7 +1243,7 @@
     "sourceUrl": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
   },
   {
-    "id": 119,
+    "id": 114,
     "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
     "category": "AI",
     "date": "2026-01-16T14:01:00.000Z",
@@ -1309,7 +1254,7 @@
     "sourceUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
-    "id": 120,
+    "id": 115,
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
     "category": "AI",
     "date": "2026-01-13T13:00:00.000Z",
