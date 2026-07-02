@@ -1,6 +1,292 @@
 [
   {
     "id": 1,
+    "title": "At least 13 killed in 'most massive' Russian attack on Kyiv",
+    "category": "WORLD",
+    "date": "2026-07-02T09:15:16.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Kyiv's mayor declares a day of mourning after the 'most massive attack on the capital' by Russia.",
+    "content": "<h2>概要</h2><p>Kyiv's mayor declares a day of mourning after the 'most massive attack on the capital' by Russia.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 2,
+    "title": "Amazon has enough satellites to launch its Starlink competitor",
+    "category": "TECH",
+    "date": "2026-07-02T09:13:39.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/rocket-expand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Payloads of Amazon’s Leo satellites sorted by launch vehicle. | Image: Amazon\t\n\nAmazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night's launch, Amazon Leo has 396  satellites deployed, which is \"enough to support continuous service across initial latitudes,\" according to Chris Weber, VP heading up business and product for Amazon Leo. That puts the company on track to meet its \"mid-2026\" target for commercial availability. Just don't expect miracles on day one.\nSpaceX went live with its \"Better than nothing beta\" back in 2020 when it had almost 900 satellites operating in low-Earth orbit. It initially served a narrow band of users in the upper …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Payloads of Amazon’s Leo satellites sorted by launch vehicle. | Image: Amazon\t\n\nAmazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night's launch, Amazon Leo has 396  satellites deployed, which is \"enough to support continuous service across initial latitudes,\" according to Chris Weber, VP heading up business and product for Amazon Leo. That puts the company on track to meet its \"mid-2026\" target for commercial availability. Just don't expect miracles on day one.\nSpaceX went live with its \"Better than nothing beta\" back in 2020 when it had almost 900 satellites operating in low-Earth orbit. It initially served a narrow band of users in the upper …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/science/960563/amazon-leo-service-tipping-point\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point"
+  },
+  {
+    "id": 3,
+    "title": "If you like COSMIC Desktop, you'll love its new system monitor",
+    "category": "TECH",
+    "date": "2026-07-02T09:00:38.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "If you like to see and manage your system processes on Linux, but aren't happy with the tool you're using, System76 might have just the app you've been looking for (and a reason to switch to either COSMIC Desktop or Pop!_OS).",
+    "content": "<h2>概要</h2><p>If you like to see and manage your system processes on Linux, but aren't happy with the tool you're using, System76 might have just the app you've been looking for (and a reason to switch to either COSMIC Desktop or Pop!_OS).</p><p><a href=\"https://www.zdnet.com/article/cosmic-desktop-new-system-monitor-and-its-out-of-this-world/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/cosmic-desktop-new-system-monitor-and-its-out-of-this-world/"
+  },
+  {
+    "id": 4,
+    "title": "New biosensor reveals rare lipid gathers in membrane hotspots during cell stress",
+    "category": "SCIENCE",
+    "date": "2026-07-02T09:00:04.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Inside every cell are lipid molecules that make up cellular membranes, helping organelles communicate and respond to stress. Researchers have struggled to observe lipids in action because current detection tools lack sufficient sensitivity and selectivity, hindering advances in understanding lipids.",
+    "content": "<h2>概要</h2><p>Inside every cell are lipid molecules that make up cellular membranes, helping organelles communicate and respond to stress. Researchers have struggled to observe lipids in action because current detection tools lack sufficient sensitivity and selectivity, hindering advances in understanding lipids.</p><p><a href=\"https://phys.org/news/2026-06-biosensor-reveals-rare-lipid-membrane.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-06-biosensor-reveals-rare-lipid-membrane.html"
+  },
+  {
+    "id": 5,
+    "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
+    "category": "WORLD",
+    "date": "2026-07-02T09:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "If we don’t know the source, not only do humans remain at risk but wildlife can suffer needlessly via retaliation\nWhile virologists and public health departments were palpitating over the news of an Andes virus infectious disease outbreak on a cruise ship (13 cases, three deaths), in the Democratic Republic of the Congo the Bundibugyo virus, the root of the current Ebola outbreak (currently more than 1,250 cases and at least 362 deaths), was smouldering under the radar.\nBundibugyo virus is a horrifying, highly fatal pathogen. Symptom onset is sudden and includes headaches, diarrhoea, malfunctioning kidneys and liver, and, less frequently, internal and external bleeding (hence the term “haemorrhagic disease”). Grimly, contagiousness remains after death, meaning the family and loved ones of the deceased can be exposed when they wash and clothe the body in preparation for the funeral.\n Continue reading...",
+    "content": "<h2>概要</h2><p>If we don’t know the source, not only do humans remain at risk but wildlife can suffer needlessly via retaliation\nWhile virologists and public health departments were palpitating over the news of an Andes virus infectious disease outbreak on a cruise ship (13 cases, three deaths), in the Democratic Republic of the Congo the Bundibugyo virus, the root of the current Ebola outbreak (currently more than 1,250 cases and at least 362 deaths), was smouldering under the radar.\nBundibugyo virus is a horrifying, highly fatal pathogen. Symptom onset is sudden and includes headaches, diarrhoea, malfunctioning kidneys and liver, and, less frequently, internal and external bleeding (hence the term “haemorrhagic disease”). Grimly, contagiousness remains after death, meaning the family and loved ones of the deceased can be exposed when they wash and clothe the body in preparation for the funeral.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak"
+  },
+  {
+    "id": 6,
+    "title": "Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse",
+    "category": "TECH",
+    "date": "2026-07-02T09:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Long hours outdoors, day drinking, and World Cup matches are among the factors raising the risks of heat-related illness, as hot weather spreads across the eastern US.",
+    "content": "<h2>概要</h2><p>Long hours outdoors, day drinking, and World Cup matches are among the factors raising the risks of heat-related illness, as hot weather spreads across the eastern US.</p><p><a href=\"https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/"
+  },
+  {
+    "id": 7,
+    "title": "Why California’s carbon manure math doesn’t add up",
+    "category": "TECH",
+    "date": "2026-07-02T09:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because…",
+    "content": "<h2>概要</h2><p>Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because…</p><p><a href=\"https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/"
+  },
+  {
+    "id": 8,
+    "title": "Why California’s carbon manure math doesn’t add up",
+    "category": "TECH",
+    "date": "2026-07-02T09:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because…",
+    "content": "<h2>概要</h2><p>Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because…</p><p><a href=\"https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/"
+  },
+  {
+    "id": 9,
+    "title": "Vatican declares Society of St. Pius X in schism, excommunicates bishops",
+    "category": "WORLD",
+    "date": "2026-07-02T08:54:48.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3829x2553+0+0/resize/3829x2553!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2Fba%2F5e1d3bcf426b8e44fef686dd40a4%2Fap26182448575316.jpg",
+    "summary": "The Vatican responded Thursday to a traditionalist society that consecrated bishops without the pope's consent, declaring the Society of St. Pius X in schism and excommunicating its bishops and priests.",
+    "content": "<h2>概要</h2><p>The Vatican responded Thursday to a traditionalist society that consecrated bishops without the pope's consent, declaring the Society of St. Pius X in schism and excommunicating its bishops and priests.</p><p><a href=\"https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism"
+  },
+  {
+    "id": 10,
+    "title": "Russia attacks Ukraine's capital, killing more than a dozen people",
+    "category": "WORLD",
+    "date": "2026-07-02T08:47:15.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5878894",
+    "summary": "Russia launched a large-scale attack on Ukraine's capital overnight into Thursday, with ballistic and cruise missiles and drones, killing several people.",
+    "content": "<h2>概要</h2><p>Russia launched a large-scale attack on Ukraine's capital overnight into Thursday, with ballistic and cruise missiles and drones, killing several people.</p><p><a href=\"https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people"
+  },
+  {
+    "id": 11,
+    "title": "'Gus' the T. rex presented in New York ahead of auction",
+    "category": "SCIENCE",
+    "date": "2026-07-02T08:40:02.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "One of the world's most complete Tyrannosaurus rex skeletons, nicknamed \"Gus,\" was showcased Wednesday at Sotheby's auction house in New York ahead of its sale later this month.",
+    "content": "<h2>概要</h2><p>One of the world's most complete Tyrannosaurus rex skeletons, nicknamed \"Gus,\" was showcased Wednesday at Sotheby's auction house in New York ahead of its sale later this month.</p><p><a href=\"https://phys.org/news/2026-07-gus-rex-york-auction.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-gus-rex-york-auction.html"
+  },
+  {
+    "id": 12,
+    "title": "Sightings of humpback whales surge in Rio de Janeiro, fueling demand for whale-watching trips",
+    "category": "SCIENCE",
+    "date": "2026-07-02T08:24:12.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Sightings of humpback whales off Rio de Janeiro's coast are surging as they recover from decimation due to commercial whaling, prompting an acceleration in the demand for whale-watching excursions to spot the huge marine creatures during their annual migration.",
+    "content": "<h2>概要</h2><p>Sightings of humpback whales off Rio de Janeiro's coast are surging as they recover from decimation due to commercial whaling, prompting an acceleration in the demand for whale-watching excursions to spot the huge marine creatures during their annual migration.</p><p><a href=\"https://phys.org/news/2026-07-sightings-humpback-whales-surge-rio.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-sightings-humpback-whales-surge-rio.html"
+  },
+  {
+    "id": 13,
+    "title": "Opera is releasing a new feature that detects and blocks malicious clipboard content",
+    "category": "TECH",
+    "date": "2026-07-02T08:00:52.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "If you tend to copy/paste content from websites, you might be surprised to find yourself under the thrall of a ClickFix attack, but Opera has a solution to fix it before you click it.",
+    "content": "<h2>概要</h2><p>If you tend to copy/paste content from websites, you might be surprised to find yourself under the thrall of a ClickFix attack, but Opera has a solution to fix it before you click it.</p><p><a href=\"https://www.zdnet.com/article/opera-is-releasing-a-new-feature-that-detects-and-blocks-malicious-clipboard-content/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/opera-is-releasing-a-new-feature-that-detects-and-blocks-malicious-clipboard-content/"
+  },
+  {
+    "id": 14,
+    "title": "Authorisation paves the way for Aeolus-2 wind mission ",
+    "category": "SPACE",
+    "date": "2026-07-02T08:00:00.000Z",
+    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/aeolus-2/27360039-1-eng-GB/Aeolus-2_card_full.jpg",
+    "summary": "Building on the remarkable success of the Earth Explorer Aeolus wind mission, the European Space Agency has given Airbus Defence and Space in the UK the authorisation to proceed to begin the development of Aeolus’ successor, Aeolus-2 – which is set to be built to enhance operational weather forecasts.",
+    "content": "<h2>概要</h2><p>Building on the remarkable success of the Earth Explorer Aeolus wind mission, the European Space Agency has given Airbus Defence and Space in the UK the authorisation to proceed to begin the development of Aeolus’ successor, Aeolus-2 – which is set to be built to enhance operational weather forecasts.</p><p><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ESA Top News",
+    "sourceUrl": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission"
+  },
+  {
+    "id": 15,
+    "title": "Beyond the dust: Families describe daily health challenges near the Salton Sea",
+    "category": "SCIENCE",
+    "date": "2026-07-02T07:40:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A study examining air quality and respiratory health in communities surrounding the Salton Sea in Southern California shows how environmental conditions, poor housing quality and structural inequities combine to place children at greater risk for respiratory illness.",
+    "content": "<h2>概要</h2><p>A study examining air quality and respiratory health in communities surrounding the Salton Sea in Southern California shows how environmental conditions, poor housing quality and structural inequities combine to place children at greater risk for respiratory illness.</p><p><a href=\"https://phys.org/news/2026-07-families-daily-health-salton-sea.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-families-daily-health-salton-sea.html"
+  },
+  {
+    "id": 16,
+    "title": "Singapore seizes $42m mansion over Nvidia chip smuggling",
+    "category": "BUSINESS",
+    "date": "2026-07-02T06:02:17.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
+    "content": "<h2>概要</h2><p>The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 17,
+    "title": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
+    "category": "WORLD",
+    "date": "2026-07-02T05:57:33.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F32%2F48%2Ff0f071e045e299c4c525eaa31299%2Fap26181388540646.jpg",
+    "summary": "U.S. and Iranian negotiators met separately on Wednesday with Qatari and Pakistani mediators, with \"positive progress made,\" and they agreed to continue discussions, host Qatar said.",
+    "content": "<h2>概要</h2><p>U.S. and Iranian negotiators met separately on Wednesday with Qatari and Pakistani mediators, with \"positive progress made,\" and they agreed to continue discussions, host Qatar said.</p><p><a href=\"https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar"
+  },
+  {
+    "id": 18,
+    "title": "Russian missiles and drones kill 11 and cause damage across Ukraine capital",
+    "category": "WORLD",
+    "date": "2026-07-02T05:47:53.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x4032+0+0/resize/6048x4032!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2F78%2F13af38144c1fb40644b3b526749c%2Fap26183118981553.jpg",
+    "summary": "The large-scale attack with ballistic and cruise missiles and drones damaged buildings and civilian infrastructure across the city. Many residents took shelter at metro stations.",
+    "content": "<h2>概要</h2><p>The large-scale attack with ballistic and cruise missiles and drones damaged buildings and civilian infrastructure across the city. Many residents took shelter at metro stations.</p><p><a href=\"https://www.npr.org/2026/07/02/g-s1-131681/russian-attack-ukraine\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/02/g-s1-131681/russian-attack-ukraine"
+  },
+  {
+    "id": 19,
+    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "category": "TECH",
+    "date": "2026-07-02T05:30:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+    "content": "<h2>概要</h2><p>Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.</p><p><a href=\"https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
+  },
+  {
+    "id": 20,
+    "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+    "category": "WORLD",
+    "date": "2026-07-02T05:00:03.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+    "content": "<h2>概要</h2><p>Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.</p><p><a href=\"https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 21,
+    "title": "Dell Coupon Codes: 20% Off for July 2026",
+    "category": "TECH",
+    "date": "2026-07-02T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+    "content": "<h2>概要</h2><p>Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.</p><p><a href=\"https://www.wired.com/story/dell-coupon-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/dell-coupon-code/"
+  },
+  {
+    "id": 22,
+    "title": "Paramount+ Coupon Codes and Deals for July 2026",
+    "category": "TECH",
+    "date": "2026-07-02T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+    "content": "<h2>概要</h2><p>Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.</p><p><a href=\"https://www.wired.com/story/paramount-plus-coupon-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/paramount-plus-coupon-code/"
+  },
+  {
+    "id": 23,
+    "title": "Booking.com Promo Codes: 20% Off | July 2026",
+    "category": "TECH",
+    "date": "2026-07-02T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+    "content": "<h2>概要</h2><p>Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.</p><p><a href=\"https://www.wired.com/story/booking-com-promo-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/booking-com-promo-code/"
+  },
+  {
+    "id": 24,
+    "title": "B&H Photo Promo Codes and Deals This July 2026",
+    "category": "TECH",
+    "date": "2026-07-02T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+    "content": "<h2>概要</h2><p>Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.</p><p><a href=\"https://www.wired.com/story/bh-photo-coupon/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/bh-photo-coupon/"
+  },
+  {
+    "id": 25,
+    "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+    "category": "WORLD",
+    "date": "2026-07-02T04:59:55.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+    "content": "<h2>概要</h2><p>An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 26,
+    "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute",
+    "category": "BUSINESS",
+    "date": "2026-07-02T04:59:47.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.",
+    "content": "<h2>概要</h2><p>Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.</p><p><a href=\"https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 27,
     "title": "Quiet outings linked to more frequent dangerous wildlife encounters",
     "category": "SCIENCE",
     "date": "2026-07-02T04:00:02.000Z",
@@ -11,51 +297,7 @@
     "sourceUrl": "https://phys.org/news/2026-06-quiet-outings-linked-frequent-dangerous.html"
   },
   {
-    "id": 2,
-    "title": "At least eight killed in major missile and drone strikes on Kyiv",
-    "category": "WORLD",
-    "date": "2026-07-02T03:24:45.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Russia launched its biggest strikes on the city in weeks hours after Volodymyr Zelensky said Moscow was planning a \"massive\" attack.",
-    "content": "<h2>概要</h2><p>Russia launched its biggest strikes on the city in weeks hours after Volodymyr Zelensky said Moscow was planning a \"massive\" attack.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 3,
-    "title": "New tool maps public land with potential for hundreds of thousands of affordable homes in British Columbia",
-    "category": "SCIENCE",
-    "date": "2026-07-02T02:40:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new research tool is highlighting publicly owned land that may have potential for affordable housing development in B.C., with early analysis revealing more than 50,000 parcels of publicly owned land in B.C. and up to 273,000 potential housing units on vacant and underused land in Metro Vancouver alone. The B.C. Public Lands Map is the first tool of its kind in Canada, combining federal, provincial and municipal data to identify prime parcels of public land—from empty plots to vacant government buildings to surface parking lots—suitable for affordable housing development.",
-    "content": "<h2>概要</h2><p>A new research tool is highlighting publicly owned land that may have potential for affordable housing development in B.C., with early analysis revealing more than 50,000 parcels of publicly owned land in B.C. and up to 273,000 potential housing units on vacant and underused land in Metro Vancouver alone. The B.C. Public Lands Map is the first tool of its kind in Canada, combining federal, provincial and municipal data to identify prime parcels of public land—from empty plots to vacant government buildings to surface parking lots—suitable for affordable housing development.</p><p><a href=\"https://phys.org/news/2026-07-tool-potential-hundreds-thousands-homes.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-tool-potential-hundreds-thousands-homes.html"
-  },
-  {
-    "id": 4,
-    "title": "Did this AI anti-drug video make drugs look appealing?",
-    "category": "WORLD",
-    "date": "2026-07-02T01:54:26.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Hong Kong’s Correctional Services Department removed a AI-generated K-pop video, after facing backlash that it made substances look too appealing.",
-    "content": "<h2>概要</h2><p>Hong Kong’s Correctional Services Department removed a AI-generated K-pop video, after facing backlash that it made substances look too appealing.</p><p><a href=\"https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 5,
-    "title": "LSST begins full operations with key contributions from Japanese researchers and engineers",
-    "category": "SCIENCE",
-    "date": "2026-07-02T01:40:05.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "NSF–DOE Vera C. Rubin Observatory has officially begun full operations for the Legacy Survey of Space and Time (LSST), one of the world's largest astronomical imaging surveys. Behind the scenes, Japanese researchers and engineers are drawing on technologies and expertise cultivated through the development and operation of the Subaru Telescope to support the project's software, systems and operations. More than 80 researchers from Japan are already participating in LSST science through access to its data. Looking ahead, the combination of Rubin's wide-area survey and the Subaru Telescope's detailed follow-up observations will help advance our understanding of fundamental mysteries of the universe.",
-    "content": "<h2>概要</h2><p>NSF–DOE Vera C. Rubin Observatory has officially begun full operations for the Legacy Survey of Space and Time (LSST), one of the world's largest astronomical imaging surveys. Behind the scenes, Japanese researchers and engineers are drawing on technologies and expertise cultivated through the development and operation of the Subaru Telescope to support the project's software, systems and operations. More than 80 researchers from Japan are already participating in LSST science through access to its data. Looking ahead, the combination of Rubin's wide-area survey and the Subaru Telescope's detailed follow-up observations will help advance our understanding of fundamental mysteries of the universe.</p><p><a href=\"https://phys.org/news/2026-07-lsst-full-key-contributions-japanese.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-lsst-full-key-contributions-japanese.html"
-  },
-  {
-    "id": 6,
+    "id": 28,
     "title": "LSST begins full operations with key contributions from Japanese researchers and engineers",
     "category": "SPACE",
     "date": "2026-07-02T01:40:05.000Z",
@@ -66,29 +308,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-lsst-full-key-contributions-japanese.html"
   },
   {
-    "id": 7,
-    "title": "Huge, specially designed heat pump saves a Norwegian agricultural cooperative millions",
-    "category": "SCIENCE",
-    "date": "2026-07-02T01:00:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "There are some magical limits to how much energy we can get out of a heat pump. This story is about pushing the technical limits. It is about getting more energy out than you put in. And it's about how SINTEF—one of Europe's largest applied research organizations—the renewable energy company Aneo, and the Norwegian agricultural cooperative Felleskjøpet together managed to shift the recovery of process heat from theoretical calculations in researchers' notebooks to becoming an industrial electricity-saving project on a large scale.",
-    "content": "<h2>概要</h2><p>There are some magical limits to how much energy we can get out of a heat pump. This story is about pushing the technical limits. It is about getting more energy out than you put in. And it's about how SINTEF—one of Europe's largest applied research organizations—the renewable energy company Aneo, and the Norwegian agricultural cooperative Felleskjøpet together managed to shift the recovery of process heat from theoretical calculations in researchers' notebooks to becoming an industrial electricity-saving project on a large scale.</p><p><a href=\"https://phys.org/news/2026-07-huge-specially-norwegian-agricultural-cooperative.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-huge-specially-norwegian-agricultural-cooperative.html"
-  },
-  {
-    "id": 8,
-    "title": "Sun-powered sponges may generate 11% of tropical coral reef productivity",
-    "category": "SCIENCE",
-    "date": "2026-07-02T00:40:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "In marine environments, sponges tend to eat other organisms to get their nutrients. But a study published in Functional Ecology by researchers at the University of Amsterdam's Institute for Biodiversity and Ecosystem Dynamics (IBED), demonstrates how sponges may also use photosynthesis, just like plants. This phenomenon can help with productivity—the amount of energy and food produced—in tropical coral reefs, and perhaps in other ecosystems where sponges are also common.",
-    "content": "<h2>概要</h2><p>In marine environments, sponges tend to eat other organisms to get their nutrients. But a study published in Functional Ecology by researchers at the University of Amsterdam's Institute for Biodiversity and Ecosystem Dynamics (IBED), demonstrates how sponges may also use photosynthesis, just like plants. This phenomenon can help with productivity—the amount of energy and food produced—in tropical coral reefs, and perhaps in other ecosystems where sponges are also common.</p><p><a href=\"https://phys.org/news/2026-07-sun-powered-sponges-generate-tropical.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-sun-powered-sponges-generate-tropical.html"
-  },
-  {
-    "id": 9,
+    "id": 29,
     "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
     "category": "WORLD",
     "date": "2026-07-02T00:26:13.000Z",
@@ -99,7 +319,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 10,
+    "id": 30,
     "title": "What’s Up: July 2026 Skywatching Tips from NASA",
     "category": "SPACE",
     "date": "2026-07-02T00:22:22.000Z",
@@ -110,7 +330,7 @@
     "sourceUrl": "https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/"
   },
   {
-    "id": 11,
+    "id": 31,
     "title": "What’s Up: July 2026 Skywatching Tips from NASA",
     "category": "SPACE",
     "date": "2026-07-02T00:22:22.000Z",
@@ -121,7 +341,7 @@
     "sourceUrl": "https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/"
   },
   {
-    "id": 12,
+    "id": 32,
     "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
     "category": "TECH",
     "date": "2026-07-01T23:57:55.000Z",
@@ -132,7 +352,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/"
   },
   {
-    "id": 13,
+    "id": 33,
     "title": "Don't expect trackers to save your stolen car, experts say",
     "category": "TECH",
     "date": "2026-07-01T23:31:43.000Z",
@@ -143,7 +363,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 14,
+    "id": 34,
     "title": "Don't expect trackers to save your stolen car, experts say",
     "category": "BUSINESS",
     "date": "2026-07-01T23:31:43.000Z",
@@ -154,7 +374,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 15,
+    "id": 35,
     "title": "New star activity catalog could sharpen hunt for habitable worlds",
     "category": "SPACE",
     "date": "2026-07-01T23:20:01.000Z",
@@ -165,18 +385,18 @@
     "sourceUrl": "https://phys.org/news/2026-07-star-sharpen-habitable-worlds.html"
   },
   {
-    "id": 16,
-    "title": "The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq",
-    "category": "TECH",
-    "date": "2026-07-01T23:16:11.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Fourth of July weekend is the last great grill and griddle sale of the summer, including $250 off my favorite pellet smoker.",
-    "content": "<h2>概要</h2><p>Fourth of July weekend is the last great grill and griddle sale of the summer, including $250 off my favorite pellet smoker.</p><p><a href=\"https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/"
+    "id": 36,
+    "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
+    "category": "BUSINESS",
+    "date": "2026-07-01T23:01:32.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "When the US-Israel war with Iran began, fuel costs jumped, but they are now plummeting as hope of lasting peace grows.",
+    "content": "<h2>概要</h2><p>When the US-Israel war with Iran began, fuel costs jumped, but they are now plummeting as hope of lasting peace grows.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 17,
+    "id": 37,
     "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
     "category": "TECH",
     "date": "2026-07-01T22:47:04.000Z",
@@ -187,7 +407,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/"
   },
   {
-    "id": 18,
+    "id": 38,
     "title": "Cosmic dust could play key role in cracking long-standing mystery of solar corona heating",
     "category": "SPACE",
     "date": "2026-07-01T22:40:05.000Z",
@@ -198,7 +418,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-cosmic-play-key-role-mystery.html"
   },
   {
-    "id": 19,
+    "id": 39,
     "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
     "category": "TECH",
     "date": "2026-07-01T22:39:43.000Z",
@@ -209,7 +429,7 @@
     "sourceUrl": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update"
   },
   {
-    "id": 20,
+    "id": 40,
     "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
     "category": "WORLD",
     "date": "2026-07-01T22:36:43.000Z",
@@ -220,7 +440,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 21,
+    "id": 41,
     "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
     "category": "TECH",
     "date": "2026-07-01T22:28:35.000Z",
@@ -231,7 +451,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/"
   },
   {
-    "id": 22,
+    "id": 42,
     "title": "The funeral for PlayStation discs has begun",
     "category": "TECH",
     "date": "2026-07-01T22:03:37.000Z",
@@ -242,7 +462,7 @@
     "sourceUrl": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores"
   },
   {
-    "id": 23,
+    "id": 43,
     "title": "WhatsApp usernames are already raising impersonation red flags",
     "category": "TECH",
     "date": "2026-07-01T22:02:24.000Z",
@@ -253,7 +473,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/"
   },
   {
-    "id": 24,
+    "id": 44,
     "title": " Steven Spielberg sci-fi movies ranked, worst to best ",
     "category": "SPACE",
     "date": "2026-07-01T22:00:00.000Z",
@@ -264,18 +484,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/steven-spielberg-sci-fi-movies-ranked-worst-to-best"
   },
   {
-    "id": 25,
-    "title": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
-    "category": "TECH",
-    "date": "2026-07-01T21:34:03.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Fans’ euphoric reactions to the Mexican national team’s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.",
-    "content": "<h2>概要</h2><p>Fans’ euphoric reactions to the Mexican national team’s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.</p><p><a href=\"https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/"
-  },
-  {
-    "id": 26,
+    "id": 45,
     "title": "I wore the Oura Ring 5 for a month, and it's an even bigger upgrade than expected",
     "category": "TECH",
     "date": "2026-07-01T21:24:00.000Z",
@@ -286,7 +495,7 @@
     "sourceUrl": "https://www.zdnet.com/article/oura-ring-5-review/"
   },
   {
-    "id": 27,
+    "id": 46,
     "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
     "category": "TECH",
     "date": "2026-07-01T21:21:21.000Z",
@@ -297,7 +506,7 @@
     "sourceUrl": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/"
   },
   {
-    "id": 28,
+    "id": 47,
     "title": "Nautilus array to track missing exoplanet atmospheres",
     "category": "SPACE",
     "date": "2026-07-01T21:20:01.000Z",
@@ -308,7 +517,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-nautilus-array-track-exoplanet-atmospheres.html"
   },
   {
-    "id": 29,
+    "id": 48,
     "title": "Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures",
     "category": "TECH",
     "date": "2026-07-01T21:00:00.000Z",
@@ -319,7 +528,7 @@
     "sourceUrl": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures"
   },
   {
-    "id": 30,
+    "id": 49,
     "title": "MIT in the media: Innovating and educating for the next 250 years of America",
     "category": "TECH",
     "date": "2026-07-01T20:30:00.000Z",
@@ -330,18 +539,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america"
   },
   {
-    "id": 31,
-    "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
-    "category": "TECH",
-    "date": "2026-07-01T20:28:57.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
-    "content": "<h2>概要</h2><p>Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.</p><p><a href=\"https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/"
-  },
-  {
-    "id": 32,
+    "id": 50,
     "title": "NASA’s Chandra Examines Milky Way at Arms’ Length",
     "category": "SPACE",
     "date": "2026-07-01T20:17:20.000Z",
@@ -352,7 +550,7 @@
     "sourceUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/"
   },
   {
-    "id": 33,
+    "id": 51,
     "title": "NASA’s Chandra Examines Milky Way at Arms’ Length",
     "category": "SPACE",
     "date": "2026-07-01T20:17:20.000Z",
@@ -363,7 +561,7 @@
     "sourceUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/"
   },
   {
-    "id": 34,
+    "id": 52,
     "title": "“It’s Like Using a Time Machine” Unexpected Cosmic ‘Life After Death’ Discovered on Planets Around a Burned-Out Star",
     "category": "MYSTERY",
     "date": "2026-07-01T20:11:07.000Z",
@@ -374,7 +572,7 @@
     "sourceUrl": "https://thedebrief.org/its-like-using-a-time-machine-unexpected-cosmic-life-after-death-discovered-on-planets-around-a-burned-out-star/"
   },
   {
-    "id": 35,
+    "id": 53,
     "title": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
     "category": "TECH",
     "date": "2026-07-01T20:10:21.000Z",
@@ -385,18 +583,7 @@
     "sourceUrl": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk"
   },
   {
-    "id": 36,
-    "title": "Halifax brand to be scrapped after 173 years",
-    "category": "BUSINESS",
-    "date": "2026-07-01T20:09:05.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Lloyds says it remains committed to the town of Halifax and very little will change for customers.",
-    "content": "<h2>概要</h2><p>Lloyds says it remains committed to the town of Halifax and very little will change for customers.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 37,
+    "id": 54,
     "title": "AI’s Growing Appetite for Energy and Water Sparks a New Cooling Solution Beneath the Earth",
     "category": "MYSTERY",
     "date": "2026-07-01T20:05:16.000Z",
@@ -407,18 +594,18 @@
     "sourceUrl": "https://thedebrief.org/ais-growing-appetite-for-energy-and-water-sparks-a-new-cooling-solution-beneath-the-earth/"
   },
   {
-    "id": 38,
-    "title": " Watch Atlas V rocket launch 29 Amazon Leo broadband satellites early on July 2 ",
+    "id": 55,
+    "title": " Atlas V rocket launches 29 Amazon Leo broadband satellites to orbit from Florida (video) ",
     "category": "SPACE",
     "date": "2026-07-01T20:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/TRDGn92Lq42gjeTDHz5PHA-1280-80.jpg",
-    "summary": "A United Launch Alliance Atlas V rocket will launch 29 Amazon Leo internet satellites to orbit from Florida early Thursday morning (July 2), and you can watch it live.",
-    "content": "<h2>概要</h2><p>A United Launch Alliance Atlas V rocket will launch 29 Amazon Leo internet satellites to orbit from Florida early Thursday morning (July 2), and you can watch it live.</p><p><a href=\"https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-8-internet-satellite-launch\" target=\"_blank\">出典記事を読む</a></p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/YpKS6jtBL5AXned6M7SDmT-1280-80.jpg",
+    "summary": "A United Launch Alliance Atlas V rocket launched 29 more Amazon Leo internet satellites to orbit from Florida early Thursday morning (July 2).",
+    "content": "<h2>概要</h2><p>A United Launch Alliance Atlas V rocket launched 29 more Amazon Leo internet satellites to orbit from Florida early Thursday morning (July 2).</p><p><a href=\"https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-8-internet-satellite-launch\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "Space.com",
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-8-internet-satellite-launch"
   },
   {
-    "id": 39,
+    "id": 56,
     "title": "I tested the LG C6 OLED for a week, and its color accuracy and contrast levels left me in awe",
     "category": "TECH",
     "date": "2026-07-01T20:00:00.000Z",
@@ -429,7 +616,7 @@
     "sourceUrl": "https://www.zdnet.com/article/lg-c6-oled-review/"
   },
   {
-    "id": 40,
+    "id": 57,
     "title": "NASA chief praises progress Blue Origin is making after launch failure",
     "category": "TECH",
     "date": "2026-07-01T19:57:36.000Z",
@@ -440,7 +627,7 @@
     "sourceUrl": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/"
   },
   {
-    "id": 41,
+    "id": 58,
     "title": "I've tested many portable Linux distros, but PorteuX is the one I keep on my USB drive",
     "category": "TECH",
     "date": "2026-07-01T19:51:00.000Z",
@@ -451,18 +638,7 @@
     "sourceUrl": "https://www.zdnet.com/article/porteux-linux-is-one-of-the-best-portable-distributions-ive-used/"
   },
   {
-    "id": 42,
-    "title": "An Explosion Knocked Out Anduril’s Rocket Motor Test Site in Mississippi",
-    "category": "TECH",
-    "date": "2026-07-01T19:29:21.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The incident could disrupt a key part of the defense company’s rocket motor business, which designs and tests prototype motors for military customers.",
-    "content": "<h2>概要</h2><p>The incident could disrupt a key part of the defense company’s rocket motor business, which designs and tests prototype motors for military customers.</p><p><a href=\"https://www.wired.com/story/anduril-mississippi-explosion-missiles-rocket-motor/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/anduril-mississippi-explosion-missiles-rocket-motor/"
-  },
-  {
-    "id": 43,
+    "id": 59,
     "title": "TESS just found a planet in a new way—and more may be hiding in its eight years of data",
     "category": "SPACE",
     "date": "2026-07-01T19:21:57.000Z",
@@ -473,18 +649,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-tess-planet-years.html"
   },
   {
-    "id": 44,
-    "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
-    "category": "TECH",
-    "date": "2026-07-01T19:18:07.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Research appears to reveal a bug that could render the feature effectively useless.",
-    "content": "<h2>概要</h2><p>Research appears to reveal a bug that could render the feature effectively useless.</p><p><a href=\"https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/"
-  },
-  {
-    "id": 45,
+    "id": 60,
     "title": "US home battery installations hit record high on rising electricity costs",
     "category": "TECH",
     "date": "2026-07-01T19:11:15.000Z",
@@ -495,18 +660,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/"
   },
   {
-    "id": 46,
-    "title": "Your old Android phone can be turned into a dashcam for free - how I did it in 5 easy steps",
-    "category": "TECH",
-    "date": "2026-07-01T19:00:08.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Want a dashcam? Before buying one, repurpose an old phone. It's free, takes minutes, and works well.",
-    "content": "<h2>概要</h2><p>Want a dashcam? Before buying one, repurpose an old phone. It's free, takes minutes, and works well.</p><p><a href=\"https://www.zdnet.com/article/how-to-turn-phone-into-dashcam-for-free/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/how-to-turn-phone-into-dashcam-for-free/"
-  },
-  {
-    "id": 47,
+    "id": 61,
     "title": " 'Rocket's Red Glare': How NASA's Artemis 2 moon mission celebrated America's 250th birthday ",
     "category": "SPACE",
     "date": "2026-07-01T19:00:00.000Z",
@@ -517,7 +671,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/artemis/rockets-red-glare-how-nasas-artemis-2-moon-mission-celebrated-americas-250th-birthday"
   },
   {
-    "id": 48,
+    "id": 62,
     "title": "Superworms could replace beetles for cleaning skeletal remains",
     "category": "TECH",
     "date": "2026-07-01T18:59:21.000Z",
@@ -528,18 +682,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/"
   },
   {
-    "id": 49,
-    "title": "US blocks long-term renewal of North American trade deal",
-    "category": "BUSINESS",
-    "date": "2026-07-01T18:56:36.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
-    "content": "<h2>概要</h2><p>US blocks 16-year North America trade deal renewal, triggering annual rolling reviews</p><p><a href=\"https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 50,
+    "id": 63,
     "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
     "category": "TECH",
     "date": "2026-07-01T18:41:49.000Z",
@@ -550,18 +693,7 @@
     "sourceUrl": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/"
   },
   {
-    "id": 51,
-    "title": "I tested Lenovo's new modular ThinkPad, and it renewed my faith in repairable laptops",
-    "category": "TECH",
-    "date": "2026-07-01T18:30:24.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
-    "content": "<h2>概要</h2><p>The 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.</p><p><a href=\"https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/"
-  },
-  {
-    "id": 52,
+    "id": 64,
     "title": "Boleslaw Wyslouch steps down as director of Laboratory for Nuclear Science",
     "category": "TECH",
     "date": "2026-07-01T18:30:00.000Z",
@@ -572,7 +704,7 @@
     "sourceUrl": "https://news.mit.edu/2026/boleslaw-wyslouch-steps-down-director-laboratory-nuclear-science-0701"
   },
   {
-    "id": 53,
+    "id": 65,
     "title": "Boleslaw Wyslouch steps down as director of Laboratory for Nuclear Science",
     "category": "SCIENCE",
     "date": "2026-07-01T18:30:00.000Z",
@@ -583,29 +715,7 @@
     "sourceUrl": "https://news.mit.edu/2026/boleslaw-wyslouch-steps-down-director-laboratory-nuclear-science-0701"
   },
   {
-    "id": 54,
-    "title": "Ukrainian charged in Germany over Nord Stream blasts",
-    "category": "WORLD",
-    "date": "2026-07-01T18:19:32.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
-    "content": "<h2>概要</h2><p>Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 55,
-    "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-    "category": "TECH",
-    "date": "2026-07-01T18:10:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
-    "content": "<h2>概要</h2><p>Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.</p><p><a href=\"https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/"
-  },
-  {
-    "id": 56,
+    "id": 66,
     "title": " This weird 'hot Jupiter' exoplanet has a hotspot in the wrong place, and astronomers aren't sure how ",
     "category": "SPACE",
     "date": "2026-07-01T18:00:00.000Z",
@@ -616,7 +726,7 @@
     "sourceUrl": "https://www.space.com/astronomy/exoplanets/this-weird-hot-jupiter-exoplanet-has-a-hotspot-in-the-wrong-place-and-astronomers-arent-sure-how"
   },
   {
-    "id": 57,
+    "id": 67,
     "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
     "category": "WORLD",
     "date": "2026-07-01T17:54:10.000Z",
@@ -627,18 +737,7 @@
     "sourceUrl": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates"
   },
   {
-    "id": 58,
-    "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
-    "category": "TECH",
-    "date": "2026-07-01T17:45:23.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/SN2_Coral_Gardens_with_Friends_4K.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports.\nThe dispute began last year after Krafton pushed out Unknown Worlds' cofounders, Charlie Cleveland and Max McGuire, and its CEO, Ted Gill, ahead of a potential $250 million bonus for hitting certain financial goals that would have been shared with the studio. After the executives sued, a judge reinstated Gill as CEO in March, and Subnautica 2 finally launched in early access in May. The game passed four million copies sold in five days.\nDetails  …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports.\nThe dispute began last year after Krafton pushed out Unknown Worlds' cofounders, Charlie Cleveland and Max McGuire, and its CEO, Ted Gill, ahead of a potential $250 million bonus for hitting certain financial goals that would have been shared with the studio. After the executives sued, a judge reinstated Gill as CEO in March, and Subnautica 2 finally launched in early access in May. The game passed four million copies sold in five days.\nDetails  …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds"
-  },
-  {
-    "id": 59,
+    "id": 68,
     "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
     "category": "BUSINESS",
     "date": "2026-07-01T17:22:25.000Z",
@@ -649,7 +748,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 60,
+    "id": 69,
     "title": " The growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic' ",
     "category": "SPACE",
     "date": "2026-07-01T16:56:49.000Z",
@@ -660,7 +759,7 @@
     "sourceUrl": "https://www.space.com/astronomy/the-growing-number-of-satellites-in-orbit-could-soon-make-telescopes-obsolete-for-astronomy-this-would-obviously-be-catastrophic"
   },
   {
-    "id": 61,
+    "id": 70,
     "title": "PlayStation will stop releasing games on discs in 2028",
     "category": "TECH",
     "date": "2026-07-01T16:40:58.000Z",
@@ -671,7 +770,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 62,
+    "id": 71,
     "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
     "category": "SPACE",
     "date": "2026-07-01T16:15:14.000Z",
@@ -682,7 +781,7 @@
     "sourceUrl": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/"
   },
   {
-    "id": 63,
+    "id": 72,
     "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
     "category": "SPACE",
     "date": "2026-07-01T16:15:14.000Z",
@@ -693,7 +792,7 @@
     "sourceUrl": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/"
   },
   {
-    "id": 64,
+    "id": 73,
     "title": "LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory",
     "category": "SPACE",
     "date": "2026-07-01T15:20:29.000Z",
@@ -704,7 +803,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/"
   },
   {
-    "id": 65,
+    "id": 74,
     "title": "LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory",
     "category": "SPACE",
     "date": "2026-07-01T15:20:29.000Z",
@@ -715,7 +814,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/"
   },
   {
-    "id": 66,
+    "id": 75,
     "title": "NASA’s Webb Studies How Planet Survived Death of its Star",
     "category": "SPACE",
     "date": "2026-07-01T15:00:00.000Z",
@@ -726,7 +825,7 @@
     "sourceUrl": "https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/"
   },
   {
-    "id": 67,
+    "id": 76,
     "title": "NASA’s Webb Studies How Planet Survived Death of its Star",
     "category": "SPACE",
     "date": "2026-07-01T15:00:00.000Z",
@@ -737,7 +836,7 @@
     "sourceUrl": "https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/"
   },
   {
-    "id": 68,
+    "id": 77,
     "title": "Webb studies how a planet survived the death of its star",
     "category": "SPACE",
     "date": "2026-07-01T15:00:00.000Z",
@@ -748,18 +847,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star"
   },
   {
-    "id": 69,
-    "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
-    "category": "WORLD",
-    "date": "2026-07-01T14:57:00.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2Fcd%2F2c9fbeb84b2587570260c732ef75%2Fap26182241110755.jpg",
-    "summary": "Police are investigating whether negligence during construction work caused the collapse in the eastern city of Lahore on Tuesday.",
-    "content": "<h2>概要</h2><p>Police are investigating whether negligence during construction work caused the collapse in the eastern city of Lahore on Tuesday.</p><p><a href=\"https://www.npr.org/2026/07/01/g-s1-131537/funerals-held-for-14-pakistani-children-killed-in-tutoring-center-collapse\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/01/g-s1-131537/funerals-held-for-14-pakistani-children-killed-in-tutoring-center-collapse"
-  },
-  {
-    "id": 70,
+    "id": 78,
     "title": "A Mysterious Circular Structure Buried Under the North Sea Has Revealed New Evidence of an Ancient Cataclysmic Event",
     "category": "MYSTERY",
     "date": "2026-07-01T14:42:32.000Z",
@@ -770,7 +858,7 @@
     "sourceUrl": "https://thedebrief.org/a-mysterious-circular-structure-buried-under-the-north-sea-has-revealed-new-evidence-of-an-ancient-cataclysmic-event/"
   },
   {
-    "id": 71,
+    "id": 79,
     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
     "category": "TECH",
     "date": "2026-07-01T14:35:16.000Z",
@@ -781,7 +869,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
   },
   {
-    "id": 72,
+    "id": 80,
     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
     "category": "TECH",
     "date": "2026-07-01T14:35:16.000Z",
@@ -792,7 +880,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
   },
   {
-    "id": 73,
+    "id": 81,
     "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
     "category": "TECH",
     "date": "2026-07-01T14:01:06.000Z",
@@ -803,7 +891,18 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 74,
+    "id": 82,
+    "title": "Mediterranean Sea breaks June surface heat record",
+    "category": "SPACE",
+    "date": "2026-07-01T13:45:00.000Z",
+    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mediterranean_sea_breaks_june_surface_heat_record/27360205-1-eng-GB/Mediterranean_Sea_breaks_June_surface_heat_record_card_full.jpg",
+    "summary": "Image:\n\t\t\tThis image shows the sea surface temperature anomaly detected in the Mediterranean Sea on 29 June 2026.",
+    "content": "<h2>概要</h2><p>Image:\n\t\t\tThis image shows the sea surface temperature anomaly detected in the Mediterranean Sea on 29 June 2026.</p><p><a href=\"https://www.esa.int/ESA_Multimedia/Images/2026/07/Mediterranean_Sea_breaks_June_surface_heat_record\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ESA Top News",
+    "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Mediterranean_Sea_breaks_June_surface_heat_record"
+  },
+  {
+    "id": 83,
     "title": "This Strange Exoplanet Has Revealed “the Clearest Evidence To Date” of Something Many Astronomers Suspected",
     "category": "MYSTERY",
     "date": "2026-07-01T12:59:02.000Z",
@@ -814,7 +913,7 @@
     "sourceUrl": "https://thedebrief.org/this-strange-exoplanet-has-revealed-first-evidence-to-date-of-something-many-astronomers-suspected/"
   },
   {
-    "id": 75,
+    "id": 84,
     "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
     "category": "WORLD",
     "date": "2026-07-01T12:45:00.000Z",
@@ -825,7 +924,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing"
   },
   {
-    "id": 76,
+    "id": 85,
     "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
     "category": "TECH",
     "date": "2026-07-01T12:10:00.000Z",
@@ -836,7 +935,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
   },
   {
-    "id": 77,
+    "id": 86,
     "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
     "category": "TECH",
     "date": "2026-07-01T12:10:00.000Z",
@@ -847,7 +946,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
   },
   {
-    "id": 78,
+    "id": 87,
     "title": "XMM-Newton helps revise distance to outer spiral arms",
     "category": "SPACE",
     "date": "2026-07-01T12:00:00.000Z",
@@ -858,18 +957,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms"
   },
   {
-    "id": 79,
-    "title": "Greetings from London, where Banksy's flag man is a warning cry",
-    "category": "WORLD",
-    "date": "2026-07-01T10:00:00.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2Fd1%2Fc110dce34d06b006b426eeffcd1f%2Ffarflungpostcard-vni.jpg",
-    "summary": "As he marches on, his flag blows back into his face, leaving him unaware he is only a step away from a perilous fall. As usual with Banksy's art, the statue presents a sharp critique of society.",
-    "content": "<h2>概要</h2><p>As he marches on, his flag blows back into his face, leaving him unaware he is only a step away from a perilous fall. As usual with Banksy's art, the statue presents a sharp critique of society.</p><p><a href=\"https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london"
-  },
-  {
-    "id": 80,
+    "id": 88,
     "title": "A portable ultrasound system could make reliable breast imaging more accessible",
     "category": "TECH",
     "date": "2026-07-01T09:00:00.000Z",
@@ -880,7 +968,7 @@
     "sourceUrl": "https://news.mit.edu/2026/portable-ultrasound-system-could-make-reliable-breast-imaging-more-accessible-0701"
   },
   {
-    "id": 81,
+    "id": 89,
     "title": "How urban design leads to better wellness",
     "category": "TECH",
     "date": "2026-07-01T09:00:00.000Z",
@@ -891,18 +979,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-urban-design-leads-to-better-wellness-0701"
   },
   {
-    "id": 82,
-    "title": "Thousands of planets are hidden in this photo",
-    "category": "SPACE",
-    "date": "2026-07-01T08:00:00.000Z",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/thousands_of_planets_are_hidden_in_this_photo/27352534-8-eng-GB/Thousands_of_planets_are_hidden_in_this_photo_card_full.png",
-    "summary": "Video: \n\t\t\t00:10:45\n\t\t\t\t\nMillions of stars. Thousands of hidden worlds. One unprecedented view of our galaxy.\nThree years since launch, ESA’s Euclid space telescope reveals the Milky Way galaxy’s centre in extraordinary detail: a mosaic of tens of millions of stars captured in just 26 hours.But this is more than an image. It is a map of stellar evolution, from dark clouds where stars are being born to ancient populations packed into the galactic bulge.\nAnd hidden within this dense field of light are planets we cannot see directly.\nThrough gravitational microlensing, astronomers detect distant worlds by measuring tiny, temporary changes in light as stars pass in front of one another, revealing planets and even their masses through gravity alone.\nEuclid, originally built to explore dark matter and dark energy, is now helping open a new window on our own galaxy, and the unseen worlds within it.",
-    "content": "<h2>概要</h2><p>Video: \n\t\t\t00:10:45\n\t\t\t\t\nMillions of stars. Thousands of hidden worlds. One unprecedented view of our galaxy.\nThree years since launch, ESA’s Euclid space telescope reveals the Milky Way galaxy’s centre in extraordinary detail: a mosaic of tens of millions of stars captured in just 26 hours.But this is more than an image. It is a map of stellar evolution, from dark clouds where stars are being born to ancient populations packed into the galactic bulge.\nAnd hidden within this dense field of light are planets we cannot see directly.\nThrough gravitational microlensing, astronomers detect distant worlds by measuring tiny, temporary changes in light as stars pass in front of one another, revealing planets and even their masses through gravity alone.\nEuclid, originally built to explore dark matter and dark energy, is now helping open a new window on our own galaxy, and the unseen worlds within it.</p><p><a href=\"https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ESA Top News",
-    "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo"
-  },
-  {
-    "id": 83,
+    "id": 90,
     "title": "Why is crucial tech vulnerable to the heat?",
     "category": "TECH",
     "date": "2026-07-01T07:23:12.000Z",
@@ -913,7 +990,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 84,
+    "id": 91,
     "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
     "category": "WORLD",
     "date": "2026-07-01T07:00:29.000Z",
@@ -924,29 +1001,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population"
   },
   {
-    "id": 85,
-    "title": "The space under ",
-    "category": "SPACE",
-    "date": "2026-07-01T07:00:00.000Z",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/navigating_an_underground_river/27359626-1-eng-GB/Navigating_an_underground_river_card_full.jpg",
-    "summary": "Five explorers from three space agencies have successfully completed ESA’s CAVES training course in Italy.",
-    "content": "<h2>概要</h2><p>Five explorers from three space agencies have successfully completed ESA’s CAVES training course in Italy.</p><p><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_space_under\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ESA Top News",
-    "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_space_under"
-  },
-  {
-    "id": 86,
-    "title": "Mexico ends a 40-year knockout drought, beats Ecuador to advance in World Cup",
-    "category": "WORLD",
-    "date": "2026-07-01T06:56:58.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3094x2063+0+0/resize/3094x2063!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F0c%2F989b729e4594b72c5c655f1d01f8%2Fap26182096685868.jpg",
-    "summary": "Mexico lost seven consecutive times at that same stage from 1994 to 2018 and didn't advance past the group stage in 2022. Now, the 40-year wait is over.",
-    "content": "<h2>概要</h2><p>Mexico lost seven consecutive times at that same stage from 1994 to 2018 and didn't advance past the group stage in 2022. Now, the 40-year wait is over.</p><p><a href=\"https://www.npr.org/2026/07/01/nx-s1-5877257/mexico-beats-ecuador-advance-world-cup\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/01/nx-s1-5877257/mexico-beats-ecuador-advance-world-cup"
-  },
-  {
-    "id": 87,
+    "id": 92,
     "title": "The brain’s language network is more extensive than previously thought",
     "category": "TECH",
     "date": "2026-07-01T04:00:00.000Z",
@@ -957,7 +1012,7 @@
     "sourceUrl": "https://news.mit.edu/2026/brain-language-network-more-extensive-than-previously-thought-0701"
   },
   {
-    "id": 88,
+    "id": 93,
     "title": "The brain’s language network is more extensive than previously thought",
     "category": "SCIENCE",
     "date": "2026-07-01T04:00:00.000Z",
@@ -968,7 +1023,7 @@
     "sourceUrl": "https://news.mit.edu/2026/brain-language-network-more-extensive-than-previously-thought-0701"
   },
   {
-    "id": 89,
+    "id": 94,
     "title": "E-scooters being advertised for commuting despite UK road ban",
     "category": "TECH",
     "date": "2026-06-30T23:05:08.000Z",
@@ -979,73 +1034,51 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 90,
-    "title": "Plea for households to read energy meter as prices rise",
-    "category": "BUSINESS",
-    "date": "2026-06-30T23:02:02.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
-    "content": "<h2>概要</h2><p>Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 91,
-    "title": "Claude Science is Anthropic’s newest flagship product",
-    "category": "TECH",
-    "date": "2026-06-30T21:50:04.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
-    "content": "<h2>概要</h2><p>At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…</p><p><a href=\"https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
-  },
-  {
-    "id": 92,
-    "title": "Claude Science is Anthropic’s newest flagship product",
-    "category": "TECH",
-    "date": "2026-06-30T21:50:04.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
-    "content": "<h2>概要</h2><p>At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…</p><p><a href=\"https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
-  },
-  {
-    "id": 93,
-    "title": "Belfast violence: What to know about the fascist youth groups known as 'active clubs'",
-    "category": "WORLD",
-    "date": "2026-06-30T21:23:09.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5858882",
-    "summary": "Racist mob violence in Northern Ireland earlier this month has drawn keen interest from extremist groups and figures in the U.S.",
-    "content": "<h2>概要</h2><p>Racist mob violence in Northern Ireland earlier this month has drawn keen interest from extremist groups and figures in the U.S.</p><p><a href=\"https://www.npr.org/2026/06/30/nx-s1-5858882/belfast-violence-what-to-know-about-the-fascist-youth-groups-known-as-active-clubs\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/06/30/nx-s1-5858882/belfast-violence-what-to-know-about-the-fascist-youth-groups-known-as-active-clubs"
-  },
-  {
-    "id": 94,
-    "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-    "category": "TECH",
-    "date": "2026-06-30T17:36:48.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers: Mary Beth Griggs, science editor and Jessica…",
-    "content": "<h2>概要</h2><p>Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers: Mary Beth Griggs, science editor and Jessica…</p><p><a href=\"https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/"
-  },
-  {
     "id": 95,
-    "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+    "title": "Claude Science is Anthropic’s newest flagship product",
     "category": "TECH",
-    "date": "2026-06-30T17:36:48.000Z",
+    "date": "2026-06-30T21:50:04.000Z",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers: Mary Beth Griggs, science editor and Jessica…",
-    "content": "<h2>概要</h2><p>Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers: Mary Beth Griggs, science editor and Jessica…</p><p><a href=\"https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
+    "content": "<h2>概要</h2><p>At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…</p><p><a href=\"https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/"
+    "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
   },
   {
     "id": 96,
+    "title": "Claude Science is Anthropic’s newest flagship product",
+    "category": "TECH",
+    "date": "2026-06-30T21:50:04.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
+    "content": "<h2>概要</h2><p>At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…</p><p><a href=\"https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+  },
+  {
+    "id": 97,
+    "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+    "category": "TECH",
+    "date": "2026-06-30T17:36:48.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers: Mary Beth Griggs, science editor and Jessica…",
+    "content": "<h2>概要</h2><p>Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers: Mary Beth Griggs, science editor and Jessica…</p><p><a href=\"https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/"
+  },
+  {
+    "id": 98,
+    "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+    "category": "TECH",
+    "date": "2026-06-30T17:36:48.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers: Mary Beth Griggs, science editor and Jessica…",
+    "content": "<h2>概要</h2><p>Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers: Mary Beth Griggs, science editor and Jessica…</p><p><a href=\"https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/"
+  },
+  {
+    "id": 99,
     "title": "MIT student teams win top honors in NASA competition",
     "category": "TECH",
     "date": "2026-06-30T17:30:00.000Z",
@@ -1056,7 +1089,7 @@
     "sourceUrl": "https://news.mit.edu/2026/interdisciplinary-mit-teams-win-top-honors-nasa-competition-0630"
   },
   {
-    "id": 97,
+    "id": 100,
     "title": "MIT researchers advance toward greater bandwidth, more energy-efficient communications",
     "category": "TECH",
     "date": "2026-06-30T17:00:00.000Z",
@@ -1067,7 +1100,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-researchers-advance-toward-greater-bandwidth-more-energy-efficient-0630"
   },
   {
-    "id": 98,
+    "id": 101,
     "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
     "category": "WORLD",
     "date": "2026-06-30T16:43:32.000Z",
@@ -1078,7 +1111,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests"
   },
   {
-    "id": 99,
+    "id": 102,
     "title": "Q&A: What is agentic AI today, and what do we want it to be?",
     "category": "TECH",
     "date": "2026-06-30T15:30:00.000Z",
@@ -1089,7 +1122,7 @@
     "sourceUrl": "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630"
   },
   {
-    "id": 100,
+    "id": 103,
     "title": "One of the Ancient World’s ‘Seven Wonders’ Resurfaces, a Red Planet Photo Op, and an “Impossible” Artifact",
     "category": "MYSTERY",
     "date": "2026-06-30T14:23:16.000Z",
@@ -1100,29 +1133,7 @@
     "sourceUrl": "https://thedebrief.org/one-of-the-seven-wonders-of-the-ancient-world-reappears-a-mars-photo-from-orbit-and-an-impossible-artifact/"
   },
   {
-    "id": 101,
-    "title": "The Download: AI “coworkers” and stratospheric internet",
-    "category": "TECH",
-    "date": "2026-06-30T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2023/02/GettyImages-183068979.jpeg?w=3000",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one…</p><p><a href=\"https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/"
-  },
-  {
-    "id": 102,
-    "title": "The Download: AI “coworkers” and stratospheric internet",
-    "category": "TECH",
-    "date": "2026-06-30T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2023/02/GettyImages-183068979.jpeg?w=3000",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one…</p><p><a href=\"https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/"
-  },
-  {
-    "id": 103,
+    "id": 104,
     "title": "Police units deployed across South Africa before anti-immigration marches",
     "category": "WORLD",
     "date": "2026-06-30T10:20:52.000Z",
@@ -1133,7 +1144,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests"
   },
   {
-    "id": 104,
+    "id": 105,
     "title": "Inaugural Music Technology Research Showcase celebrates work of new graduate program’s initial students ",
     "category": "TECH",
     "date": "2026-06-29T19:00:00.000Z",
@@ -1144,7 +1155,7 @@
     "sourceUrl": "https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629"
   },
   {
-    "id": 105,
+    "id": 106,
     "title": "Scientists find ozone depletion began decades before discovery of ozone hole",
     "category": "SCIENCE",
     "date": "2026-06-29T19:00:00.000Z",
@@ -1155,7 +1166,7 @@
     "sourceUrl": "https://news.mit.edu/2026/scientists-find-ozone-depletion-began-decades-before-ozone-hole-discovery-0629"
   },
   {
-    "id": 106,
+    "id": 107,
     "title": "Two MIT faculty members named 2026 Pew Biomedical Scholars",
     "category": "SCIENCE",
     "date": "2026-06-29T19:00:00.000Z",
@@ -1166,7 +1177,7 @@
     "sourceUrl": "https://news.mit.edu/2026/two-mit-faculty-members-named-2026-pew-biomedical-scholars-0629"
   },
   {
-    "id": 107,
+    "id": 108,
     "title": "Care in the midst of pressure",
     "category": "TECH",
     "date": "2026-06-29T18:00:00.000Z",
@@ -1177,7 +1188,7 @@
     "sourceUrl": "https://news.mit.edu/2026/care-midst-pressure-anantha-chandrakasan-0629"
   },
   {
-    "id": 108,
+    "id": 109,
     "title": "Graphene can hold multiple states of superconductivity, a new study finds",
     "category": "SCIENCE",
     "date": "2026-06-29T15:00:00.000Z",
@@ -1186,17 +1197,6 @@
     "content": "<h2>概要</h2><p>What’s more, the superconducting states get stronger under conditions expected to kill them.</p><p><a href=\"https://news.mit.edu/2026/graphene-can-hold-multiple-states-of-superconductivity-0629\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "MIT News Science",
     "sourceUrl": "https://news.mit.edu/2026/graphene-can-hold-multiple-states-of-superconductivity-0629"
-  },
-  {
-    "id": 109,
-    "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
-    "category": "WORLD",
-    "date": "2026-06-26T12:03:25.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay\n\nWorld Cup live – latest updates\n\nFor as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape Verde. Now, to her great delight, the tiny African island nation is finally centre stage.\n“Seeing our country shown across the world at the World Cup makes me feel incredibly proud,” Lauryn says. “After the first match, everyone was talking about Cape Verde. People saw the talent and the skill of our players.”\n Continue reading...",
-    "content": "<h2>概要</h2><p>Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay\n\nWorld Cup live – latest updates\n\nFor as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape Verde. Now, to her great delight, the tiny African island nation is finally centre stage.\n“Seeing our country shown across the world at the World Cup makes me feel incredibly proud,” Lauryn says. “After the first match, everyone was talking about Cape Verde. People saw the talent and the skill of our players.”\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk"
   },
   {
     "id": 110,
