@@ -1,20 +1,152 @@
 [
   {
     "id": 1,
-    "title": "New biobased polymers exhibit excellent tensile properties beyond polyolefins",
+    "title": "Scientists just measured the smallest possible contacts for future computer chips",
     "category": "SCIENCE",
-    "date": "2026-07-07T04:00:02.000Z",
+    "date": "2026-07-07T09:40:02.000Z",
     "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The research group of Professor Kotohiro Nomura, Tokyo Metropolitan University, in cooperation with the research groups of Senior Researcher Hiroshi Hirano and Director Seiji Higashi of the Osaka Research Institute of Industrial Science and Technology, and Associate Professor Hiroki Takeshita of The University of Shiga Prefecture, has developed biobased poly(ester amide)s from inedible biorenewables that can be easily chemically recycled and exhibit better mechanical (tensile) properties in film than commodity plastics.",
-    "content": "<h2>概要</h2><p>The research group of Professor Kotohiro Nomura, Tokyo Metropolitan University, in cooperation with the research groups of Senior Researcher Hiroshi Hirano and Director Seiji Higashi of the Osaka Research Institute of Industrial Science and Technology, and Associate Professor Hiroki Takeshita of The University of Shiga Prefecture, has developed biobased poly(ester amide)s from inedible biorenewables that can be easily chemically recycled and exhibit better mechanical (tensile) properties in film than commodity plastics.</p><p><a href=\"https://phys.org/news/2026-07-biobased-polymers-excellent-tensile-properties.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "The rise of AI has created an almost insatiable appetite for computing power. Training and running AI systems requires vast numbers of transistors, and engineers are now racing to pack more of them onto every chip. With their existing designs, however, silicon transistors are rapidly running up against physical limits on how small they can get.",
+    "content": "<h2>概要</h2><p>The rise of AI has created an almost insatiable appetite for computing power. Training and running AI systems requires vast numbers of transistors, and engineers are now racing to pack more of them onto every chip. With their existing designs, however, silicon transistors are rapidly running up against physical limits on how small they can get.</p><p><a href=\"https://phys.org/news/2026-07-scientists-smallest-contacts-future-chips.html\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-biobased-polymers-excellent-tensile-properties.html"
+    "sourceUrl": "https://phys.org/news/2026-07-scientists-smallest-contacts-future-chips.html"
   },
   {
     "id": 2,
+    "title": "Explosions injure 18 in Damascus during Macron's visit",
+    "category": "WORLD",
+    "date": "2026-07-07T09:17:23.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+    "content": "<h2>概要</h2><p>As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 3,
+    "title": "The best Apple Watch Ultra bands of 2026: Expert tested",
+    "category": "TECH",
+    "date": "2026-07-07T09:00:38.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "We tested the top Apple Watch Ultra straps available from Nike, Apple, Nomad, Aulumu, and WithIt. Read on to find our reviews and ratings.",
+    "content": "<h2>概要</h2><p>We tested the top Apple Watch Ultra straps available from Nike, Apple, Nomad, Aulumu, and WithIt. Read on to find our reviews and ratings.</p><p><a href=\"https://www.zdnet.com/article/best-apple-watch-ultra-strap/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/best-apple-watch-ultra-strap/"
+  },
+  {
+    "id": 4,
+    "title": "Bacteria discovered with the ability to jettison cells as a survival mechanism",
+    "category": "SCIENCE",
+    "date": "2026-07-07T09:00:14.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Popular science fiction is no stranger to escape-pod scenarios, typically featuring characters who narrowly avoid their demise by jettisoning from a spaceship—think R2-D2 and C-3PO shooting away from a rebel spaceship in the opening of Star Wars: A New Hope. Biologists at the University of California San Diego have found that communities of bacteria feature a similar ejection capability.",
+    "content": "<h2>概要</h2><p>Popular science fiction is no stranger to escape-pod scenarios, typically featuring characters who narrowly avoid their demise by jettisoning from a spaceship—think R2-D2 and C-3PO shooting away from a rebel spaceship in the opening of Star Wars: A New Hope. Biologists at the University of California San Diego have found that communities of bacteria feature a similar ejection capability.</p><p><a href=\"https://phys.org/news/2026-07-bacteria-ability-jettison-cells-survival.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-bacteria-ability-jettison-cells-survival.html"
+  },
+  {
+    "id": 5,
+    "title": "How proximity steals energy from nanoresonators",
+    "category": "SCIENCE",
+    "date": "2026-07-07T09:00:09.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Nanomechanical resonators are miniature vibrating structures on chips that oscillate at frequencies ranging from a few kilohertz to gigahertz. They are used as ultrasensitive detectors of mass and force, temperature and pressure, and as components in radio frequency filters and on-chip clocks. Modern, state-of-the-art resonators are also used to create quantum states of macroscopic objects and test fundamental physics.",
+    "content": "<h2>概要</h2><p>Nanomechanical resonators are miniature vibrating structures on chips that oscillate at frequencies ranging from a few kilohertz to gigahertz. They are used as ultrasensitive detectors of mass and force, temperature and pressure, and as components in radio frequency filters and on-chip clocks. Modern, state-of-the-art resonators are also used to create quantum states of macroscopic objects and test fundamental physics.</p><p><a href=\"https://phys.org/news/2026-07-proximity-energy-nanoresonators.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-proximity-energy-nanoresonators.html"
+  },
+  {
+    "id": 6,
+    "title": "Raptorial insect forelegs evolved repeatedly but never converged on one winning design",
+    "category": "SCIENCE",
+    "date": "2026-07-07T09:00:04.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The evolutionary paths that created snatching forelimbs in insects multiple times moved in a similar direction but didn't end at a single solution. Kobe University research is pioneering a study of how organs with similar functions evolve, providing a new analytical approach to identify evolutionary dynamics quantitatively.",
+    "content": "<h2>概要</h2><p>The evolutionary paths that created snatching forelimbs in insects multiple times moved in a similar direction but didn't end at a single solution. Kobe University research is pioneering a study of how organs with similar functions evolve, providing a new analytical approach to identify evolutionary dynamics quantitatively.</p><p><a href=\"https://phys.org/news/2026-07-raptorial-insect-forelegs-evolved-converged.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-raptorial-insect-forelegs-evolved-converged.html"
+  },
+  {
+    "id": 7,
+    "title": "Ancient rocks reveal how water reshaped Earth's interior 3.1 billion years ago",
+    "category": "SCIENCE",
+    "date": "2026-07-07T09:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Geologists studying some of the planet's oldest volcanic rocks have uncovered new evidence that water was playing a major role in shaping Earth's interior and driving volcanic activity more than 3 billion years ago.",
+    "content": "<h2>概要</h2><p>Geologists studying some of the planet's oldest volcanic rocks have uncovered new evidence that water was playing a major role in shaping Earth's interior and driving volcanic activity more than 3 billion years ago.</p><p><a href=\"https://phys.org/news/2026-07-ancient-reveal-reshaped-earth-interior.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-ancient-reveal-reshaped-earth-interior.html"
+  },
+  {
+    "id": 8,
+    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+    "category": "TECH",
+    "date": "2026-07-07T09:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Forterra has deployed more than 100",
+    "content": "<h2>概要</h2><p>Forterra has deployed more than 100</p><p><a href=\"https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/"
+  },
+  {
+    "id": 9,
+    "title": "Trump's NATO pressure campaign continues as summit begins",
+    "category": "WORLD",
+    "date": "2026-07-07T09:00:00.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdc%2F3e%2F99e2cb514a6f8a3cd99fa72edd5d%2Fgettyimages-2282641281.jpg",
+    "summary": "President Trump's arrival in Ankara kicks off another potentially tense meeting for NATO.",
+    "content": "<h2>概要</h2><p>President Trump's arrival in Ankara kicks off another potentially tense meeting for NATO.</p><p><a href=\"https://www.npr.org/2026/07/07/nx-s1-5884055/trumps-nato-pressure-campaign-continues-as-summit-begins\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/07/nx-s1-5884055/trumps-nato-pressure-campaign-continues-as-summit-begins"
+  },
+  {
+    "id": 10,
+    "title": "Explosions rock Damascus, wounding 4, as French President Macron visits Syria",
+    "category": "WORLD",
+    "date": "2026-07-07T08:59:44.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2Fff%2Fe9590a9946b29340769855d81704%2Fap26188305479595.jpg",
+    "summary": "The French president's office said that Macron was safe and that his meeting with Syrian President Ahmad al-Sharaa would continue as scheduled.",
+    "content": "<h2>概要</h2><p>The French president's office said that Macron was safe and that his meeting with Syrian President Ahmad al-Sharaa would continue as scheduled.</p><p><a href=\"https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron"
+  },
+  {
+    "id": 11,
+    "title": "NATO summit set to begin in Turkey",
+    "category": "WORLD",
+    "date": "2026-07-07T08:41:30.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5879166",
+    "summary": "Ahead of the  NATO summit in Ankara, Turkey, the illusion of appeasing Trump has vanished—and Europe is being forced to take primary responsibility for its own defense.",
+    "content": "<h2>概要</h2><p>Ahead of the  NATO summit in Ankara, Turkey, the illusion of appeasing Trump has vanished—and Europe is being forced to take primary responsibility for its own defense.</p><p><a href=\"https://www.npr.org/2026/07/07/nx-s1-5879166/nato-summit-set-to-begin-in-turkey\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/07/nx-s1-5879166/nato-summit-set-to-begin-in-turkey"
+  },
+  {
+    "id": 12,
+    "title": "Former U.S. ambassador on Turkey hosting the NATO summit",
+    "category": "WORLD",
+    "date": "2026-07-07T08:41:24.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5883847",
+    "summary": "NPR's Steve Inskeep speaks with former U.S. Ambassador to Turkey David Satterfield about the significance of Turkey hosting the NATO summit.",
+    "content": "<h2>概要</h2><p>NPR's Steve Inskeep speaks with former U.S. Ambassador to Turkey David Satterfield about the significance of Turkey hosting the NATO summit.</p><p><a href=\"https://www.npr.org/2026/07/07/nx-s1-5883847/former-u-s-ambassador-on-turkey-hosting-the-nato-summit\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/07/nx-s1-5883847/former-u-s-ambassador-on-turkey-hosting-the-nato-summit"
+  },
+  {
+    "id": 13,
+    "title": "Unpacking Europe’s new weather imagers",
+    "category": "SPACE",
+    "date": "2026-07-07T08:00:00.000Z",
+    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mtg-i2_is_unboxed_at_europe_s_spaceport/27366685-2-eng-GB/MTG-I2_is_unboxed_at_Europe_s_Spaceport_card_full.jpg",
+    "summary": "The second Meteosat Third Generation Imager satellite (MTG-I2) has begun its launch campaign, during which it will go through final inspections before being fitted inside the fairing of the Ariane 6 rocket that will launch it into space towards the end of the summer. So how will this 3800 kg satellite help improve weather forecasts for Europe and North Africa?",
+    "content": "<h2>概要</h2><p>The second Meteosat Third Generation Imager satellite (MTG-I2) has begun its launch campaign, during which it will go through final inspections before being fitted inside the fairing of the Ariane 6 rocket that will launch it into space towards the end of the summer. So how will this 3800 kg satellite help improve weather forecasts for Europe and North Africa?</p><p><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ESA Top News",
+    "sourceUrl": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers"
+  },
+  {
+    "id": 14,
     "title": "Samsung profits jump 1,800% as AI chip sales soar",
     "category": "BUSINESS",
-    "date": "2026-07-07T03:24:14.000Z",
+    "date": "2026-07-07T07:28:10.000Z",
     "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
     "summary": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
     "content": "<h2>概要</h2><p>The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
@@ -22,51 +154,139 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 3,
-    "title": "Newly discovered mineral named for researcher Tyler Spano",
-    "category": "SCIENCE",
-    "date": "2026-07-07T03:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Tyler Spano's impact on the field of mineralogy is anything but small. So when a newly discovered mineral, modest in size but significant in meaning, was named spanoite in her honor, it became a fitting tribute to her contributions to the field.",
-    "content": "<h2>概要</h2><p>Tyler Spano's impact on the field of mineralogy is anything but small. So when a newly discovered mineral, modest in size but significant in meaning, was named spanoite in her honor, it became a fitting tribute to her contributions to the field.</p><p><a href=\"https://phys.org/news/2026-07-newly-mineral-tyler-spano.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-newly-mineral-tyler-spano.html"
-  },
-  {
-    "id": 4,
-    "title": "Q&A: Harnessing climate investments to serve development goals",
-    "category": "SCIENCE",
-    "date": "2026-07-07T02:40:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Climate pledges are designed to help countries reduce emissions and adapt to a changing climate, but the current iterations of these pledges place additional stresses on vulnerable nations, an international team of researchers co-led by University of Michigan Engineering and KTH Royal Institute of Technology in Sweden has shown.",
-    "content": "<h2>概要</h2><p>Climate pledges are designed to help countries reduce emissions and adapt to a changing climate, but the current iterations of these pledges place additional stresses on vulnerable nations, an international team of researchers co-led by University of Michigan Engineering and KTH Royal Institute of Technology in Sweden has shown.</p><p><a href=\"https://phys.org/news/2026-07-qa-harnessing-climate-investments-goals.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-qa-harnessing-climate-investments-goals.html"
-  },
-  {
-    "id": 5,
-    "title": "Charlie Kirk's family attends hearing for suspect charged with his murder ",
+    "id": 15,
+    "title": "Watch: Moment rare tornado lashes central Chinese cities",
     "category": "WORLD",
-    "date": "2026-07-07T02:33:18.000Z",
+    "date": "2026-07-07T07:27:05.000Z",
     "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The hearing will decide whether Tyler Robinson will stand trial in the shooting death of Kirk, a key Trump ally.",
-    "content": "<h2>概要</h2><p>The hearing will decide whether Tyler Robinson will stand trial in the shooting death of Kirk, a key Trump ally.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.",
+    "content": "<h2>概要</h2><p>Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.</p><p><a href=\"https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss"
+    "sourceUrl": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 6,
-    "title": "How an interstellar comet sheds light on universe's 'cosmic noon'",
-    "category": "SCIENCE",
-    "date": "2026-07-07T02:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Last year, an interstellar traveler entered our solar system. Some speculated that it was an alien spacecraft, but it turned out to be a comet, 3I/Atlas, and it provoked interest from astronomers and astrophysicists eager for insights into galaxies far, far away. Detailed observations from the National Aeronautics and Space Administration (NASA) shot down the alien spacecraft idea, but recent NASA analysis holds clues about the comet's ancient and, literally, alien origins.",
-    "content": "<h2>概要</h2><p>Last year, an interstellar traveler entered our solar system. Some speculated that it was an alien spacecraft, but it turned out to be a comet, 3I/Atlas, and it provoked interest from astronomers and astrophysicists eager for insights into galaxies far, far away. Detailed observations from the National Aeronautics and Space Administration (NASA) shot down the alien spacecraft idea, but recent NASA analysis holds clues about the comet's ancient and, literally, alien origins.</p><p><a href=\"https://phys.org/news/2026-07-interstellar-comet-universe-cosmic-noon.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-interstellar-comet-universe-cosmic-noon.html"
+    "id": 16,
+    "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+    "category": "WORLD",
+    "date": "2026-07-07T06:30:31.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Shipment discovered at airport in Monrovia and valued at £14.2m had been falsely declared as seasoning cubes\nAuthorities in Liberia have charged five suspects over one of the largest drug seizures in the country’s history, after police found more than 200kg of cocaine falsely declared as Maggi seasoning cubes.\nThe shipment, with an estimated value of $19m (£14.2m), was discovered at the international airport in Monrovia on 8 June, but the suspects were not named until a press briefing at the weekend.\n Continue reading...",
+    "content": "<h2>概要</h2><p>Shipment discovered at airport in Monrovia and valued at £14.2m had been falsely declared as seasoning cubes\nAuthorities in Liberia have charged five suspects over one of the largest drug seizures in the country’s history, after police found more than 200kg of cocaine falsely declared as Maggi seasoning cubes.\nThe shipment, with an estimated value of $19m (£14.2m), was discovered at the international airport in Monrovia on 8 June, but the suspects were not named until a press briefing at the weekend.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust"
   },
   {
-    "id": 7,
+    "id": 17,
+    "title": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
+    "category": "WORLD",
+    "date": "2026-07-07T06:28:56.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+    "content": "<h2>概要</h2><p>The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.</p><p><a href=\"https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 18,
+    "title": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
+    "category": "WORLD",
+    "date": "2026-07-07T05:29:03.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2343x1562+0+0/resize/2343x1562!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F25%2Ff5fd65e84b8d8abdd15d5dd74ce6%2Fap26188084471919.jpg",
+    "summary": "The launch, using a dummy warhead, took place the same day Australia and Fiji signed a mutual defense treaty meant to counter Chinese influence in the Pacific.",
+    "content": "<h2>概要</h2><p>The launch, using a dummy warhead, took place the same day Australia and Fiji signed a mutual defense treaty meant to counter Chinese influence in the Pacific.</p><p><a href=\"https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific"
+  },
+  {
+    "id": 19,
+    "title": "Expedia Coupons: 75% Off",
+    "category": "TECH",
+    "date": "2026-07-07T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
+    "content": "<h2>概要</h2><p>Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.</p><p><a href=\"https://www.wired.com/story/expedia-coupon/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/expedia-coupon/"
+  },
+  {
+    "id": 20,
+    "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
+    "category": "TECH",
+    "date": "2026-07-07T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
+    "content": "<h2>概要</h2><p>Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.</p><p><a href=\"https://www.wired.com/story/lovehoney-discount-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/lovehoney-discount-code/"
+  },
+  {
+    "id": 21,
+    "title": "Office Depot Coupons: Save With Promo Codes in July 2026",
+    "category": "TECH",
+    "date": "2026-07-07T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+    "content": "<h2>概要</h2><p>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</p><p><a href=\"https://www.wired.com/story/office-depot-promo-codes/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/office-depot-promo-codes/"
+  },
+  {
+    "id": 22,
+    "title": "Loop Earplugs Discount Codes: 40% Off",
+    "category": "TECH",
+    "date": "2026-07-07T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+    "content": "<h2>概要</h2><p>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</p><p><a href=\"https://www.wired.com/story/loop-earplugs-discount-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/loop-earplugs-discount-code/"
+  },
+  {
+    "id": 23,
+    "title": "20% Off Sephora Promo Code | July 2026",
+    "category": "TECH",
+    "date": "2026-07-07T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
+    "content": "<h2>概要</h2><p>Earn more points on skincare purchases when you use our Sephora coupon.</p><p><a href=\"https://www.wired.com/story/sephora-promo-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/sephora-promo-code/"
+  },
+  {
+    "id": 24,
+    "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+    "category": "WORLD",
+    "date": "2026-07-07T04:18:19.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
+    "content": "<h2>概要</h2><p>The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 25,
+    "title": "The World Cup From 250 Miles Up",
+    "category": "SPACE",
+    "date": "2026-07-07T04:00:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-orbital-view-of-world-cup-stadiums/ISS067-E-202213_wide.jpg?w=1440&#038;h=959&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.",
+    "content": "<h2>概要</h2><p>Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/"
+  },
+  {
+    "id": 26,
+    "title": "The World Cup From 250 Miles Up",
+    "category": "SPACE",
+    "date": "2026-07-07T04:00:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-orbital-view-of-world-cup-stadiums/ISS067-E-202213_wide.jpg?w=1440&#038;h=959&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.",
+    "content": "<h2>概要</h2><p>Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/"
+  },
+  {
+    "id": 27,
     "title": "How an interstellar comet sheds light on universe's 'cosmic noon'",
     "category": "SPACE",
     "date": "2026-07-07T02:20:01.000Z",
@@ -77,29 +297,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-interstellar-comet-universe-cosmic-noon.html"
   },
   {
-    "id": 8,
-    "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-    "category": "WORLD",
-    "date": "2026-07-07T02:07:15.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
-    "content": "<h2>概要</h2><p>The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 9,
-    "title": "Efficient method for preparing pseudopregnant mice promotes laboratory animal welfare",
-    "category": "SCIENCE",
-    "date": "2026-07-07T02:00:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "In biomedical research using mouse models, preparing pseudopregnant recipient females is a standard step in embryo transfer protocols. Conventionally, this process requires technicians to select female mice showing clear signs of estrus. Because only a limited percentage of mice naturally enter this stage daily, facilities often maintain a relatively large stock of female mice. Furthermore, group housing can induce the \"Lee-Boot effect,\" a biological phenomenon in which caged females suppress one another's estrous cycles, decreasing selection efficiency and requiring careful management to ensure animal well-being.",
-    "content": "<h2>概要</h2><p>In biomedical research using mouse models, preparing pseudopregnant recipient females is a standard step in embryo transfer protocols. Conventionally, this process requires technicians to select female mice showing clear signs of estrus. Because only a limited percentage of mice naturally enter this stage daily, facilities often maintain a relatively large stock of female mice. Furthermore, group housing can induce the \"Lee-Boot effect,\" a biological phenomenon in which caged females suppress one another's estrous cycles, decreasing selection efficiency and requiring careful management to ensure animal well-being.</p><p><a href=\"https://phys.org/news/2026-07-efficient-method-pseudopregnant-mice-laboratory.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-efficient-method-pseudopregnant-mice-laboratory.html"
-  },
-  {
-    "id": 10,
+    "id": 28,
     "title": "Netflix invented binge-watching. Now it may have outgrown it.",
     "category": "TECH",
     "date": "2026-07-07T00:47:33.000Z",
@@ -110,18 +308,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/"
   },
   {
-    "id": 11,
-    "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-    "category": "WORLD",
-    "date": "2026-07-07T00:46:03.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
-    "content": "<h2>概要</h2><p>Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 12,
+    "id": 29,
     "title": "The ‘first’ AI-run ransomware attack still needed a human",
     "category": "TECH",
     "date": "2026-07-06T23:56:14.000Z",
@@ -132,7 +319,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
   },
   {
-    "id": 13,
+    "id": 30,
     "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
     "category": "WORLD",
     "date": "2026-07-06T23:55:53.000Z",
@@ -143,7 +330,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 14,
+    "id": 31,
     "title": "Robots available for rent: But what can they do?",
     "category": "TECH",
     "date": "2026-07-06T23:48:55.000Z",
@@ -154,18 +341,18 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 15,
+    "id": 32,
     "title": "Amazon bars breastfeeding boss from business course",
     "category": "BUSINESS",
     "date": "2026-07-06T23:31:21.000Z",
     "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Rachel Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
-    "content": "<h2>概要</h2><p>Rachel Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
+    "content": "<h2>概要</h2><p>Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC Business",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 16,
+    "id": 33,
     "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
     "category": "BUSINESS",
     "date": "2026-07-06T23:30:40.000Z",
@@ -176,18 +363,18 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 17,
-    "title": "Banks accused of failing most vulnerable customers",
+    "id": 34,
+    "title": "Banks accused of pushing customers away from basic accounts",
     "category": "BUSINESS",
     "date": "2026-07-06T23:29:34.000Z",
     "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.",
-    "content": "<h2>概要</h2><p>Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator.",
+    "content": "<h2>概要</h2><p>Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC Business",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 18,
+    "id": 35,
     "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
     "category": "TECH",
     "date": "2026-07-06T23:21:03.000Z",
@@ -198,7 +385,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"
   },
   {
-    "id": 19,
+    "id": 36,
     "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
     "category": "BUSINESS",
     "date": "2026-07-06T23:08:51.000Z",
@@ -209,7 +396,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 20,
+    "id": 37,
     "title": " Even astronauts in space saw America 250 fireworks on the Fourth of July. See their ISS view of Los Angeles (video) ",
     "category": "SPACE",
     "date": "2026-07-06T22:00:00.000Z",
@@ -220,7 +407,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/international-space-station/even-astronauts-in-space-saw-america-250-fireworks-on-the-fourth-of-july-see-their-iss-view-of-los-angeles-video"
   },
   {
-    "id": 21,
+    "id": 38,
     "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
     "category": "TECH",
     "date": "2026-07-06T21:13:37.000Z",
@@ -231,7 +418,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/"
   },
   {
-    "id": 22,
+    "id": 39,
     "title": "A new net-membrane could clean up some tricky space debris",
     "category": "SPACE",
     "date": "2026-07-06T21:00:11.000Z",
@@ -242,18 +429,18 @@
     "sourceUrl": "https://phys.org/news/2026-07-net-membrane-tricky-space-debris.html"
   },
   {
-    "id": 23,
-    "title": " Watch SpaceX Falcon 9 rocket launch 81 satellites early on July 7 ",
+    "id": 40,
+    "title": " SpaceX launches 81 satellites to orbit from California, lands rocket on ship at sea ",
     "category": "SPACE",
     "date": "2026-07-06T21:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/waq39kHranv2VBaP3zDJfg-1280-80.jpg",
-    "summary": "A SpaceX Falcon 9 rocket will launch 81 payloads to orbit from California early Tuesday morning (July 7), and you can watch the action live.",
-    "content": "<h2>概要</h2><p>A SpaceX Falcon 9 rocket will launch 81 payloads to orbit from California early Tuesday morning (July 7), and you can watch the action live.</p><p><a href=\"https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites\" target=\"_blank\">出典記事を読む</a></p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/txwMBEKFJSyAiDh9ppz9ng-1280-80.jpg",
+    "summary": "A SpaceX Falcon 9 rocket launched 81 payloads to orbit from California early Tuesday morning (July 7), then landed on a ship at sea.",
+    "content": "<h2>概要</h2><p>A SpaceX Falcon 9 rocket launched 81 payloads to orbit from California early Tuesday morning (July 7), then landed on a ship at sea.</p><p><a href=\"https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "Space.com",
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites"
   },
   {
-    "id": 24,
+    "id": 41,
     "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
     "category": "TECH",
     "date": "2026-07-06T20:52:42.000Z",
@@ -264,7 +451,7 @@
     "sourceUrl": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/"
   },
   {
-    "id": 25,
+    "id": 42,
     "title": "How I deleted hundreds of old photos on my Android in seconds with the Sponge app - for free",
     "category": "TECH",
     "date": "2026-07-06T20:41:00.000Z",
@@ -275,18 +462,7 @@
     "sourceUrl": "https://www.zdnet.com/article/free-android-app-makes-deleting-photos-easy/"
   },
   {
-    "id": 26,
-    "title": "Russia-Ukraine war escalates before NATO summit",
-    "category": "WORLD",
-    "date": "2026-07-06T20:37:06.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5883752",
-    "summary": "Russia pounds Kyiv ahead of NATO summit, as Ukraine war returns to center stage amid high-stakes diplomacy.",
-    "content": "<h2>概要</h2><p>Russia pounds Kyiv ahead of NATO summit, as Ukraine war returns to center stage amid high-stakes diplomacy.</p><p><a href=\"https://www.npr.org/2026/07/06/nx-s1-5883752/russia-ukraine-war-escalates-before-nato-summit\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/06/nx-s1-5883752/russia-ukraine-war-escalates-before-nato-summit"
-  },
-  {
-    "id": 27,
+    "id": 43,
     "title": "How to make Zorin OS look like Windows 11 - for free",
     "category": "TECH",
     "date": "2026-07-06T20:33:00.000Z",
@@ -297,7 +473,7 @@
     "sourceUrl": "https://www.zdnet.com/article/how-to-make-zorin-os-look-like-windows-11/"
   },
   {
-    "id": 28,
+    "id": 44,
     "title": "5 tiny Linux tools I can't live or work without",
     "category": "TECH",
     "date": "2026-07-06T20:31:00.000Z",
@@ -308,7 +484,7 @@
     "sourceUrl": "https://www.zdnet.com/article/5-tiny-linux-tools-i-cant-live-or-work-without/"
   },
   {
-    "id": 29,
+    "id": 45,
     "title": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
     "category": "TECH",
     "date": "2026-07-06T20:24:28.000Z",
@@ -319,7 +495,7 @@
     "sourceUrl": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale"
   },
   {
-    "id": 30,
+    "id": 46,
     "title": "The square kilometer array will revolutionize the hunt for alien life",
     "category": "SPACE",
     "date": "2026-07-06T20:20:02.000Z",
@@ -330,7 +506,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-square-kilometer-array-revolutionize-alien.html"
   },
   {
-    "id": 31,
+    "id": 47,
     "title": " More clues surface about the origins of interstellar comet 3I/ATLAS ",
     "category": "SPACE",
     "date": "2026-07-06T20:16:15.000Z",
@@ -341,7 +517,7 @@
     "sourceUrl": "https://www.space.com/astronomy/comets/more-clues-surface-about-the-origins-of-interstellar-comet-3i-atlas"
   },
   {
-    "id": 32,
+    "id": 48,
     "title": "Canadian Artemis II crew member to retire from space agency",
     "category": "SPACE",
     "date": "2026-07-06T20:00:02.000Z",
@@ -352,7 +528,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-canadian-artemis-ii-crew-member.html"
   },
   {
-    "id": 33,
+    "id": 49,
     "title": "What is the oldest American object ever launched into space?",
     "category": "TECH",
     "date": "2026-07-06T19:57:56.000Z",
@@ -363,7 +539,7 @@
     "sourceUrl": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/"
   },
   {
-    "id": 34,
+    "id": 50,
     "title": "I compared Apple AirTags to competing Bluetooth trackers - including this $2 one",
     "category": "TECH",
     "date": "2026-07-06T19:55:46.000Z",
@@ -374,7 +550,7 @@
     "sourceUrl": "https://www.zdnet.com/article/apple-airtags-vs-rival-bluetooth-trackers-including-2-one/"
   },
   {
-    "id": 35,
+    "id": 51,
     "title": "Toward a future that preserves benefits of neurotechnology for all",
     "category": "TECH",
     "date": "2026-07-06T19:50:00.000Z",
@@ -385,7 +561,7 @@
     "sourceUrl": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706"
   },
   {
-    "id": 36,
+    "id": 52,
     "title": "Toward a future that preserves benefits of neurotechnology for all",
     "category": "TECH",
     "date": "2026-07-06T19:50:00.000Z",
@@ -396,7 +572,7 @@
     "sourceUrl": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706"
   },
   {
-    "id": 37,
+    "id": 53,
     "title": "Toward a future that preserves benefits of neurotechnology for all",
     "category": "SCIENCE",
     "date": "2026-07-06T19:50:00.000Z",
@@ -407,7 +583,7 @@
     "sourceUrl": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706"
   },
   {
-    "id": 38,
+    "id": 54,
     "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
     "category": "TECH",
     "date": "2026-07-06T19:49:10.000Z",
@@ -418,29 +594,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/"
   },
   {
-    "id": 39,
-    "title": "Trump confirms he asked Fifa to review Balogun ban",
-    "category": "WORLD",
-    "date": "2026-07-06T19:06:34.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
-    "content": "<h2>概要</h2><p>President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.</p><p><a href=\"https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 40,
-    "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-    "category": "TECH",
-    "date": "2026-07-06T19:01:59.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-    "content": "<h2>概要</h2><p>The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.</p><p><a href=\"https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"
-  },
-  {
-    "id": 41,
+    "id": 55,
     "title": " NASA just found a planet 'hiding' in TESS spacecraft data, all thanks to Einstein ",
     "category": "SPACE",
     "date": "2026-07-06T19:00:00.000Z",
@@ -451,7 +605,7 @@
     "sourceUrl": "https://www.space.com/astronomy/exoplanets/nasa-just-found-a-planet-hiding-in-tess-spacecraft-data-all-thanks-to-einstein"
   },
   {
-    "id": 42,
+    "id": 56,
     "title": "NASA Takes Flight For America’s 250th",
     "category": "SPACE",
     "date": "2026-07-06T18:38:20.000Z",
@@ -462,7 +616,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/"
   },
   {
-    "id": 43,
+    "id": 57,
     "title": "NASA Takes Flight For America’s 250th",
     "category": "SPACE",
     "date": "2026-07-06T18:38:20.000Z",
@@ -473,7 +627,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/"
   },
   {
-    "id": 44,
+    "id": 58,
     "title": "America’s greatest idea is still under threat",
     "category": "TECH",
     "date": "2026-07-06T18:36:33.000Z",
@@ -484,7 +638,7 @@
     "sourceUrl": "https://www.theverge.com/policy/961802/america-250-free-speech"
   },
   {
-    "id": 45,
+    "id": 59,
     "title": " Black holes buried in mysterious 'little red dot' galaxies could blast cosmic ghosts at Earth ",
     "category": "SPACE",
     "date": "2026-07-06T18:00:00.000Z",
@@ -495,7 +649,7 @@
     "sourceUrl": "https://www.space.com/astronomy/black-holes/black-holes-buried-in-mysterious-little-red-dot-galaxies-could-blast-cosmic-ghosts-at-earth"
   },
   {
-    "id": 46,
+    "id": 60,
     "title": "Your family’s $300 stake in OpenAI",
     "category": "TECH",
     "date": "2026-07-06T18:00:00.000Z",
@@ -506,7 +660,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
   },
   {
-    "id": 47,
+    "id": 61,
     "title": "Your family’s $300 stake in OpenAI",
     "category": "TECH",
     "date": "2026-07-06T18:00:00.000Z",
@@ -517,7 +671,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
   },
   {
-    "id": 48,
+    "id": 62,
     "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
     "category": "TECH",
     "date": "2026-07-06T17:48:45.000Z",
@@ -528,18 +682,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/"
   },
   {
-    "id": 49,
-    "title": "How I turned an old Android phone into my home internet backup solution - 3 methods",
-    "category": "TECH",
-    "date": "2026-07-06T17:23:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "I needed a way to connect my phone to my router and have it work reliably. So I discovered three ways to get it done.",
-    "content": "<h2>概要</h2><p>I needed a way to connect my phone to my router and have it work reliably. So I discovered three ways to get it done.</p><p><a href=\"https://www.zdnet.com/article/how-to-use-old-android-phone-as-backup-internet-connection-for-home-router/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/how-to-use-old-android-phone-as-backup-internet-connection-for-home-router/"
-  },
-  {
-    "id": 50,
+    "id": 63,
     "title": "Astronomers spot an extremely rare galaxy mega-merger",
     "category": "SPACE",
     "date": "2026-07-06T17:20:03.000Z",
@@ -550,7 +693,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-astronomers-extremely-rare-galaxy-mega.html"
   },
   {
-    "id": 51,
+    "id": 64,
     "title": "Five questions for Dr. Rubin, who’s armed with a mic and a bowtie",
     "category": "TECH",
     "date": "2026-07-06T17:15:29.000Z",
@@ -561,7 +704,7 @@
     "sourceUrl": "https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview"
   },
   {
-    "id": 52,
+    "id": 65,
     "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
     "category": "TECH",
     "date": "2026-07-06T17:14:09.000Z",
@@ -572,7 +715,7 @@
     "sourceUrl": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/"
   },
   {
-    "id": 53,
+    "id": 66,
     "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie",
     "category": "TECH",
     "date": "2026-07-06T16:22:34.000Z",
@@ -583,7 +726,7 @@
     "sourceUrl": "https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie"
   },
   {
-    "id": 54,
+    "id": 67,
     "title": "I spy",
     "category": "TECH",
     "date": "2026-07-06T16:00:00.000Z",
@@ -594,7 +737,7 @@
     "sourceUrl": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy"
   },
   {
-    "id": 55,
+    "id": 68,
     "title": "Discovery helps explain why solid-state batteries often fail",
     "category": "TECH",
     "date": "2026-07-06T16:00:00.000Z",
@@ -605,7 +748,7 @@
     "sourceUrl": "https://news.mit.edu/2026/discovery-helps-explain-why-solid-state-batteries-often-fail-0706"
   },
   {
-    "id": 56,
+    "id": 69,
     "title": "Discovery helps explain why solid-state batteries often fail",
     "category": "TECH",
     "date": "2026-07-06T16:00:00.000Z",
@@ -616,7 +759,7 @@
     "sourceUrl": "https://news.mit.edu/2026/discovery-helps-explain-why-solid-state-batteries-often-fail-0706"
   },
   {
-    "id": 57,
+    "id": 70,
     "title": "Surprising Evidence of a ‘Lost’ Ancient City is Emerging from Beneath the Sands of Egypt’s Western Desert",
     "category": "MYSTERY",
     "date": "2026-07-06T15:55:23.000Z",
@@ -627,7 +770,7 @@
     "sourceUrl": "https://thedebrief.org/surprising-evidence-of-a-lost-ancient-city-is-emerging-from-beneath-the-sands-of-egypts-western-desert/"
   },
   {
-    "id": 58,
+    "id": 71,
     "title": "NASA Seeks Industry Input on Second Phase of Commercial Space Stations",
     "category": "SPACE",
     "date": "2026-07-06T15:33:00.000Z",
@@ -638,7 +781,7 @@
     "sourceUrl": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/"
   },
   {
-    "id": 59,
+    "id": 72,
     "title": "NASA Seeks Industry Input on Second Phase of Commercial Space Stations",
     "category": "SPACE",
     "date": "2026-07-06T15:33:00.000Z",
@@ -649,7 +792,7 @@
     "sourceUrl": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/"
   },
   {
-    "id": 60,
+    "id": 73,
     "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
     "category": "TECH",
     "date": "2026-07-06T15:18:53.000Z",
@@ -660,7 +803,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 61,
+    "id": 74,
     "title": "NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies",
     "category": "SPACE",
     "date": "2026-07-06T15:00:54.000Z",
@@ -671,7 +814,7 @@
     "sourceUrl": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/"
   },
   {
-    "id": 62,
+    "id": 75,
     "title": "NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies",
     "category": "SPACE",
     "date": "2026-07-06T15:00:54.000Z",
@@ -682,18 +825,7 @@
     "sourceUrl": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/"
   },
   {
-    "id": 63,
-    "title": "The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks",
-    "category": "TECH",
-    "date": "2026-07-06T14:50:52.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Holes in socks have become a curious sight at this year’s World Cup. The reasons why are a weird mix of biomechanics, perception, and player habits.",
-    "content": "<h2>概要</h2><p>Holes in socks have become a curious sight at this year’s World Cup. The reasons why are a weird mix of biomechanics, perception, and player habits.</p><p><a href=\"https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/"
-  },
-  {
-    "id": 64,
+    "id": 76,
     "title": "Look: Japan’s Hayabusa2 Spacecraft Just Had a Close Encounter with the Mysterious Asteroid ‘Torifune’",
     "category": "MYSTERY",
     "date": "2026-07-06T14:50:03.000Z",
@@ -704,7 +836,7 @@
     "sourceUrl": "https://thedebrief.org/look-japans-hayabusa2-spacecraft-just-had-a-close-encounter-with-the-mysterious-asteroid-torifune/"
   },
   {
-    "id": 65,
+    "id": 77,
     "title": "NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision",
     "category": "SPACE",
     "date": "2026-07-06T14:00:00.000Z",
@@ -715,7 +847,7 @@
     "sourceUrl": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/"
   },
   {
-    "id": 66,
+    "id": 78,
     "title": "NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision",
     "category": "SPACE",
     "date": "2026-07-06T14:00:00.000Z",
@@ -726,7 +858,7 @@
     "sourceUrl": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/"
   },
   {
-    "id": 67,
+    "id": 79,
     "title": "How Did a Crab Become Trapped in a Bottle with an Opening Too Small to Enter? Once-Baffled Scientists Say They’ve Solved the Mystery",
     "category": "MYSTERY",
     "date": "2026-07-06T13:48:12.000Z",
@@ -737,7 +869,7 @@
     "sourceUrl": "https://thedebrief.org/how-did-a-crab-become-trapped-in-a-bottle-with-an-opening-too-small-to-enter-once-baffled-scientists-say-theyve-solved-the-mystery/"
   },
   {
-    "id": 68,
+    "id": 80,
     "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
     "category": "TECH",
     "date": "2026-07-06T13:00:00.000Z",
@@ -748,7 +880,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/"
   },
   {
-    "id": 69,
+    "id": 81,
     "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
     "category": "TECH",
     "date": "2026-07-06T13:00:00.000Z",
@@ -759,7 +891,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/"
   },
   {
-    "id": 70,
+    "id": 82,
     "title": "Deep Inside the Earth’s Molten Core, a Sudden ‘Reversal’ Now Has Scientists Searching for Answers",
     "category": "MYSTERY",
     "date": "2026-07-06T12:56:37.000Z",
@@ -770,7 +902,7 @@
     "sourceUrl": "https://thedebrief.org/deep-inside-the-earths-molten-core-a-sudden-reversal-now-has-scientists-searching-for-answers/"
   },
   {
-    "id": 71,
+    "id": 83,
     "title": "A.I. Just Mapped a ‘Hidden’ Structure Inside One of the Most Complex Problems in Physics",
     "category": "MYSTERY",
     "date": "2026-07-06T12:12:18.000Z",
@@ -781,62 +913,7 @@
     "sourceUrl": "https://thedebrief.org/a-i-just-mapped-a-hidden-structure-inside-one-of-the-most-complex-problems-in-physics/"
   },
   {
-    "id": 72,
-    "title": "Trump, Mamdani give contrasting July 4th speeches. And, U.S. faces Belgium in World Cup",
-    "category": "WORLD",
-    "date": "2026-07-06T11:46:36.000Z",
-    "image": "undefined",
-    "summary": "For the nation's 250th birthday, President Trump and NYC Mayor Zohran Mamdani had opposing visions of America. And, the U.S. and Belgium face off today in the FIFA World Cup.",
-    "content": "<h2>概要</h2><p>For the nation's 250th birthday, President Trump and NYC Mayor Zohran Mamdani had opposing visions of America. And, the U.S. and Belgium face off today in the FIFA World Cup.</p><p><a href=\"https://www.npr.org/2026/07/06/g-s1-132097/up-first-newsletter-america-250-trump-democrats-iran-israel-world-cup-folarin-balogun\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/06/g-s1-132097/up-first-newsletter-america-250-trump-democrats-iran-israel-world-cup-folarin-balogun"
-  },
-  {
-    "id": 73,
-    "title": "Bentley Torcal EV: Price, Specs, Availability",
-    "category": "TECH",
-    "date": "2026-07-06T11:30:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The 300-mile Torcal arrives in September, but considering what’s come before with Ferrari, Porsche, and Mercedes, has the company timed its EV entry right?",
-    "content": "<h2>概要</h2><p>The 300-mile Torcal arrives in September, but considering what’s come before with Ferrari, Porsche, and Mercedes, has the company timed its EV entry right?</p><p><a href=\"https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/"
-  },
-  {
-    "id": 74,
-    "title": "9 Best Keyboards (2025), Tested and Reviewed",
-    "category": "TECH",
-    "date": "2026-07-06T11:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Whether you’re looking to boost your productivity or your Fortnite stats, these are the top keyboards for the job.",
-    "content": "<h2>概要</h2><p>Whether you’re looking to boost your productivity or your Fortnite stats, these are the top keyboards for the job.</p><p><a href=\"https://www.wired.com/gallery/best-keyboards/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/gallery/best-keyboards/"
-  },
-  {
-    "id": 75,
-    "title": "Sony Bravia 7 Mark II: Midrange but Priced High (2026)",
-    "category": "TECH",
-    "date": "2026-07-06T10:31:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "This midrange mini RGB LED television has a high-end price but doesn’t match the brightness and contrast of more advanced models.",
-    "content": "<h2>概要</h2><p>This midrange mini RGB LED television has a high-end price but doesn’t match the brightness and contrast of more advanced models.</p><p><a href=\"https://www.wired.com/review/sony-bravia-7-mark-ii/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/review/sony-bravia-7-mark-ii/"
-  },
-  {
-    "id": 76,
-    "title": "Good News! Turns Out the Earth Will Never Be Swallowed by the Sun",
-    "category": "TECH",
-    "date": "2026-07-06T10:30:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new study suggests that when our star becomes unstable in 5 billion years or so, Earth may avoid being engulfed by its fiery demise.",
-    "content": "<h2>概要</h2><p>A new study suggests that when our star becomes unstable in 5 billion years or so, Earth may avoid being engulfed by its fiery demise.</p><p><a href=\"https://www.wired.com/story/good-news-it-turns-out-the-earth-will-never-be-swallowed-by-the-sun/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/good-news-it-turns-out-the-earth-will-never-be-swallowed-by-the-sun/"
-  },
-  {
-    "id": 77,
+    "id": 84,
     "title": "South Korea’s hottest new bachelors are chip workers",
     "category": "TECH",
     "date": "2026-07-06T09:00:00.000Z",
@@ -847,7 +924,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/"
   },
   {
-    "id": 78,
+    "id": 85,
     "title": "South Korea’s hottest new bachelors are chip workers",
     "category": "TECH",
     "date": "2026-07-06T09:00:00.000Z",
@@ -858,29 +935,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/"
   },
   {
-    "id": 79,
-    "title": "Huge crowds of mourners join a funeral procession for Iran's Ayatollah Ali Khamenei",
-    "category": "WORLD",
-    "date": "2026-07-06T08:16:36.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4176x2784+0+0/resize/4176x2784!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb7%2Fc7%2F376b7a554435bc9664faa71f5587%2Fgettyimages-2284267556.jpg",
-    "summary": "Iran holds a funeral procession for Ayatollah Ali Khamenei more than four months after he was killed in U.S.-Israeli strikes.",
-    "content": "<h2>概要</h2><p>Iran holds a funeral procession for Ayatollah Ali Khamenei more than four months after he was killed in U.S.-Israeli strikes.</p><p><a href=\"https://www.npr.org/2026/07/06/nx-s1-5877741/ayatollahs-funeral-procession-begins-in-iran\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/06/nx-s1-5877741/ayatollahs-funeral-procession-begins-in-iran"
-  },
-  {
-    "id": 80,
-    "title": "Russia's missile and drone attacks on Ukraine kill at least 22",
-    "category": "WORLD",
-    "date": "2026-07-06T07:41:08.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8413x5609+0+0/resize/8413x5609!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F48%2F63e347c545cfa636ec7633aa833e%2Fap26187202820335.jpg",
-    "summary": "Russia unleashed waves of missiles and drones at Ukraine, killing at least 22 people. The attacks exposed gaps in the country's air defenses more than four years into Moscow's full-scale invasion.",
-    "content": "<h2>概要</h2><p>Russia unleashed waves of missiles and drones at Ukraine, killing at least 22 people. The attacks exposed gaps in the country's air defenses more than four years into Moscow's full-scale invasion.</p><p><a href=\"https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-ukraine\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-ukraine"
-  },
-  {
-    "id": 81,
+    "id": 86,
     "title": "Euclid discovers the most ancient quasar in the Universe",
     "category": "SPACE",
     "date": "2026-07-06T06:30:00.000Z",
@@ -891,40 +946,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_the_most_ancient_quasar_in_the_Universe"
   },
   {
-    "id": 82,
-    "title": "Trump won spending promises from NATO last year. This week, he'll try to enforce them",
-    "category": "WORLD",
-    "date": "2026-07-06T06:06:17.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5829x3886+0+0/resize/5829x3886!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F53%2Fa248e82945d6a985f71a4240cb4c%2Fap26186635199034.jpg",
-    "summary": "President Donald Trump is heading to Ankara, Turkey, for the annual NATO summit. Last year, he pushed NATO allies to spend more on defense. This year, his mission is to try to enforce those pledges.",
-    "content": "<h2>概要</h2><p>President Donald Trump is heading to Ankara, Turkey, for the annual NATO summit. Last year, he pushed NATO allies to spend more on defense. This year, his mission is to try to enforce those pledges.</p><p><a href=\"https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending"
-  },
-  {
-    "id": 83,
-    "title": "Examining Algal Blooms in Blue Mesa",
-    "category": "SPACE",
-    "date": "2026-07-06T04:01:00.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20170919.jpg",
-    "summary": "Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.",
-    "content": "<h2>概要</h2><p>Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/"
-  },
-  {
-    "id": 84,
-    "title": "Examining Algal Blooms in Blue Mesa",
-    "category": "SPACE",
-    "date": "2026-07-06T04:01:00.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20170919.jpg",
-    "summary": "Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.",
-    "content": "<h2>概要</h2><p>Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/"
-  },
-  {
-    "id": 85,
+    "id": 87,
     "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
     "category": "WORLD",
     "date": "2026-07-04T20:32:52.000Z",
@@ -935,7 +957,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert"
   },
   {
-    "id": 86,
+    "id": 88,
     "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
     "category": "WORLD",
     "date": "2026-07-04T15:14:18.000Z",
@@ -946,7 +968,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes"
   },
   {
-    "id": 87,
+    "id": 89,
     "title": "Overseas education project for women and girls axed by UK after two years",
     "category": "WORLD",
     "date": "2026-07-04T08:00:08.000Z",
@@ -957,29 +979,29 @@
     "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years"
   },
   {
-    "id": 88,
-    "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
-    "category": "TECH",
-    "date": "2026-07-03T17:34:37.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…",
-    "content": "<h2>概要</h2><p>It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…</p><p><a href=\"https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
-  },
-  {
-    "id": 89,
-    "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
-    "category": "TECH",
-    "date": "2026-07-03T17:34:37.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…",
-    "content": "<h2>概要</h2><p>It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…</p><p><a href=\"https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
-  },
-  {
     "id": 90,
+    "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
+    "category": "TECH",
+    "date": "2026-07-03T17:34:37.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…",
+    "content": "<h2>概要</h2><p>It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…</p><p><a href=\"https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
+  },
+  {
+    "id": 91,
+    "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
+    "category": "TECH",
+    "date": "2026-07-03T17:34:37.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…",
+    "content": "<h2>概要</h2><p>It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…</p><p><a href=\"https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
+  },
+  {
+    "id": 92,
     "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
     "category": "TECH",
     "date": "2026-07-03T15:57:42.000Z",
@@ -990,7 +1012,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 91,
+    "id": 93,
     "title": "The most spectacular aurora of the εpsilon mission (so far!)",
     "category": "SPACE",
     "date": "2026-07-03T14:30:00.000Z",
@@ -1001,7 +1023,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/The_most_spectacular_aurora_of_the_epsilon_mission_so_far!"
   },
   {
-    "id": 92,
+    "id": 94,
     "title": "Week in images: 29 June - 03 July 2026",
     "category": "SPACE",
     "date": "2026-07-03T13:15:00.000Z",
@@ -1012,40 +1034,29 @@
     "sourceUrl": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_June_-_03_July_2026"
   },
   {
-    "id": 93,
-    "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-    "category": "TECH",
-    "date": "2026-07-03T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/20250621_MTTR_UAP_SH01_FS_395.jpg?w=3000",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…</p><p><a href=\"https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
-  },
-  {
-    "id": 94,
-    "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-    "category": "TECH",
-    "date": "2026-07-03T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/20250621_MTTR_UAP_SH01_FS_395.jpg?w=3000",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…</p><p><a href=\"https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
-  },
-  {
     "id": 95,
-    "title": "Earth from Space: Grand Canyon, US",
-    "category": "SPACE",
-    "date": "2026-07-03T08:00:00.000Z",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_grand_canyon_us/27363656-1-eng-GB/Earth_from_Space_Grand_Canyon_US_card_full.jpg",
-    "summary": "Image:\n\t\t\tThe Grand Canyon, a stunning natural feature in the landscape of Arizona, US, is featured in these two satellite views.",
-    "content": "<h2>概要</h2><p>Image:\n\t\t\tThe Grand Canyon, a stunning natural feature in the landscape of Arizona, US, is featured in these two satellite views.</p><p><a href=\"https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Grand_Canyon_US\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ESA Top News",
-    "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Grand_Canyon_US"
+    "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+    "category": "TECH",
+    "date": "2026-07-03T12:10:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/20250621_MTTR_UAP_SH01_FS_395.jpg?w=3000",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…</p><p><a href=\"https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
   },
   {
     "id": 96,
+    "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+    "category": "TECH",
+    "date": "2026-07-03T12:10:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/20250621_MTTR_UAP_SH01_FS_395.jpg?w=3000",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…</p><p><a href=\"https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
+  },
+  {
+    "id": 97,
     "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
     "category": "WORLD",
     "date": "2026-07-03T00:00:13.000Z",
@@ -1056,7 +1067,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips"
   },
   {
-    "id": 97,
+    "id": 98,
     "title": "AI is 'not smart' so what's next in artificial intelligence?",
     "category": "TECH",
     "date": "2026-07-02T23:02:09.000Z",
@@ -1067,7 +1078,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 98,
+    "id": 99,
     "title": "Lerna Ekmekcioglu named head of MIT's History Section",
     "category": "TECH",
     "date": "2026-07-02T17:00:00.000Z",
@@ -1078,7 +1089,7 @@
     "sourceUrl": "https://news.mit.edu/2026/lerna-ekmekcioglu-named-head-history-section-0702"
   },
   {
-    "id": 99,
+    "id": 100,
     "title": "Building a scholarly community",
     "category": "TECH",
     "date": "2026-07-02T17:00:00.000Z",
@@ -1089,7 +1100,7 @@
     "sourceUrl": "https://news.mit.edu/2026/building-scholarly-community-shass-faculty-fellows-0702"
   },
   {
-    "id": 100,
+    "id": 101,
     "title": "Why are some bacterial genes high in purines?",
     "category": "TECH",
     "date": "2026-07-02T17:00:00.000Z",
@@ -1100,7 +1111,7 @@
     "sourceUrl": "https://news.mit.edu/2026/why-are-some-bacterial-genes-high-purines-0702"
   },
   {
-    "id": 101,
+    "id": 102,
     "title": "Why are some bacterial genes high in purines?",
     "category": "SCIENCE",
     "date": "2026-07-02T17:00:00.000Z",
@@ -1111,7 +1122,7 @@
     "sourceUrl": "https://news.mit.edu/2026/why-are-some-bacterial-genes-high-purines-0702"
   },
   {
-    "id": 102,
+    "id": 103,
     "title": "Meta glasses wearers hit with paywall to use built-in feature",
     "category": "TECH",
     "date": "2026-07-02T13:42:53.000Z",
@@ -1120,17 +1131,6 @@
     "content": "<h2>概要</h2><p>A feature in Meta's glasses which boosts the voice of people will be capped at three hours for free use.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC Technology",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 103,
-    "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-    "category": "WORLD",
-    "date": "2026-07-02T11:01:32.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria\nFloods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan.\nThere are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amadou Coulibaly, added.\n Continue reading...",
-    "content": "<h2>概要</h2><p>Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria\nFloods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan.\nThere are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amadou Coulibaly, added.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains"
   },
   {
     "id": 104,
