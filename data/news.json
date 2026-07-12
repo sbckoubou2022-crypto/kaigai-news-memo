@@ -1,39 +1,226 @@
 [
   {
     "id": 1,
-    "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say ",
-    "category": "WORLD",
-    "date": "2026-07-12T13:35:01.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media",
-    "content": "<h2>概要</h2><p>The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss"
+    "title": "Textbook chemistry gains blue-light upgrade to build complex drug molecules in fewer steps",
+    "category": "SCIENCE",
+    "date": "2026-07-12T19:11:55.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "In drug discovery, building complex molecules quickly is the name of the game.",
+    "content": "<h2>概要</h2><p>In drug discovery, building complex molecules quickly is the name of the game.</p><p><a href=\"https://phys.org/news/2026-07-textbook-chemistry-gains-blue-complex.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-textbook-chemistry-gains-blue-complex.html"
   },
   {
     "id": 2,
+    "title": "Climate change leaves northern tree swallows more vulnerable those in the southern US",
+    "category": "SCIENCE",
+    "date": "2026-07-12T19:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Tree swallows in the northern U.S. and Canada face the greatest risk from climate change despite responding to temperature the same way as tree swallows in the southern U.S., according to a new study led by Cornell researchers that analyzed nearly 95,000 nests across five decades. The findings, published in Proceedings of the National Academy of Sciences, reveal a critical timing squeeze for tree swallows in the northern half of the United States and Canada, putting them at risk.",
+    "content": "<h2>概要</h2><p>Tree swallows in the northern U.S. and Canada face the greatest risk from climate change despite responding to temperature the same way as tree swallows in the southern U.S., according to a new study led by Cornell researchers that analyzed nearly 95,000 nests across five decades. The findings, published in Proceedings of the National Academy of Sciences, reveal a critical timing squeeze for tree swallows in the northern half of the United States and Canada, putting them at risk.</p><p><a href=\"https://phys.org/news/2026-07-climate-northern-tree-swallows-vulnerable.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-climate-northern-tree-swallows-vulnerable.html"
+  },
+  {
+    "id": 3,
+    "title": "We assessed dozens of programs for men who use violence. Here's what we learned",
+    "category": "SCIENCE",
+    "date": "2026-07-12T18:30:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Domestic and family violence is an epidemic. In 2024, the prime minister declared it a national crisis. Official statistics show time and again that this violence is overwhelmingly perpetrated by men. This is unlikely to be news to most of us—we see it play out in our communities, online and on our screens.",
+    "content": "<h2>概要</h2><p>Domestic and family violence is an epidemic. In 2024, the prime minister declared it a national crisis. Official statistics show time and again that this violence is overwhelmingly perpetrated by men. This is unlikely to be news to most of us—we see it play out in our communities, online and on our screens.</p><p><a href=\"https://phys.org/news/2026-07-dozens-men-violence.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-dozens-men-violence.html"
+  },
+  {
+    "id": 4,
+    "title": "Autonomous drones measure volcanic gas clouds, offering clearer eruption warning signs",
+    "category": "SCIENCE",
+    "date": "2026-07-12T18:00:02.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "To better assess the danger posed by volcanoes, researchers at the Technical University of Munich (TUM) have developed a new measurement system. Laser beams are sent through escaping gas clouds and reflected by drones. An algorithm uses the reflected signals to generate a map showing gas concentrations, including elevated carbon dioxide levels. The ratio of carbon dioxide to sulfur dioxide is an important indicator of impending eruptions.",
+    "content": "<h2>概要</h2><p>To better assess the danger posed by volcanoes, researchers at the Technical University of Munich (TUM) have developed a new measurement system. Laser beams are sent through escaping gas clouds and reflected by drones. An algorithm uses the reflected signals to generate a map showing gas concentrations, including elevated carbon dioxide levels. The ratio of carbon dioxide to sulfur dioxide is an important indicator of impending eruptions.</p><p><a href=\"https://phys.org/news/2026-07-autonomous-drones-volcanic-gas-clouds.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-autonomous-drones-volcanic-gas-clouds.html"
+  },
+  {
+    "id": 5,
     "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
     "category": "WORLD",
-    "date": "2026-07-12T13:10:21.000Z",
+    "date": "2026-07-12T17:40:34.000Z",
     "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-    "content": "<h2>概要</h2><p>Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".</p><p><a href=\"https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+    "content": "<h2>概要</h2><p>Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".</p><p><a href=\"https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC World",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 3,
-    "title": "Climate oscillations shape nature's coral refuges in a warming ocean",
-    "category": "SCIENCE",
-    "date": "2026-07-12T13:00:04.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Why do some coral reefs weather marine heat waves better than others? A new study published in Scientific Reports shows that the answer may lie not only in local ocean conditions, but also in climate patterns that span entire ocean basins. By combining long-term ocean observations with chemical records preserved in coral skeletons, the researchers reveal how large-scale climate oscillations regulate the natural cooling that can help protect coral reefs during marine heat waves. First author Dr. Hana Camelia and Dr. Thomas Felis from MARUM—Center for Marine Environmental Sciences at the University of Bremen led the study.",
-    "content": "<h2>概要</h2><p>Why do some coral reefs weather marine heat waves better than others? A new study published in Scientific Reports shows that the answer may lie not only in local ocean conditions, but also in climate patterns that span entire ocean basins. By combining long-term ocean observations with chemical records preserved in coral skeletons, the researchers reveal how large-scale climate oscillations regulate the natural cooling that can help protect coral reefs during marine heat waves. First author Dr. Hana Camelia and Dr. Thomas Felis from MARUM—Center for Marine Environmental Sciences at the University of Bremen led the study.</p><p><a href=\"https://phys.org/news/2026-07-climate-oscillations-nature-coral-refuges.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-climate-oscillations-nature-coral-refuges.html"
+    "id": 6,
+    "title": "Toronto police looking for suspects after deadly shooting at festival",
+    "category": "WORLD",
+    "date": "2026-07-12T17:22:29.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4815x3210+0+0/resize/4815x3210!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2Fff%2F4ff3226d479798ac612459796b5b%2Fap26193051653698.jpg",
+    "summary": "At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city.",
+    "content": "<h2>概要</h2><p>At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city.</p><p><a href=\"https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival"
   },
   {
-    "id": 4,
+    "id": 7,
+    "title": "Neil the seal is more than a viral animal. He's become a global folk hero",
+    "category": "SCIENCE",
+    "date": "2026-07-12T17:00:06.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "I am one of Hobart's many residents who traveled to a nearby beach to witness Neil the seal—an animal that has been receiving global attention for his wild personality and humorous antics.",
+    "content": "<h2>概要</h2><p>I am one of Hobart's many residents who traveled to a nearby beach to witness Neil the seal—an animal that has been receiving global attention for his wild personality and humorous antics.</p><p><a href=\"https://phys.org/news/2026-07-neil-viral-animal-global-folk.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-neil-viral-animal-global-folk.html"
+  },
+  {
+    "id": 8,
+    "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+    "category": "WORLD",
+    "date": "2026-07-12T16:46:24.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+    "content": "<h2>概要</h2><p>Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 9,
+    "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+    "category": "WORLD",
+    "date": "2026-07-12T16:35:50.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
+    "content": "<h2>概要</h2><p>He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 10,
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "category": "TECH",
+    "date": "2026-07-12T16:27:06.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details in his latest Power On newsletter, it did lead to the development of the Neural Engine, the backbone of Apple's on-device AI processing. \nThe Neural Engine made its debut with the iPhone X and the A11 Bionic. In those early days, it was primarily used for computer vision, powering FaceID, Animoji, and a …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details in his latest Power On newsletter, it did lead to the development of the Neural Engine, the backbone of Apple's on-device AI processing. \nThe Neural Engine made its debut with the iPhone X and the A11 Bionic. In those early days, it was primarily used for computer vision, powering FaceID, Animoji, and a …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra"
+  },
+  {
+    "id": 11,
+    "title": "TechCrunch Mobility: A robotaxi ultimatum",
+    "category": "TECH",
+    "date": "2026-07-12T16:07:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+    "content": "<h2>概要</h2><p>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.</p><p><a href=\"https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/"
+  },
+  {
+    "id": 12,
+    "title": " Why space games still struggle with the scale of the universe ",
+    "category": "SPACE",
+    "date": "2026-07-12T16:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/a3EutkdWgkxi29KZGSMJuE-1280-80.jpg",
+    "summary": "\"Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is.\"",
+    "content": "<h2>概要</h2><p>\"Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is.\"</p><p><a href=\"https://www.space.com/entertainment/space-games/why-space-games-still-struggle-with-the-scale-of-the-universe\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/entertainment/space-games/why-space-games-still-struggle-with-the-scale-of-the-universe"
+  },
+  {
+    "id": 13,
+    "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
+    "category": "TECH",
+    "date": "2026-07-12T15:00:00.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25360143/akrales_220510_5209_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The SteelSeries Arctis Nova Pro gaming headset. | Photo by Amelia Holowaty Krales\t\n\nSteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, and Switch is available in both black and white. The PlayStation version, which supports the same platforms except for Xbox, is discounted in white. Both versions can also connect to mobile devices via Bluetooth.\nSteelSeries Arctis Nova Pro Wireless\nThe Nova Pro Wireless gaming headset supports active noise cancellation, swappable batteries, Bluetooth support, and compatibility with PC and most consoles — including Xbox and PlayStation. This model includes a base station that makes it easy to toggle crucial sound settings. Read our review.\n\nWhere to Buy:\n\n $379.99 $239.99 at SteelSeries (Xbox, black, blemished box)\n $379.99 $239.99 at SteelSeries (Playstation, white, blemished box)\n $379.99 $239.99 at SteelSeries (Xbox, white, blemished box)\n\nThis isn’t your average price reduction; SteelSeries’ reason for discounting the headsets is because their packaging is damaged. It assures that the hardware inside is still unused and undamaged, and the headset includes the same one-year warranty as any of its new headsets.\nThe Nova Pro Wireless was an impressive gaming headset when it launched four years ago — and still is — especially at this price point. It has all the features you’re probably expecting from a high-end wireless headset, like active noise cancellation for blocking out sounds, a noise-canceling microphone for clear callouts and crisp voice delivery, and Bluetooth connectivity in case you need to take a call. In addition, the slick USB base station adds a ton of unique functionality, like charging a spare batteries to minimize downtime when one dies, onboard controls for game profiles and sound mixing, and the ability to blend up to three inputs at a time (including Bluetooth).\nThere are some things you should keep in mind if you’re thinking of picking up the Arctis Nova Pro Wireless. Our reviewers disagreed on its comfort. Neither found it uncomfortable, but both agreed that it’s heavier than other SteelSeries headsets. If you were considering the newer and more expensive Nova Pro Omni, this headset has most of the same unique features at a much more palatable price point.\nRead our SteelSeries Arctis Nova Pro review.",
+    "content": "<h2>概要</h2><p>The SteelSeries Arctis Nova Pro gaming headset. | Photo by Amelia Holowaty Krales\t\n\nSteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, and Switch is available in both black and white. The PlayStation version, which supports the same platforms except for Xbox, is discounted in white. Both versions can also connect to mobile devices via Bluetooth.\nSteelSeries Arctis Nova Pro Wireless\nThe Nova Pro Wireless gaming headset supports active noise cancellation, swappable batteries, Bluetooth support, and compatibility with PC and most consoles — including Xbox and PlayStation. This model includes a base station that makes it easy to toggle crucial sound settings. Read our review.\n\nWhere to Buy:\n\n $379.99 $239.99 at SteelSeries (Xbox, black, blemished box)\n $379.99 $239.99 at SteelSeries (Playstation, white, blemished box)\n $379.99 $239.99 at SteelSeries (Xbox, white, blemished box)\n\nThis isn’t your average price reduction; SteelSeries’ reason for discounting the headsets is because their packaging is damaged. It assures that the hardware inside is still unused and undamaged, and the headset includes the same one-year warranty as any of its new headsets.\nThe Nova Pro Wireless was an impressive gaming headset when it launched four years ago — and still is — especially at this price point. It has all the features you’re probably expecting from a high-end wireless headset, like active noise cancellation for blocking out sounds, a noise-canceling microphone for clear callouts and crisp voice delivery, and Bluetooth connectivity in case you need to take a call. In addition, the slick USB base station adds a ton of unique functionality, like charging a spare batteries to minimize downtime when one dies, onboard controls for game profiles and sound mixing, and the ability to blend up to three inputs at a time (including Bluetooth).\nThere are some things you should keep in mind if you’re thinking of picking up the Arctis Nova Pro Wireless. Our reviewers disagreed on its comfort. Neither found it uncomfortable, but both agreed that it’s heavier than other SteelSeries headsets. If you were considering the newer and more expensive Nova Pro Omni, this headset has most of the same unique features at a much more palatable price point.\nRead our SteelSeries Arctis Nova Pro review.</p><p><a href=\"https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale"
+  },
+  {
+    "id": 14,
+    "title": "Mysterious Stone Sphere Unearthed at Ancient Site in Azerbaijan Baffles Archaeologists, Raises New Questions About Neolithic Technology",
+    "category": "MYSTERY",
+    "date": "2026-07-12T14:47:32.000Z",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A stone sphere unearthed at an archaeological site in Azerbaijan is reportedly unlike anything previously documented in the South Caucasus.",
+    "content": "<h2>概要</h2><p>A stone sphere unearthed at an archaeological site in Azerbaijan is reportedly unlike anything previously documented in the South Caucasus.</p><p><a href=\"https://thedebrief.org/mysterious-stone-sphere-unearthed-at-ancient-site-in-azerbaijan-baffles-archaeologists-raises-new-questions-about-neolithic-technology/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Debrief",
+    "sourceUrl": "https://thedebrief.org/mysterious-stone-sphere-unearthed-at-ancient-site-in-azerbaijan-baffles-archaeologists-raises-new-questions-about-neolithic-technology/"
+  },
+  {
+    "id": 15,
+    "title": "How Philips Hue got the smart home right",
+    "category": "TECH",
+    "date": "2026-07-12T14:38:01.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRH_Hue_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "A photo of a lightbulb glowing purple. | Photo: Amelia Holowaty Krales / The Verge\t\n\nThe state of the smart home can be frustrating, because it is just so obvious how things ought to work. You should be able to control everything from everywhere. Your spaces should adapt to what you're doing and how you're feeling. Making your home smart shouldn't require renovating, and the smarts should be mostly invisible. All of this is, of course, incredibly hard to pull off - but the goal is pretty clear.\nUntil now, maybe no product has come closer to nailing the smart home than Philips Hue. And on this episode of Version History, we dig into all the things Hue got right. The Verge's David Pierce and Jennifer Pattison Tuohy are joined …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>A photo of a lightbulb glowing purple. | Photo: Amelia Holowaty Krales / The Verge\t\n\nThe state of the smart home can be frustrating, because it is just so obvious how things ought to work. You should be able to control everything from everywhere. Your spaces should adapt to what you're doing and how you're feeling. Making your home smart shouldn't require renovating, and the smarts should be mostly invisible. All of this is, of course, incredibly hard to pull off - but the goal is pretty clear.\nUntil now, maybe no product has come closer to nailing the smart home than Philips Hue. And on this episode of Version History, we dig into all the things Hue got right. The Verge's David Pierce and Jennifer Pattison Tuohy are joined …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history"
+  },
+  {
+    "id": 16,
+    "title": "Gravitational waves reveal hidden populations within black hole mergers",
+    "category": "SPACE",
+    "date": "2026-07-12T14:20:01.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Since gravitational waves were first detected in 2015, instruments including LIGO, Virgo and KAGRA have picked up a steady stream of signals from colliding black holes, building a catalog that now numbers in the hundreds. Yet despite this wealth of data, a fundamental question has remained stubbornly unresolved: How do these black holes actually form?",
+    "content": "<h2>概要</h2><p>Since gravitational waves were first detected in 2015, instruments including LIGO, Virgo and KAGRA have picked up a steady stream of signals from colliding black holes, building a catalog that now numbers in the hundreds. Yet despite this wealth of data, a fundamental question has remained stubbornly unresolved: How do these black holes actually form?</p><p><a href=\"https://phys.org/news/2026-07-gravitational-reveal-hidden-populations-black.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-07-gravitational-reveal-hidden-populations-black.html"
+  },
+  {
+    "id": 17,
+    "title": "MIT Engineers Unleash New ‘Aerial-Aquatic’ Robot That Can Swim Underwater and Fly Like a Bird",
+    "category": "MYSTERY",
+    "date": "2026-07-12T14:08:02.000Z",
+    "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/07/aerial-aquatic-robot-MIT.jpg",
+    "summary": "Engineers have developed a new aerial-aquatic robot that can swim underwater, then rise to the surface and take flight.",
+    "content": "<h2>概要</h2><p>Engineers have developed a new aerial-aquatic robot that can swim underwater, then rise to the surface and take flight.</p><p><a href=\"https://thedebrief.org/mit-engineers-unleash-new-aerial-aquatic-robot-that-can-swim-underwater-and-fly-like-a-bird/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Debrief",
+    "sourceUrl": "https://thedebrief.org/mit-engineers-unleash-new-aerial-aquatic-robot-that-can-swim-underwater-and-fly-like-a-bird/"
+  },
+  {
+    "id": 18,
+    "title": "Less is more with the Oura Ring 5",
+    "category": "TECH",
+    "date": "2026-07-12T14:00:00.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The cross stitch pattern is by NathNolu on Etsy.\t\n\nIf you're reading an Oura Ring 5 review at The Verge, you likely fall into one of two camps: newcomers looking for a smartwatch alternative, or Oura users pondering an upgrade. In the case of the former, this is a great casual health tracker and the best smart ring on the market - but not your best choice if you really sweat the fitness details. If you fall into the latter, you don't need to upgrade.\nI say this because the Oura Ring 4 came out less than two years ago. The ceramic version, of which I am a big fan, came out less than a year ago. These were major updates over the Oura Ring Gen 3, both in terms of software and in terms of senso …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>The cross stitch pattern is by NathNolu on Etsy.\t\n\nIf you're reading an Oura Ring 5 review at The Verge, you likely fall into one of two camps: newcomers looking for a smartwatch alternative, or Oura users pondering an upgrade. In the case of the former, this is a great casual health tracker and the best smart ring on the market - but not your best choice if you really sweat the fitness details. If you fall into the latter, you don't need to upgrade.\nI say this because the Oura Ring 4 came out less than two years ago. The ceramic version, of which I am a big fan, came out less than a year ago. These were major updates over the Oura Ring Gen 3, both in terms of software and in terms of senso …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables"
+  },
+  {
+    "id": 19,
+    "title": " 149 million views! Artemis II moon mission breaks NASA's streaming record ",
+    "category": "SPACE",
+    "date": "2026-07-12T14:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/PppwsZmRsj2FZVY5y3RVj7-1280-80.jpg",
+    "summary": "The Artemis II astronauts made an impact on potentially hundreds of millions of people during their mission, according to NASA figures.",
+    "content": "<h2>概要</h2><p>The Artemis II astronauts made an impact on potentially hundreds of millions of people during their mission, according to NASA figures.</p><p><a href=\"https://www.space.com/space-exploration/artemis/149-million-views-artemis-ii-moon-mission-breaks-nasas-streaming-record\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/space-exploration/artemis/149-million-views-artemis-ii-moon-mission-breaks-nasas-streaming-record"
+  },
+  {
+    "id": 20,
+    "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say ",
+    "category": "WORLD",
+    "date": "2026-07-12T13:35:01.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
+    "content": "<h2>概要</h2><p>The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 21,
     "title": "Blue Prince became a bonding — and learning — experience for my family",
     "category": "TECH",
     "date": "2026-07-12T13:00:00.000Z",
@@ -44,18 +231,7 @@
     "sourceUrl": "https://www.theverge.com/games/964262/blue-prince-family-bonding"
   },
   {
-    "id": 5,
-    "title": "Oldest quasars ever discovered add to 'perplexing' space mystery",
-    "category": "SCIENCE",
-    "date": "2026-07-12T12:40:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Euclid space telescope has spotted the oldest quasars—the brightest objects in the universe—ever discovered, deepening a cosmic mystery that has been puzzling scientists.",
-    "content": "<h2>概要</h2><p>The Euclid space telescope has spotted the oldest quasars—the brightest objects in the universe—ever discovered, deepening a cosmic mystery that has been puzzling scientists.</p><p><a href=\"https://phys.org/news/2026-07-oldest-quasars-perplexing-space-mystery.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-oldest-quasars-perplexing-space-mystery.html"
-  },
-  {
-    "id": 6,
+    "id": 22,
     "title": "Oldest quasars ever discovered add to 'perplexing' space mystery",
     "category": "SPACE",
     "date": "2026-07-12T12:40:01.000Z",
@@ -66,7 +242,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-oldest-quasars-perplexing-space-mystery.html"
   },
   {
-    "id": 7,
+    "id": 23,
     "title": " Space medicine breakthrough? Kidney and liver tissue bioprinted off Earth for 1st time ever ",
     "category": "SPACE",
     "date": "2026-07-12T12:05:00.000Z",
@@ -77,29 +253,7 @@
     "sourceUrl": "https://www.space.com/technology/space-medicine-breakthrough-kidney-and-liver-tissue-bioprinted-off-earth-for-1st-time-ever"
   },
   {
-    "id": 8,
-    "title": "New method brings single-particle quality control to nanocrystal manufacturing",
-    "category": "SCIENCE",
-    "date": "2026-07-12T12:00:02.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Nanocrystals are already used in millions of devices, including televisions, laptops and displays, and are considered key materials for the next generation of quantum, sensing and solar technologies. However, they have not yet fully realized their potential. One major reason is their inherent heterogeneity: A single solution contains billions of nanocrystals whose properties can differ substantially. Although these particles can be characterized, important quality parameters are typically accessible only as average values across the entire sample.",
-    "content": "<h2>概要</h2><p>Nanocrystals are already used in millions of devices, including televisions, laptops and displays, and are considered key materials for the next generation of quantum, sensing and solar technologies. However, they have not yet fully realized their potential. One major reason is their inherent heterogeneity: A single solution contains billions of nanocrystals whose properties can differ substantially. Although these particles can be characterized, important quality parameters are typically accessible only as average values across the entire sample.</p><p><a href=\"https://phys.org/news/2026-07-method-particle-quality-nanocrystal.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-method-particle-quality-nanocrystal.html"
-  },
-  {
-    "id": 9,
-    "title": "The fight against AI data centers is just beginning",
-    "category": "TECH",
-    "date": "2026-07-12T12:00:00.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nYears before the AI boom threatened local power grids, a small group of protesters set the stage for the battles cropping up across communities today. In 2015, Apple announced plans to build a roughly $1 billion data center in the sleepy town of Athenry, Ireland. The data center's 500-acre site would power Apple's services in Europe, including iTunes, iMessage, and Siri. At th …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nYears before the AI boom threatened local power grids, a small group of protesters set the stage for the battles cropping up across communities today. In 2015, Apple announced plans to build a roughly $1 billion data center in the sleepy town of Athenry, Ireland. The data center's 500-acre site would power Apple's services in Europe, including iTunes, iMessage, and Siri. At th …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/column/963346/ai-data-centers-fight\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/column/963346/ai-data-centers-fight"
-  },
-  {
-    "id": 10,
+    "id": 24,
     "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
     "category": "TECH",
     "date": "2026-07-12T11:12:19.000Z",
@@ -110,7 +264,7 @@
     "sourceUrl": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/"
   },
   {
-    "id": 11,
+    "id": 25,
     "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
     "category": "TECH",
     "date": "2026-07-12T11:09:00.000Z",
@@ -121,7 +275,7 @@
     "sourceUrl": "https://www.wired.com/story/best-pool-cleaning-robots/"
   },
   {
-    "id": 12,
+    "id": 26,
     "title": "Here’s How Apple Is Updating Its Child Safety Features in iOS 27",
     "category": "TECH",
     "date": "2026-07-12T10:30:00.000Z",
@@ -132,7 +286,7 @@
     "sourceUrl": "https://www.wired.com/story/apple-child-safety-ios-27/"
   },
   {
-    "id": 13,
+    "id": 27,
     "title": "28 Best STEM Toys for Kids (2026): Learning Made Fun",
     "category": "TECH",
     "date": "2026-07-12T10:30:00.000Z",
@@ -143,7 +297,7 @@
     "sourceUrl": "https://www.wired.com/gallery/best-stem-toys-for-kids/"
   },
   {
-    "id": 14,
+    "id": 28,
     "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
     "category": "TECH",
     "date": "2026-07-12T10:00:00.000Z",
@@ -154,7 +308,7 @@
     "sourceUrl": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/"
   },
   {
-    "id": 15,
+    "id": 29,
     "title": " 1 month until the total solar eclipse 2026 — Here's what you need to know ",
     "category": "SPACE",
     "date": "2026-07-12T10:00:00.000Z",
@@ -165,7 +319,7 @@
     "sourceUrl": "https://www.space.com/stargazing/solar-eclipses/1-month-until-the-total-solar-eclipse-2026-heres-what-you-need-to-know"
   },
   {
-    "id": 16,
+    "id": 30,
     "title": "Best External Hard Drives (2026): SSD to Store Data, Video, and More",
     "category": "TECH",
     "date": "2026-07-12T09:33:00.000Z",
@@ -176,7 +330,7 @@
     "sourceUrl": "https://www.wired.com/story/best-portable-external-storage-drives/"
   },
   {
-    "id": 17,
+    "id": 31,
     "title": "The best email hosting for small businesses in 2026: Expert tested",
     "category": "TECH",
     "date": "2026-07-12T09:00:44.000Z",
@@ -187,29 +341,7 @@
     "sourceUrl": "https://www.zdnet.com/article/best-email-hosting-for-small-businesses/"
   },
   {
-    "id": 18,
-    "title": "Firefighters gain upper hand on deadly Spain wildfire",
-    "category": "SCIENCE",
-    "date": "2026-07-12T08:30:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Firefighters battling a wildfire in southern Spain that killed 12 people began to contain the blaze Saturday as the hardest-hit village remained deserted, with charred vegetation and blackened homes a grim reminder of the inferno that sent terrified people fleeing their homes.",
-    "content": "<h2>概要</h2><p>Firefighters battling a wildfire in southern Spain that killed 12 people began to contain the blaze Saturday as the hardest-hit village remained deserted, with charred vegetation and blackened homes a grim reminder of the inferno that sent terrified people fleeing their homes.</p><p><a href=\"https://phys.org/news/2026-07-firefighters-gain-upper-deadly-spain.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-firefighters-gain-upper-deadly-spain.html"
-  },
-  {
-    "id": 19,
-    "title": "Typhoon makes landfall in China, downgraded to severe tropical storm",
-    "category": "SCIENCE",
-    "date": "2026-07-12T08:10:02.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Typhoon Bavi was downgraded to a severe tropical storm Sunday after making landfall in eastern China, where authorities had evacuated nearly 2 million people in its path.",
-    "content": "<h2>概要</h2><p>Typhoon Bavi was downgraded to a severe tropical storm Sunday after making landfall in eastern China, where authorities had evacuated nearly 2 million people in its path.</p><p><a href=\"https://phys.org/news/2026-07-typhoon-landfall-china-downgraded-severe.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-typhoon-landfall-china-downgraded-severe.html"
-  },
-  {
-    "id": 20,
+    "id": 32,
     "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
     "category": "WORLD",
     "date": "2026-07-12T08:00:12.000Z",
@@ -220,7 +352,7 @@
     "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc"
   },
   {
-    "id": 21,
+    "id": 33,
     "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
     "category": "WORLD",
     "date": "2026-07-12T07:39:45.000Z",
@@ -231,18 +363,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 22,
-    "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-    "category": "WORLD",
-    "date": "2026-07-12T06:49:46.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
-    "content": "<h2>概要</h2><p>The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 23,
+    "id": 34,
     "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
     "category": "BUSINESS",
     "date": "2026-07-12T05:00:15.000Z",
@@ -253,7 +374,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 24,
+    "id": 35,
     "title": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
     "category": "WORLD",
     "date": "2026-07-12T04:10:30.000Z",
@@ -264,29 +385,18 @@
     "sourceUrl": "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals"
   },
   {
-    "id": 25,
-    "title": "At least two killed in Toronto street festival shooting",
-    "category": "WORLD",
-    "date": "2026-07-12T03:56:02.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
-    "content": "<h2>概要</h2><p>Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.</p><p><a href=\"https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 26,
-    "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
+    "id": 36,
+    "title": "U.S. launches fresh strikes on Iran as Tehran says it has closed Strait of Hormuz",
     "category": "WORLD",
     "date": "2026-07-12T01:32:36.000Z",
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8169x5174+0+0/resize/8169x5174!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F12%2F95fc9a6146e6a1f22ff138e3833c%2Fap26192753034166.jpg",
-    "summary": "The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates.",
-    "content": "<h2>概要</h2><p>The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates.</p><p><a href=\"https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "The U.S. and Iran have been exchanging strikes, with the U.S. military saying it hit 140 targets in Iran overnight, while Iran said it responded with fire toward Jordan and other Gulf states.",
+    "content": "<h2>概要</h2><p>The U.S. and Iran have been exchanging strikes, with the U.S. military saying it hit 140 targets in Iran overnight, while Iran said it responded with fire toward Jordan and other Gulf states.</p><p><a href=\"https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "NPR World",
     "sourceUrl": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf"
   },
   {
-    "id": 27,
+    "id": 37,
     "title": "Reed Jobs would rather talk about curing cancer than his last name",
     "category": "TECH",
     "date": "2026-07-12T00:16:06.000Z",
@@ -297,7 +407,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/"
   },
   {
-    "id": 28,
+    "id": 38,
     "title": "This slushie machine was a lifesaver during NYC’s heat wave",
     "category": "TECH",
     "date": "2026-07-11T22:00:00.000Z",
@@ -308,7 +418,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/"
   },
   {
-    "id": 29,
+    "id": 39,
     "title": "Palestinian aid worker who organized World Cup screenings killed in Israeli strike",
     "category": "WORLD",
     "date": "2026-07-11T21:09:56.000Z",
@@ -319,7 +429,7 @@
     "sourceUrl": "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike"
   },
   {
-    "id": 30,
+    "id": 40,
     "title": "A veteran foreign correspondent looks back on a career covering conflicts",
     "category": "WORLD",
     "date": "2026-07-11T21:08:23.000Z",
@@ -330,29 +440,7 @@
     "sourceUrl": "https://www.npr.org/2026/07/11/nx-s1-5866592/a-veteran-foreign-correspondent-looks-back-on-a-career-covering-conflicts"
   },
   {
-    "id": 31,
-    "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-    "category": "TECH",
-    "date": "2026-07-11T20:57:42.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "More mint green synths please. | Image: Nopia\t\n\nAfter setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it will be launching in \"a couple of months\" for around £550.\nNopia is built around harmonic interplay in a unique way. Rather than a few knobs and a keyboard controlling a single synth patch, it blends multiple modules - keys, bass, arp, and pad - into a single performance, not unlike a drumless groovebox. There's a one-octave keyboard called the Chord Builder, a 12-b …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>More mint green synths please. | Image: Nopia\t\n\nAfter setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it will be launching in \"a couple of months\" for around £550.\nNopia is built around harmonic interplay in a unique way. Rather than a few knobs and a keyboard controlling a single synth patch, it blends multiple modules - keys, bass, arp, and pad - into a single performance, not unlike a drumless groovebox. There's a one-octave keyboard called the Chord Builder, a 12-b …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo"
-  },
-  {
-    "id": 32,
-    "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
-    "category": "TECH",
-    "date": "2026-07-11T18:44:12.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his office could review the documents. But according to Deadline and Variety, he's now dropped his civil investigative demand for the records.\nObviously, Paramount is pleased with Rayfield's decision to withdraw his request, but the AG's office isn't exactly satisfied with the outcome.\nJenny Hansson, communications director for Rayfield, told Deadline that, \"Paramount made it clear that they weren't going to compl …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his office could review the documents. But according to Deadline and Variety, he's now dropped his civil investigative demand for the records.\nObviously, Paramount is pleased with Rayfield's decision to withdraw his request, but the AG's office isn't exactly satisfied with the outcome.\nJenny Hansson, communications director for Rayfield, told Deadline that, \"Paramount made it clear that they weren't going to compl …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger"
-  },
-  {
-    "id": 33,
+    "id": 41,
     "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
     "category": "TECH",
     "date": "2026-07-11T17:30:00.000Z",
@@ -363,7 +451,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/"
   },
   {
-    "id": 34,
+    "id": 42,
     "title": " Your lost dog can now call home with the world's 1st satellite-connected dog collar ",
     "category": "SPACE",
     "date": "2026-07-11T16:00:00.000Z",
@@ -374,7 +462,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/satellites/your-lost-dog-can-now-call-home-with-the-worlds-1st-satellite-connected-dog-collar"
   },
   {
-    "id": 35,
+    "id": 43,
     "title": "These Unusual Step-Like Structures on Hillsides Baffled Darwin 150 Years Ago—Now Scientists Finally Know Their Origins",
     "category": "MYSTERY",
     "date": "2026-07-11T15:37:32.000Z",
@@ -385,7 +473,7 @@
     "sourceUrl": "https://thedebrief.org/these-unusual-step-like-structures-on-hillsides-baffled-darwin-150-years-ago-now-scientists-finally-know-their-origins/"
   },
   {
-    "id": 36,
+    "id": 44,
     "title": "Could permanent magnets protect astronauts from solar storms?",
     "category": "SPACE",
     "date": "2026-07-11T15:30:01.000Z",
@@ -396,18 +484,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-permanent-magnets-astronauts-solar-storms.html"
   },
   {
-    "id": 37,
-    "title": " This Week In Space podcast: Episode 218 — Which Way to the Moonbase? ",
-    "category": "SPACE",
-    "date": "2026-07-11T15:20:59.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/ZzhgAZbP3wwGFYSyWBfeFR-1280-80.jpg",
-    "summary": "On Episode 218 of This Week In Space, Rod Pyle and Tariq Malik discuss NASA's new moonbase plans with planetary scientist Dr. Pascal Lee.",
-    "content": "<h2>概要</h2><p>On Episode 218 of This Week In Space, Rod Pyle and Tariq Malik discuss NASA's new moonbase plans with planetary scientist Dr. Pascal Lee.</p><p><a href=\"https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-218-which-way-to-the-moonbase\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-218-which-way-to-the-moonbase"
-  },
-  {
-    "id": 38,
+    "id": 45,
     "title": "X-ray tracking reveals uneven expansion in young supernova remnant G292.0+1.8",
     "category": "SPACE",
     "date": "2026-07-11T15:00:02.000Z",
@@ -418,29 +495,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-ray-tracking-reveals-uneven-expansion.html"
   },
   {
-    "id": 39,
-    "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
-    "category": "TECH",
-    "date": "2026-07-11T15:00:00.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2887.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW) through the modern age. As CEO of Image Line, the company behind FL Studio, Constantin has overseen the introduction of a number of AI-powered features like stem separation and its Gopher chatbot.\nBefore taking the reins of Image Line in 2022, Constantin was the head of Native Instruments, where he spearheaded the shift towards digital services, did a stint in marketing, …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW) through the modern age. As CEO of Image Line, the company behind FL Studio, Constantin has overseen the introduction of a number of AI-powered features like stem separation and its Gopher chatbot.\nBefore taking the reins of Image Line in 2022, Constantin was the head of Native Instruments, where he spearheaded the shift towards digital services, did a stint in marketing, …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview"
-  },
-  {
-    "id": 40,
-    "title": " Sci-fi action movies were better in the '90s. 'Independence Day' is full of reasons why ",
-    "category": "SPACE",
-    "date": "2026-07-11T15:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/NygS76irfgPT4dTcdQkYa8-1280-80.jpg",
-    "summary": "Superheroes and franchises haven't always ruled the multiplex…",
-    "content": "<h2>概要</h2><p>Superheroes and franchises haven't always ruled the multiplex…</p><p><a href=\"https://www.space.com/entertainment/space-movies-shows/sci-fi-action-movies-were-better-in-the-90s-independence-day-is-full-of-reasons-why\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/sci-fi-action-movies-were-better-in-the-90s-independence-day-is-full-of-reasons-why"
-  },
-  {
-    "id": 41,
+    "id": 46,
     "title": "OpenAI bets on families as ChatGPT goes deeper into households",
     "category": "TECH",
     "date": "2026-07-11T14:13:00.000Z",
@@ -451,7 +506,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
   },
   {
-    "id": 42,
+    "id": 47,
     "title": "This Week’s Awesome Tech Stories From Around the Web (Through July 11)",
     "category": "MYSTERY",
     "date": "2026-07-11T14:00:00.000Z",
@@ -462,7 +517,7 @@
     "sourceUrl": "https://singularityhub.com/2026/07/11/this-weeks-awesome-tech-stories-from-around-the-web-through-july-11-2/"
   },
   {
-    "id": 43,
+    "id": 48,
     "title": "This Color-Changing Material Could Give Robots a New Way to Detect Touch",
     "category": "MYSTERY",
     "date": "2026-07-11T12:56:18.000Z",
@@ -473,7 +528,7 @@
     "sourceUrl": "https://thedebrief.org/this-color-changing-material-could-give-robots-a-new-way-to-detect-touch/"
   },
   {
-    "id": 44,
+    "id": 49,
     "title": "My Fitbit Air test revealed the flaws of calorie counting with a health tracker - here's why",
     "category": "TECH",
     "date": "2026-07-11T12:52:30.000Z",
@@ -484,7 +539,7 @@
     "sourceUrl": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/"
   },
   {
-    "id": 45,
+    "id": 50,
     "title": "A Jupiter-size planet that escaped its star's death",
     "category": "TECH",
     "date": "2026-07-11T12:00:58.000Z",
@@ -495,7 +550,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/"
   },
   {
-    "id": 46,
+    "id": 51,
     "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
     "category": "BUSINESS",
     "date": "2026-07-11T12:00:16.000Z",
@@ -506,7 +561,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 47,
+    "id": 52,
     "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
     "category": "WORLD",
     "date": "2026-07-11T11:59:11.000Z",
@@ -517,18 +572,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara"
   },
   {
-    "id": 48,
-    "title": "Most people who need glasses don't have them. Can the post office change that?",
-    "category": "WORLD",
-    "date": "2026-07-11T11:49:47.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3712+0+0/resize/5568x3712!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F3a%2F2b7ae267443fb28f38919fb0d0b8%2Findia-post-office-eye-exam-11.jpg",
-    "summary": "In some towns in India, a visitor to the post office who's squinting at fine print might be asked: Do you want an eye test?",
-    "content": "<h2>概要</h2><p>In some towns in India, a visitor to the post office who's squinting at fine print might be asked: Do you want an eye test?</p><p><a href=\"https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india"
-  },
-  {
-    "id": 49,
+    "id": 53,
     "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
     "category": "TECH",
     "date": "2026-07-11T11:11:26.000Z",
@@ -539,7 +583,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/"
   },
   {
-    "id": 50,
+    "id": 54,
     "title": "Will Trump Accounts deliver for American children?",
     "category": "BUSINESS",
     "date": "2026-07-11T07:41:18.000Z",
@@ -550,7 +594,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 51,
+    "id": 55,
     "title": "Japan's space agency conducts first test flight for experimental reusable rocket",
     "category": "SPACE",
     "date": "2026-07-11T07:19:43.000Z",
@@ -561,7 +605,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-japan-space-agency-flight-experimental.html"
   },
   {
-    "id": 52,
+    "id": 56,
     "title": "Meta pulls new AI image feature after days of backlash",
     "category": "TECH",
     "date": "2026-07-11T01:45:59.000Z",
@@ -572,18 +616,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 53,
-    "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-    "category": "TECH",
-    "date": "2026-07-11T01:01:28.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
-    "content": "<h2>概要</h2><p>Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.</p><p><a href=\"https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/"
-  },
-  {
-    "id": 54,
+    "id": 57,
     "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait? ",
     "category": "TECH",
     "date": "2026-07-11T00:08:51.000Z",
@@ -594,18 +627,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 55,
-    "title": "To ancient astronomers, Theta Eridani was brighter for 1,000 years—now we know why",
-    "category": "SPACE",
-    "date": "2026-07-10T23:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "There's a bit of a historical mystery surrounding the star Theta Eridani. Ptolemy in the second century A.D. and al-Sufi in A.D. 964 both recorded Theta Eridani as one of the 13 brightest stars in the sky. Hipparchus may have said the same. But there's a problem. For it to be one of the 13 brightest, it had to be much more luminous than it is today.",
-    "content": "<h2>概要</h2><p>There's a bit of a historical mystery surrounding the star Theta Eridani. Ptolemy in the second century A.D. and al-Sufi in A.D. 964 both recorded Theta Eridani as one of the 13 brightest stars in the sky. Hipparchus may have said the same. But there's a problem. For it to be one of the 13 brightest, it had to be much more luminous than it is today.</p><p><a href=\"https://phys.org/news/2026-07-ancient-astronomers-theta-eridani-brighter.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-07-ancient-astronomers-theta-eridani-brighter.html"
-  },
-  {
-    "id": 56,
+    "id": 58,
     "title": "Quantum error correction can constantly recalibrate a processor",
     "category": "TECH",
     "date": "2026-07-10T23:02:30.000Z",
@@ -616,7 +638,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/"
   },
   {
-    "id": 57,
+    "id": 59,
     "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
     "category": "TECH",
     "date": "2026-07-10T22:54:16.000Z",
@@ -627,7 +649,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 58,
+    "id": 60,
     "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
     "category": "TECH",
     "date": "2026-07-10T22:37:22.000Z",
@@ -638,7 +660,7 @@
     "sourceUrl": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/"
   },
   {
-    "id": 59,
+    "id": 61,
     "title": "Red Hat will support your RHEL forever now - for a price",
     "category": "TECH",
     "date": "2026-07-10T20:44:12.000Z",
@@ -649,7 +671,7 @@
     "sourceUrl": "https://www.zdnet.com/article/red-hat-enterprise-linux-forever-support/"
   },
   {
-    "id": 60,
+    "id": 62,
     "title": "Early Career Faculty (ECF) 2025 Awards",
     "category": "SPACE",
     "date": "2026-07-10T19:23:55.000Z",
@@ -660,7 +682,7 @@
     "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
   },
   {
-    "id": 61,
+    "id": 63,
     "title": "NASA Volunteers Help Zooniverse Reach 1 Billion Classifications",
     "category": "SPACE",
     "date": "2026-07-10T19:00:53.000Z",
@@ -671,7 +693,7 @@
     "sourceUrl": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/"
   },
   {
-    "id": 62,
+    "id": 64,
     "title": "Discovery could lead to brighter, more energy-efficient digital displays",
     "category": "TECH",
     "date": "2026-07-10T18:00:00.000Z",
@@ -682,7 +704,7 @@
     "sourceUrl": "https://news.mit.edu/2026/discovery-could-lead-brighter-more-energy-efficient-digital-displays-0710"
   },
   {
-    "id": 63,
+    "id": 65,
     "title": "Discovery could lead to brighter, more energy-efficient digital displays",
     "category": "TECH",
     "date": "2026-07-10T18:00:00.000Z",
@@ -693,7 +715,7 @@
     "sourceUrl": "https://news.mit.edu/2026/discovery-could-lead-brighter-more-energy-efficient-digital-displays-0710"
   },
   {
-    "id": 64,
+    "id": 66,
     "title": "Discovery could lead to brighter, more energy-efficient digital displays",
     "category": "SCIENCE",
     "date": "2026-07-10T18:00:00.000Z",
@@ -704,7 +726,7 @@
     "sourceUrl": "https://news.mit.edu/2026/discovery-could-lead-brighter-more-energy-efficient-digital-displays-0710"
   },
   {
-    "id": 65,
+    "id": 67,
     "title": "Pentagon Releases New Batch of UAP Videos and Historical Files, But Clarity Remains Elusive",
     "category": "MYSTERY",
     "date": "2026-07-10T17:18:54.000Z",
@@ -715,7 +737,7 @@
     "sourceUrl": "https://thedebrief.org/pentagon-releases-new-batch-of-uap-videos-and-historical-files-but-clarity-remains-elusive/"
   },
   {
-    "id": 66,
+    "id": 68,
     "title": "SpaceX wants to launch 100,000 more Starlink satellites - for 100x the bandwidth",
     "category": "TECH",
     "date": "2026-07-10T17:15:00.000Z",
@@ -726,7 +748,7 @@
     "sourceUrl": "https://www.zdnet.com/article/spacex-wants-to-launch-100000-more-starlink-satellites/"
   },
   {
-    "id": 67,
+    "id": 69,
     "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2: Both wow, but one is comfier",
     "category": "TECH",
     "date": "2026-07-10T16:54:00.000Z",
@@ -737,7 +759,7 @@
     "sourceUrl": "https://www.zdnet.com/article/sony-1000x-the-collexion-vs-bowers-wilkins-px8-s2/"
   },
   {
-    "id": 68,
+    "id": 70,
     "title": "NASA Photographer Captures Images from F-18 Over Washington",
     "category": "SPACE",
     "date": "2026-07-10T16:36:14.000Z",
@@ -748,7 +770,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/"
   },
   {
-    "id": 69,
+    "id": 71,
     "title": "Major car firms found not to have installed emissions-cheating devices",
     "category": "BUSINESS",
     "date": "2026-07-10T16:18:08.000Z",
@@ -759,7 +781,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 70,
+    "id": 72,
     "title": "Waxing Gibbous Moon",
     "category": "SPACE",
     "date": "2026-07-10T15:08:59.000Z",
@@ -770,7 +792,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/waxing-gibbous-moon-6/"
   },
   {
-    "id": 71,
+    "id": 73,
     "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
     "category": "BUSINESS",
     "date": "2026-07-10T15:02:45.000Z",
@@ -781,7 +803,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 72,
+    "id": 74,
     "title": "CAR T Revolutionized How We Treat Blood Cancers. Now It’s Closing In on Solid Tumors.",
     "category": "MYSTERY",
     "date": "2026-07-10T14:00:00.000Z",
@@ -792,7 +814,7 @@
     "sourceUrl": "https://singularityhub.com/2026/07/10/car-t-revolutionized-how-we-treat-blood-cancers-now-its-closing-in-on-solid-tumors/"
   },
   {
-    "id": 73,
+    "id": 75,
     "title": "8 things to know about this year’s solar eclipse",
     "category": "SPACE",
     "date": "2026-07-10T13:36:00.000Z",
@@ -803,18 +825,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/8_things_to_know_about_this_year_s_solar_eclipse"
   },
   {
-    "id": 74,
-    "title": "James Webb Space Telescope Reveals New Features of an Unusual Galaxy That Left Baffled Astronomers Questioning Its Origins",
-    "category": "MYSTERY",
-    "date": "2026-07-10T13:13:39.000Z",
-    "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/07/MIRI-Centaurus-A-300x124.jpg",
-    "summary": "NASA’s James Webb Space Telescope is celebrating four years of unexpectedly strong performance by providing a deep new view.",
-    "content": "<h2>概要</h2><p>NASA’s James Webb Space Telescope is celebrating four years of unexpectedly strong performance by providing a deep new view.</p><p><a href=\"https://thedebrief.org/james-webb-space-telescope-discovers-unusual-galaxy-that-left-baffled-astronomers-questioning-its-origins/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Debrief",
-    "sourceUrl": "https://thedebrief.org/james-webb-space-telescope-discovers-unusual-galaxy-that-left-baffled-astronomers-questioning-its-origins/"
-  },
-  {
-    "id": 75,
+    "id": 76,
     "title": "Week in images: 06-10 July 2026",
     "category": "SPACE",
     "date": "2026-07-10T13:10:00.000Z",
@@ -823,17 +834,6 @@
     "content": "<h2>概要</h2><p>Week in images: 06-10 July 2026\nDiscover our week through the lens</p><p><a href=\"https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_July_2026\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "ESA Top News",
     "sourceUrl": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_July_2026"
-  },
-  {
-    "id": 76,
-    "title": "For the Last Century, This Creature Was Thought to Only Exist in Hawaii—and Scientists Just Spotted One in the Himalayas",
-    "category": "MYSTERY",
-    "date": "2026-07-10T12:22:57.000Z",
-    "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/07/Male-Female-Smiley-Faced-Spider-270x300.jpg",
-    "summary": "The strange grin of the Happy-Face spider has been spotted far from the Hawaiian Islands, its only previously known home.",
-    "content": "<h2>概要</h2><p>The strange grin of the Happy-Face spider has been spotted far from the Hawaiian Islands, its only previously known home.</p><p><a href=\"https://thedebrief.org/for-the-last-century-this-creature-was-thought-to-only-exist-in-hawaii-and-scientists-just-spotted-one-in-the-himalayas/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Debrief",
-    "sourceUrl": "https://thedebrief.org/for-the-last-century-this-creature-was-thought-to-only-exist-in-hawaii-and-scientists-just-spotted-one-in-the-himalayas/"
   },
   {
     "id": 77,
