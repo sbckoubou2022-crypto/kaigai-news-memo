@@ -1,17 +1,248 @@
 [
   {
     "id": 1,
-    "title": "China economic growth falls sharply, missing target",
-    "category": "BUSINESS",
-    "date": "2026-07-15T02:22:23.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
-    "content": "<h2>概要</h2><p>Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss"
+    "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+    "category": "WORLD",
+    "date": "2026-07-15T08:17:28.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
+    "content": "<h2>概要</h2><p>Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": 2,
+    "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+    "category": "TECH",
+    "date": "2026-07-15T07:58:47.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
+    "content": "<h2>概要</h2><p>The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".</p><p><a href=\"https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Technology",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 3,
+    "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+    "category": "BUSINESS",
+    "date": "2026-07-15T07:58:47.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
+    "content": "<h2>概要</h2><p>The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".</p><p><a href=\"https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 4,
+    "title": "I tested my USB-C cables with this free Mac app - some weren't what they claimed",
+    "category": "TECH",
+    "date": "2026-07-15T07:45:43.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "WhatCable is a free Mac app that gives you all the information you could need for your USB-C cables.",
+    "content": "<h2>概要</h2><p>WhatCable is a free Mac app that gives you all the information you could need for your USB-C cables.</p><p><a href=\"https://www.zdnet.com/article/whatcable-mac-app-usbc-cable-review/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/whatcable-mac-app-usbc-cable-review/"
+  },
+  {
+    "id": 5,
+    "title": "Thames Water returns to profit after raising bills",
+    "category": "BUSINESS",
+    "date": "2026-07-15T07:35:29.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The UK's largest water company reported a post-tax profit for the 12 months to the end of March, but its net debt also swelled.",
+    "content": "<h2>概要</h2><p>The UK's largest water company reported a post-tax profit for the 12 months to the end of March, but its net debt also swelled.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 6,
+    "title": "Starlink’s V5 dish is now available — here’s how it compares",
+    "category": "TECH",
+    "date": "2026-07-15T07:17:27.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Starlink_Standard_4_5_Comparison.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The smaller Starlink V5 (right) next to the larger V4 dish. | Image: SpaceX\t\n\nSpaceX's latest residential dish - the Starlink V5 - is now available in \"select areas.\" It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more places as SpaceX ramps up production to meet global demand. The company notes that Starlink V5 is not intended for in-motion use - for that you'll have to wait for the revamped Starlink Mini teased alongside the V5 last month.\n\n\nThe next generation Starlink Kit is designed to deliver reliable, high-speed home internet. Starlink V5 has a smaller form factor and lightweight design with greater power efficiency than the Starlink V4.\nWith speeds up to  …\n\n\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>The smaller Starlink V5 (right) next to the larger V4 dish. | Image: SpaceX\t\n\nSpaceX's latest residential dish - the Starlink V5 - is now available in \"select areas.\" It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more places as SpaceX ramps up production to meet global demand. The company notes that Starlink V5 is not intended for in-motion use - for that you'll have to wait for the revamped Starlink Mini teased alongside the V5 last month.\n\n\nThe next generation Starlink Kit is designed to deliver reliable, high-speed home internet. Starlink V5 has a smaller form factor and lightweight design with greater power efficiency than the Starlink V4.\nWith speeds up to  …\n\n\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison"
+  },
+  {
+    "id": 7,
+    "title": "I tested Google Maps vs. Waze to find the best navigation app - and this one wins",
+    "category": "TECH",
+    "date": "2026-07-15T07:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
+    "content": "<h2>概要</h2><p>Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.</p><p><a href=\"https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/"
+  },
+  {
+    "id": 8,
+    "title": "Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700",
+    "category": "WORLD",
+    "date": "2026-07-15T05:39:55.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3648+0+0/resize/5472x3648!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2F25%2Ff54f693b4694b49ad8d587fdc9b2%2Fap26185611337910.jpg",
+    "summary": "Eighty percent of new Ebola cases in eastern Congo are emerging from unknown chains of transmission, according to WHO, a sign the outbreak is spreading faster than health officials can track.",
+    "content": "<h2>概要</h2><p>Eighty percent of new Ebola cases in eastern Congo are emerging from unknown chains of transmission, according to WHO, a sign the outbreak is spreading faster than health officials can track.</p><p><a href=\"https://www.npr.org/2026/07/15/g-s1-133630/ebola-congo-deaths\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/15/g-s1-133630/ebola-congo-deaths"
+  },
+  {
+    "id": 9,
+    "title": "Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now",
+    "category": "SPACE",
+    "date": "2026-07-15T05:25:30.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04948_opgs_edr_ncam_NLB_836754384EDR_S1230540NCAM00298M_.jpg?w=1024&#038;h=512&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, July 10, 2026 Curiosity had a successful long weekend and came into this week ready to explore some more. We’ve been moving fairly rapidly through different mapped “units,” or distinct geological areas of interest, visiting a different one at each of […]",
+    "content": "<h2>概要</h2><p>Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, July 10, 2026 Curiosity had a successful long weekend and came into this week ready to explore some more. We’ve been moving fairly rapidly through different mapped “units,” or distinct geological areas of interest, visiting a different one at each of […]</p><p><a href=\"https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/"
+  },
+  {
+    "id": 10,
+    "title": "Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now",
+    "category": "SPACE",
+    "date": "2026-07-15T05:25:30.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04948_opgs_edr_ncam_NLB_836754384EDR_S1230540NCAM00298M_.jpg?w=1024&#038;h=512&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, July 10, 2026 Curiosity had a successful long weekend and came into this week ready to explore some more. We’ve been moving fairly rapidly through different mapped “units,” or distinct geological areas of interest, visiting a different one at each of […]",
+    "content": "<h2>概要</h2><p>Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, July 10, 2026 Curiosity had a successful long weekend and came into this week ready to explore some more. We’ve been moving fairly rapidly through different mapped “units,” or distinct geological areas of interest, visiting a different one at each of […]</p><p><a href=\"https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/"
+  },
+  {
+    "id": 11,
+    "title": "China economic growth falls sharply, missing target",
+    "category": "WORLD",
+    "date": "2026-07-15T05:12:55.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
+    "content": "<h2>概要</h2><p>Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 12,
+    "title": "1Password Coupon: Score a Free Trial in July 2026",
+    "category": "TECH",
+    "date": "2026-07-15T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Save up to 28% on business and personal memberships with 1Password promo codes and deals.",
+    "content": "<h2>概要</h2><p>Save up to 28% on business and personal memberships with 1Password promo codes and deals.</p><p><a href=\"https://www.wired.com/story/1password-coupon/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/1password-coupon/"
+  },
+  {
+    "id": 13,
+    "title": "HelloFresh Promo Codes: 55% Off for July 2026",
+    "category": "TECH",
+    "date": "2026-07-15T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in July 2026. Discover our best codes and discounts to let you save time and money.",
+    "content": "<h2>概要</h2><p>Get up to 55% off and free meal boxes using a HelloFresh coupon code in July 2026. Discover our best codes and discounts to let you save time and money.</p><p><a href=\"https://www.wired.com/story/hellofresh-coupon/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/hellofresh-coupon/"
+  },
+  {
+    "id": 14,
+    "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for July 2026",
+    "category": "TECH",
+    "date": "2026-07-15T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+    "content": "<h2>概要</h2><p>Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.</p><p><a href=\"https://www.wired.com/story/noom-promo-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/noom-promo-code/"
+  },
+  {
+    "id": 15,
+    "title": "Hydrow Discount Code: Save Up to $150 | July 2026",
+    "category": "TECH",
+    "date": "2026-07-15T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Save on rowers and accessories with Hydrow coupons, including an exclusive discount of $50.",
+    "content": "<h2>概要</h2><p>Save on rowers and accessories with Hydrow coupons, including an exclusive discount of $50.</p><p><a href=\"https://www.wired.com/story/hydrow-discount-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/hydrow-discount-code/"
+  },
+  {
+    "id": 16,
+    "title": "Chegg Coupon Codes July 2026: Save on Study, Textbooks, & More",
+    "category": "TECH",
+    "date": "2026-07-15T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
+    "content": "<h2>概要</h2><p>Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.</p><p><a href=\"https://www.wired.com/story/chegg-coupon-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/chegg-coupon-code/"
+  },
+  {
+    "id": 17,
+    "title": "Heat Dome Broils the Western U.S.",
+    "category": "SPACE",
+    "date": "2026-07-15T04:01:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712.jpg?w=2160&#038;h=1640&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.",
+    "content": "<h2>概要</h2><p>A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/"
+  },
+  {
+    "id": 18,
+    "title": "Heat Dome Broils the Western U.S.",
+    "category": "SPACE",
+    "date": "2026-07-15T04:01:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712.jpg?w=2160&#038;h=1640&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.",
+    "content": "<h2>概要</h2><p>A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/"
+  },
+  {
+    "id": 19,
+    "title": "Elephants turn footsteps into messages through ground and skull vibrations",
+    "category": "SCIENCE",
+    "date": "2026-07-15T04:00:07.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Elephants can communicate with other elephants across distances of up to five kilometers (3 miles) by producing sounds that travel through the air. However, they have a second way of sending signals: seismic waves traveling through the ground. These vibrations are transmitted from elephants' feet through their legs and ultimately through the bones of their skull directly into the inner ear. They can be perceived across distances of 10 kilometers (6 miles) or more. This is called bone-conduction hearing.",
+    "content": "<h2>概要</h2><p>Elephants can communicate with other elephants across distances of up to five kilometers (3 miles) by producing sounds that travel through the air. However, they have a second way of sending signals: seismic waves traveling through the ground. These vibrations are transmitted from elephants' feet through their legs and ultimately through the bones of their skull directly into the inner ear. They can be perceived across distances of 10 kilometers (6 miles) or more. This is called bone-conduction hearing.</p><p><a href=\"https://phys.org/news/2026-07-elephants-footsteps-messages-ground-skull.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-elephants-footsteps-messages-ground-skull.html"
+  },
+  {
+    "id": 20,
+    "title": "AI explored as tool for unraveling radicalization's complex drivers",
+    "category": "SCIENCE",
+    "date": "2026-07-15T03:40:02.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Radicalization is a complex process, influenced by many variables that interact to varying degrees. AI scientist Mijke van den Hurk investigated whether artificial intelligence could help unravel this intricate interplay. She defended her Ph.D. thesis cum laude on June 29.",
+    "content": "<h2>概要</h2><p>Radicalization is a complex process, influenced by many variables that interact to varying degrees. AI scientist Mijke van den Hurk investigated whether artificial intelligence could help unravel this intricate interplay. She defended her Ph.D. thesis cum laude on June 29.</p><p><a href=\"https://phys.org/news/2026-07-ai-explored-tool-unraveling-radicalization.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-ai-explored-tool-unraveling-radicalization.html"
+  },
+  {
+    "id": 21,
+    "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+    "category": "TECH",
+    "date": "2026-07-15T03:28:53.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047551/236883_Epic_Vs_Google_C_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party app stores on Wednesday, July 22nd. Does that mean it's time for Microsoft to launch an Xbox game store on Android?\nIn October 2024, Judge James Donato originally agreed that forcing Google to carry rival Android app stores within its own Google Play store for several years, and forcing it to share its own entire catalog of …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party app stores on Wednesday, July 22nd. Does that mean it's time for Microsoft to launch an Xbox game store on Android?\nIn October 2024, Judge James Donato originally agreed that forcing Google to carry rival Android app stores within its own Google Play store for several years, and forcing it to share its own entire catalog of …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play"
+  },
+  {
+    "id": 22,
+    "title": "Nitrate in drinking water may be linked to preterm births in New Zealand",
+    "category": "SCIENCE",
+    "date": "2026-07-15T03:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A new Aotearoa New Zealand study has found that nitrate concentrations in drinking water are associated with an increased risk of preterm birth, even at levels well below the current drinking water standard. The study, published in Environmental Research, analyzed 735,831 singleton births between 2008 and 2021, linking gestational age with estimated nitrate concentrations in drinking water at the mother's usual residence.",
+    "content": "<h2>概要</h2><p>A new Aotearoa New Zealand study has found that nitrate concentrations in drinking water are associated with an increased risk of preterm birth, even at levels well below the current drinking water standard. The study, published in Environmental Research, analyzed 735,831 singleton births between 2008 and 2021, linking gestational age with estimated nitrate concentrations in drinking water at the mother's usual residence.</p><p><a href=\"https://phys.org/news/2026-07-nitrate-linked-preterm-births-zealand.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-nitrate-linked-preterm-births-zealand.html"
+  },
+  {
+    "id": 23,
     "title": "When words signal conflict: Measuring exclusionary nationalism in prewar Japan",
     "category": "SCIENCE",
     "date": "2026-07-15T02:20:01.000Z",
@@ -22,7 +253,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-words-conflict-exclusionary-nationalism-prewar.html"
   },
   {
-    "id": 3,
+    "id": 24,
     "title": "Low carbon dioxide levels improve microbial production of biodegradable plastic",
     "category": "SCIENCE",
     "date": "2026-07-15T01:40:04.000Z",
@@ -33,18 +264,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-carbon-dioxide-microbial-production-biodegradable.html"
   },
   {
-    "id": 4,
-    "title": "Report details ecological characterization of peatlands and coastal lagoons in EU",
-    "category": "SCIENCE",
-    "date": "2026-07-15T01:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new synthesis report, titled \"Ecological Characterisation of Peatlands and Coastal Lagoons in Europe,\" has been published to support the assessment, monitoring and restoration of European wetlands under EU environmental legislation. The report was prepared in response to a policy request submitted by the Directorate-General for Environment (DG ENV) to the European Commission's Knowledge Centre for Biodiversity (KCBD) and delivered by the Science Service for Biodiversity (SSBD), which is currently under development by the BioAgora project.",
-    "content": "<h2>概要</h2><p>A new synthesis report, titled \"Ecological Characterisation of Peatlands and Coastal Lagoons in Europe,\" has been published to support the assessment, monitoring and restoration of European wetlands under EU environmental legislation. The report was prepared in response to a policy request submitted by the Directorate-General for Environment (DG ENV) to the European Commission's Knowledge Centre for Biodiversity (KCBD) and delivered by the Science Service for Biodiversity (SSBD), which is currently under development by the BioAgora project.</p><p><a href=\"https://phys.org/news/2026-07-ecological-characterization-peatlands-coastal-lagoons.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-ecological-characterization-peatlands-coastal-lagoons.html"
-  },
-  {
-    "id": 5,
+    "id": 25,
     "title": "Seven Britons among those killed in Spain wildfires",
     "category": "WORLD",
     "date": "2026-07-15T01:03:07.000Z",
@@ -55,7 +275,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 6,
+    "id": 26,
     "title": "Why I'm using wired Android Auto when all the cool kids are switching to wireless",
     "category": "TECH",
     "date": "2026-07-15T01:00:43.000Z",
@@ -66,18 +286,7 @@
     "sourceUrl": "https://www.zdnet.com/article/why-im-using-wired-android-auto-when-all-the-cool-kids-are-switching-to-wireless/"
   },
   {
-    "id": 7,
-    "title": "Are we missing the universe's 'noosignatures?'",
-    "category": "SCIENCE",
-    "date": "2026-07-15T00:40:02.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Astrobiology has long been split into two camps: a search for \"biosignatures\" and a search for \"intelligence.\" These look for very different things, but they also leave a huge gap in between. It took 3.5 billion years for us to go from the first microbe to a civilization that sent radio waves into the cosmos. Detecting life in between those stages is a relatively untouched aspect of astrobiology—which is also the focal point of a new paper, \"Signs and Signatures of Intelligence,\" available on the arXiv preprint server, by astrobiologist Julia DeMarines.",
-    "content": "<h2>概要</h2><p>Astrobiology has long been split into two camps: a search for \"biosignatures\" and a search for \"intelligence.\" These look for very different things, but they also leave a huge gap in between. It took 3.5 billion years for us to go from the first microbe to a civilization that sent radio waves into the cosmos. Detecting life in between those stages is a relatively untouched aspect of astrobiology—which is also the focal point of a new paper, \"Signs and Signatures of Intelligence,\" available on the arXiv preprint server, by astrobiologist Julia DeMarines.</p><p><a href=\"https://phys.org/news/2026-07-universe-noosignatures.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-universe-noosignatures.html"
-  },
-  {
-    "id": 8,
+    "id": 27,
     "title": "Are we missing the universe's 'noosignatures?'",
     "category": "SPACE",
     "date": "2026-07-15T00:40:02.000Z",
@@ -88,7 +297,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-universe-noosignatures.html"
   },
   {
-    "id": 9,
+    "id": 28,
     "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
     "category": "TECH",
     "date": "2026-07-15T00:27:04.000Z",
@@ -99,18 +308,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
   },
   {
-    "id": 10,
-    "title": "Mystery of why some toads survive deadly fungus revealed",
-    "category": "SCIENCE",
-    "date": "2026-07-15T00:00:06.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The mystery of why some amphibian populations recover following outbreaks of a deadly fungus has been solved in a new study led by University College London (UCL), ZSL and Imperial College London.",
-    "content": "<h2>概要</h2><p>The mystery of why some amphibian populations recover following outbreaks of a deadly fungus has been solved in a new study led by University College London (UCL), ZSL and Imperial College London.</p><p><a href=\"https://phys.org/news/2026-07-mystery-toads-survive-deadly-fungus.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-mystery-toads-survive-deadly-fungus.html"
-  },
-  {
-    "id": 11,
+    "id": 29,
     "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
     "category": "WORLD",
     "date": "2026-07-14T23:17:27.000Z",
@@ -121,18 +319,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 12,
-    "title": "Midnight social media curfew proposed for older UK teens",
-    "category": "TECH",
-    "date": "2026-07-14T23:17:23.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
-    "content": "<h2>概要</h2><p>Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Technology",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 13,
+    "id": 30,
     "title": "Lorde says AI glasses are ‘not sexy’",
     "category": "TECH",
     "date": "2026-07-14T23:10:02.000Z",
@@ -143,7 +330,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/"
   },
   {
-    "id": 14,
+    "id": 31,
     "title": "I changed jobs 10 times in 10 years to get the career I wanted",
     "category": "BUSINESS",
     "date": "2026-07-14T23:04:15.000Z",
@@ -154,7 +341,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 15,
+    "id": 32,
     "title": "Buy Now Pay Later rules to bring refunds and rejections",
     "category": "BUSINESS",
     "date": "2026-07-14T23:01:57.000Z",
@@ -165,18 +352,18 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 16,
+    "id": 33,
     "title": "Heating oil customers to get compensation after price hikes",
     "category": "BUSINESS",
     "date": "2026-07-14T23:00:41.000Z",
     "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.",
-    "content": "<h2>概要</h2><p>The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "The cost of heating oil spiked following the US-Israel war with Iran which forced up crude prices.",
+    "content": "<h2>概要</h2><p>The cost of heating oil spiked following the US-Israel war with Iran which forced up crude prices.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC Business",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 17,
+    "id": 34,
     "title": "Astronomers uncover the earliest known signs of galaxy-building in action",
     "category": "SPACE",
     "date": "2026-07-14T23:00:07.000Z",
@@ -187,7 +374,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-astronomers-uncover-earliest-galaxy-action.html"
   },
   {
-    "id": 18,
+    "id": 35,
     "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
     "category": "TECH",
     "date": "2026-07-14T22:24:26.000Z",
@@ -198,7 +385,7 @@
     "sourceUrl": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale"
   },
   {
-    "id": 19,
+    "id": 36,
     "title": "Rep. Ro Khanna on being detained by Israeli settlers in the West Bank",
     "category": "WORLD",
     "date": "2026-07-14T22:23:59.000Z",
@@ -209,7 +396,7 @@
     "sourceUrl": "https://www.npr.org/2026/07/14/nx-s1-5893386/rep-ro-khanna-on-being-detained-by-israeli-settlers-in-the-west-bank"
   },
   {
-    "id": 20,
+    "id": 37,
     "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
     "category": "TECH",
     "date": "2026-07-14T22:22:24.000Z",
@@ -220,7 +407,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/"
   },
   {
-    "id": 21,
+    "id": 38,
     "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
     "category": "TECH",
     "date": "2026-07-14T22:20:48.000Z",
@@ -231,18 +418,7 @@
     "sourceUrl": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/"
   },
   {
-    "id": 22,
-    "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
-    "category": "BUSINESS",
-    "date": "2026-07-14T22:17:43.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
-    "content": "<h2>概要</h2><p>The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 23,
+    "id": 39,
     "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
     "category": "TECH",
     "date": "2026-07-14T22:09:31.000Z",
@@ -253,18 +429,7 @@
     "sourceUrl": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/"
   },
   {
-    "id": 24,
-    "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
-    "category": "TECH",
-    "date": "2026-07-14T22:08:30.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube.",
-    "content": "<h2>概要</h2><p>The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube.</p><p><a href=\"https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/"
-  },
-  {
-    "id": 25,
+    "id": 40,
     "title": "OpenAI pushes back on Apple trade secret lawsuit",
     "category": "TECH",
     "date": "2026-07-14T22:07:42.000Z",
@@ -275,7 +440,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/"
   },
   {
-    "id": 26,
+    "id": 41,
     "title": " SpaceX launches flight-proven rocket for 600th time, sending Starlink satellites to orbit ",
     "category": "SPACE",
     "date": "2026-07-14T22:00:00.000Z",
@@ -286,7 +451,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-14-b1093-vsfb-ocisly-10-45-b1080-ccsfs-asog"
   },
   {
-    "id": 27,
+    "id": 42,
     "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
     "category": "TECH",
     "date": "2026-07-14T21:50:11.000Z",
@@ -297,7 +462,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/"
   },
   {
-    "id": 28,
+    "id": 43,
     "title": "Photo: Hubble sees crimson cloud and stars",
     "category": "SPACE",
     "date": "2026-07-14T21:40:01.000Z",
@@ -308,18 +473,18 @@
     "sourceUrl": "https://phys.org/news/2026-07-photo-hubble-crimson-cloud-stars.html"
   },
   {
-    "id": 29,
-    "title": "Windows 11&#8217;s big patch Tuesday allows you to hold off on updates for longer",
+    "id": 44,
+    "title": "Microsoft’s biggest ever patch Tuesday lets you hold off updating for longer",
     "category": "TECH",
     "date": "2026-07-14T21:32:04.000Z",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, and that includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you to hold off on updates for up to 35 days and repeatedly extend the deadline after that.\nIt comes as part of Microsoft's plan to revitalize Windows 11 with updates focused on addressing user complaints and improving performance. Microsoft patched a bunch of security issues with this update as well, which the company said we can expect to see more of in future releas …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, and that includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you to hold off on updates for up to 35 days and repeatedly extend the deadline after that.\nIt comes as part of Microsoft's plan to revitalize Windows 11 with updates focused on addressing user complaints and improving performance. Microsoft patched a bunch of security issues with this update as well, which the company said we can expect to see more of in future releas …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, patching at least 570 security holes, almost triple the number fixed in last month's record-breaking release, according to Krebs on Security. It also includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you to hold off on updates for up to 35 days and repeatedly extend the deadline after that.\nIt comes as part of Microsoft's plan to revitalize Windows 11 with updates focused on addressing user complaints and improving performance …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, patching at least 570 security holes, almost triple the number fixed in last month's record-breaking release, according to Krebs on Security. It also includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you to hold off on updates for up to 35 days and repeatedly extend the deadline after that.\nIt comes as part of Microsoft's plan to revitalize Windows 11 with updates focused on addressing user complaints and improving performance …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "The Verge",
     "sourceUrl": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates"
   },
   {
-    "id": 30,
+    "id": 45,
     "title": "OpenAI may announce a ChatGPT smart speaker this year",
     "category": "TECH",
     "date": "2026-07-14T21:26:32.000Z",
@@ -330,7 +495,7 @@
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device"
   },
   {
-    "id": 31,
+    "id": 46,
     "title": "NASA Invites Media to Serbia Artemis Accords Signing Ceremony",
     "category": "SPACE",
     "date": "2026-07-14T21:03:29.000Z",
@@ -341,7 +506,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/"
   },
   {
-    "id": 32,
+    "id": 47,
     "title": "NASA Invites Media to Serbia Artemis Accords Signing Ceremony",
     "category": "SPACE",
     "date": "2026-07-14T21:03:29.000Z",
@@ -352,7 +517,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/"
   },
   {
-    "id": 33,
+    "id": 48,
     "title": "With an eye toward exploration, researchers map moon's regolith thickness",
     "category": "SPACE",
     "date": "2026-07-14T21:00:09.000Z",
@@ -363,7 +528,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-eye-exploration-moon-regolith-thickness.html"
   },
   {
-    "id": 34,
+    "id": 49,
     "title": " Scientists spot 4 superdense stellar corpses hiding behind their red dwarf companions ",
     "category": "SPACE",
     "date": "2026-07-14T21:00:00.000Z",
@@ -374,7 +539,7 @@
     "sourceUrl": "https://www.space.com/astronomy/stars/scientists-spot-4-superdense-stellar-corpses-hiding-behind-their-red-dwarf-companions"
   },
   {
-    "id": 35,
+    "id": 50,
     "title": "Helping AI models to meet the real world",
     "category": "TECH",
     "date": "2026-07-14T20:25:00.000Z",
@@ -385,7 +550,7 @@
     "sourceUrl": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714"
   },
   {
-    "id": 36,
+    "id": 51,
     "title": "Helping AI models to meet the real world",
     "category": "TECH",
     "date": "2026-07-14T20:25:00.000Z",
@@ -396,7 +561,7 @@
     "sourceUrl": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714"
   },
   {
-    "id": 37,
+    "id": 52,
     "title": "I've used the iOS 27 beta for a month: 7 ways the new Siri is dramatically better",
     "category": "TECH",
     "date": "2026-07-14T20:15:17.000Z",
@@ -407,18 +572,7 @@
     "sourceUrl": "https://www.zdnet.com/article/public-beta-ios-27-siri-ai-hands-on-testing/"
   },
   {
-    "id": 38,
-    "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
-    "category": "WORLD",
-    "date": "2026-07-14T20:10:37.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
-    "content": "<h2>概要</h2><p>Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 39,
+    "id": 53,
     "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
     "category": "TECH",
     "date": "2026-07-14T20:05:53.000Z",
@@ -429,7 +583,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/"
   },
   {
-    "id": 40,
+    "id": 54,
     "title": "VLA sky survey sets new standard for high-resolution, wide-area radio astronomy",
     "category": "SPACE",
     "date": "2026-07-14T20:00:01.000Z",
@@ -440,7 +594,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-vla-sky-survey-standard-high.html"
   },
   {
-    "id": 41,
+    "id": 55,
     "title": " The 1st of 10,000 'missing' black holes in the Omega Centauri star cluster has been found by the Hubble and James Webb space telescopes ",
     "category": "SPACE",
     "date": "2026-07-14T20:00:00.000Z",
@@ -451,7 +605,7 @@
     "sourceUrl": "https://www.space.com/astronomy/black-holes/the-1st-of-10-000-missing-black-holes-in-the-omega-centauri-star-cluster-has-been-found-by-the-hubble-and-james-webb-space-telescopes"
   },
   {
-    "id": 42,
+    "id": 56,
     "title": "Three MIT Press journals lead their fields with Clarivate No. 1 rankings",
     "category": "TECH",
     "date": "2026-07-14T19:55:00.000Z",
@@ -462,18 +616,7 @@
     "sourceUrl": "https://news.mit.edu/2026/three-mit-press-journals-earn-clarivate-no-1-rankings-0713"
   },
   {
-    "id": 43,
-    "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-    "category": "TECH",
-    "date": "2026-07-14T19:25:00.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open and secrets deleted from history,\" significantly more data retention than similar tools like Claude Code.\nThe researchers say that as of Monday, their tests show SpaceXAI's servers returning a \"disable_codebase_upload: true\" flag, and the codebase upload \"no longer fires.\" \nElon Musk responded to the i …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open and secrets deleted from history,\" significantly more data retention than similar tools like Claude Code.\nThe researchers say that as of Monday, their tests show SpaceXAI's servers returning a \"disable_codebase_upload: true\" flag, and the codebase upload \"no longer fires.\" \nElon Musk responded to the i …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload"
-  },
-  {
-    "id": 44,
+    "id": 57,
     "title": "I tested the Ultrahuman Ring Pro: It's a biohacker's dream that's not for me",
     "category": "TECH",
     "date": "2026-07-14T19:25:00.000Z",
@@ -484,7 +627,7 @@
     "sourceUrl": "https://www.zdnet.com/article/ultrahuman-ring-pro-review/"
   },
   {
-    "id": 45,
+    "id": 58,
     "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
     "category": "WORLD",
     "date": "2026-07-14T19:13:49.000Z",
@@ -495,7 +638,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 46,
+    "id": 59,
     "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
     "category": "TECH",
     "date": "2026-07-14T19:00:02.000Z",
@@ -506,7 +649,7 @@
     "sourceUrl": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/"
   },
   {
-    "id": 47,
+    "id": 60,
     "title": " 'Once Upon a Time in Space': How to watch PBS's out-of-this-world astronaut documentary ",
     "category": "SPACE",
     "date": "2026-07-14T19:00:00.000Z",
@@ -517,18 +660,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/once-upon-a-time-in-space-how-to-watch-pbss-out-of-this-world-astronaut-documentary"
   },
   {
-    "id": 48,
-    "title": "The only Apple Watch strap you'll ever need is down to its lowest price yet",
-    "category": "TECH",
-    "date": "2026-07-14T18:35:32.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "I have multiple Apple Watch straps, but I keep coming back to the Nomad Stratos Band for its classy looks and sporty comfort.",
-    "content": "<h2>概要</h2><p>I have multiple Apple Watch straps, but I keep coming back to the Nomad Stratos Band for its classy looks and sporty comfort.</p><p><a href=\"https://www.zdnet.com/article/the-only-apple-watch-strap-youll-ever-need-is-down-to-its-lowest-price-yet/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/the-only-apple-watch-strap-youll-ever-need-is-down-to-its-lowest-price-yet/"
-  },
-  {
-    "id": 49,
+    "id": 61,
     "title": "How visual learning happens in the brain",
     "category": "TECH",
     "date": "2026-07-14T18:30:00.000Z",
@@ -539,7 +671,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-visual-learning-happens-in-the-brain-0714"
   },
   {
-    "id": 50,
+    "id": 62,
     "title": "How visual learning happens in the brain",
     "category": "SCIENCE",
     "date": "2026-07-14T18:30:00.000Z",
@@ -550,7 +682,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-visual-learning-happens-in-the-brain-0714"
   },
   {
-    "id": 51,
+    "id": 63,
     "title": "NASA Astronaut Anil Menon, Crewmates Arrive at Space Station",
     "category": "SPACE",
     "date": "2026-07-14T18:26:02.000Z",
@@ -561,7 +693,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/"
   },
   {
-    "id": 52,
+    "id": 64,
     "title": "NASA Astronaut Anil Menon, Crewmates Arrive at Space Station",
     "category": "SPACE",
     "date": "2026-07-14T18:26:02.000Z",
@@ -572,7 +704,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/"
   },
   {
-    "id": 53,
+    "id": 65,
     "title": "Hubble Sees Crimson Cloud and Stars",
     "category": "SPACE",
     "date": "2026-07-14T18:06:33.000Z",
@@ -583,7 +715,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/"
   },
   {
-    "id": 54,
+    "id": 66,
     "title": "Hubble Sees Crimson Cloud and Stars",
     "category": "SPACE",
     "date": "2026-07-14T18:06:33.000Z",
@@ -594,7 +726,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/"
   },
   {
-    "id": 55,
+    "id": 67,
     "title": "US military sent explosive drone boats into combat for the first time",
     "category": "TECH",
     "date": "2026-07-14T18:00:01.000Z",
@@ -605,7 +737,7 @@
     "sourceUrl": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/"
   },
   {
-    "id": 56,
+    "id": 68,
     "title": " 1st-ever X-rays in space offer hope for possible patients headed to the moon ",
     "category": "SPACE",
     "date": "2026-07-14T18:00:00.000Z",
@@ -616,7 +748,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/human-spaceflight/1st-ever-x-rays-in-space-offer-hope-for-possible-patients-headed-to-the-moon"
   },
   {
-    "id": 57,
+    "id": 69,
     "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
     "category": "TECH",
     "date": "2026-07-14T18:00:00.000Z",
@@ -627,7 +759,7 @@
     "sourceUrl": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714"
   },
   {
-    "id": 58,
+    "id": 70,
     "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
     "category": "TECH",
     "date": "2026-07-14T18:00:00.000Z",
@@ -638,84 +770,7 @@
     "sourceUrl": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714"
   },
   {
-    "id": 59,
-    "title": "How to download iPadOS 27 right now - and which models support it",
-    "category": "TECH",
-    "date": "2026-07-14T18:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Apple just released the iPadOS 27 public beta, offering early access to an upgraded Siri, new Safari features, and more.",
-    "content": "<h2>概要</h2><p>Apple just released the iPadOS 27 public beta, offering early access to an upgraded Siri, new Safari features, and more.</p><p><a href=\"https://www.zdnet.com/article/how-to-download-ipados-27/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/how-to-download-ipados-27/"
-  },
-  {
-    "id": 60,
-    "title": "Philips Hue&#8217;s budget-friendly Essential starter kit has hit a new low price",
-    "category": "TECH",
-    "date": "2026-07-14T17:36:05.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/philipshueessentials.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "You can buy four bulbs and a Hue Bridge for just $80. | Image: Philips Hue\t\n\nAlthough most of Prime Day’s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper. None, however, have fallen to a new all-time low price like Philips Hue’s Essential starter kit. Right now, you can buy a bundle containing four white and color E26 bulbs and a Hue Bridge for $79.99 ($40 off) at Amazon. Since that’s the same price as the two-bulb Essential starter kit, it’s like getting two bulbs for free.\nPhilips Hue Essential starter kit,\n\nWhere to Buy:\n\n $119.99 $79.99 at Amazon (four-pack)\n $119.99 at Philips Hue (four-pack)\n\nEach of the color-changing bulbs can display millions of colors or tunable white light ranging from a warm 2200K to a cooler 6500K, while producing up to 800 lumens of brightness. The Hue app also offers a preset lighting scenes for everything from movie nights to the holidays, though you can also create your own. Meanwhile, the included Hue Bridge lets you control the lights when you’re away from home, create schedules, connect up to 50 lights throughout your home, and set automations so they can, for instance, turn on automatically when you arrive home. It also allows you to control the lights through all the major smart home platforms, thanks to Matter compatibility.\nAs Philips Hue budget-friendly kits, there are a few premium features they lack that are worth mentioning. Most notably, the bulbs only dim to two percent instead of 0.2 percent. Philips Hue also doesn’t guarantee they’ll match the color accuracy of its flagship bulbs across generations. If you’re simply looking to fill your home with colorful smart lighting at a reasonable price, though, those differences may not matter much to you.",
-    "content": "<h2>概要</h2><p>You can buy four bulbs and a Hue Bridge for just $80. | Image: Philips Hue\t\n\nAlthough most of Prime Day’s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper. None, however, have fallen to a new all-time low price like Philips Hue’s Essential starter kit. Right now, you can buy a bundle containing four white and color E26 bulbs and a Hue Bridge for $79.99 ($40 off) at Amazon. Since that’s the same price as the two-bulb Essential starter kit, it’s like getting two bulbs for free.\nPhilips Hue Essential starter kit,\n\nWhere to Buy:\n\n $119.99 $79.99 at Amazon (four-pack)\n $119.99 at Philips Hue (four-pack)\n\nEach of the color-changing bulbs can display millions of colors or tunable white light ranging from a warm 2200K to a cooler 6500K, while producing up to 800 lumens of brightness. The Hue app also offers a preset lighting scenes for everything from movie nights to the holidays, though you can also create your own. Meanwhile, the included Hue Bridge lets you control the lights when you’re away from home, create schedules, connect up to 50 lights throughout your home, and set automations so they can, for instance, turn on automatically when you arrive home. It also allows you to control the lights through all the major smart home platforms, thanks to Matter compatibility.\nAs Philips Hue budget-friendly kits, there are a few premium features they lack that are worth mentioning. Most notably, the bulbs only dim to two percent instead of 0.2 percent. Philips Hue also doesn’t guarantee they’ll match the color accuracy of its flagship bulbs across generations. If you’re simply looking to fill your home with colorful smart lighting at a reasonable price, though, those differences may not matter much to you.</p><p><a href=\"https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale"
-  },
-  {
-    "id": 61,
-    "title": "NASA Jets Turn Red, White, and Blue",
-    "category": "SPACE",
-    "date": "2026-07-14T17:13:53.000Z",
-    "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-    "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with other NASA aircraft.   An F-15 and an F/A-18 from NASA’s Armstrong Flight Research Center in Edwards, California, recently were repainted in […]",
-    "content": "<h2>概要</h2><p>In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with other NASA aircraft.   An F-15 and an F/A-18 from NASA’s Armstrong Flight Research Center in Edwards, California, recently were repainted in […]</p><p><a href=\"https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/"
-  },
-  {
-    "id": 62,
-    "title": "NASA Jets Turn Red, White, and Blue",
-    "category": "SPACE",
-    "date": "2026-07-14T17:13:53.000Z",
-    "image": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-    "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with other NASA aircraft.   An F-15 and an F/A-18 from NASA’s Armstrong Flight Research Center in Edwards, California, recently were repainted in […]",
-    "content": "<h2>概要</h2><p>In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with other NASA aircraft.   An F-15 and an F/A-18 from NASA’s Armstrong Flight Research Center in Edwards, California, recently were repainted in […]</p><p><a href=\"https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/"
-  },
-  {
-    "id": 63,
-    "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-    "category": "WORLD",
-    "date": "2026-07-14T17:13:27.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-    "content": "<h2>概要</h2><p>A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".</p><p><a href=\"https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 64,
-    "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
-    "category": "TECH",
-    "date": "2026-07-14T16:05:18.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
-    "content": "<h2>概要</h2><p>A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.</p><p><a href=\"https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/"
-  },
-  {
-    "id": 65,
-    "title": "New York Governor Signs First Statewide Data Center Moratorium",
-    "category": "TECH",
-    "date": "2026-07-14T14:54:41.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.",
-    "content": "<h2>概要</h2><p>“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.</p><p><a href=\"https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/"
-  },
-  {
-    "id": 66,
+    "id": 71,
     "title": "A Solution to a Famous Feynman Problem, ‘Psychedelic’ Breathwork, and an Odd Stone Sphere is Unearthed",
     "category": "MYSTERY",
     "date": "2026-07-14T14:36:58.000Z",
@@ -726,29 +781,7 @@
     "sourceUrl": "https://thedebrief.org/a-solution-to-a-famous-feynman-problem-psychedelic-breathwork-and-an-odd-stone-sphere-is-unearthed/"
   },
   {
-    "id": 67,
-    "title": "NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars",
-    "category": "SPACE",
-    "date": "2026-07-14T14:00:00.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/07/tde.jpg?w=2048",
-    "summary": "Lee esta nota de prensa en español aquí. How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. New research suggests NASA’s Nancy Grace Roman Space Telescope, which […]",
-    "content": "<h2>概要</h2><p>Lee esta nota de prensa en español aquí. How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. New research suggests NASA’s Nancy Grace Roman Space Telescope, which […]</p><p><a href=\"https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/"
-  },
-  {
-    "id": 68,
-    "title": "NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars",
-    "category": "SPACE",
-    "date": "2026-07-14T14:00:00.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/07/tde.jpg?w=2048",
-    "summary": "Lee esta nota de prensa en español aquí. How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. New research suggests NASA’s Nancy Grace Roman Space Telescope, which […]",
-    "content": "<h2>概要</h2><p>Lee esta nota de prensa en español aquí. How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. New research suggests NASA’s Nancy Grace Roman Space Telescope, which […]</p><p><a href=\"https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/"
-  },
-  {
-    "id": 69,
+    "id": 72,
     "title": "The Uncontacted: Living in Voluntary Isolation, These Are the People Governments Pretended Didn’t Exist",
     "category": "MYSTERY",
     "date": "2026-07-14T13:19:16.000Z",
@@ -759,7 +792,7 @@
     "sourceUrl": "https://thedebrief.org/the-uncontacted-living-in-voluntary-isolation-these-are-the-people-governments-pretended-didnt-exist/"
   },
   {
-    "id": 70,
+    "id": 73,
     "title": "Scientists Find Intense Breathwork Can Trigger Psychedelic-Like States and Lasting Psychological Changes",
     "category": "MYSTERY",
     "date": "2026-07-14T12:35:05.000Z",
@@ -770,7 +803,7 @@
     "sourceUrl": "https://thedebrief.org/scientists-find-intense-breathwork-can-trigger-psychedelic-like-states-and-lasting-psychological-changes/"
   },
   {
-    "id": 71,
+    "id": 74,
     "title": "Feynman’s Famous Physics Problem of a Sprinkler Running in Reverse has a Surprising New Solution",
     "category": "MYSTERY",
     "date": "2026-07-14T12:29:13.000Z",
@@ -781,7 +814,7 @@
     "sourceUrl": "https://thedebrief.org/feynmans-famous-physics-problem-of-a-sprinkler-running-in-reverse-has-a-surprising-new-solution/"
   },
   {
-    "id": 72,
+    "id": 75,
     "title": "New US Ebola patient arrives in Germany for treatment",
     "category": "WORLD",
     "date": "2026-07-14T12:27:06.000Z",
@@ -792,7 +825,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany"
   },
   {
-    "id": 73,
+    "id": 76,
     "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
     "category": "WORLD",
     "date": "2026-07-14T12:18:58.000Z",
@@ -803,7 +836,7 @@
     "sourceUrl": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger"
   },
   {
-    "id": 74,
+    "id": 77,
     "title": "Surprised Scientists Witness the Ocean Floor Literally Splitting Apart at Its Seams",
     "category": "MYSTERY",
     "date": "2026-07-14T12:10:03.000Z",
@@ -814,51 +847,29 @@
     "sourceUrl": "https://thedebrief.org/surprised-scientists-witness-the-ocean-floor-literally-splitting-apart-at-its-seams/"
   },
   {
-    "id": 75,
-    "title": "The Download: Claude’s inner workings, and the future of world models",
-    "category": "TECH",
-    "date": "2026-07-14T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/01/feature-ivf.jpg?fit=1456,818",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…</p><p><a href=\"https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
-  },
-  {
-    "id": 76,
-    "title": "The Download: Claude’s inner workings, and the future of world models",
-    "category": "TECH",
-    "date": "2026-07-14T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/01/feature-ivf.jpg?fit=1456,818",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…</p><p><a href=\"https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
-  },
-  {
-    "id": 77,
-    "title": "Plex Keeps Getting Worse. Is Jellyfin a Decent Replacement?",
-    "category": "TECH",
-    "date": "2026-07-14T12:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "If you want to stream local media, this free and open source media server is just as good as Plex. But if you rely on remote access or live TV, prepare to tinker.",
-    "content": "<h2>概要</h2><p>If you want to stream local media, this free and open source media server is just as good as Plex. But if you rely on remote access or live TV, prepare to tinker.</p><p><a href=\"https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/"
-  },
-  {
     "id": 78,
-    "title": "Best RGB TVs (2026): My Picks After Testing the Hottest TVs",
+    "title": "The Download: Claude’s inner workings, and the future of world models",
     "category": "TECH",
-    "date": "2026-07-14T11:30:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "RGB TVs are the latest hotness in the world of televisions, and I’ve tested many of the latest models to see which you should buy.",
-    "content": "<h2>概要</h2><p>RGB TVs are the latest hotness in the world of televisions, and I’ve tested many of the latest models to see which you should buy.</p><p><a href=\"https://www.wired.com/story/best-rgb-tvs/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/best-rgb-tvs/"
+    "date": "2026-07-14T12:10:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/01/feature-ivf.jpg?fit=1456,818",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…</p><p><a href=\"https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
   },
   {
     "id": 79,
+    "title": "The Download: Claude’s inner workings, and the future of world models",
+    "category": "TECH",
+    "date": "2026-07-14T12:10:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/01/feature-ivf.jpg?fit=1456,818",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…</p><p><a href=\"https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
+  },
+  {
+    "id": 80,
     "title": "The U.S. is back to blockading Iran as the Strait of Hormuz standoff escalates",
     "category": "WORLD",
     "date": "2026-07-14T09:56:45.000Z",
@@ -867,17 +878,6 @@
     "content": "<h2>概要</h2><p>The U.S. military says it's begun its blockade of ships entering or exiting Iran's ports, as Iran vows to assert its own control over the critical Strait of Hormuz.</p><p><a href=\"https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "NPR World",
     "sourceUrl": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates"
-  },
-  {
-    "id": 80,
-    "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-    "category": "TECH",
-    "date": "2026-07-14T08:00:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260126_Mk2_the_third-23.jpg?w=2000",
-    "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.…",
-    "content": "<h2>概要</h2><p>The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.…</p><p><a href=\"https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/"
   },
   {
     "id": 81,
@@ -892,6 +892,17 @@
   },
   {
     "id": 82,
+    "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+    "category": "TECH",
+    "date": "2026-07-14T08:00:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260126_Mk2_the_third-23.jpg?w=2000",
+    "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.…",
+    "content": "<h2>概要</h2><p>The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.…</p><p><a href=\"https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/"
+  },
+  {
+    "id": 83,
     "title": "Artemis II astronauts visit ESA",
     "category": "SPACE",
     "date": "2026-07-14T07:49:00.000Z",
@@ -902,7 +913,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_astronauts_visit_ESA"
   },
   {
-    "id": 83,
+    "id": 84,
     "title": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
     "category": "WORLD",
     "date": "2026-07-14T06:43:57.000Z",
@@ -913,7 +924,7 @@
     "sourceUrl": "https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire"
   },
   {
-    "id": 84,
+    "id": 85,
     "title": "MIT engineers find a precise way to grow artificial blood vessels",
     "category": "TECH",
     "date": "2026-07-14T04:00:00.000Z",
@@ -924,7 +935,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-engineers-find-precise-way-to-grow-artificial-blood-vessels-0714"
   },
   {
-    "id": 85,
+    "id": 86,
     "title": "MIT engineers find a precise way to grow artificial blood vessels",
     "category": "TECH",
     "date": "2026-07-14T04:00:00.000Z",
@@ -933,17 +944,6 @@
     "content": "<h2>概要</h2><p>Gently stretching and pulling a “blood vessel on a chip” encourages controlled sprouting of new vessels, for possible use in artificial tissues or organs.</p><p><a href=\"https://news.mit.edu/2026/mit-engineers-find-precise-way-to-grow-artificial-blood-vessels-0714\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "MIT News Engineering",
     "sourceUrl": "https://news.mit.edu/2026/mit-engineers-find-precise-way-to-grow-artificial-blood-vessels-0714"
-  },
-  {
-    "id": 86,
-    "title": "Pakistan urges restraint as its Mideast deal unravels",
-    "category": "WORLD",
-    "date": "2026-07-13T20:55:21.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5891718",
-    "summary": "Pakistan urges restraint as Iran and the U.S. clash and a memorandum of understanding unravels.",
-    "content": "<h2>概要</h2><p>Pakistan urges restraint as Iran and the U.S. clash and a memorandum of understanding unravels.</p><p><a href=\"https://www.npr.org/2026/07/13/nx-s1-5891718/pakistan-urges-restraint-as-its-mideast-deal-unravels\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/13/nx-s1-5891718/pakistan-urges-restraint-as-its-mideast-deal-unravels"
   },
   {
     "id": 87,
