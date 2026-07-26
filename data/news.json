@@ -1,6 +1,39 @@
 [
   {
     "id": 1,
+    "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+    "category": "WORLD",
+    "date": "2026-07-26T08:14:55.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A 21-year-old suspect has been identified by police, but he has not been found.",
+    "content": "<h2>概要</h2><p>A 21-year-old suspect has been identified by police, but he has not been found.</p><p><a href=\"https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: How Samsung fares against its foldable rival",
+    "category": "TECH",
+    "date": "2026-07-26T08:00:40.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Samsung isn't the only brand with flagship foldables. Here's how it compares to Motorola's Razr Ultra - one of my favorite phones of the year.",
+    "content": "<h2>概要</h2><p>Samsung isn't the only brand with flagship foldables. Here's how it compares to Motorola's Razr Ultra - one of my favorite phones of the year.</p><p><a href=\"https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/"
+  },
+  {
+    "id": 3,
+    "title": "France battles fire 'whirlwinds' as another 55,000 evacuated ",
+    "category": "WORLD",
+    "date": "2026-07-26T07:21:11.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+    "content": "<h2>概要</h2><p>More than 340,000 people have now been evacuated from wildfires in France and Spain.</p><p><a href=\"https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 4,
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
     "category": "TECH",
     "date": "2026-07-26T01:30:00.000Z",
@@ -11,7 +44,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
     "category": "WORLD",
     "date": "2026-07-26T01:10:56.000Z",
@@ -22,7 +55,7 @@
     "sourceUrl": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride"
   },
   {
-    "id": 3,
+    "id": 6,
     "title": "France and Spain fires force more than 200,000 to flee homes",
     "category": "WORLD",
     "date": "2026-07-26T01:05:45.000Z",
@@ -33,18 +66,7 @@
     "sourceUrl": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations"
   },
   {
-    "id": 4,
-    "title": "More than 300,000 flee wildfires in France and Spain",
-    "category": "WORLD",
-    "date": "2026-07-26T00:54:06.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-    "content": "<h2>概要</h2><p>Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 5,
+    "id": 7,
     "title": "'I can't work in the farce of climate change cruise tourism anymore': Why Antarctic guides quit their dream jobs",
     "category": "SCIENCE",
     "date": "2026-07-26T00:30:04.000Z",
@@ -55,7 +77,18 @@
     "sourceUrl": "https://phys.org/news/2026-07-farce-climate-cruise-tourism-anymore.html"
   },
   {
-    "id": 6,
+    "id": 8,
+    "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
+    "category": "BUSINESS",
+    "date": "2026-07-26T00:17:50.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
+    "content": "<h2>概要</h2><p>Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 9,
     "title": "Rental searches for pet friendly properties drop after law change",
     "category": "BUSINESS",
     "date": "2026-07-26T00:00:49.000Z",
@@ -66,7 +99,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 7,
+    "id": 10,
     "title": "New research shows how language experience shapes human communication",
     "category": "SCIENCE",
     "date": "2026-07-25T22:30:02.000Z",
@@ -77,7 +110,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-language-human-communication.html"
   },
   {
-    "id": 8,
+    "id": 11,
     "title": "'I get caught up in the numbers game': Why useful social media content gets lost online",
     "category": "SCIENCE",
     "date": "2026-07-25T21:00:04.000Z",
@@ -88,7 +121,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-caught-game-social-media-content.html"
   },
   {
-    "id": 9,
+    "id": 12,
     "title": "Unwritten social rules, not government oversight, help keep forest land sustainable",
     "category": "SCIENCE",
     "date": "2026-07-25T21:00:03.000Z",
@@ -99,7 +132,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-unwritten-social-oversight-forest-sustainable.html"
   },
   {
-    "id": 10,
+    "id": 13,
     "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
     "category": "TECH",
     "date": "2026-07-25T20:55:11.000Z",
@@ -110,7 +143,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
   },
   {
-    "id": 11,
+    "id": 14,
     "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
     "category": "TECH",
     "date": "2026-07-25T20:52:30.000Z",
@@ -121,7 +154,7 @@
     "sourceUrl": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/"
   },
   {
-    "id": 12,
+    "id": 15,
     "title": "The hacker who humiliated spyware makers and was never caught",
     "category": "TECH",
     "date": "2026-07-25T20:24:14.000Z",
@@ -132,7 +165,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/"
   },
   {
-    "id": 13,
+    "id": 16,
     "title": "Syria's ancient sites face widespread looting and systematic bulldozing, satellite images reveal",
     "category": "SCIENCE",
     "date": "2026-07-25T20:00:01.000Z",
@@ -143,7 +176,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-syria-ancient-sites-widespread-looting.html"
   },
   {
-    "id": 14,
+    "id": 17,
     "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
     "category": "TECH",
     "date": "2026-07-25T19:23:32.000Z",
@@ -154,7 +187,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
   },
   {
-    "id": 15,
+    "id": 18,
     "title": "Google basically confirms the Pixel 11 is getting a price hike",
     "category": "TECH",
     "date": "2026-07-25T18:13:36.000Z",
@@ -165,7 +198,7 @@
     "sourceUrl": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike"
   },
   {
-    "id": 16,
+    "id": 19,
     "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
     "category": "TECH",
     "date": "2026-07-25T17:47:22.000Z",
@@ -176,7 +209,7 @@
     "sourceUrl": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/"
   },
   {
-    "id": 17,
+    "id": 20,
     "title": "India's 'cockroach' protest called off after education minister quits",
     "category": "WORLD",
     "date": "2026-07-25T17:44:46.000Z",
@@ -187,7 +220,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 18,
+    "id": 21,
     "title": "SpaceX launches Starship on another test flight, this time with the most advanced Starlinks",
     "category": "SPACE",
     "date": "2026-07-25T17:15:07.000Z",
@@ -198,7 +231,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-spacex-starship-flight-advanced-starlinks.html"
   },
   {
-    "id": 19,
+    "id": 22,
     "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
     "category": "TECH",
     "date": "2026-07-25T16:46:46.000Z",
@@ -209,7 +242,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/"
   },
   {
-    "id": 20,
+    "id": 23,
     "title": " We talk with astronaut Michael Foale about the 1997 Space Station Mir crisis: 'He took all the blame of the collision on his shoulders' ",
     "category": "SPACE",
     "date": "2026-07-25T16:00:00.000Z",
@@ -220,7 +253,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/we-talk-with-astronaut-michael-foale-about-the-1997-space-station-mir-crisis-he-took-all-the-blame-of-the-collision-on-his-shoulders"
   },
   {
-    "id": 21,
+    "id": 24,
     "title": "Synth historian Oli Freke will spend big on a good bicycle",
     "category": "TECH",
     "date": "2026-07-25T15:15:00.000Z",
@@ -231,7 +264,7 @@
     "sourceUrl": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview"
   },
   {
-    "id": 22,
+    "id": 25,
     "title": " This Week In Space podcast: Episode 220 — First on Mars ",
     "category": "SPACE",
     "date": "2026-07-25T15:11:27.000Z",
@@ -242,7 +275,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-220-first-on-mars"
   },
   {
-    "id": 23,
+    "id": 26,
     "title": "Teenage Engineering’s unique music machines are 30 percent off",
     "category": "TECH",
     "date": "2026-07-25T15:00:00.000Z",
@@ -253,7 +286,7 @@
     "sourceUrl": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale"
   },
   {
-    "id": 24,
+    "id": 27,
     "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
     "category": "WORLD",
     "date": "2026-07-25T14:48:22.000Z",
@@ -264,7 +297,7 @@
     "sourceUrl": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement"
   },
   {
-    "id": 25,
+    "id": 28,
     "title": "Barnard’s Star Contains Inhospitable Exoplanets—But They Could Still Tell Us Something Important in the Search for ET",
     "category": "MYSTERY",
     "date": "2026-07-25T14:10:02.000Z",
@@ -275,7 +308,7 @@
     "sourceUrl": "https://thedebrief.org/barnards-star-contains-inhospitable-exoplanets-but-they-could-still-tell-us-something-important-in-the-search-for-et/"
   },
   {
-    "id": 26,
+    "id": 29,
     "title": "Warner Bros. is suing Amazon for poaching employees",
     "category": "TECH",
     "date": "2026-07-25T14:05:12.000Z",
@@ -286,7 +319,7 @@
     "sourceUrl": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees"
   },
   {
-    "id": 27,
+    "id": 30,
     "title": "This Week’s Awesome Tech Stories From Around the Web (Through July 25)",
     "category": "MYSTERY",
     "date": "2026-07-25T14:00:00.000Z",
@@ -297,7 +330,7 @@
     "sourceUrl": "https://singularityhub.com/2026/07/25/this-weeks-awesome-tech-stories-from-around-the-web-through-july-25-2/"
   },
   {
-    "id": 28,
+    "id": 31,
     "title": "Trump takes swipes at press during White House Correspondents' Dinner",
     "category": "WORLD",
     "date": "2026-07-25T13:51:07.000Z",
@@ -308,7 +341,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 29,
+    "id": 32,
     "title": "Is this e-reader case a gun?",
     "category": "TECH",
     "date": "2026-07-25T13:00:00.000Z",
@@ -319,7 +352,7 @@
     "sourceUrl": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun"
   },
   {
-    "id": 30,
+    "id": 33,
     "title": " An off-the-shelf camera could help us find more black holes smashing together ",
     "category": "SPACE",
     "date": "2026-07-25T13:00:00.000Z",
@@ -330,7 +363,7 @@
     "sourceUrl": "https://www.space.com/astronomy/black-holes/an-off-the-shelf-camera-could-help-us-find-more-black-holes-smashing-together"
   },
   {
-    "id": 31,
+    "id": 34,
     "title": "Rare blue optical transient points to possible new class of cosmic explosion",
     "category": "SPACE",
     "date": "2026-07-25T12:40:01.000Z",
@@ -341,7 +374,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-rare-blue-optical-transient-class.html"
   },
   {
-    "id": 32,
+    "id": 35,
     "title": "Samsung's new Ultra foldable is impressive, but I'd pay close attention to this model",
     "category": "TECH",
     "date": "2026-07-25T12:15:45.000Z",
@@ -352,7 +385,7 @@
     "sourceUrl": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-hands-on/"
   },
   {
-    "id": 33,
+    "id": 36,
     "title": "The Wackers’ Decades-Long Harassment Was One of Unsolved Mysteries’ Strangest Cases—New Information Has Finally Come to Light",
     "category": "MYSTERY",
     "date": "2026-07-25T12:01:26.000Z",
@@ -363,7 +396,7 @@
     "sourceUrl": "https://thedebrief.org/the-wackers-decades-long-harassment-was-one-of-unsolved-mysteries-strangest-cases-new-information-has-finally-come-to-light/"
   },
   {
-    "id": 34,
+    "id": 37,
     "title": "In One of Africa’s Deepest Lakes, Scientists Have Found a Species No One Expected Swimming at Incredible Depths",
     "category": "MYSTERY",
     "date": "2026-07-25T12:00:58.000Z",
@@ -374,7 +407,7 @@
     "sourceUrl": "https://thedebrief.org/in-one-of-africas-deepest-lakes-scientists-have-found-a-species-no-one-expected-swimming-at-incredible-depths/"
   },
   {
-    "id": 35,
+    "id": 38,
     "title": "Researchers Have Developed a Personalized Care Platform for Autism and Dementia",
     "category": "MYSTERY",
     "date": "2026-07-25T12:00:34.000Z",
@@ -385,7 +418,7 @@
     "sourceUrl": "https://thedebrief.org/researchers-have-developed-a-personalized-care-platform-for-autism-and-dementia/"
   },
   {
-    "id": 36,
+    "id": 39,
     "title": "Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers",
     "category": "WORLD",
     "date": "2026-07-25T11:43:48.000Z",
@@ -396,7 +429,7 @@
     "sourceUrl": "https://www.npr.org/2026/07/25/nx-s1-5905377/ukraine-drone-strikes-on-wildberries-warehouses-hit-russian-sellers-consumers"
   },
   {
-    "id": 37,
+    "id": 40,
     "title": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
     "category": "TECH",
     "date": "2026-07-25T11:06:00.000Z",
@@ -407,7 +440,7 @@
     "sourceUrl": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/"
   },
   {
-    "id": 38,
+    "id": 41,
     "title": "With help from data, art museums are reframing the visitor experience",
     "category": "TECH",
     "date": "2026-07-25T11:00:32.000Z",
@@ -418,7 +451,7 @@
     "sourceUrl": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/"
   },
   {
-    "id": 39,
+    "id": 42,
     "title": "3 Clever Things You Can Do With an Old Amazon Kindle",
     "category": "TECH",
     "date": "2026-07-25T11:00:00.000Z",
@@ -429,7 +462,7 @@
     "sourceUrl": "https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/"
   },
   {
-    "id": 40,
+    "id": 43,
     "title": "Stop scrolling: Light's $299 flip phone and its retro specs could change your life",
     "category": "TECH",
     "date": "2026-07-25T11:00:00.000Z",
@@ -440,7 +473,7 @@
     "sourceUrl": "https://www.zdnet.com/article/light-flip-news/"
   },
   {
-    "id": 41,
+    "id": 44,
     "title": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: How the first 'Ultra' foldable compares to last year's model",
     "category": "TECH",
     "date": "2026-07-25T10:45:42.000Z",
@@ -451,7 +484,7 @@
     "sourceUrl": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7/"
   },
   {
-    "id": 42,
+    "id": 45,
     "title": "Big Tech accused of stonewalling European social media researchers",
     "category": "TECH",
     "date": "2026-07-25T10:45:32.000Z",
@@ -462,7 +495,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/"
   },
   {
-    "id": 43,
+    "id": 46,
     "title": "Why Leatherology Makes Some of the Best Totes for Work (2026)",
     "category": "TECH",
     "date": "2026-07-25T10:38:00.000Z",
@@ -473,7 +506,7 @@
     "sourceUrl": "https://www.wired.com/story/leatherology-totes-for-carrying-tech/"
   },
   {
-    "id": 44,
+    "id": 47,
     "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
     "category": "TECH",
     "date": "2026-07-25T10:30:00.000Z",
@@ -484,7 +517,7 @@
     "sourceUrl": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/"
   },
   {
-    "id": 45,
+    "id": 48,
     "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
     "category": "TECH",
     "date": "2026-07-25T10:14:41.000Z",
@@ -495,7 +528,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 46,
+    "id": 49,
     "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
     "category": "TECH",
     "date": "2026-07-25T10:00:00.000Z",
@@ -506,7 +539,7 @@
     "sourceUrl": "https://www.wired.com/story/best-laptops/"
   },
   {
-    "id": 47,
+    "id": 50,
     "title": " NASA astronaut, 2 cosmonauts returning to Earth on July 26: Watch it live ",
     "category": "SPACE",
     "date": "2026-07-25T10:00:00.000Z",
@@ -517,7 +550,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28"
   },
   {
-    "id": 48,
+    "id": 51,
     "title": "Everything announced at Galaxy Unpacked 2026: Can Samsung compete with the rumored foldable iPhone?",
     "category": "TECH",
     "date": "2026-07-25T08:30:43.000Z",
@@ -528,7 +561,7 @@
     "sourceUrl": "https://www.zdnet.com/article/everything-announced-samsung-unpacked-2026/"
   },
   {
-    "id": 49,
+    "id": 52,
     "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
     "category": "WORLD",
     "date": "2026-07-25T06:34:40.000Z",
@@ -539,7 +572,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 50,
+    "id": 53,
     "title": " SpaceX's Starship megarocket makes the 'softest splashdown' ever after launching next-gen Starlink satellites in Flight 13 test (video) ",
     "category": "SPACE",
     "date": "2026-07-25T01:40:17.000Z",
@@ -550,18 +583,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video"
   },
   {
-    "id": 51,
-    "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-    "category": "WORLD",
-    "date": "2026-07-25T00:06:53.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-    "content": "<h2>概要</h2><p>The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 52,
+    "id": 54,
     "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes ",
     "category": "BUSINESS",
     "date": "2026-07-24T23:31:11.000Z",
@@ -572,7 +594,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 53,
+    "id": 55,
     "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
     "category": "BUSINESS",
     "date": "2026-07-24T23:23:53.000Z",
@@ -583,7 +605,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 54,
+    "id": 56,
     "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
     "category": "TECH",
     "date": "2026-07-24T22:28:20.000Z",
@@ -594,7 +616,7 @@
     "sourceUrl": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/"
   },
   {
-    "id": 55,
+    "id": 57,
     "title": "Scientists Are Designing CRISPR Gene Editors With AI",
     "category": "MYSTERY",
     "date": "2026-07-24T21:47:42.000Z",
@@ -605,7 +627,7 @@
     "sourceUrl": "https://singularityhub.com/2026/07/24/scientists-are-designing-crispr-gene-editors-with-ai/"
   },
   {
-    "id": 56,
+    "id": 58,
     "title": "ICC member states vote to remove chief prosecutor Karim Khan",
     "category": "WORLD",
     "date": "2026-07-24T21:37:37.000Z",
@@ -616,7 +638,7 @@
     "sourceUrl": "https://www.npr.org/2026/07/24/g-s1-135498/icc-court-prosecutor-karim-khan-vote"
   },
   {
-    "id": 57,
+    "id": 59,
     "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
     "category": "TECH",
     "date": "2026-07-24T20:37:21.000Z",
@@ -627,7 +649,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 58,
+    "id": 60,
     "title": "Trump vows to investigate EU over fining of US tech companies",
     "category": "TECH",
     "date": "2026-07-24T20:23:58.000Z",
@@ -638,7 +660,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 59,
+    "id": 61,
     "title": "Trump vows to investigate EU over fining of US tech companies",
     "category": "BUSINESS",
     "date": "2026-07-24T20:23:58.000Z",
@@ -649,18 +671,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 60,
-    "title": "Amazon will give you a $350 gift card when you buy a new Samsung phone - here's what to know",
-    "category": "TECH",
-    "date": "2026-07-24T18:56:08.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Samsung just launched its latest lineup of phones, and Amazon has free gift card offers on every single one.",
-    "content": "<h2>概要</h2><p>Samsung just launched its latest lineup of phones, and Amazon has free gift card offers on every single one.</p><p><a href=\"https://www.zdnet.com/article/samsung-galaxy-z-fold-flip-8-amazon-deals-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/samsung-galaxy-z-fold-flip-8-amazon-deals-2026/"
-  },
-  {
-    "id": 61,
+    "id": 62,
     "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
     "category": "SPACE",
     "date": "2026-07-24T17:47:06.000Z",
@@ -671,7 +682,7 @@
     "sourceUrl": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/"
   },
   {
-    "id": 62,
+    "id": 63,
     "title": "Rocks from unexplored far side of the moon help rewrite lunar history",
     "category": "SPACE",
     "date": "2026-07-24T17:20:04.000Z",
@@ -680,17 +691,6 @@
     "content": "<h2>概要</h2><p>Ancient samples from the moon's far side are helping scientists uncover how asteroid impacts shaped the early solar system. The findings challenge decades of thinking about when those impacts occurred and offer new insights into the conditions that influenced Earth's evolution.</p><p><a href=\"https://phys.org/news/2026-07-unexplored-side-moon-rewrite-lunar.html\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "Phys.org Space",
     "sourceUrl": "https://phys.org/news/2026-07-unexplored-side-moon-rewrite-lunar.html"
-  },
-  {
-    "id": 63,
-    "title": "The quest to keep organs alive outside the body",
-    "category": "TECH",
-    "date": "2026-07-24T17:03:55.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved…",
-    "content": "<h2>概要</h2><p>This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved…</p><p><a href=\"https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
   },
   {
     "id": 64,
@@ -705,6 +705,17 @@
   },
   {
     "id": 65,
+    "title": "The quest to keep organs alive outside the body",
+    "category": "TECH",
+    "date": "2026-07-24T17:03:55.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved…",
+    "content": "<h2>概要</h2><p>This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved…</p><p><a href=\"https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+  },
+  {
+    "id": 66,
     "title": "New Crew Members Welcomed to International Space Station",
     "category": "SPACE",
     "date": "2026-07-24T16:43:02.000Z",
@@ -715,7 +726,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/"
   },
   {
-    "id": 66,
+    "id": 67,
     "title": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon    ",
     "category": "SPACE",
     "date": "2026-07-24T16:35:46.000Z",
@@ -726,7 +737,7 @@
     "sourceUrl": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/"
   },
   {
-    "id": 67,
+    "id": 68,
     "title": "Why Europa's hidden ocean may be more difficult to reach than scientists thought",
     "category": "SPACE",
     "date": "2026-07-24T16:00:03.000Z",
@@ -737,7 +748,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-europa-hidden-ocean-difficult-scientists.html"
   },
   {
-    "id": 68,
+    "id": 69,
     "title": "Io's volcanic output offers a 40‑day forecast of plasma density in Jupiter's magnetosphere",
     "category": "SPACE",
     "date": "2026-07-24T15:40:03.000Z",
@@ -748,7 +759,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-io-volcanic-output-40day-plasma.html"
   },
   {
-    "id": 69,
+    "id": 70,
     "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
     "category": "SPACE",
     "date": "2026-07-24T15:30:21.000Z",
@@ -759,7 +770,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/"
   },
   {
-    "id": 70,
+    "id": 71,
     "title": "How Jimothy the raccoon became the internet's latest animal obsession",
     "category": "TECH",
     "date": "2026-07-24T14:27:46.000Z",
@@ -768,17 +779,6 @@
     "content": "<h2>概要</h2><p>It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC Technology",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 71,
-    "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
-    "category": "BUSINESS",
-    "date": "2026-07-24T14:02:26.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
-    "content": "<h2>概要</h2><p>While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": 72,
