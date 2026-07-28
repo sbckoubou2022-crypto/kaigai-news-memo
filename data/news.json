@@ -1,75 +1,548 @@
 [
   {
     "id": 1,
-    "title": "A magnitude 7.1 earthquake shakes part of southern Japan and a tsunami advisory is issued",
-    "category": "SCIENCE",
-    "date": "2026-07-28T08:44:06.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "An earthquake registering a preliminary magnitude of 7.1 shook Kumamoto on Japan's southern main island of Kyushu late Tuesday afternoon and a tsunami advisory was issued, the Japan Meteorological Agency said.",
-    "content": "<h2>概要</h2><p>An earthquake registering a preliminary magnitude of 7.1 shook Kumamoto on Japan's southern main island of Kyushu late Tuesday afternoon and a tsunami advisory was issued, the Japan Meteorological Agency said.</p><p><a href=\"https://phys.org/news/2026-07-magnitude-earthquake-southern-japan-tsunami.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-magnitude-earthquake-southern-japan-tsunami.html"
+    "title": "Did ransomware attacks really decline? Here are your business' 4 best defenses",
+    "category": "TECH",
+    "date": "2026-07-28T14:21:25.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Did it look like the ransomware threat was receding last year? New research suggests it was more of a reshuffle - and recommends renewed vigilance.",
+    "content": "<h2>概要</h2><p>Did it look like the ransomware threat was receding last year? New research suggests it was more of a reshuffle - and recommends renewed vigilance.</p><p><a href=\"https://www.zdnet.com/article/ransomware-attacks-decline-business-4-best-defenses/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/ransomware-attacks-decline-business-4-best-defenses/"
   },
   {
     "id": 2,
-    "title": "Venezuela faces staggering cost to rebuild after devastating earthquakes",
-    "category": "WORLD",
-    "date": "2026-07-28T08:44:05.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5896367",
-    "summary": "A month after Venezuela's deadly earthquakes, the focus is shifting from rescue to rebuilding -- and the costs are staggering.",
-    "content": "<h2>概要</h2><p>A month after Venezuela's deadly earthquakes, the focus is shifting from rescue to rebuilding -- and the costs are staggering.</p><p><a href=\"https://www.npr.org/2026/07/28/nx-s1-5896367/venezuela-faces-staggering-cost-to-rebuild-after-devastating-earthquakes\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/28/nx-s1-5896367/venezuela-faces-staggering-cost-to-rebuild-after-devastating-earthquakes"
+    "title": "A way to read quantum bits faster and with less hardware",
+    "category": "SCIENCE",
+    "date": "2026-07-28T14:20:02.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Quantum computers process information in a fundamentally different way from conventional computers, using quantum bits, or qubits, that can exist in multiple states at once. This could allow them to tackle problems beyond the reach of today's machines, from simulating new materials to optimizing complex systems.",
+    "content": "<h2>概要</h2><p>Quantum computers process information in a fundamentally different way from conventional computers, using quantum bits, or qubits, that can exist in multiple states at once. This could allow them to tackle problems beyond the reach of today's machines, from simulating new materials to optimizing complex systems.</p><p><a href=\"https://phys.org/news/2026-07-quantum-bits-faster-hardware.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-quantum-bits-faster-hardware.html"
   },
   {
     "id": 3,
-    "title": "More than 220,000 people forced to leave their homes due to wildfires in France",
-    "category": "WORLD",
-    "date": "2026-07-28T08:43:52.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5909617",
-    "summary": "NPR's A Martínez speaks with AFP journalist Sebastian Braddock about the wildfires that have forced hundreds of thousands of people to evacuate their homes in southwestern France.",
-    "content": "<h2>概要</h2><p>NPR's A Martínez speaks with AFP journalist Sebastian Braddock about the wildfires that have forced hundreds of thousands of people to evacuate their homes in southwestern France.</p><p><a href=\"https://www.npr.org/2026/07/28/nx-s1-5909617/more-than-220-000-people-forced-to-leave-their-homes-due-to-wildfires-in-france\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/28/nx-s1-5909617/more-than-220-000-people-forced-to-leave-their-homes-due-to-wildfires-in-france"
+    "title": "New carbon calculator measures emissions per spa visit",
+    "category": "SCIENCE",
+    "date": "2026-07-28T14:20:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A new tool that calculates the carbon footprint of an individual spa or wellness visit in real time has been published by researchers from the University of Surrey and Therme Group.",
+    "content": "<h2>概要</h2><p>A new tool that calculates the carbon footprint of an individual spa or wellness visit in real time has been published by researchers from the University of Surrey and Therme Group.</p><p><a href=\"https://phys.org/news/2026-07-carbon-emissions-spa.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-carbon-emissions-spa.html"
   },
   {
     "id": 4,
-    "title": "Mexican university faces massive cheating scandal after first online entry exam",
-    "category": "WORLD",
-    "date": "2026-07-28T08:43:40.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5909340",
-    "summary": "Mexico's most prestigious university is facing a cheating crisis after a first-ever online admissions exam produced results so unusual that one analysis suggests nearly half of test-takers may have cheated",
-    "content": "<h2>概要</h2><p>Mexico's most prestigious university is facing a cheating crisis after a first-ever online admissions exam produced results so unusual that one analysis suggests nearly half of test-takers may have cheated</p><p><a href=\"https://www.npr.org/2026/07/28/nx-s1-5909340/mexican-university-faces-massive-cheating-scandal-after-first-online-entry-exam\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/07/28/nx-s1-5909340/mexican-university-faces-massive-cheating-scandal-after-first-online-entry-exam"
+    "title": "The 10 busiest commuter trains in England and Wales revealed",
+    "category": "BUSINESS",
+    "date": "2026-07-28T14:17:57.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Overall, overcrowding fell slightly last year due to increased capacity, the Department for Transport says.",
+    "content": "<h2>概要</h2><p>Overall, overcrowding fell slightly last year due to increased capacity, the Department for Transport says.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c20dxevjlvxo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c20dxevjlvxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": 5,
-    "title": "Ariana Grande sues hackers who leaked music and videos",
-    "category": "WORLD",
-    "date": "2026-07-28T08:37:12.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.",
-    "content": "<h2>概要</h2><p>The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss"
+    "title": "One grain to rule them all: History of rice as a global food",
+    "category": "SCIENCE",
+    "date": "2026-07-28T14:00:21.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Rice is the most popular food in the world, providing sustenance to more than 3.5 billion people each day.",
+    "content": "<h2>概要</h2><p>Rice is the most popular food in the world, providing sustenance to more than 3.5 billion people each day.</p><p><a href=\"https://phys.org/news/2026-07-grain-history-rice-global-food.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-grain-history-rice-global-food.html"
   },
   {
     "id": 6,
-    "title": "I wore the two best Amazfit smartwatches for a month - Is the flagship worth $230 more?",
-    "category": "TECH",
-    "date": "2026-07-28T08:30:42.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Is the Amazfit Cheetah 2 Ultra worth the extra cost versus the Amazfit Balance 3? Here's what I found after living with both for a month.",
-    "content": "<h2>概要</h2><p>Is the Amazfit Cheetah 2 Ultra worth the extra cost versus the Amazfit Balance 3? Here's what I found after living with both for a month.</p><p><a href=\"https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-amazfit-balance-3/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-amazfit-balance-3/"
+    "title": "Tabby's star may be orbited by a planetary-mass companion",
+    "category": "SCIENCE",
+    "date": "2026-07-28T14:00:03.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "By analyzing data from NASA's Transiting Exoplanet Survey Satellite (TESS) and conducting new radial velocity measurements, U.K. and French astronomers have found evidence that the mysterious Tabby's star may be orbited by an object about nine times more massive than Jupiter. The new findings are published on the preprint server arXiv.",
+    "content": "<h2>概要</h2><p>By analyzing data from NASA's Transiting Exoplanet Survey Satellite (TESS) and conducting new radial velocity measurements, U.K. and French astronomers have found evidence that the mysterious Tabby's star may be orbited by an object about nine times more massive than Jupiter. The new findings are published on the preprint server arXiv.</p><p><a href=\"https://phys.org/news/2026-07-tabby-star-orbited-planetary-mass.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-tabby-star-orbited-planetary-mass.html"
   },
   {
     "id": 7,
+    "title": "Tabby's star may be orbited by a planetary-mass companion",
+    "category": "SPACE",
+    "date": "2026-07-28T14:00:03.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "By analyzing data from NASA's Transiting Exoplanet Survey Satellite (TESS) and conducting new radial velocity measurements, U.K. and French astronomers have found evidence that the mysterious Tabby's star may be orbited by an object about nine times more massive than Jupiter. The new findings are published on the preprint server arXiv.",
+    "content": "<h2>概要</h2><p>By analyzing data from NASA's Transiting Exoplanet Survey Satellite (TESS) and conducting new radial velocity measurements, U.K. and French astronomers have found evidence that the mysterious Tabby's star may be orbited by an object about nine times more massive than Jupiter. The new findings are published on the preprint server arXiv.</p><p><a href=\"https://phys.org/news/2026-07-tabby-star-orbited-planetary-mass.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-07-tabby-star-orbited-planetary-mass.html"
+  },
+  {
+    "id": 8,
+    "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+    "category": "TECH",
+    "date": "2026-07-28T14:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "content": "<h2>概要</h2><p>Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.</p><p><a href=\"https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
+  },
+  {
+    "id": 9,
+    "title": "Is the Electric Trike the Next Big Thing in Shared Micromobility?",
+    "category": "TECH",
+    "date": "2026-07-28T14:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Veo is launching accessibility-focused electric tricycles in Denver, with plans to put its e-trikes on the streets nationwide.",
+    "content": "<h2>概要</h2><p>Veo is launching accessibility-focused electric tricycles in Denver, with plans to put its e-trikes on the streets nationwide.</p><p><a href=\"https://www.wired.com/story/is-the-electric-trike-the-next-big-thing-in-shared-micromobility-veo-rover/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/is-the-electric-trike-the-next-big-thing-in-shared-micromobility-veo-rover/"
+  },
+  {
+    "id": 10,
+    "title": " On this day in space!  July 28, 1851: The 1st photo of a total solar eclipse was taken by a Prussian daguerreotypist ",
+    "category": "SPACE",
+    "date": "2026-07-28T14:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/MuqUcXY2btGwqmmEBMEM8U-1280-80.png",
+    "summary": "On July 28, 1851, the first-ever photo of a total solar eclipse was recorded by a Prussian daguerreotypist named Johann Julius Friedrich Berkowski.  It changed solar astronomy.",
+    "content": "<h2>概要</h2><p>On July 28, 1851, the first-ever photo of a total solar eclipse was recorded by a Prussian daguerreotypist named Johann Julius Friedrich Berkowski.  It changed solar astronomy.</p><p><a href=\"https://www.space.com/space-exploration/on-this-day-in-space-july-28-2026\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/space-exploration/on-this-day-in-space-july-28-2026"
+  },
+  {
+    "id": 11,
+    "title": " ISS meets Venus in incredible daylight photo | Space photo of the day for July 28, 2026 ",
+    "category": "SPACE",
+    "date": "2026-07-28T14:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/ox7cxa7sE4N3TKrfzYEo25-1280-80.jpg",
+    "summary": "An astrophotographer captured a breathtaking scene as the International Space Station zoomed by Venus in the daytime sky.",
+    "content": "<h2>概要</h2><p>An astrophotographer captured a breathtaking scene as the International Space Station zoomed by Venus in the daytime sky.</p><p><a href=\"https://www.space.com/stargazing/iss-meets-venus-in-incredible-daylight-photo-space-photo-of-the-day-for-july-28-2026\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/stargazing/iss-meets-venus-in-incredible-daylight-photo-space-photo-of-the-day-for-july-28-2026"
+  },
+  {
+    "id": 12,
+    "title": "I tested Sonos' new beta features on iOS and Android - how to opt in and what to expect",
+    "category": "TECH",
+    "date": "2026-07-28T14:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Sonos's software comeback is nearly complete, with small but mighty fixes. Here's everything you need to know.",
+    "content": "<h2>概要</h2><p>Sonos's software comeback is nearly complete, with small but mighty fixes. Here's everything you need to know.</p><p><a href=\"https://www.zdnet.com/article/how-to-get-sonos-app-beta-ios-android/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/how-to-get-sonos-app-beta-ios-android/"
+  },
+  {
+    "id": 13,
+    "title": "Why Apple's iOS 26.6 is worth installing (it's not just for the 91 security fixes)",
+    "category": "TECH",
+    "date": "2026-07-28T13:59:33.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The latest update preps your phone for the new and improved Siri AI set to debut with iOS 27.",
+    "content": "<h2>概要</h2><p>The latest update preps your phone for the new and improved Siri AI set to debut with iOS 27.</p><p><a href=\"https://www.zdnet.com/article/apples-ios-26-6-siri-ai/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/apples-ios-26-6-siri-ai/"
+  },
+  {
+    "id": 14,
+    "title": "Is it safe to travel to France and Spain right now?",
+    "category": "BUSINESS",
+    "date": "2026-07-28T13:54:20.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+    "content": "<h2>概要</h2><p>For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.</p><p><a href=\"https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 15,
+    "title": "Neuroscientists reveal limits of human compassion for global crises",
+    "category": "SCIENCE",
+    "date": "2026-07-28T13:54:10.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "New research from the University of Sussex has revealed the biological limits to human compassion and empathy. The study found a stark contrast between how the brain processes information about risk to human lives and information about financial risk and could help explain why people can struggle to respond emotionally to large-scale humanitarian disasters.",
+    "content": "<h2>概要</h2><p>New research from the University of Sussex has revealed the biological limits to human compassion and empathy. The study found a stark contrast between how the brain processes information about risk to human lives and information about financial risk and could help explain why people can struggle to respond emotionally to large-scale humanitarian disasters.</p><p><a href=\"https://phys.org/news/2026-07-neuroscientists-reveal-limits-human-compassion.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-neuroscientists-reveal-limits-human-compassion.html"
+  },
+  {
+    "id": 16,
+    "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
+    "category": "TECH",
+    "date": "2026-07-28T13:50:27.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Leasing prices start at $17.99 per month for iPhone, $11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad.",
+    "content": "<h2>概要</h2><p>Leasing prices start at $17.99 per month for iPhone, $11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad.</p><p><a href=\"https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/"
+  },
+  {
+    "id": 17,
+    "title": "Token-maxing is an AI cost sink - how to use agents without busting your budget",
+    "category": "TECH",
+    "date": "2026-07-28T13:44:44.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Professionals are burning through tokens, but smart business leaders are finding ways to balance costs and value creation.",
+    "content": "<h2>概要</h2><p>Professionals are burning through tokens, but smart business leaders are finding ways to balance costs and value creation.</p><p><a href=\"https://www.zdnet.com/article/token-maxing-ai-cost-sink-use-agents-without-busting-budget/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/token-maxing-ai-cost-sink-use-agents-without-busting-budget/"
+  },
+  {
+    "id": 18,
+    "title": "Martian space suits will need to be 40% lighter",
+    "category": "SPACE",
+    "date": "2026-07-28T13:40:05.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Long before a human ever sets foot on the Red Planet, we already know how harsh the environment is. Once a human finally does, the only things protecting them from that environment will be the infrastructure we've built there and the spacesuit that keeps them in a protective bubble. Unfortunately, modern spacesuits aren't built with Martian gravity, which is three-eighths of Earth's, in mind. To prove that point, a team of NASA and industry engineers made a presentation at the 55th International Conference on Environmental Systems (ICES) showing that the newest generation of spacesuits is simply too heavy to use on Mars.",
+    "content": "<h2>概要</h2><p>Long before a human ever sets foot on the Red Planet, we already know how harsh the environment is. Once a human finally does, the only things protecting them from that environment will be the infrastructure we've built there and the spacesuit that keeps them in a protective bubble. Unfortunately, modern spacesuits aren't built with Martian gravity, which is three-eighths of Earth's, in mind. To prove that point, a team of NASA and industry engineers made a presentation at the 55th International Conference on Environmental Systems (ICES) showing that the newest generation of spacesuits is simply too heavy to use on Mars.</p><p><a href=\"https://phys.org/news/2026-07-martian-space-lighter.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-07-martian-space-lighter.html"
+  },
+  {
+    "id": 19,
+    "title": "As US measles cases rise, biotech firms start developing new treatments",
+    "category": "TECH",
+    "date": "2026-07-28T13:32:23.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
+    "content": "<h2>概要</h2><p>The US is making measles great again, so treatment options are needed for the most vulnerable.</p><p><a href=\"https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/"
+  },
+  {
+    "id": 20,
+    "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+    "category": "WORLD",
+    "date": "2026-07-28T13:25:13.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.",
+    "content": "<h2>概要</h2><p>Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 21,
+    "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+    "category": "TECH",
+    "date": "2026-07-28T13:19:17.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+    "content": "<h2>概要</h2><p>Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.</p><p><a href=\"https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/"
+  },
+  {
+    "id": 22,
+    "title": "5,000-Year-Old Blue Pigment Reveals Evidence of Ancient Egyptian Nanotechnology—Now It’s Finding New Life in Biomedical Imaging",
+    "category": "MYSTERY",
+    "date": "2026-07-28T13:05:14.000Z",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "summary": "5000-year-old nanotechnology from the ancient world known as \"Egyptian blue\" is offering innovative modern uses in biomedical imaging.",
+    "content": "<h2>概要</h2><p>5000-year-old nanotechnology from the ancient world known as \"Egyptian blue\" is offering innovative modern uses in biomedical imaging.</p><p><a href=\"https://thedebrief.org/5000-year-old-blue-pigment-reveals-evidence-of-ancient-egyptian-nanotechnology-now-its-finding-new-life-in-biomedical-imaging/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Debrief",
+    "sourceUrl": "https://thedebrief.org/5000-year-old-blue-pigment-reveals-evidence-of-ancient-egyptian-nanotechnology-now-its-finding-new-life-in-biomedical-imaging/"
+  },
+  {
+    "id": 23,
+    "title": "“Enough Heat to Sizzle Thin-Skinned Animals”: New Evidence Shows How a Dinosaur-Killing Meteor Set the World on Fire",
+    "category": "MYSTERY",
+    "date": "2026-07-28T13:00:28.000Z",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A fine layer of dust encircling Earth after the Chicxulub asteroid impact may have set the world on fire and caused dinosaur extinction.",
+    "content": "<h2>概要</h2><p>A fine layer of dust encircling Earth after the Chicxulub asteroid impact may have set the world on fire and caused dinosaur extinction.</p><p><a href=\"https://thedebrief.org/enough-heat-to-sizzle-thin-skinned-animals-new-evidence-shows-how-a-dinosaur-killing-meteor-set-the-world-on-fire/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Debrief",
+    "sourceUrl": "https://thedebrief.org/enough-heat-to-sizzle-thin-skinned-animals-new-evidence-shows-how-a-dinosaur-killing-meteor-set-the-world-on-fire/"
+  },
+  {
+    "id": 24,
+    "title": "Chicxulub's lingering dust may have turned falling debris into a global firestorm",
+    "category": "SPACE",
+    "date": "2026-07-28T13:00:04.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Sixty-six million years ago, the six-mile-wide (10-kilometer-wide) Chicxulub asteroid crash-landed in Mexico's Yucatán Peninsula and changed life on Earth forever. The reign of the dinosaurs ended, and only creatures that could shelter in burrows or shallow waters survived into the age of mammals that followed.",
+    "content": "<h2>概要</h2><p>Sixty-six million years ago, the six-mile-wide (10-kilometer-wide) Chicxulub asteroid crash-landed in Mexico's Yucatán Peninsula and changed life on Earth forever. The reign of the dinosaurs ended, and only creatures that could shelter in burrows or shallow waters survived into the age of mammals that followed.</p><p><a href=\"https://phys.org/news/2026-07-chicxulub-lingering-falling-debris-global.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-07-chicxulub-lingering-falling-debris-global.html"
+  },
+  {
+    "id": 25,
+    "title": "Twelve South’s stylish charging tray now delivers more wireless power with a smaller footprint",
+    "category": "TECH",
+    "date": "2026-07-28T13:00:00.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/valet1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Following the original's debut at CES earlier this year, Twelve South is introducing a new version of its leather-wrapped Valet charging tray designed for use in places where space is at a premium. While the original Valet was 7.5-inches deep and large enough to serve as a catchall for a couple of items like your wallet and keys, the new Valet nearly halves that to 4.5-inches deep, so it's better suited for single items, like a pair of glasses.\nDespite being smaller, the new Valet brings some welcome upgrades. The original's wireless charger maxed out at 15W, but the smaller version bumps that to 25W. However, while the original could charg …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Following the original's debut at CES earlier this year, Twelve South is introducing a new version of its leather-wrapped Valet charging tray designed for use in places where space is at a premium. While the original Valet was 7.5-inches deep and large enough to serve as a catchall for a couple of items like your wallet and keys, the new Valet nearly halves that to 4.5-inches deep, so it's better suited for single items, like a pair of glasses.\nDespite being smaller, the new Valet brings some welcome upgrades. The original's wireless charger maxed out at 15W, but the smaller version bumps that to 25W. However, while the original could charg …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/969957/twelve-south-valet-wireless-charger-qi2-25w-leather\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/969957/twelve-south-valet-wireless-charger-qi2-25w-leather"
+  },
+  {
+    "id": 26,
+    "title": "You don’t need to splurge on an expensive handheld fan to beat the heat",
+    "category": "TECH",
+    "date": "2026-07-28T13:00:00.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/fan1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "It’s not fancy, but it gets the job done for hours and hours on a single charge.\t\n\nDespite what influencers may say, you don’t need to spend $99.99 on Dyson’s HushJet Mini Cool or $149.99 for the Shark ChillPill to survive the summer whenever you leave the comfort of air-conditioning. My family has found all the comfort it needs to survive humid baseball games, sweltering concerts, and sweaty hikes with a couple of affordable handheld fans from a Chinese company called JisuLife that has spent the past decade honing its hardware.\nAt the start of the summer, I impulse-purchased a pair of JisuLife Life10 S fans from Costco, which at CDN $25 each (or $32.99 through Amazon), are among the most basic offerings from the company. JisuLife’s extensive lineup includes some fan models costing close to $100 with features like reverse-charging to power your phone and 100 different speed settings. I want all those features, but my goal was to not spend several hundred dollars on personal cooling devices that could easily go missing or get damaged during the chaos of summer activities.\nThe Life10 S’ functionality is comparatively basic, but also easy to use. A sliding power switch on the back prevents it from accidentally turning on while banging around inside a backpack, and a single button on the front cycles through five different fan speeds. There’s also a basic LCD display showing the battery’s remaining charge when the fan is first powered on and the current speed setting. It’s simple, but the Life10 S does its one job quietly and for a surprisingly long time.\nWhen Dyson announced its first handheld fan in April, I assumed the company that had developed an expertise in moving air had created a personal cooling device that would outperform everything else on the market. My spouse loves their Dyson hair dryer, and I was sure the HushJet Mini Cool would be my secret weapon for surviving hot and humid summers, even if at $99 it was a splurge. But having used both Dyson’s personal fan and JisuLife’s $25 alternative, I only reach for the latter when braving the world without AC.\nDyson’s HushJet Mini Cool wraps impressive engineering in an eye-catching design, and at its highest setting, it easily out blasts JisuLife’s even with the Life10 S set to full power. But even at its lowest setting, the HushJet is loud with a high-pitched whine reminiscent of Dyson’s vacuums. I don’t mind that sound when it’s limited to short bursts of cleaning at ground level, but not when coming from a tiny fan designed to be used close to your face and ears. The JisuLife fan produces sound at a much lower frequency, making it easier to tolerate for hours, even if it’s far from whisper quiet at full power.\nWhat impresses me more about the JisuLife fan is how long its 5,000mAh battery keeps it running. At half power, which we find is strong enough to cool us down on even the hottest days, the fan ran for just over 16 hours before needing a charge. That’s far longer than my son lasted at the water park. For comparison, Dyson estimates the HushJet Mini Cool will run for up to six hours at its lowest setting, and at full power, I had it die after just over an hour.\nJisuLife Life10 S handheld fan\n\nWhere to Buy:\n\n $32.99 at Amazon\n $29.99 at JisuLife\n\nI haven’t tested the even pricier Shark ChillPill that combines a fan with a metal cooling plate the company claims can lower skin temperature by up to 16 degrees Fahrenheit in seconds. You can cool down by pressing it all over your body, but it only cools for as long as the fan has power. SharkNinja estimates the ChillPill will run for up to 11 hours at its lowest setting, or just an hour-and-a-half at max power. That approach could be very effective, but I’m not spending $150 to find out.\nI’ve also tested the wearable neck fans that seem to be very popular among the cashiers at my local Costco, but I didn’t find them to be as effective as I’d hoped. The breeze is spread out across the length of the fan and doesn’t feel as intense as a handheld fan, and wearing it positions the motor right below your ear at all times, so it’s a constant drone. I see why they’re useful, but it’s not an experience anyone in my family enjoyed.\nAfter a successful summer with these fans, I’m already keeping an eye out for sales on other JisuLife models, including a hands-free version you wear hanging from your neck. But I’m also expecting these cheaper alternatives will continue to be the first thing we pack when heading out on adventures for the rest of the summer and probably for years to come.\nPhotography by Andrew Liszewski / The Verge",
+    "content": "<h2>概要</h2><p>It’s not fancy, but it gets the job done for hours and hours on a single charge.\t\n\nDespite what influencers may say, you don’t need to spend $99.99 on Dyson’s HushJet Mini Cool or $149.99 for the Shark ChillPill to survive the summer whenever you leave the comfort of air-conditioning. My family has found all the comfort it needs to survive humid baseball games, sweltering concerts, and sweaty hikes with a couple of affordable handheld fans from a Chinese company called JisuLife that has spent the past decade honing its hardware.\nAt the start of the summer, I impulse-purchased a pair of JisuLife Life10 S fans from Costco, which at CDN $25 each (or $32.99 through Amazon), are among the most basic offerings from the company. JisuLife’s extensive lineup includes some fan models costing close to $100 with features like reverse-charging to power your phone and 100 different speed settings. I want all those features, but my goal was to not spend several hundred dollars on personal cooling devices that could easily go missing or get damaged during the chaos of summer activities.\nThe Life10 S’ functionality is comparatively basic, but also easy to use. A sliding power switch on the back prevents it from accidentally turning on while banging around inside a backpack, and a single button on the front cycles through five different fan speeds. There’s also a basic LCD display showing the battery’s remaining charge when the fan is first powered on and the current speed setting. It’s simple, but the Life10 S does its one job quietly and for a surprisingly long time.\nWhen Dyson announced its first handheld fan in April, I assumed the company that had developed an expertise in moving air had created a personal cooling device that would outperform everything else on the market. My spouse loves their Dyson hair dryer, and I was sure the HushJet Mini Cool would be my secret weapon for surviving hot and humid summers, even if at $99 it was a splurge. But having used both Dyson’s personal fan and JisuLife’s $25 alternative, I only reach for the latter when braving the world without AC.\nDyson’s HushJet Mini Cool wraps impressive engineering in an eye-catching design, and at its highest setting, it easily out blasts JisuLife’s even with the Life10 S set to full power. But even at its lowest setting, the HushJet is loud with a high-pitched whine reminiscent of Dyson’s vacuums. I don’t mind that sound when it’s limited to short bursts of cleaning at ground level, but not when coming from a tiny fan designed to be used close to your face and ears. The JisuLife fan produces sound at a much lower frequency, making it easier to tolerate for hours, even if it’s far from whisper quiet at full power.\nWhat impresses me more about the JisuLife fan is how long its 5,000mAh battery keeps it running. At half power, which we find is strong enough to cool us down on even the hottest days, the fan ran for just over 16 hours before needing a charge. That’s far longer than my son lasted at the water park. For comparison, Dyson estimates the HushJet Mini Cool will run for up to six hours at its lowest setting, and at full power, I had it die after just over an hour.\nJisuLife Life10 S handheld fan\n\nWhere to Buy:\n\n $32.99 at Amazon\n $29.99 at JisuLife\n\nI haven’t tested the even pricier Shark ChillPill that combines a fan with a metal cooling plate the company claims can lower skin temperature by up to 16 degrees Fahrenheit in seconds. You can cool down by pressing it all over your body, but it only cools for as long as the fan has power. SharkNinja estimates the ChillPill will run for up to 11 hours at its lowest setting, or just an hour-and-a-half at max power. That approach could be very effective, but I’m not spending $150 to find out.\nI’ve also tested the wearable neck fans that seem to be very popular among the cashiers at my local Costco, but I didn’t find them to be as effective as I’d hoped. The breeze is spread out across the length of the fan and doesn’t feel as intense as a handheld fan, and wearing it positions the motor right below your ear at all times, so it’s a constant drone. I see why they’re useful, but it’s not an experience anyone in my family enjoyed.\nAfter a successful summer with these fans, I’m already keeping an eye out for sales on other JisuLife models, including a hands-free version you wear hanging from your neck. But I’m also expecting these cheaper alternatives will continue to be the first thing we pack when heading out on adventures for the rest of the summer and probably for years to come.\nPhotography by Andrew Liszewski / The Verge</p><p><a href=\"https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan"
+  },
+  {
+    "id": 27,
+    "title": "Granola launches an Apple Watch app",
+    "category": "TECH",
+    "date": "2026-07-28T13:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Granola debutes an Apple Watch app for in-person notetaking",
+    "content": "<h2>概要</h2><p>Granola debutes an Apple Watch app for in-person notetaking</p><p><a href=\"https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/"
+  },
+  {
+    "id": 28,
+    "title": " BALLS on the moon: China set to launch Africa's 1st lunar science mission in 2029 ",
+    "category": "SPACE",
+    "date": "2026-07-28T13:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/Mt8chLNrnBSHAWv4t6PbMA-1280-80.jpg",
+    "summary": "Africa's first space exploration mission aims to send a trio of spherical probes to the lunar south pole aboard China's Chang'e 8 lander in 2029.",
+    "content": "<h2>概要</h2><p>Africa's first space exploration mission aims to send a trio of spherical probes to the lunar south pole aboard China's Chang'e 8 lander in 2029.</p><p><a href=\"https://www.space.com/astronomy/moon/balls-on-the-moon-china-set-to-launch-africas-1st-lunar-science-mission-in-2029\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/astronomy/moon/balls-on-the-moon-china-set-to-launch-africas-1st-lunar-science-mission-in-2029"
+  },
+  {
+    "id": 29,
+    "title": "A 7.1 quake hits Japan's Kyushu, trapping people in a collapsed shopping center",
+    "category": "WORLD",
+    "date": "2026-07-28T12:51:33.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3968x2643+0+0/resize/3968x2643!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F53%2F7ee2ecf848a2bff94df61f5fc0e1%2Fap26209404916586.jpg",
+    "summary": "The quake shook Japan's southern main island of Kyushu late Tuesday afternoon local time, causing damage and injuries.",
+    "content": "<h2>概要</h2><p>The quake shook Japan's southern main island of Kyushu late Tuesday afternoon local time, causing damage and injuries.</p><p><a href=\"https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake"
+  },
+  {
+    "id": 30,
+    "title": "You've been using your power bank wrong, and airline rules make that obvious",
+    "category": "TECH",
+    "date": "2026-07-28T12:44:37.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Many of the things you're not allowed to do on an aircraft are things you shouldn't be doing at all.",
+    "content": "<h2>概要</h2><p>Many of the things you're not allowed to do on an aircraft are things you shouldn't be doing at all.</p><p><a href=\"https://www.zdnet.com/article/youve-been-using-your-power-bank-wrong-and-airline-rules-make-that-obvious/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/youve-been-using-your-power-bank-wrong-and-airline-rules-make-that-obvious/"
+  },
+  {
+    "id": 31,
+    "title": "More evidence Mars once had water emerges from old Spirit rover data",
+    "category": "SPACE",
+    "date": "2026-07-28T12:40:03.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "More than 20 years after NASA's Spirit rover landed on Mars, a researcher from Edith Cowan University (ECU) has uncovered new evidence that suggests water may once have covered large parts of the red planet.",
+    "content": "<h2>概要</h2><p>More than 20 years after NASA's Spirit rover landed on Mars, a researcher from Edith Cowan University (ECU) has uncovered new evidence that suggests water may once have covered large parts of the red planet.</p><p><a href=\"https://phys.org/news/2026-07-evidence-mars-emerges-spirit-rover.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-07-evidence-mars-emerges-spirit-rover.html"
+  },
+  {
+    "id": 32,
+    "title": "Logitech’s handheld plans are on ice — don’t expect a G Cloud 2 soon",
+    "category": "TECH",
+    "date": "2026-07-28T12:31:51.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24079609/226331_Logitech_G_Cloud_Gaming_Handheld_CFaulkner_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Logitech's new gaming boss, Robin Piispanen, tells me he likes the idea of gaming handhelds. \"It's such a charming value proposition,\" he says, as we sip iced vanilla lattes at my local cafe. But he's not building one right now. He's not sure when or if Logitech should try again, after its underwhelming experiment with the Logitech G Cloud streaming handheld. \n\"Right now, in this moment in time, there's bigger things for us to focus on than doing a second G Cloud,\" he tells me. \nPersonally, I feel like the G Cloud would have a better chance today. At its 2022 debut, the $350 Logitech handheld was almost completely overshadowed by the far m …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Logitech's new gaming boss, Robin Piispanen, tells me he likes the idea of gaming handhelds. \"It's such a charming value proposition,\" he says, as we sip iced vanilla lattes at my local cafe. But he's not building one right now. He's not sure when or if Logitech should try again, after its underwhelming experiment with the Logitech G Cloud streaming handheld. \n\"Right now, in this moment in time, there's bigger things for us to focus on than doing a second G Cloud,\" he tells me. \nPersonally, I feel like the G Cloud would have a better chance today. At its 2022 debut, the $350 Logitech handheld was almost completely overshadowed by the far m …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview"
+  },
+  {
+    "id": 33,
+    "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+    "category": "TECH",
+    "date": "2026-07-28T12:30:00.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform actions on your behalf, such as creating documents and updating spreadsheets.\nThis launch builds on Personal Computer integrations that Perplexity launched for Microsoft's 365 workspace apps and Teams virtual meeting software in May. Personal Computer for Windows aims to bridge the remaining gap by  …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform actions on your behalf, such as creating documents and updating spreadsheets.\nThis launch builds on Personal Computer integrations that Perplexity launched for Microsoft's 365 workspace apps and Teams virtual meeting software in May. Personal Computer for Windows aims to bridge the remaining gap by  …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents"
+  },
+  {
+    "id": 34,
+    "title": "Backyard Mosquito Sprays May Be Helping These Blood-Sucking Parasites Evolve, Making Them Resistant to Insecticide",
+    "category": "MYSTERY",
+    "date": "2026-07-28T12:26:51.000Z",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Recent research suggests localized mosquito-control practices may create conditions that favor the evolution of insecticide resistance.",
+    "content": "<h2>概要</h2><p>Recent research suggests localized mosquito-control practices may create conditions that favor the evolution of insecticide resistance.</p><p><a href=\"https://thedebrief.org/backyard-mosquito-sprays-may-be-helping-these-blood-sucking-parasites-evolve-making-them-resistant-to-insecticide/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Debrief",
+    "sourceUrl": "https://thedebrief.org/backyard-mosquito-sprays-may-be-helping-these-blood-sucking-parasites-evolve-making-them-resistant-to-insecticide/"
+  },
+  {
+    "id": 35,
+    "title": "Apple launches ‘Upgrade’ program to lease new devices",
+    "category": "TECH",
+    "date": "2026-07-28T12:23:50.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Apple-Upgrade-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "This image shows which Apple devices are included in its new leasing program. | Image: Apple\t\n\nApple has officially introduced \"Apple Upgrade,\" a new leasing program that aims to make it easier to get your hands on the latest iPhone, Mac, iPad, and Apple Watch models. The service is launching today in the US, and works like a car lease - allowing users to keep a device at the end of their subscription period, pay off the device early, or upgrade early to a new model.\nThis leasing program is rolling out just weeks after Apple hiked the prices of its MacBooks, iPads, and other devices in response to the ongoing memory and storage shortages. While iPhones were spared, current Apple CEO Tim Cook warned last month that \"the situation has  …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>This image shows which Apple devices are included in its new leasing program. | Image: Apple\t\n\nApple has officially introduced \"Apple Upgrade,\" a new leasing program that aims to make it easier to get your hands on the latest iPhone, Mac, iPad, and Apple Watch models. The service is launching today in the US, and works like a car lease - allowing users to keep a device at the end of their subscription period, pay off the device early, or upgrade early to a new model.\nThis leasing program is rolling out just weeks after Apple hiked the prices of its MacBooks, iPads, and other devices in response to the ongoing memory and storage shortages. While iPhones were spared, current Apple CEO Tim Cook warned last month that \"the situation has  …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch"
+  },
+  {
+    "id": 36,
+    "title": "JWST could spot volcanic 'exo-Ios' around super-Jupiters",
+    "category": "SPACE",
+    "date": "2026-07-28T12:20:03.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Jupiter's moon Io is the most volcanically active planetary body in the solar system, boasting hundreds of active volcanoes that spew molten lava into space. This activity results from a process called tidal heating, in which Jupiter's massive gravity constantly stretches and compresses the much smaller moon during its noncircular orbit.",
+    "content": "<h2>概要</h2><p>Jupiter's moon Io is the most volcanically active planetary body in the solar system, boasting hundreds of active volcanoes that spew molten lava into space. This activity results from a process called tidal heating, in which Jupiter's massive gravity constantly stretches and compresses the much smaller moon during its noncircular orbit.</p><p><a href=\"https://phys.org/news/2026-07-jwst-volcanic-exo-ios-super.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-07-jwst-volcanic-exo-ios-super.html"
+  },
+  {
+    "id": 37,
+    "title": "5,000-Year-Old Egyptian Tomb Discovery Reveals “Sophisticated” Knowledge That Challenges Past Thinking on the Origins of the Pyramids  ",
+    "category": "MYSTERY",
+    "date": "2026-07-28T12:12:48.000Z",
+    "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/07/5000-years-ago-Egyptian-builders.jpg",
+    "summary": "5,000 years ago Egyptian builders were using architectural techniques that foreshadowed those seen in the pyramids, new evidence suggests.",
+    "content": "<h2>概要</h2><p>5,000 years ago Egyptian builders were using architectural techniques that foreshadowed those seen in the pyramids, new evidence suggests.</p><p><a href=\"https://thedebrief.org/5000-year-old-egyptian-tomb-discovery-reveals-sophisticated-knowledge-that-challenges-past-thinking-on-the-origins-of-the-pyramids/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Debrief",
+    "sourceUrl": "https://thedebrief.org/5000-year-old-egyptian-tomb-discovery-reveals-sophisticated-knowledge-that-challenges-past-thinking-on-the-origins-of-the-pyramids/"
+  },
+  {
+    "id": 38,
+    "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+    "category": "TECH",
+    "date": "2026-07-28T12:10:00.000Z",
+    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c9.png",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.  —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.  —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their…</p><p><a href=\"https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
+  },
+  {
+    "id": 39,
+    "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+    "category": "TECH",
+    "date": "2026-07-28T12:10:00.000Z",
+    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c9.png",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.  —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.  —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their…</p><p><a href=\"https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
+  },
+  {
+    "id": 40,
+    "title": "New Report Reveals Why the U.S. Can’t End Its Allies’ Wars, Even When It Supplies Billions in Military Support",
+    "category": "MYSTERY",
+    "date": "2026-07-28T12:07:35.000Z",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "summary": "New analysis explains why U.S. military aid often fails to end Allies' wars despite Washington's influence.",
+    "content": "<h2>概要</h2><p>New analysis explains why U.S. military aid often fails to end Allies' wars despite Washington's influence.</p><p><a href=\"https://thedebrief.org/new-report-reveals-why-the-u-s-cant-end-its-allies-wars-even-when-it-supplies-billions-in-military-support/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Debrief",
+    "sourceUrl": "https://thedebrief.org/new-report-reveals-why-the-u-s-cant-end-its-allies-wars-even-when-it-supplies-billions-in-military-support/"
+  },
+  {
+    "id": 41,
+    "title": "Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders",
+    "category": "TECH",
+    "date": "2026-07-28T12:04:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Your mom never gets you a thoughtless gift, so you shouldn’t get her one, either. Here’s every cool gift WIRED writers would give their mothers.",
+    "content": "<h2>概要</h2><p>Your mom never gets you a thoughtless gift, so you shouldn’t get her one, either. Here’s every cool gift WIRED writers would give their mothers.</p><p><a href=\"https://www.wired.com/story/best-gifts-for-mom-2026/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/best-gifts-for-mom-2026/"
+  },
+  {
+    "id": 42,
+    "title": "How Sentinel-1 measured movement of Venezuela quakes",
+    "category": "SPACE",
+    "date": "2026-07-28T12:04:00.000Z",
+    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/ground_displacement_following_venezuela_earthquakes/27394336-1-eng-GB/Ground_displacement_following_Venezuela_earthquakes_card_full.jpg",
+    "summary": "More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement was greater than first estimated.",
+    "content": "<h2>概要</h2><p>More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement was greater than first estimated.</p><p><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ESA Top News",
+    "sourceUrl": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes"
+  },
+  {
+    "id": 43,
+    "title": " Betelgeuse, Betelgeuse! Astronomers capture clearest image yet of famous star's elusive companion ",
+    "category": "SPACE",
+    "date": "2026-07-28T12:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/GgRDUydDmg6oVPCTjdbVK3-1280-80.png",
+    "summary": "\"These are among the best moments in science: seeing something new, unexpected.\"",
+    "content": "<h2>概要</h2><p>\"These are among the best moments in science: seeing something new, unexpected.\"</p><p><a href=\"https://www.space.com/astronomy/stars/betelgeuse-betelgeuse-astronomers-capture-clearest-image-yet-of-famous-stars-elusive-companion\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/astronomy/stars/betelgeuse-betelgeuse-astronomers-capture-clearest-image-yet-of-famous-stars-elusive-companion"
+  },
+  {
+    "id": 44,
+    "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims ",
+    "category": "WORLD",
+    "date": "2026-07-28T11:50:59.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+    "content": "<h2>概要</h2><p>Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 45,
+    "title": "Best Apple Watch (2026): Series 11, SE 3, and Ultra 3",
+    "category": "TECH",
+    "date": "2026-07-28T11:34:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Should you splurge on the new Series 11, or will the SE 3 do? Let us help you figure out which version to get (and which to avoid).",
+    "content": "<h2>概要</h2><p>Should you splurge on the new Series 11, or will the SE 3 do? Let us help you figure out which version to get (and which to avoid).</p><p><a href=\"https://www.wired.com/gallery/best-apple-watch/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/gallery/best-apple-watch/"
+  },
+  {
+    "id": 46,
+    "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
+    "category": "TECH",
+    "date": "2026-07-28T11:33:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Let them pick out their own hiking boots. Instead, try gifting a useful blade or a nature journal to delight your outdoorsy friend.",
+    "content": "<h2>概要</h2><p>Let them pick out their own hiking boots. Instead, try gifting a useful blade or a nature journal to delight your outdoorsy friend.</p><p><a href=\"https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/"
+  },
+  {
+    "id": 47,
+    "title": "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
+    "category": "WORLD",
+    "date": "2026-07-28T11:26:09.000Z",
+    "image": "undefined",
+    "summary": "President Trump is set to hold separate meetings with Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu are today. And, Temporary Protected Status holders may face deportation soon.",
+    "content": "<h2>概要</h2><p>President Trump is set to hold separate meetings with Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu are today. And, Temporary Protected Status holders may face deportation soon.</p><p><a href=\"https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption"
+  },
+  {
+    "id": 48,
+    "title": "What you wear can help you get a job - here's how",
+    "category": "BUSINESS",
+    "date": "2026-07-28T11:07:13.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
+    "content": "<h2>概要</h2><p>While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 49,
+    "title": "A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life",
+    "category": "TECH",
+    "date": "2026-07-28T11:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Beeeep. Beeeep. Beeeeeeeeeeeeeeeep.",
+    "content": "<h2>概要</h2><p>Beeeep. Beeeep. Beeeeeeeeeeeeeeeep.</p><p><a href=\"https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/"
+  },
+  {
+    "id": 50,
     "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
     "category": "BUSINESS",
-    "date": "2026-07-28T08:23:37.000Z",
+    "date": "2026-07-28T10:25:52.000Z",
     "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
     "summary": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
     "content": "<h2>概要</h2><p>The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
@@ -77,7 +550,62 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 8,
+    "id": 51,
+    "title": " 'Crazy idea' succeeds: Scientists monitor space junk with radio telescopes ",
+    "category": "SPACE",
+    "date": "2026-07-28T10:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/d9oRbUsietqnmJYJSmRzGQ-1280-80.jpg",
+    "summary": "\"That's the first time that's ever been done.\"",
+    "content": "<h2>概要</h2><p>\"That's the first time that's ever been done.\"</p><p><a href=\"https://www.space.com/astronomy/earth/crazy-idea-succeeds-scientists-monitor-space-junk-with-radio-telescopes\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/astronomy/earth/crazy-idea-succeeds-scientists-monitor-space-junk-with-radio-telescopes"
+  },
+  {
+    "id": 52,
+    "title": "US walks out of UN Security Council meeting during France's remarks",
+    "category": "WORLD",
+    "date": "2026-07-28T09:32:25.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+    "content": "<h2>概要</h2><p>The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 53,
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix ",
+    "category": "TECH",
+    "date": "2026-07-28T09:18:57.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on…",
+    "content": "<h2>概要</h2><p>Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on…</p><p><a href=\"https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/"
+  },
+  {
+    "id": 54,
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix ",
+    "category": "TECH",
+    "date": "2026-07-28T09:18:57.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on…",
+    "content": "<h2>概要</h2><p>Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on…</p><p><a href=\"https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/"
+  },
+  {
+    "id": 55,
+    "title": "Zidane confirmed as France head coach",
+    "category": "WORLD",
+    "date": "2026-07-28T09:03:49.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
+    "content": "<h2>概要</h2><p>Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.</p><p><a href=\"https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 56,
     "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
     "category": "TECH",
     "date": "2026-07-28T08:00:00.000Z",
@@ -88,7 +616,7 @@
     "sourceUrl": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/"
   },
   {
-    "id": 9,
+    "id": 57,
     "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
     "category": "WORLD",
     "date": "2026-07-28T07:42:11.000Z",
@@ -99,29 +627,7 @@
     "sourceUrl": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war"
   },
   {
-    "id": 10,
-    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-    "category": "BUSINESS",
-    "date": "2026-07-28T07:33:12.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
-    "content": "<h2>概要</h2><p>Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 11,
-    "title": "Should I still travel to France or Spain on holiday?",
-    "category": "BUSINESS",
-    "date": "2026-07-28T07:22:58.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
-    "content": "<h2>概要</h2><p>For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.</p><p><a href=\"https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 12,
+    "id": 58,
     "title": "Some people's chats with Claude AI found to be publicly available online",
     "category": "TECH",
     "date": "2026-07-28T07:10:37.000Z",
@@ -132,7 +638,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 13,
+    "id": 59,
     "title": "Vertical liftoff as Ariane 6 takes flight for the first time",
     "category": "SPACE",
     "date": "2026-07-28T07:00:00.000Z",
@@ -143,63 +649,19 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Vertical_liftoff_as_Ariane_6_takes_flight_for_the_first_time"
   },
   {
-    "id": 14,
-    "title": "The way you look can help you get a job - here's how",
-    "category": "BUSINESS",
-    "date": "2026-07-28T06:53:59.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
-    "content": "<h2>概要</h2><p>While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 15,
-    "title": "Modeling reveals Sydney's 1789 smallpox outbreak killed as many as 220,000 indigenous Australians",
-    "category": "SCIENCE",
-    "date": "2026-07-28T06:50:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Groundbreaking modeling has revealed that as many as 220,000 Indigenous Australians died in a devastating 1789 smallpox outbreak that originated in Sydney, tracing its origins to the First Fleet. Soon after British ships arrived, smallpox swept through First Nations communities in the Sydney area, and many died as a result. The study found that the epidemic had a devastating demographic impact and ramifications for how First Nations people resisted colonization and their capacity to manage the country, with the impact still being felt today.",
-    "content": "<h2>概要</h2><p>Groundbreaking modeling has revealed that as many as 220,000 Indigenous Australians died in a devastating 1789 smallpox outbreak that originated in Sydney, tracing its origins to the First Fleet. Soon after British ships arrived, smallpox swept through First Nations communities in the Sydney area, and many died as a result. The study found that the epidemic had a devastating demographic impact and ramifications for how First Nations people resisted colonization and their capacity to manage the country, with the impact still being felt today.</p><p><a href=\"https://phys.org/news/2026-07-reveals-sydney-smallpox-outbreak-indigenous.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-reveals-sydney-smallpox-outbreak-indigenous.html"
-  },
-  {
-    "id": 16,
+    "id": 60,
     "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
     "category": "WORLD",
     "date": "2026-07-28T06:25:18.000Z",
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7198x4798+0+0/resize/7198x4798!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2Fa7%2Fcfeccef3450c8fdccf664cecc807%2Fap26208621435347.jpg",
-    "summary": "French President Emmanuel Macron said France was \"facing a completely unprecedented fire,\" describing the situation as France's worst fire-related crisis since World War II.",
-    "content": "<h2>概要</h2><p>French President Emmanuel Macron said France was \"facing a completely unprecedented fire,\" describing the situation as France's worst fire-related crisis since World War II.</p><p><a href=\"https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "French authorities ordered nearly 4,000 people evacuated Tuesday from tourist sites on the Atlantic coast as returning heat threatened firefighters' fragile hold on a vast wildfire west of Bordeaux.",
+    "content": "<h2>概要</h2><p>French authorities ordered nearly 4,000 people evacuated Tuesday from tourist sites on the Atlantic coast as returning heat threatened firefighters' fragile hold on a vast wildfire west of Bordeaux.</p><p><a href=\"https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "NPR World",
     "sourceUrl": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires"
   },
   {
-    "id": 17,
-    "title": "Hugging Face Has a Deepfake Nudes Problem",
-    "category": "TECH",
-    "date": "2026-07-28T05:30:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
-    "content": "<h2>概要</h2><p>Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.</p><p><a href=\"https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/"
-  },
-  {
-    "id": 18,
-    "title": "Ulta Promo Codes: Up to 50% Off in July 2026",
-    "category": "TECH",
-    "date": "2026-07-28T05:02:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-    "content": "<h2>概要</h2><p>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</p><p><a href=\"https://www.wired.com/story/ulta-coupon/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/ulta-coupon/"
-  },
-  {
-    "id": 19,
-    "title": "The cocaine superhighway from Ecuador to Europe - BBC reports on the gangs and police fightback",
+    "id": 61,
+    "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
     "category": "WORLD",
     "date": "2026-07-28T05:01:19.000Z",
     "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
@@ -209,51 +671,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 20,
-    "title": "B&H Photo Promo Codes and Deals This July 2026",
-    "category": "TECH",
-    "date": "2026-07-28T05:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-    "content": "<h2>概要</h2><p>Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.</p><p><a href=\"https://www.wired.com/story/bh-photo-coupon/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/bh-photo-coupon/"
-  },
-  {
-    "id": 21,
-    "title": "AirDoctor Coupon Codes: 40% Off | July 2026",
-    "category": "TECH",
-    "date": "2026-07-28T05:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
-    "content": "<h2>概要</h2><p>Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.</p><p><a href=\"https://www.wired.com/story/airdoctor-coupon-code/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/airdoctor-coupon-code/"
-  },
-  {
-    "id": 22,
-    "title": "Google Workspace Promo Codes: 14% Off for July",
-    "category": "TECH",
-    "date": "2026-07-28T05:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-    "content": "<h2>概要</h2><p>Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.</p><p><a href=\"https://www.wired.com/story/google-workspace-promo-code/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/google-workspace-promo-code/"
-  },
-  {
-    "id": 23,
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "category": "TECH",
-    "date": "2026-07-28T04:30:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-    "content": "<h2>概要</h2><p>Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.</p><p><a href=\"https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/"
-  },
-  {
-    "id": 24,
+    "id": 62,
     "title": "Smoke Blankets Oregon",
     "category": "SPACE",
     "date": "2026-07-28T04:01:00.000Z",
@@ -264,7 +682,18 @@
     "sourceUrl": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/"
   },
   {
-    "id": 25,
+    "id": 63,
+    "title": "Smoke Blankets Oregon",
+    "category": "SPACE",
+    "date": "2026-07-28T04:01:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg?w=2160&#038;h=1740&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "Lightning storms have ignited dozens of fires in central and eastern Oregon.",
+    "content": "<h2>概要</h2><p>Lightning storms have ignited dozens of fires in central and eastern Oregon.</p><p><a href=\"https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/"
+  },
+  {
+    "id": 64,
     "title": "Making robots faster by helping them think ahead",
     "category": "TECH",
     "date": "2026-07-28T04:00:00.000Z",
@@ -275,51 +704,7 @@
     "sourceUrl": "https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728"
   },
   {
-    "id": 26,
-    "title": "Q&A: What influences teens' career expectations?",
-    "category": "SCIENCE",
-    "date": "2026-07-28T03:00:03.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Adolescents in both the United States and the United Kingdom have become increasingly ambitious about their future careers over the past two decades, according to a new study by researchers at Penn State. The team also found that family socioeconomic background plays a different role depending on the types of occupations students expect to pursue, with relatively small socioeconomic differences among American students aspiring to the highest-status careers.",
-    "content": "<h2>概要</h2><p>Adolescents in both the United States and the United Kingdom have become increasingly ambitious about their future careers over the past two decades, according to a new study by researchers at Penn State. The team also found that family socioeconomic background plays a different role depending on the types of occupations students expect to pursue, with relatively small socioeconomic differences among American students aspiring to the highest-status careers.</p><p><a href=\"https://phys.org/news/2026-07-qa-teens-career.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-qa-teens-career.html"
-  },
-  {
-    "id": 27,
-    "title": "Q&A: 'Lawbreakers' or 'like us'? Exploring how partisans think about immigration",
-    "category": "SCIENCE",
-    "date": "2026-07-28T02:40:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Interviews with political activists in Southern California showed stark differences in how migrants are viewed: either \"like us\" and deserving of rights or lawbreakers undeserving of social belonging and benefits.",
-    "content": "<h2>概要</h2><p>Interviews with political activists in Southern California showed stark differences in how migrants are viewed: either \"like us\" and deserving of rights or lawbreakers undeserving of social belonging and benefits.</p><p><a href=\"https://phys.org/news/2026-07-qa-lawbreakers-exploring-partisans-immigration.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-qa-lawbreakers-exploring-partisans-immigration.html"
-  },
-  {
-    "id": 28,
-    "title": "What are 'fire clouds', the ominous phenomenon seen in France?",
-    "category": "SCIENCE",
-    "date": "2026-07-28T02:20:04.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Firefighters battling devastating fires in France have had to contend with a new threat: immense fire clouds that create their own wind and even lightning that can spark fresh blazes.",
-    "content": "<h2>概要</h2><p>Firefighters battling devastating fires in France have had to contend with a new threat: immense fire clouds that create their own wind and even lightning that can spark fresh blazes.</p><p><a href=\"https://phys.org/news/2026-07-clouds-ominous-phenomenon-france.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-clouds-ominous-phenomenon-france.html"
-  },
-  {
-    "id": 29,
-    "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-    "category": "WORLD",
-    "date": "2026-07-28T01:53:58.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
-    "content": "<h2>概要</h2><p>The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.</p><p><a href=\"https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 30,
+    "id": 65,
     "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
     "category": "BUSINESS",
     "date": "2026-07-28T01:53:58.000Z",
@@ -330,18 +715,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 31,
-    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-    "category": "TECH",
-    "date": "2026-07-28T00:13:33.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-    "content": "<h2>概要</h2><p>Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.</p><p><a href=\"https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
-  },
-  {
-    "id": 32,
+    "id": 66,
     "title": "Is it time to stop using glue and labels on paper?",
     "category": "TECH",
     "date": "2026-07-27T23:00:06.000Z",
@@ -352,51 +726,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 33,
-    "title": "How NASA plans to build the Habitable Worlds Observatory",
-    "category": "SPACE",
-    "date": "2026-07-27T22:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "We've been covering the journey of the Habitable Worlds Observatory for some time now. Over the past few years, it's gone from a proposal to a relatively fleshed-out plan for how and what the next Great Observatory should do—in this case, look at and characterize potentially habitable exoplanets.",
-    "content": "<h2>概要</h2><p>We've been covering the journey of the Habitable Worlds Observatory for some time now. Over the past few years, it's gone from a proposal to a relatively fleshed-out plan for how and what the next Great Observatory should do—in this case, look at and characterize potentially habitable exoplanets.</p><p><a href=\"https://phys.org/news/2026-07-nasa-habitable-worlds-observatory.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-07-nasa-habitable-worlds-observatory.html"
-  },
-  {
-    "id": 34,
-    "title": "X Money is launching in the US starting today",
-    "category": "TECH",
-    "date": "2026-07-27T22:10:18.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/x-money-visa-card.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X username. Other perks include Apple Wallet support and free money transfers on X. It also advertises \"up to\" a 6 percent APY, but only Premium Plus subscribers are eligible for it - standard Premium subscribers have to deposit a certain amount of money to get a \"boosted\" 6 percent APY. \nX Money was previously limited to an invite-only beta, but will now be available t …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X username. Other perks include Apple Wallet support and free money transfers on X. It also advertises \"up to\" a 6 percent APY, but only Premium Plus subscribers are eligible for it - standard Premium subscribers have to deposit a certain amount of money to get a \"boosted\" 6 percent APY. \nX Money was previously limited to an invite-only beta, but will now be available t …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/971649/x-money-launch-elon-musk\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk"
-  },
-  {
-    "id": 35,
-    "title": "China's new challenge as natural disasters strike - fake AI videos",
-    "category": "WORLD",
-    "date": "2026-07-27T22:07:23.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
-    "content": "<h2>概要</h2><p>Storms and flooding incidents over the last few months have seen fake videos inundating social media.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 36,
-    "title": " Starship in space! See highlights of SpaceX megarocket's epic Flight 13 test launch (video) ",
-    "category": "SPACE",
-    "date": "2026-07-27T22:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/Z5sRcMEVPouUb4LeG6qia8-1280-80.jpg",
-    "summary": "The 13th test flight of SpaceX's Starship megarocket went pretty well —and provided some amazing visuals, too. See the highlights here.",
-    "content": "<h2>概要</h2><p>The 13th test flight of SpaceX's Starship megarocket went pretty well —and provided some amazing visuals, too. See the highlights here.</p><p><a href=\"https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video"
-  },
-  {
-    "id": 37,
+    "id": 67,
     "title": "Microsoft unveils AI security tools it says outperform competing platforms",
     "category": "TECH",
     "date": "2026-07-27T21:56:14.000Z",
@@ -407,7 +737,7 @@
     "sourceUrl": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
   },
   {
-    "id": 38,
+    "id": 68,
     "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
     "category": "TECH",
     "date": "2026-07-27T21:40:27.000Z",
@@ -418,51 +748,29 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/"
   },
   {
-    "id": 39,
-    "title": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
-    "category": "TECH",
-    "date": "2026-07-27T21:29:22.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Razer-Huntsman-V3-Pro-TKL-Deal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "The Razer Huntsman V3 Pro features doubleshot PBT keycaps.\t\n\nGaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’s slowly changing, with brands introducing adjustable optical switches that are more customizable and have a faster response time. Razer’s Huntsman V3 Pro TKL is a compact, wired option on sale at Amazon for $124.99 (usually $159.99).\nRazer Huntsman V3 Pro TKL\n\nWhere to Buy:\n\n $159.99 $124.99 at Amazon\n\nOptical switches constantly read the height of each key, opening up a wealth of new features that traditional mechanical switches don’t support. For example, you can set the activation height for different keys, down to 0.1mm for the lightest touch, or up to 4mm for keys you don’t want to accidentally press at the wrong time, and they can reset without reaching the top height for faster repeated presses. \nLike some other keyboards with optical switches, you can use a function Razer calls “Snap Tap” to prioritize specific key inputs over each other, letting you rock back and forth between your strafing keys in a shooter, for example. The feature is turned off by default, and is banned in some games like Counter-Strike 2, but can be switched on at the keyboard level or in the Razer Synapse app.",
-    "content": "<h2>概要</h2><p>The Razer Huntsman V3 Pro features doubleshot PBT keycaps.\t\n\nGaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’s slowly changing, with brands introducing adjustable optical switches that are more customizable and have a faster response time. Razer’s Huntsman V3 Pro TKL is a compact, wired option on sale at Amazon for $124.99 (usually $159.99).\nRazer Huntsman V3 Pro TKL\n\nWhere to Buy:\n\n $159.99 $124.99 at Amazon\n\nOptical switches constantly read the height of each key, opening up a wealth of new features that traditional mechanical switches don’t support. For example, you can set the activation height for different keys, down to 0.1mm for the lightest touch, or up to 4mm for keys you don’t want to accidentally press at the wrong time, and they can reset without reaching the top height for faster repeated presses. \nLike some other keyboards with optical switches, you can use a function Razer calls “Snap Tap” to prioritize specific key inputs over each other, letting you rock back and forth between your strafing keys in a shooter, for example. The feature is turned off by default, and is banned in some games like Counter-Strike 2, but can be switched on at the keyboard level or in the Razer Synapse app.</p><p><a href=\"https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale"
-  },
-  {
-    "id": 40,
-    "title": "Hubble shows star formation in Andromeda galaxy is winding down",
-    "category": "SPACE",
-    "date": "2026-07-27T21:20:09.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new study using data from NASA's Hubble Space Telescope finds that star formation in the nearby Andromeda galaxy has undergone a 500-million-year decline, with an even steeper drop in the last 40 million years. Andromeda, a spiral galaxy comparable in size to our Milky Way, is close enough to be seen with the unaided eye from areas with dark skies. Located about 2.5 million light-years from Earth—practically our cosmic backyard—Andromeda offers an opportunity for astronomers to examine its stellar populations in detail, leading to a better understanding of the past of galaxies like our own.",
-    "content": "<h2>概要</h2><p>A new study using data from NASA's Hubble Space Telescope finds that star formation in the nearby Andromeda galaxy has undergone a 500-million-year decline, with an even steeper drop in the last 40 million years. Andromeda, a spiral galaxy comparable in size to our Milky Way, is close enough to be seen with the unaided eye from areas with dark skies. Located about 2.5 million light-years from Earth—practically our cosmic backyard—Andromeda offers an opportunity for astronomers to examine its stellar populations in detail, leading to a better understanding of the past of galaxies like our own.</p><p><a href=\"https://phys.org/news/2026-07-hubble-star-formation-andromeda-galaxy.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-07-hubble-star-formation-andromeda-galaxy.html"
-  },
-  {
-    "id": 41,
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "category": "TECH",
-    "date": "2026-07-27T21:17:11.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-    "content": "<h2>概要</h2><p>Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.</p><p><a href=\"https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
-  },
-  {
-    "id": 42,
-    "title": "Trump says Iran war talks taking place during lull in strikes",
+    "id": 69,
+    "title": "Georgia's Okefenokee Swamp becomes a UNESCO World Heritage site",
     "category": "WORLD",
-    "date": "2026-07-27T21:10:56.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
-    "content": "<h2>概要</h2><p>The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
+    "date": "2026-07-27T21:22:33.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5906359-e1",
+    "summary": "The Okefenokee Swamp in Georgia has joined the list of UNESCO World Heritage sites.",
+    "content": "<h2>概要</h2><p>The Okefenokee Swamp in Georgia has joined the list of UNESCO World Heritage sites.</p><p><a href=\"https://www.npr.org/2026/07/27/nx-s1-5906359-e1/georgias-okefenokee-swamp-becomes-a-unesco-world-heritage-site\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/07/27/nx-s1-5906359-e1/georgias-okefenokee-swamp-becomes-a-unesco-world-heritage-site"
   },
   {
-    "id": 43,
+    "id": 70,
+    "title": "Weak AI Regulation Could Be Worse Than None at All",
+    "category": "MYSTERY",
+    "date": "2026-07-27T20:58:17.000Z",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A Cornell University study uses game theory to model how poorly designed AI regulation could backfire.\nThe post Weak AI Regulation Could Be Worse Than None at All appeared first on SingularityHub.",
+    "content": "<h2>概要</h2><p>A Cornell University study uses game theory to model how poorly designed AI regulation could backfire.\nThe post Weak AI Regulation Could Be Worse Than None at All appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/07/27/weak-ai-regulation-could-be-worse-than-none-at-all/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Singularity Hub",
+    "sourceUrl": "https://singularityhub.com/2026/07/27/weak-ai-regulation-could-be-worse-than-none-at-all/"
+  },
+  {
+    "id": 71,
     "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
     "category": "TECH",
     "date": "2026-07-27T20:42:13.000Z",
@@ -473,29 +781,7 @@
     "sourceUrl": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/"
   },
   {
-    "id": 44,
-    "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-    "category": "TECH",
-    "date": "2026-07-27T20:40:12.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
-    "content": "<h2>概要</h2><p>Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.</p><p><a href=\"https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/"
-  },
-  {
-    "id": 45,
-    "title": "Mercury reveals short-lived radiation belts during its swing farther from the sun",
-    "category": "SPACE",
-    "date": "2026-07-27T20:40:06.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Mercury was long considered the exception to the rule that magnetic planets have radiation belts similar to Earth's Van Allen belts, but a new study by University of Michigan Engineering and the University of California, Berkeley, suggests otherwise—Mercury occasionally has such a layer of radiation in its magnetic field.",
-    "content": "<h2>概要</h2><p>Mercury was long considered the exception to the rule that magnetic planets have radiation belts similar to Earth's Van Allen belts, but a new study by University of Michigan Engineering and the University of California, Berkeley, suggests otherwise—Mercury occasionally has such a layer of radiation in its magnetic field.</p><p><a href=\"https://phys.org/news/2026-07-mercury-reveals-short-belts-sun.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-07-mercury-reveals-short-belts-sun.html"
-  },
-  {
-    "id": 46,
+    "id": 72,
     "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
     "category": "TECH",
     "date": "2026-07-27T20:32:45.000Z",
@@ -506,84 +792,7 @@
     "sourceUrl": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/"
   },
   {
-    "id": 47,
-    "title": "A missing underscore sent innocent man to prison for 18 months",
-    "category": "TECH",
-    "date": "2026-07-27T20:22:03.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "When the first step goes wrong, bad results follow.",
-    "content": "<h2>概要</h2><p>When the first step goes wrong, bad results follow.</p><p><a href=\"https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/"
-  },
-  {
-    "id": 48,
-    "title": "RAM costs more for phones, too - so how much do you actually need?",
-    "category": "TECH",
-    "date": "2026-07-27T20:05:44.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Manufacturers keep putting more and more memory into new phones, and we're the ones paying for it.",
-    "content": "<h2>概要</h2><p>Manufacturers keep putting more and more memory into new phones, and we're the ones paying for it.</p><p><a href=\"https://www.zdnet.com/article/how-much-phone-ram-do-you-really-need/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/how-much-phone-ram-do-you-really-need/"
-  },
-  {
-    "id": 49,
-    "title": " Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal ",
-    "category": "SPACE",
-    "date": "2026-07-27T20:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/kbYroikJTii4sinQa6LQbZ-1280-80.jpg",
-    "summary": "Rocket Lab just inked a $266 million deal with the U.S. Space Force to launch up to 18 suborbital missile-defense missions, most of them from Alaska's Pacific Spaceport Complex.",
-    "content": "<h2>概要</h2><p>Rocket Lab just inked a $266 million deal with the U.S. Space Force to launch up to 18 suborbital missile-defense missions, most of them from Alaska's Pacific Spaceport Complex.</p><p><a href=\"https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal"
-  },
-  {
-    "id": 50,
-    "title": "Xbox’s huge outage even blocked games on disc",
-    "category": "TECH",
-    "date": "2026-07-27T19:53:50.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK048_XBOX_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too.\nXbox's status page initially reported the outage on Sunday at about 11PM ET, and it also prevented people from logging in, launching apps, or finding games on the Xbox store. This morning, the page also noted that users \"may have problems\" playing their digital and disc games, which posts on social media confirmed. During that time, my colleague Richard Lawler was able to launch digital games he owned, but trying to boot up games tied to Game Pass popped up error cod …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too.\nXbox's status page initially reported the outage on Sunday at about 11PM ET, and it also prevented people from logging in, launching apps, or finding games on the Xbox store. This morning, the page also noted that users \"may have problems\" playing their digital and disc games, which posts on social media confirmed. During that time, my colleague Richard Lawler was able to launch digital games he owned, but trying to boot up games tied to Game Pass popped up error cod …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/games/971545/xbox-outage-disc-physical-games\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games"
-  },
-  {
-    "id": 51,
-    "title": "What Australian lakes showed us about Martian hydrology",
-    "category": "SPACE",
-    "date": "2026-07-27T19:40:06.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The expansive red bluffs of Western Australia's Yilgarn Craton give the landscape a Martian appearance. It turns out the resemblance is more than superficial: The Yilgarn Craton also shares geological characteristics with lakes in Mars' Terra Sirenum region. T. A. Plattner and colleagues recently characterized those shared features to shed light on the region's aqueous history and its potential to have supported life in an article published in the journal Earth and Space Science.",
-    "content": "<h2>概要</h2><p>The expansive red bluffs of Western Australia's Yilgarn Craton give the landscape a Martian appearance. It turns out the resemblance is more than superficial: The Yilgarn Craton also shares geological characteristics with lakes in Mars' Terra Sirenum region. T. A. Plattner and colleagues recently characterized those shared features to shed light on the region's aqueous history and its potential to have supported life in an article published in the journal Earth and Space Science.</p><p><a href=\"https://phys.org/news/2026-07-australian-lakes-martian-hydrology.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-07-australian-lakes-martian-hydrology.html"
-  },
-  {
-    "id": 52,
-    "title": "'Dead stars' may have surprisingly healthy appetites",
-    "category": "SPACE",
-    "date": "2026-07-27T19:40:03.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "\"Dead stars\" known as white dwarfs have already shown the potential to help us better understand how planetary systems, including our own solar system, take shape and evolve. Now, research from the University of Michigan and the University of Colorado Boulder suggests that potential could be even greater than anticipated.",
-    "content": "<h2>概要</h2><p>\"Dead stars\" known as white dwarfs have already shown the potential to help us better understand how planetary systems, including our own solar system, take shape and evolve. Now, research from the University of Michigan and the University of Colorado Boulder suggests that potential could be even greater than anticipated.</p><p><a href=\"https://phys.org/news/2026-07-dead-stars-healthy-appetites.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-07-dead-stars-healthy-appetites.html"
-  },
-  {
-    "id": 53,
-    "title": "Nanoleaf&#8217;s colorful pegboard and shelf kit is half off",
-    "category": "TECH",
-    "date": "2026-07-27T19:24:55.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Nanoleaf-Blocks-Combo-XL-Smarter-Kit-Lifestyle-Press-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Nanoleaf's Blocks Combo XL Smarter Kit comes with nine color-changing LED panels. | Image: Nanoleaf\t\n\nNanoleaf’s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can buy the kit for half off at $99.99 from Nanoleaf, which marks a new low price.\nNanoleaf Blocks Combo XL Smarter Kit\n\nWhere to Buy:\n\n $249.99 $99.99 at Nanoleaf\n\nThe kit can hold up to 6.6 pounds and 3.3 pounds, respectively, making them handy for holding headphones, controllers, notebooks, a tablet, a small plant, or a couple of books. It comes with both large and small modular light panels that glow from edge to edge, and they can be rearranged or expanded down the line to create a design that’s unique to your space. \nOf course, the light panels support custom lighting scenes, and Nanoleaf’s app has a feature called Paint Tool that lets you set where each color appears. AI Magic Scenes can also generate color palettes from a word or phrase, or you can browse thousands of community-created designs in the app.\nBeyond adding some personality to a dorm room or apartment, the lights can make movie nights, gaming sessions, and listening to music more enjoyable by mirroring your screen’s visuals or syncing with tunes. They work with other Nanoleaf lights for a more immersive lighting experience, as well, and you can also control them over Wi-Fi using the Nanoleaf app or with voice assistants like Amazon Alexa and Google Assistant. Alternatively, a physical controller is included if you’d rather not reach for your phone.",
-    "content": "<h2>概要</h2><p>Nanoleaf's Blocks Combo XL Smarter Kit comes with nine color-changing LED panels. | Image: Nanoleaf\t\n\nNanoleaf’s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can buy the kit for half off at $99.99 from Nanoleaf, which marks a new low price.\nNanoleaf Blocks Combo XL Smarter Kit\n\nWhere to Buy:\n\n $249.99 $99.99 at Nanoleaf\n\nThe kit can hold up to 6.6 pounds and 3.3 pounds, respectively, making them handy for holding headphones, controllers, notebooks, a tablet, a small plant, or a couple of books. It comes with both large and small modular light panels that glow from edge to edge, and they can be rearranged or expanded down the line to create a design that’s unique to your space. \nOf course, the light panels support custom lighting scenes, and Nanoleaf’s app has a feature called Paint Tool that lets you set where each color appears. AI Magic Scenes can also generate color palettes from a word or phrase, or you can browse thousands of community-created designs in the app.\nBeyond adding some personality to a dorm room or apartment, the lights can make movie nights, gaming sessions, and listening to music more enjoyable by mirroring your screen’s visuals or syncing with tunes. They work with other Nanoleaf lights for a more immersive lighting experience, as well, and you can also control them over Wi-Fi using the Nanoleaf app or with voice assistants like Amazon Alexa and Google Assistant. Alternatively, a physical controller is included if you’d rather not reach for your phone.</p><p><a href=\"https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale"
-  },
-  {
-    "id": 54,
+    "id": 73,
     "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
     "category": "SPACE",
     "date": "2026-07-27T18:49:20.000Z",
@@ -594,7 +803,18 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/"
   },
   {
-    "id": 55,
+    "id": 74,
+    "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+    "category": "SPACE",
+    "date": "2026-07-27T18:49:20.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/07/chris-williams-post-mission-conference-july-27.jpg?w=2048",
+    "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested […]",
+    "content": "<h2>概要</h2><p>NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested […]</p><p><a href=\"https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/"
+  },
+  {
+    "id": 75,
     "title": "NASA Science Soars During August Total Solar Eclipse",
     "category": "SPACE",
     "date": "2026-07-27T18:01:14.000Z",
@@ -605,18 +825,18 @@
     "sourceUrl": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/"
   },
   {
-    "id": 56,
-    "title": " 25 years on, 2001's 'Planet of the Apes' has become a bit of a guilty pleasure ",
+    "id": 76,
+    "title": "NASA Science Soars During August Total Solar Eclipse",
     "category": "SPACE",
-    "date": "2026-07-27T18:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/WZju2TsJDHXQNUfta2GssZ-1280-80.png",
-    "summary": "Time to fire up the Wayback Machine to pay tribute to Tim Burton's controversial sci-fi reimagining.",
-    "content": "<h2>概要</h2><p>Time to fire up the Wayback Machine to pay tribute to Tim Burton's controversial sci-fi reimagining.</p><p><a href=\"https://www.space.com/entertainment/space-movies-shows/25-years-on-2001s-planet-of-the-apes-has-become-a-bit-of-a-guilty-pleasure\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/25-years-on-2001s-planet-of-the-apes-has-become-a-bit-of-a-guilty-pleasure"
+    "date": "2026-07-27T18:01:14.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse-2024/Eclipse_SwRI_mosaic_processed.jpg?w=8960&#038;h=5040&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]",
+    "content": "<h2>概要</h2><p>Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]</p><p><a href=\"https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/"
   },
   {
-    "id": 57,
+    "id": 77,
     "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
     "category": "TECH",
     "date": "2026-07-27T18:00:00.000Z",
@@ -627,7 +847,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
   },
   {
-    "id": 58,
+    "id": 78,
     "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
     "category": "TECH",
     "date": "2026-07-27T18:00:00.000Z",
@@ -638,51 +858,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
   },
   {
-    "id": 59,
-    "title": "I'm recommending this 14-inch HP laptop to almost everyone in 2026 - even with the RAM crisis",
-    "category": "TECH",
-    "date": "2026-07-27T17:54:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "HP's OmniBook Ultra 14 combines a sleek design and OLED display with the kind of performance professionals appreciate.",
-    "content": "<h2>概要</h2><p>HP's OmniBook Ultra 14 combines a sleek design and OLED display with the kind of performance professionals appreciate.</p><p><a href=\"https://www.zdnet.com/article/hp-omnibook-ultra-14-2026-review/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/hp-omnibook-ultra-14-2026-review/"
-  },
-  {
-    "id": 60,
-    "title": " On this day in space! July 27, 1962:  The 1st zero-g cosmonaut training flight took off on a Soviet jetliner ",
-    "category": "SPACE",
-    "date": "2026-07-27T17:20:20.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/v95cPgmGywzb3RV3WcEfPo-1280-80.jpg",
-    "summary": "On July 27, 1962, two Russian cosmonauts boarded a Soviet airliner and experienced weightlessness without going to space.  Here's why it mattered.",
-    "content": "<h2>概要</h2><p>On July 27, 1962, two Russian cosmonauts boarded a Soviet airliner and experienced weightlessness without going to space.  Here's why it mattered.</p><p><a href=\"https://www.space.com/space-exploration/on-this-day-in-space-july-27-2026\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/space-exploration/on-this-day-in-space-july-27-2026"
-  },
-  {
-    "id": 61,
-    "title": "I tested a new Debian Linux loaded with local AI - see if it's right for you",
-    "category": "TECH",
-    "date": "2026-07-27T16:53:13.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Meet Shadowfetch: If AI is your jam and Linux is your OS, here's the best way to give this new Debian-based distribution a try.",
-    "content": "<h2>概要</h2><p>Meet Shadowfetch: If AI is your jam and Linux is your OS, here's the best way to give this new Debian-based distribution a try.</p><p><a href=\"https://www.zdnet.com/article/shadowfetch-debian-linux-with-local-ai/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/shadowfetch-debian-linux-with-local-ai/"
-  },
-  {
-    "id": 62,
-    "title": "Why China is giving away its best AI models",
-    "category": "TECH",
-    "date": "2026-07-27T16:51:50.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images\t\n\nSilicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. \nIts performance alone would have been enough to intensify the rivalry between the US and China. But Moonshot's plan to release the model's weights for free - and its clear targeting of US users - has fueled deeper unease about whether closed American models can continue to dominate as increasingly capable open alternatives enter the market. \nOpen-weight models give developers far greater control than proprietary syst …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images\t\n\nSilicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. \nIts performance alone would have been enough to intensify the rivalry between the US and China. But Moonshot's plan to release the model's weights for free - and its clear targeting of US users - has fueled deeper unease about whether closed American models can continue to dominate as increasingly capable open alternatives enter the market. \nOpen-weight models give developers far greater control than proprietary syst …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies"
-  },
-  {
-    "id": 63,
+    "id": 79,
     "title": "NASA Astronaut Chris Williams Returns to Earth",
     "category": "SPACE",
     "date": "2026-07-27T16:48:46.000Z",
@@ -693,7 +869,18 @@
     "sourceUrl": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/"
   },
   {
-    "id": 64,
+    "id": 80,
+    "title": "NASA Astronaut Chris Williams Returns to Earth",
+    "category": "SPACE",
+    "date": "2026-07-27T16:48:46.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55419246867-809993deb3-o.jpg?w=2048",
+    "summary": "NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams’ first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of scientific investigations and technology demonstrations. He […]",
+    "content": "<h2>概要</h2><p>NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams’ first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of scientific investigations and technology demonstrations. He […]</p><p><a href=\"https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/"
+  },
+  {
+    "id": 81,
     "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
     "category": "SPACE",
     "date": "2026-07-27T16:06:37.000Z",
@@ -704,29 +891,18 @@
     "sourceUrl": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/"
   },
   {
-    "id": 65,
-    "title": "Costco will take your old tech and gift you a gift card - here's what to know",
-    "category": "TECH",
-    "date": "2026-07-27T16:01:10.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Got old gadgets lying around? Trade them in for gift cards at Costco - no membership required.",
-    "content": "<h2>概要</h2><p>Got old gadgets lying around? Trade them in for gift cards at Costco - no membership required.</p><p><a href=\"https://www.zdnet.com/article/costco-trade-in-offer-old-tech/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/costco-trade-in-offer-old-tech/"
-  },
-  {
-    "id": 66,
-    "title": " Are we overlooking signs of alien life that aren't technological or biological? 'Bread would be a signature of intelligence' ",
+    "id": 82,
+    "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
     "category": "SPACE",
-    "date": "2026-07-27T16:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/SfwYVBc3wFFJvtWUd47F73-1280-80.jpg",
-    "summary": "Between biosignatures and technosignatures lie noosignatures, and some scientists think they could help us find alien life someday.",
-    "content": "<h2>概要</h2><p>Between biosignatures and technosignatures lie noosignatures, and some scientists think they could help us find alien life someday.</p><p><a href=\"https://www.space.com/space-exploration/search-for-life/are-we-overlooking-signs-of-alien-life-that-arent-technological-or-biological-bread-would-be-a-signature-of-intelligence\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/space-exploration/search-for-life/are-we-overlooking-signs-of-alien-life-that-arent-technological-or-biological-bread-would-be-a-signature-of-intelligence"
+    "date": "2026-07-27T16:06:37.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg?w=3816&#038;h=2160&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]",
+    "content": "<h2>概要</h2><p>NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]</p><p><a href=\"https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/"
   },
   {
-    "id": 67,
+    "id": 83,
     "title": "Raging wildfires near Madrid, Spain",
     "category": "SPACE",
     "date": "2026-07-27T14:55:00.000Z",
@@ -737,18 +913,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Raging_wildfires_near_Madrid_Spain"
   },
   {
-    "id": 68,
-    "title": "2000-Acre Wildfire Near Famous ‘Area 51’ Rages on as Officials Work to Stall its Spread",
-    "category": "MYSTERY",
-    "date": "2026-07-27T14:47:02.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A massive wildfire that scorched the Nevada desert near the U.S. Air Force’s classified Area 51 facility over the weekend has now exceeded 2,000 acres.",
-    "content": "<h2>概要</h2><p>A massive wildfire that scorched the Nevada desert near the U.S. Air Force’s classified Area 51 facility over the weekend has now exceeded 2,000 acres.</p><p><a href=\"https://thedebrief.org/2000-acre-wildfire-near-famous-area-51-rages-on-as-officials-work-to-stall-its-spread/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Debrief",
-    "sourceUrl": "https://thedebrief.org/2000-acre-wildfire-near-famous-area-51-rages-on-as-officials-work-to-stall-its-spread/"
-  },
-  {
-    "id": 69,
+    "id": 84,
     "title": "How lasers could help provide fuel for nuclear reactors",
     "category": "TECH",
     "date": "2026-07-27T14:24:42.000Z",
@@ -759,7 +924,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
   },
   {
-    "id": 70,
+    "id": 85,
     "title": "How lasers could help provide fuel for nuclear reactors",
     "category": "TECH",
     "date": "2026-07-27T14:24:42.000Z",
@@ -770,7 +935,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
   },
   {
-    "id": 71,
+    "id": 86,
     "title": "MIT engineers design recyclable elastic yarn ",
     "category": "TECH",
     "date": "2026-07-27T14:00:00.000Z",
@@ -781,7 +946,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727"
   },
   {
-    "id": 72,
+    "id": 87,
     "title": "MIT engineers design recyclable elastic yarn ",
     "category": "TECH",
     "date": "2026-07-27T14:00:00.000Z",
@@ -792,40 +957,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727"
   },
   {
-    "id": 73,
-    "title": "The Powerful Radio Afterglow from a Black Hole Tearing Apart a Star Could Help Solve a Cosmic Mystery",
-    "category": "MYSTERY",
-    "date": "2026-07-27T13:58:29.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The cosmic violence of a black hole tearing apart a star produced a brilliant radio light observed by Chinese astronomers using US equipment.",
-    "content": "<h2>概要</h2><p>The cosmic violence of a black hole tearing apart a star produced a brilliant radio light observed by Chinese astronomers using US equipment.</p><p><a href=\"https://thedebrief.org/the-powerful-radio-afterglow-from-a-black-hole-tearing-apart-a-star-could-help-solve-a-cosmic-mystery/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Debrief",
-    "sourceUrl": "https://thedebrief.org/the-powerful-radio-afterglow-from-a-black-hole-tearing-apart-a-star-could-help-solve-a-cosmic-mystery/"
-  },
-  {
-    "id": 74,
-    "title": "Utah’s Game-Changing Million-Panel Solar Energy Project Was Just Captured in New Satellite Images",
-    "category": "MYSTERY",
-    "date": "2026-07-27T13:19:29.000Z",
-    "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/07/Green-River-Energy-Center-Landsat-8.jpg",
-    "summary": "Utah's massive new Green River Energy Center boasts a million solar panels and close to 500 batteries spanning several square miles.",
-    "content": "<h2>概要</h2><p>Utah's massive new Green River Energy Center boasts a million solar panels and close to 500 batteries spanning several square miles.</p><p><a href=\"https://thedebrief.org/utahs-game-changing-million-panel-solar-energy-project-was-just-captured-in-new-satellite-images/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Debrief",
-    "sourceUrl": "https://thedebrief.org/utahs-game-changing-million-panel-solar-energy-project-was-just-captured-in-new-satellite-images/"
-  },
-  {
-    "id": 75,
-    "title": "Rare Discovery of a Hellenistic Sanctuary Offers a New Glimpse Into Ancient Elite Rituals",
-    "category": "MYSTERY",
-    "date": "2026-07-27T12:51:04.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "At the site of Gradište, close to the village of Mlado Nagoričane, archaeologists from North Macedonia have uncovered what they believe was a ritual dining complex associated with a Hellenistic sanctuary, providing new evidence of elite religious practices and extensive trade connections more than 2,300 years ago.",
-    "content": "<h2>概要</h2><p>At the site of Gradište, close to the village of Mlado Nagoričane, archaeologists from North Macedonia have uncovered what they believe was a ritual dining complex associated with a Hellenistic sanctuary, providing new evidence of elite religious practices and extensive trade connections more than 2,300 years ago.</p><p><a href=\"https://thedebrief.org/rare-discovery-of-a-hellenistic-sanctuary-offers-a-new-glimpse-into-ancient-elite-rituals/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Debrief",
-    "sourceUrl": "https://thedebrief.org/rare-discovery-of-a-hellenistic-sanctuary-offers-a-new-glimpse-into-ancient-elite-rituals/"
-  },
-  {
-    "id": 76,
+    "id": 88,
     "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
     "category": "TECH",
     "date": "2026-07-27T12:10:00.000Z",
@@ -836,7 +968,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"
   },
   {
-    "id": 77,
+    "id": 89,
     "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
     "category": "TECH",
     "date": "2026-07-27T12:10:00.000Z",
@@ -847,51 +979,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"
   },
   {
-    "id": 78,
-    "title": "The path to artificial superintelligence",
-    "category": "TECH",
-    "date": "2026-07-27T12:00:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png",
-    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…",
-    "content": "<h2>概要</h2><p>Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…</p><p><a href=\"https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
-  },
-  {
-    "id": 79,
-    "title": "The path to artificial superintelligence",
-    "category": "TECH",
-    "date": "2026-07-27T12:00:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png",
-    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…",
-    "content": "<h2>概要</h2><p>Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…</p><p><a href=\"https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
-  },
-  {
-    "id": 80,
-    "title": "Closing the data loop in AI-driven drug discovery",
-    "category": "TECH",
-    "date": "2026-07-27T11:40:16.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg",
-    "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…",
-    "content": "<h2>概要</h2><p>Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…</p><p><a href=\"https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
-  },
-  {
-    "id": 81,
-    "title": "Closing the data loop in AI-driven drug discovery",
-    "category": "TECH",
-    "date": "2026-07-27T11:40:16.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg",
-    "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…",
-    "content": "<h2>概要</h2><p>Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…</p><p><a href=\"https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
-  },
-  {
-    "id": 82,
+    "id": 90,
     "title": "Meet space startups at ESA’s Industry Space Days",
     "category": "SPACE",
     "date": "2026-07-27T08:05:00.000Z",
@@ -902,7 +990,7 @@
     "sourceUrl": "https://www.esa.int/About_Us/Business_with_ESA/Meet_space_startups_at_ESA_s_Industry_Space_Days"
   },
   {
-    "id": 83,
+    "id": 91,
     "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
     "category": "TECH",
     "date": "2026-07-27T07:53:30.000Z",
@@ -913,7 +1001,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 84,
+    "id": 92,
     "title": "Uganda begins emergency food handouts after 19 die from hunger",
     "category": "WORLD",
     "date": "2026-07-27T07:00:34.000Z",
@@ -924,18 +1012,18 @@
     "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger"
   },
   {
-    "id": 85,
-    "title": "It Appears the Reports of Venus’s Death Were Greatly Exaggerated—New Models Suggest the Planet is Still Geologically Active",
+    "id": 93,
+    "title": "This Week’s Awesome Tech Stories From Around the Web (Through July 25)",
     "category": "MYSTERY",
-    "date": "2026-07-26T11:07:25.000Z",
+    "date": "2026-07-25T14:00:00.000Z",
     "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "New computer models suggest that Venus is not geologically dormant as previously believed, including possibly active volcanoes.",
-    "content": "<h2>概要</h2><p>New computer models suggest that Venus is not geologically dormant as previously believed, including possibly active volcanoes.</p><p><a href=\"https://thedebrief.org/it-appears-the-reports-of-venuss-death-were-greatly-exaggerated-new-models-suggest-the-planet-is-still-geologically-active/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Debrief",
-    "sourceUrl": "https://thedebrief.org/it-appears-the-reports-of-venuss-death-were-greatly-exaggerated-new-models-suggest-the-planet-is-still-geologically-active/"
+    "summary": "Every week, we scour the web for important, insightful, and fascinating stories in science and technology.\nThe post This Week’s Awesome Tech Stories From Around the Web (Through July 25) appeared first on SingularityHub.",
+    "content": "<h2>概要</h2><p>Every week, we scour the web for important, insightful, and fascinating stories in science and technology.\nThe post This Week’s Awesome Tech Stories From Around the Web (Through July 25) appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/07/25/this-weeks-awesome-tech-stories-from-around-the-web-through-july-25-2/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Singularity Hub",
+    "sourceUrl": "https://singularityhub.com/2026/07/25/this-weeks-awesome-tech-stories-from-around-the-web-through-july-25-2/"
   },
   {
-    "id": 86,
+    "id": 94,
     "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
     "category": "TECH",
     "date": "2026-07-25T10:14:41.000Z",
@@ -946,7 +1034,18 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 87,
+    "id": 95,
+    "title": "Scientists Are Designing CRISPR Gene Editors With AI",
+    "category": "MYSTERY",
+    "date": "2026-07-24T21:47:42.000Z",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "summary": "To make CRISPR better at its job, researchers are turning to algorithms like DeepMind's AlphaFold.\nThe post Scientists Are Designing CRISPR Gene Editors With AI appeared first on SingularityHub.",
+    "content": "<h2>概要</h2><p>To make CRISPR better at its job, researchers are turning to algorithms like DeepMind's AlphaFold.\nThe post Scientists Are Designing CRISPR Gene Editors With AI appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/07/24/scientists-are-designing-crispr-gene-editors-with-ai/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Singularity Hub",
+    "sourceUrl": "https://singularityhub.com/2026/07/24/scientists-are-designing-crispr-gene-editors-with-ai/"
+  },
+  {
+    "id": 96,
     "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
     "category": "TECH",
     "date": "2026-07-24T20:37:21.000Z",
@@ -957,18 +1056,18 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 88,
-    "title": "Why total solar eclipses are so special",
-    "category": "SPACE",
-    "date": "2026-07-24T10:00:00.000Z",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/why_total_solar_eclipses_are_so_special/27383397-1-eng-GB/Why_total_solar_eclipses_are_so_special_card_full.png",
-    "summary": "Video: \n\t\t\t00:07:07\n\t\t\t\t\nMore than 2500 years ago, a total solar eclipse is said to have ended a war between the Lydians and the Medes. Today, we understand the science behind eclipses, but witnessing one is still one of the most awe-inspiring experiences on Earth.\nIn this video, discover how solar and lunar eclipses happen, why totality is so rare, and what makes a total solar eclipse so extraordinary. From ancient legends to modern ESA missions studying the Sun's corona, discover the science behind one of nature's greatest spectacles.\nDiscover more about the three European eclipses of 2026–2028 here.",
-    "content": "<h2>概要</h2><p>Video: \n\t\t\t00:07:07\n\t\t\t\t\nMore than 2500 years ago, a total solar eclipse is said to have ended a war between the Lydians and the Medes. Today, we understand the science behind eclipses, but witnessing one is still one of the most awe-inspiring experiences on Earth.\nIn this video, discover how solar and lunar eclipses happen, why totality is so rare, and what makes a total solar eclipse so extraordinary. From ancient legends to modern ESA missions studying the Sun's corona, discover the science behind one of nature's greatest spectacles.\nDiscover more about the three European eclipses of 2026–2028 here.</p><p><a href=\"https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ESA Top News",
-    "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special"
+    "id": 97,
+    "title": "OpenAI Agent Breaks Free and Hacks Hugging Face",
+    "category": "MYSTERY",
+    "date": "2026-07-23T20:48:40.000Z",
+    "image": "https://counter.theconversation.com/content/288106/count.gif?distributor=republish-lightbox-advanced",
+    "summary": "The incident is a first and signals a seismic shift in cybersecurity.\nThe post OpenAI Agent Breaks Free and Hacks Hugging Face appeared first on SingularityHub.",
+    "content": "<h2>概要</h2><p>The incident is a first and signals a seismic shift in cybersecurity.\nThe post OpenAI Agent Breaks Free and Hacks Hugging Face appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/07/23/openai-agent-breaks-free-and-hacks-hugging-face/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Singularity Hub",
+    "sourceUrl": "https://singularityhub.com/2026/07/23/openai-agent-breaks-free-and-hacks-hugging-face/"
   },
   {
-    "id": 89,
+    "id": 98,
     "title": "Looking beyond research",
     "category": "TECH",
     "date": "2026-07-23T19:00:00.000Z",
@@ -979,7 +1078,7 @@
     "sourceUrl": "https://news.mit.edu/2026/looking-beyond-research-anna-christina-eilers-0723"
   },
   {
-    "id": 90,
+    "id": 99,
     "title": "Looking beyond research",
     "category": "SCIENCE",
     "date": "2026-07-23T19:00:00.000Z",
@@ -990,7 +1089,7 @@
     "sourceUrl": "https://news.mit.edu/2026/looking-beyond-research-anna-christina-eilers-0723"
   },
   {
-    "id": 91,
+    "id": 100,
     "title": "Two Russian men jailed in Angola for terrorism and spying",
     "category": "WORLD",
     "date": "2026-07-23T14:24:01.000Z",
@@ -1001,7 +1100,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying"
   },
   {
-    "id": 92,
+    "id": 101,
     "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
     "category": "WORLD",
     "date": "2026-07-23T14:06:01.000Z",
@@ -1012,7 +1111,7 @@
     "sourceUrl": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute"
   },
   {
-    "id": 93,
+    "id": 102,
     "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
     "category": "TECH",
     "date": "2026-07-23T12:00:00.000Z",
@@ -1023,7 +1122,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723"
   },
   {
-    "id": 94,
+    "id": 103,
     "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
     "category": "TECH",
     "date": "2026-07-23T12:00:00.000Z",
@@ -1034,7 +1133,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723"
   },
   {
-    "id": 95,
+    "id": 104,
     "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
     "category": "SCIENCE",
     "date": "2026-07-23T12:00:00.000Z",
@@ -1045,7 +1144,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723"
   },
   {
-    "id": 96,
+    "id": 105,
     "title": "MIT student leaders: Q&A with men’s soccer captain Dilin Meloni",
     "category": "TECH",
     "date": "2026-07-22T17:30:00.000Z",
@@ -1056,7 +1155,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-student-leaders-dilin-meloni-soccer-captain-0722"
   },
   {
-    "id": 97,
+    "id": 106,
     "title": "MIT student leaders: Q&A with men’s soccer captain Dilin Meloni",
     "category": "TECH",
     "date": "2026-07-22T17:30:00.000Z",
@@ -1067,7 +1166,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-student-leaders-dilin-meloni-soccer-captain-0722"
   },
   {
-    "id": 98,
+    "id": 107,
     "title": "Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83",
     "category": "TECH",
     "date": "2026-07-22T17:00:00.000Z",
@@ -1078,7 +1177,18 @@
     "sourceUrl": "https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722"
   },
   {
-    "id": 99,
+    "id": 108,
+    "title": "Scientists Inch Closer to Creating Human Sperm in the Lab",
+    "category": "MYSTERY",
+    "date": "2026-07-22T14:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Researchers could use lab-grown sperm to develop infertility treatments or, more controversially, make babies.\nThe post Scientists Inch Closer to Creating Human Sperm in the Lab appeared first on SingularityHub.",
+    "content": "<h2>概要</h2><p>Researchers could use lab-grown sperm to develop infertility treatments or, more controversially, make babies.\nThe post Scientists Inch Closer to Creating Human Sperm in the Lab appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/07/22/scientists-inch-closer-to-creating-human-sperm-in-the-lab/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Singularity Hub",
+    "sourceUrl": "https://singularityhub.com/2026/07/22/scientists-inch-closer-to-creating-human-sperm-in-the-lab/"
+  },
+  {
+    "id": 109,
     "title": "Health worker monitored for Ebola in London hospital after working in DRC",
     "category": "WORLD",
     "date": "2026-07-21T22:39:00.000Z",
@@ -1089,7 +1199,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc"
   },
   {
-    "id": 100,
+    "id": 110,
     "title": "Diffuse puffs of “missing” matter surround most galaxies ",
     "category": "SCIENCE",
     "date": "2026-07-21T15:00:00.000Z",
@@ -1100,7 +1210,7 @@
     "sourceUrl": "https://news.mit.edu/2026/missing-matter-diffuse-puffs-surround-most-galaxies-0721"
   },
   {
-    "id": 101,
+    "id": 111,
     "title": "MIT honors employees with 2026 Excellence Awards, Collier Medal, and Staff Award for Distinction in Service",
     "category": "TECH",
     "date": "2026-07-21T12:00:00.000Z",
@@ -1111,7 +1221,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-honors-employees-excellence-awards-collier-medal-staff-award-distinction-service-0721"
   },
   {
-    "id": 102,
+    "id": 112,
     "title": "MIT honors employees with 2026 Excellence Awards, Collier Medal, and Staff Award for Distinction in Service",
     "category": "SCIENCE",
     "date": "2026-07-21T12:00:00.000Z",
@@ -1122,7 +1232,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-honors-employees-excellence-awards-collier-medal-staff-award-distinction-service-0721"
   },
   {
-    "id": 103,
+    "id": 113,
     "title": "Healthy diet too expensive for one in three people globally, UN report finds",
     "category": "WORLD",
     "date": "2026-07-21T10:00:42.000Z",
@@ -1133,7 +1243,7 @@
     "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds"
   },
   {
-    "id": 104,
+    "id": 114,
     "title": "Emery Brown, Daniel Hastings, and Douglas Lauffenburger named Institute Professors",
     "category": "SCIENCE",
     "date": "2026-07-20T17:00:00.000Z",
@@ -1144,7 +1254,7 @@
     "sourceUrl": "https://news.mit.edu/2026/emery-brown-daniel-hastings-douglas-lauffenburger-named-institute-professors-0720"
   },
   {
-    "id": 105,
+    "id": 115,
     "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
     "category": "AI",
     "date": "2026-05-19T17:45:00.000Z",
@@ -1155,7 +1265,7 @@
     "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
   },
   {
-    "id": 106,
+    "id": 116,
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "category": "AI",
     "date": "2026-01-22T14:00:00.000Z",
@@ -1166,7 +1276,7 @@
     "sourceUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
-    "id": 107,
+    "id": 117,
     "title": "εpsilon",
     "category": "SPACE",
     "date": "2026-01-21T12:54:00.000Z",
@@ -1177,7 +1287,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon"
   },
   {
-    "id": 108,
+    "id": 118,
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
     "category": "AI",
     "date": "2026-01-19T14:00:00.000Z",
@@ -1188,7 +1298,7 @@
     "sourceUrl": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
   },
   {
-    "id": 109,
+    "id": 119,
     "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
     "category": "AI",
     "date": "2026-01-16T14:01:00.000Z",
@@ -1199,7 +1309,7 @@
     "sourceUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
   },
   {
-    "id": 110,
+    "id": 120,
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
     "category": "AI",
     "date": "2026-01-13T13:00:00.000Z",
