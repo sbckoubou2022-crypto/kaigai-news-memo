@@ -1,17 +1,215 @@
 [
   {
     "id": 1,
-    "title": "Smart sensor identifies present molecules by remembering the past",
-    "category": "SCIENCE",
-    "date": "2026-08-02T13:00:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Most sensors are designed to do only one thing: detect what passes through them. But what if a sensor could do more? To create a new generation of technology, researchers have looked to living systems for inspiration. If a sensor could detect molecules, could it also remember previous interactions and selectively respond to them?",
-    "content": "<h2>概要</h2><p>Most sensors are designed to do only one thing: detect what passes through them. But what if a sensor could do more? To create a new generation of technology, researchers have looked to living systems for inspiration. If a sensor could detect molecules, could it also remember previous interactions and selectively respond to them?</p><p><a href=\"https://phys.org/news/2026-07-smart-sensor-molecules.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-smart-sensor-molecules.html"
+    "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+    "category": "WORLD",
+    "date": "2026-08-02T19:15:57.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+    "content": "<h2>概要</h2><p>One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": 2,
+    "title": "Climate change could dramatically reduce water flowing from the West's headwaters",
+    "category": "SCIENCE",
+    "date": "2026-08-02T18:40:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The small mountain streams that feed many of the West's rivers may face a much drier future. A new study led by NAU researchers found that groundwater-fed streamflow, known as base flow, has been steadily declining across headwater watersheds in the western United States since 1950 and could decrease by 45% to 65% by the end of this century if current climate trends continue.",
+    "content": "<h2>概要</h2><p>The small mountain streams that feed many of the West's rivers may face a much drier future. A new study led by NAU researchers found that groundwater-fed streamflow, known as base flow, has been steadily declining across headwater watersheds in the western United States since 1950 and could decrease by 45% to 65% by the end of this century if current climate trends continue.</p><p><a href=\"https://phys.org/news/2026-07-climate-west-headwaters.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-climate-west-headwaters.html"
+  },
+  {
+    "id": 3,
+    "title": "New microscopy method achieves angstrom-scale localization precision with one laser",
+    "category": "SCIENCE",
+    "date": "2026-08-02T18:00:05.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Researchers in the lab of Sam Peng, the Pfizer Inc.–Gerald Laubach Career Development Assistant Professor of Chemistry at MIT and a core institute member of the Broad Institute of MIT and Harvard, have developed a super-resolution imaging technology. It allows scientists to visualize molecular structures with angstrom-level localization precision—three orders of magnitude beyond the nanometer-scale limits of standard fluorescent dyes—while simplifying the imaging process.",
+    "content": "<h2>概要</h2><p>Researchers in the lab of Sam Peng, the Pfizer Inc.–Gerald Laubach Career Development Assistant Professor of Chemistry at MIT and a core institute member of the Broad Institute of MIT and Harvard, have developed a super-resolution imaging technology. It allows scientists to visualize molecular structures with angstrom-level localization precision—three orders of magnitude beyond the nanometer-scale limits of standard fluorescent dyes—while simplifying the imaging process.</p><p><a href=\"https://phys.org/news/2026-07-microscopy-method-angstrom-scale-localization.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-microscopy-method-angstrom-scale-localization.html"
+  },
+  {
+    "id": 4,
+    "title": "Antibiotic resistance is spreading through South Africa's water systems. This study explains how",
+    "category": "SCIENCE",
+    "date": "2026-08-02T18:00:03.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Antimicrobial resistance (AMR) is defined as the ability of disease-causing microorganisms to withstand treatments like antibiotics.",
+    "content": "<h2>概要</h2><p>Antimicrobial resistance (AMR) is defined as the ability of disease-causing microorganisms to withstand treatments like antibiotics.</p><p><a href=\"https://phys.org/news/2026-07-antibiotic-resistance-south-africa.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-antibiotic-resistance-south-africa.html"
+  },
+  {
+    "id": 5,
+    "title": "Webb reveals warped structure in nearby TW Hydrae's protoplanetary disk",
+    "category": "SCIENCE",
+    "date": "2026-08-02T17:20:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Using the James Webb Space Telescope (JWST), astronomers obtained high-contrast coronagraphic images of the protoplanetary disk around the young, nearby star TW Hydrae. Results of the observational campaign, published July 27 on the preprint server arXiv, shed more light on the nature of this disk.",
+    "content": "<h2>概要</h2><p>Using the James Webb Space Telescope (JWST), astronomers obtained high-contrast coronagraphic images of the protoplanetary disk around the young, nearby star TW Hydrae. Results of the observational campaign, published July 27 on the preprint server arXiv, shed more light on the nature of this disk.</p><p><a href=\"https://phys.org/news/2026-07-webb-reveals-warped-nearby-tw.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-webb-reveals-warped-nearby-tw.html"
+  },
+  {
+    "id": 6,
+    "title": "Webb reveals warped structure in nearby TW Hydrae's protoplanetary disk",
+    "category": "SPACE",
+    "date": "2026-08-02T17:20:01.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Using the James Webb Space Telescope (JWST), astronomers obtained high-contrast coronagraphic images of the protoplanetary disk around the young, nearby star TW Hydrae. Results of the observational campaign, published July 27 on the preprint server arXiv, shed more light on the nature of this disk.",
+    "content": "<h2>概要</h2><p>Using the James Webb Space Telescope (JWST), astronomers obtained high-contrast coronagraphic images of the protoplanetary disk around the young, nearby star TW Hydrae. Results of the observational campaign, published July 27 on the preprint server arXiv, shed more light on the nature of this disk.</p><p><a href=\"https://phys.org/news/2026-07-webb-reveals-warped-nearby-tw.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-07-webb-reveals-warped-nearby-tw.html"
+  },
+  {
+    "id": 7,
+    "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+    "category": "TECH",
+    "date": "2026-08-02T17:05:07.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+    "content": "<h2>概要</h2><p>Let's see how this \"frontier community for techno-optimists\" is doing ...</p><p><a href=\"https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/"
+  },
+  {
+    "id": 8,
+    "title": "Supergene solves evolutionary puzzle of mirror-image flowers",
+    "category": "SCIENCE",
+    "date": "2026-08-02T17:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The left-right asymmetry of South African butterfly lilies (genus Wachendorfia) has been regarded as a classic evolutionary puzzle for more than a century. Due to the mirror-image arrangement of the floral parts, the plants achieve efficient cross-pollination. The molecular basis of this arrangement has now been uncovered by an international team led by the University of Potsdam.",
+    "content": "<h2>概要</h2><p>The left-right asymmetry of South African butterfly lilies (genus Wachendorfia) has been regarded as a classic evolutionary puzzle for more than a century. Due to the mirror-image arrangement of the floral parts, the plants achieve efficient cross-pollination. The molecular basis of this arrangement has now been uncovered by an international team led by the University of Potsdam.</p><p><a href=\"https://phys.org/news/2026-07-supergene-evolutionary-puzzle-mirror-image.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-07-supergene-evolutionary-puzzle-mirror-image.html"
+  },
+  {
+    "id": 9,
+    "title": "Xbox prices are increasing by up to €200 or £170",
+    "category": "TECH",
+    "date": "2026-08-02T16:14:20.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to €200 or £170. The 1TB Xbox Series X with a disc drive is going up by over 30 percent from £499.99 / €599.99 to £669.99 / €799.99. The 512GB Xbox Series S is getting a price increase of over 43 percent, jumping from £299.99 / €349.99 to £429.99 / €499.99.\nWhile other consoles have received price bumps as RAM and storage prices skyrocket due to demand from the AI industry, none have been quite as dramatic as Microso …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to €200 or £170. The 1TB Xbox Series X with a disc drive is going up by over 30 percent from £499.99 / €599.99 to £669.99 / €799.99. The 512GB Xbox Series S is getting a price increase of over 43 percent, jumping from £299.99 / €349.99 to £429.99 / €499.99.\nWhile other consoles have received price bumps as RAM and storage prices skyrocket due to demand from the AI industry, none have been quite as dramatic as Microso …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros"
+  },
+  {
+    "id": 10,
+    "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+    "category": "TECH",
+    "date": "2026-08-02T16:05:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "content": "<h2>概要</h2><p>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</p><p><a href=\"https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/"
+  },
+  {
+    "id": 11,
+    "title": " Gears of War: E-Day: Release date, platforms & everything else we know about Marcus Fenix's return ",
+    "category": "SPACE",
+    "date": "2026-08-02T16:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/rp3wqzBx8b3ncbHdFNBzva-1280-80.jpg",
+    "summary": "Return to Gears of War's roots this year with a gritty prequel that's been built from scratch.",
+    "content": "<h2>概要</h2><p>Return to Gears of War's roots this year with a gritty prequel that's been built from scratch.</p><p><a href=\"https://www.space.com/entertainment/space-games/gears-of-war-e-day-release-date-platforms-and-everything-else-we-know-about-marcus-fenixs-return\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/entertainment/space-games/gears-of-war-e-day-release-date-platforms-and-everything-else-we-know-about-marcus-fenixs-return"
+  },
+  {
+    "id": 12,
+    "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal ",
+    "category": "WORLD",
+    "date": "2026-08-02T15:50:59.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+    "content": "<h2>概要</h2><p>Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.</p><p><a href=\"https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 13,
+    "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths ",
+    "category": "WORLD",
+    "date": "2026-08-02T15:48:00.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+    "content": "<h2>概要</h2><p>Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 14,
+    "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+    "category": "TECH",
+    "date": "2026-08-02T15:23:19.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+    "content": "<h2>概要</h2><p>Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.</p><p><a href=\"https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/"
+  },
+  {
+    "id": 15,
+    "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
+    "category": "TECH",
+    "date": "2026-08-02T15:00:00.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Copy-of-Cal-2-Lifestyle-6.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The 15-inch Skylight Calendar 2 can stand on a table or mounted to the wall. | Image: Skylight\t\n\nThe start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It’s easy for things to slip through the cracks, but Skylight’s shared smart calendars can help keep everyone on track, and from August 2nd through August 9th they’re up to $90 off.\nThe sale includes the 10-inch Skylight Calendar for $119.99 ($50 off), the 15-inch Skylight Calendar 2 for $259.99 ($20 off), and the 27-inch Skylight Calendar Max for $479.99 ($90 off). The 10-inch model takes up the least amount of space, though the newer, larger 15-inch Calendar 2 features faster performance, a brighter display, and swappable magnetic frames. The 27-inch Calendar Max, meanwhile, offers the sharpest and largest screen and must be mounted to the wall (the other models can stand on a table or be mounted), making it the easiest option for large families to view from across the room. \nThe Skylight Calendar\n\nWhere to Buy:\n\n $169.99 $119.99 at Skylight (10-inch)\n $279.99 $259.99 at Skylight (15-inch)\n\nRegardless of which model you choose, every Skylight Calendar includes the same set of organizational features. Each member of your household can have their own color-coded profile, and each can sync events from Google, Outlook, Apple, Cozi, or Yahoo calendars. You can also create shared lists for groceries, chores, and other to-dos that everyone can access from the calendar or the companion mobile app, and even send your grocery list to Instacart with a couple of taps. Built-in weather forecasts also can help you plan around upcoming events, and you can also share calendar access with family members and trusted contacts. \nSkylight Calendar Max\n\nWhere to Buy:\n\n $629.99 at Best Buy (27-inch model)\n $599.99 $479.99 at Skylight (27-inch model)\n\nYou get even more perks if you subscribe to the $79 per year Plus Plan (the first month of the service is free to try). Skylight uses AI to automatically turn emails, photos, flyers, and spreadsheets into calendar entries. It also adds meal planning, tools for assigning and rewarding completed chores, and a mode that displays your photos like a digital picture frame.\nRead our Skylight Calendar Max review.",
+    "content": "<h2>概要</h2><p>The 15-inch Skylight Calendar 2 can stand on a table or mounted to the wall. | Image: Skylight\t\n\nThe start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It’s easy for things to slip through the cracks, but Skylight’s shared smart calendars can help keep everyone on track, and from August 2nd through August 9th they’re up to $90 off.\nThe sale includes the 10-inch Skylight Calendar for $119.99 ($50 off), the 15-inch Skylight Calendar 2 for $259.99 ($20 off), and the 27-inch Skylight Calendar Max for $479.99 ($90 off). The 10-inch model takes up the least amount of space, though the newer, larger 15-inch Calendar 2 features faster performance, a brighter display, and swappable magnetic frames. The 27-inch Calendar Max, meanwhile, offers the sharpest and largest screen and must be mounted to the wall (the other models can stand on a table or be mounted), making it the easiest option for large families to view from across the room. \nThe Skylight Calendar\n\nWhere to Buy:\n\n $169.99 $119.99 at Skylight (10-inch)\n $279.99 $259.99 at Skylight (15-inch)\n\nRegardless of which model you choose, every Skylight Calendar includes the same set of organizational features. Each member of your household can have their own color-coded profile, and each can sync events from Google, Outlook, Apple, Cozi, or Yahoo calendars. You can also create shared lists for groceries, chores, and other to-dos that everyone can access from the calendar or the companion mobile app, and even send your grocery list to Instacart with a couple of taps. Built-in weather forecasts also can help you plan around upcoming events, and you can also share calendar access with family members and trusted contacts. \nSkylight Calendar Max\n\nWhere to Buy:\n\n $629.99 at Best Buy (27-inch model)\n $599.99 $479.99 at Skylight (27-inch model)\n\nYou get even more perks if you subscribe to the $79 per year Plus Plan (the first month of the service is free to try). Skylight uses AI to automatically turn emails, photos, flyers, and spreadsheets into calendar entries. It also adds meal planning, tools for assigning and rewarding completed chores, and a mode that displays your photos like a digital picture frame.\nRead our Skylight Calendar Max review.</p><p><a href=\"https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale"
+  },
+  {
+    "id": 16,
+    "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
+    "category": "TECH",
+    "date": "2026-08-02T14:00:00.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268675_HP_HyperX_Omen_15_gaming_laptop_ADiBenedetto_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Tough sell. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nThe HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming.\nThe Omen 15 has nice little upgrades over the Victus. Its RTX 5050 Laptop GPU can play 2026's latest games, albeit on low-ish settings. But it's also got a brighter 16:10 aspect ratio display with higher refresh rate, and a 1080p webcam to make it a little better for non-gaming stuff. \nI'd call it a working-class gaming laptop, but thanks to RAMageddon, the Omen 15 starts at $1,200 - a far cry from the $800 that made its  …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Tough sell. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nThe HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming.\nThe Omen 15 has nice little upgrades over the Victus. Its RTX 5050 Laptop GPU can play 2026's latest games, albeit on low-ish settings. But it's also got a brighter 16:10 aspect ratio display with higher refresh rate, and a 1080p webcam to make it a little better for non-gaming stuff. \nI'd call it a working-class gaming laptop, but thanks to RAMageddon, the Omen 15 starts at $1,200 - a far cry from the $800 that made its  …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review"
+  },
+  {
+    "id": 17,
+    "title": " Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone ",
+    "category": "SPACE",
+    "date": "2026-08-02T14:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/9YDWnwFfyHHuaAMFPGVka-1280-80.jpg",
+    "summary": "Stratolaunch has now conducted more than 10 flights with its Talon-A hypersonic vehicle, an autonomous, air-launched craft that can travel five times the speed of sound.",
+    "content": "<h2>概要</h2><p>Stratolaunch has now conducted more than 10 flights with its Talon-A hypersonic vehicle, an autonomous, air-launched craft that can travel five times the speed of sound.</p><p><a href=\"https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone"
+  },
+  {
+    "id": 18,
+    "title": " On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon ",
+    "category": "SPACE",
+    "date": "2026-08-02T14:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/TXL6H9fyGNSvKEuepNKi5Z-1280-80.jpg",
+    "summary": "On Aug. 2, 1971, a lunar liftoff was televised for the first time on NASA's Apollo 15 mission, one giant leap for live TV from the moon.",
+    "content": "<h2>概要</h2><p>On Aug. 2, 1971, a lunar liftoff was televised for the first time on NASA's Apollo 15 mission, one giant leap for live TV from the moon.</p><p><a href=\"https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026"
+  },
+  {
+    "id": 19,
+    "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+    "category": "WORLD",
+    "date": "2026-08-02T13:11:56.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects\nFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about 400 people had swum from Morocco to the neighbouring Spanish enclave of Ceuta on the north African coast, approximately 12 miles (19km) across the strait of Gibraltar from mainland Spain.\nHere was a chance for the 44-year-old Moroccan father of four to return to Spain, from which he had been deported when his residency expired after the loss of his job in Bilbao in 2019.\n Continue reading...",
+    "content": "<h2>概要</h2><p>People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects\nFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about 400 people had swum from Morocco to the neighbouring Spanish enclave of Ceuta on the north African coast, approximately 12 miles (19km) across the strait of Gibraltar from mainland Spain.\nHere was a chance for the 44-year-old Moroccan father of four to return to Spain, from which he had been deported when his residency expired after the loss of his job in Bilbao in 2019.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco"
+  },
+  {
+    "id": 20,
     "title": "Is paying artists enough to convince them to embrace AI?",
     "category": "TECH",
     "date": "2026-08-02T13:00:00.000Z",
@@ -22,18 +220,7 @@
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
   },
   {
-    "id": 3,
-    "title": "DESI side project reveals the spectra of disintegrated exoplanets",
-    "category": "SCIENCE",
-    "date": "2026-08-02T12:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Using spectral data from the Dark Energy Spectroscopic Instrument (DESI), astronomers have gained some of the clearest evidence yet that white dwarf stars are accreting debris from disintegrating exoplanets. Captured while DESI was unable to study its primary targets: distant galaxies, the results provide unprecedented insights into the chemical makeup of rocky exoplanets, revealing compositions remarkably similar to the planets and asteroids of our own inner solar system.",
-    "content": "<h2>概要</h2><p>Using spectral data from the Dark Energy Spectroscopic Instrument (DESI), astronomers have gained some of the clearest evidence yet that white dwarf stars are accreting debris from disintegrating exoplanets. Captured while DESI was unable to study its primary targets: distant galaxies, the results provide unprecedented insights into the chemical makeup of rocky exoplanets, revealing compositions remarkably similar to the planets and asteroids of our own inner solar system.</p><p><a href=\"https://phys.org/news/2026-07-desi-side-reveals-spectra-disintegrated.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-desi-side-reveals-spectra-disintegrated.html"
-  },
-  {
-    "id": 4,
+    "id": 21,
     "title": "DESI side project reveals the spectra of disintegrated exoplanets",
     "category": "SPACE",
     "date": "2026-08-02T12:20:01.000Z",
@@ -44,7 +231,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-desi-side-reveals-spectra-disintegrated.html"
   },
   {
-    "id": 5,
+    "id": 22,
     "title": "Breakfasts around the world: In Australia, being denied vegemite is grounds for suing",
     "category": "WORLD",
     "date": "2026-08-02T12:08:07.000Z",
@@ -55,7 +242,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/02/nx-s1-5896064/breakfasts-around-the-world-in-australia-being-denied-vegemite-is-grounds-for-suing"
   },
   {
-    "id": 6,
+    "id": 23,
     "title": "Foldables are sort of boring now — and that’s great news for Apple",
     "category": "TECH",
     "date": "2026-08-02T12:00:00.000Z",
@@ -66,7 +253,7 @@
     "sourceUrl": "https://www.theverge.com/column/972937/foldable-phones-boring-apple"
   },
   {
-    "id": 7,
+    "id": 24,
     "title": " From Hardspace to Clearspace: How space salvage games compare to real debris removal ",
     "category": "SPACE",
     "date": "2026-08-02T12:00:00.000Z",
@@ -77,29 +264,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-games/from-hardspace-to-clearspace-how-space-salvage-games-compare-to-real-debris-removal"
   },
   {
-    "id": 8,
-    "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-    "category": "WORLD",
-    "date": "2026-08-02T11:49:40.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
-    "content": "<h2>概要</h2><p>The vessel with at least 250 people on board caught fire off Madura island.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 9,
-    "title": "Indigenous territory maintains ecological stability amid agricultural expansion in the Brazilian savanna",
-    "category": "SCIENCE",
-    "date": "2026-08-02T11:40:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "\"An island of biodiversity in a sea of monoculture\": This is how a recent study characterized the Pimentel Barbosa Indigenous Territory (TIPB), located in the northeastern part of Mato Grosso state in Brazil's Central-West region. The study showed that the area's human occupation patterns and vegetation cover have remained largely unchanged for four decades. Meanwhile, the surrounding area has been altered by the expansion of livestock ranching, soybean farming and the construction of major highways (BR-158 and BR-163), which are part of Brazil's efforts to extend its agricultural frontier. The TIPB covers 329,000 hectares (1,270 square miles) and was home to 2,369 people in 2022, according to a census by the Brazilian Institute of Geography and Statistics (IBGE).",
-    "content": "<h2>概要</h2><p>\"An island of biodiversity in a sea of monoculture\": This is how a recent study characterized the Pimentel Barbosa Indigenous Territory (TIPB), located in the northeastern part of Mato Grosso state in Brazil's Central-West region. The study showed that the area's human occupation patterns and vegetation cover have remained largely unchanged for four decades. Meanwhile, the surrounding area has been altered by the expansion of livestock ranching, soybean farming and the construction of major highways (BR-158 and BR-163), which are part of Brazil's efforts to extend its agricultural frontier. The TIPB covers 329,000 hectares (1,270 square miles) and was home to 2,369 people in 2022, according to a census by the Brazilian Institute of Geography and Statistics (IBGE).</p><p><a href=\"https://phys.org/news/2026-08-indigenous-territory-ecological-stability-agricultural.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-indigenous-territory-ecological-stability-agricultural.html"
-  },
-  {
-    "id": 10,
+    "id": 25,
     "title": "8 Best Password Managers (2026), Tested and Reviewed",
     "category": "TECH",
     "date": "2026-08-02T11:30:00.000Z",
@@ -110,7 +275,7 @@
     "sourceUrl": "https://www.wired.com/story/best-password-managers/"
   },
   {
-    "id": 11,
+    "id": 26,
     "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
     "category": "WORLD",
     "date": "2026-08-02T11:12:00.000Z",
@@ -121,18 +286,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 12,
-    "title": "Pine bark and sponge compounds could counter drug-resistant malaria and babesiosis",
-    "category": "SCIENCE",
-    "date": "2026-08-02T11:00:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "As parasites become increasingly resistant to existing drugs, researchers at the University of California, Riverside, are working to develop a new generation of treatments for two serious infectious diseases: malaria and babesiosis.",
-    "content": "<h2>概要</h2><p>As parasites become increasingly resistant to existing drugs, researchers at the University of California, Riverside, are working to develop a new generation of treatments for two serious infectious diseases: malaria and babesiosis.</p><p><a href=\"https://phys.org/news/2026-07-bark-sponge-compounds-counter-drug.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-bark-sponge-compounds-counter-drug.html"
-  },
-  {
-    "id": 13,
+    "id": 27,
     "title": "The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos",
     "category": "TECH",
     "date": "2026-08-02T11:00:00.000Z",
@@ -143,7 +297,7 @@
     "sourceUrl": "https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/"
   },
   {
-    "id": 14,
+    "id": 28,
     "title": "Best Car Vacuums (2026): Handheld, Cordless, Shopping Tips",
     "category": "TECH",
     "date": "2026-08-02T10:35:00.000Z",
@@ -154,7 +308,7 @@
     "sourceUrl": "https://www.wired.com/story/best-car-vacuums/"
   },
   {
-    "id": 15,
+    "id": 29,
     "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
     "category": "WORLD",
     "date": "2026-08-02T10:32:28.000Z",
@@ -165,7 +319,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 16,
+    "id": 30,
     "title": "I went running with the Galaxy Watch 9 in London, and it taught me something new",
     "category": "TECH",
     "date": "2026-08-02T10:30:37.000Z",
@@ -176,7 +330,7 @@
     "sourceUrl": "https://www.zdnet.com/article/galaxy-watch-9-first-look/"
   },
   {
-    "id": 17,
+    "id": 31,
     "title": "There Are 2 Eclipses This August. Here’s How to See Them",
     "category": "TECH",
     "date": "2026-08-02T10:30:00.000Z",
@@ -187,7 +341,7 @@
     "sourceUrl": "https://www.wired.com/story/two-eclipses-august-how-to-see-them/"
   },
   {
-    "id": 18,
+    "id": 32,
     "title": "The Best Kids’ Backpacks for the 2026 School Year",
     "category": "TECH",
     "date": "2026-08-02T10:01:00.000Z",
@@ -198,7 +352,7 @@
     "sourceUrl": "https://www.wired.com/gallery/best-kids-backpacks-2026/"
   },
   {
-    "id": 19,
+    "id": 33,
     "title": "My favorite MacBook accessory gives my keyboard a simple but useful upgrade for cheap",
     "category": "TECH",
     "date": "2026-08-02T10:00:43.000Z",
@@ -209,7 +363,7 @@
     "sourceUrl": "https://www.zdnet.com/article/uppercase-ghost-cover-review/"
   },
   {
-    "id": 20,
+    "id": 34,
     "title": " Rocket issue delays 1st orbital rocket launch from the UK ",
     "category": "SPACE",
     "date": "2026-08-02T10:00:00.000Z",
@@ -220,7 +374,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk"
   },
   {
-    "id": 21,
+    "id": 35,
     "title": "Framework Laptop 13 Pro review: Plenty premium, but pummeled by RAM crisis",
     "category": "TECH",
     "date": "2026-08-02T09:15:52.000Z",
@@ -231,18 +385,7 @@
     "sourceUrl": "https://www.zdnet.com/article/framework-laptop-13-pro-review/"
   },
   {
-    "id": 22,
-    "title": " Celestron Moon Mission 100mm tabletop Dobsonian review ",
-    "category": "SPACE",
-    "date": "2026-08-02T09:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/GuNSrqAa9S2LMepCPP5N4L-1280-80.jpg",
-    "summary": "Celestron’s mini-Dobsonian provides affordable, accessible access to the night sky.",
-    "content": "<h2>概要</h2><p>Celestron’s mini-Dobsonian provides affordable, accessible access to the night sky.</p><p><a href=\"https://www.space.com/stargazing/skywatching-kit/celestron-moon-mission-100mm-tabletop-dobsonian-review\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/stargazing/skywatching-kit/celestron-moon-mission-100mm-tabletop-dobsonian-review"
-  },
-  {
-    "id": 23,
+    "id": 36,
     "title": "Trump says he's cancelling Iran strikes, deal pending",
     "category": "WORLD",
     "date": "2026-08-02T07:34:27.000Z",
@@ -253,7 +396,18 @@
     "sourceUrl": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending"
   },
   {
-    "id": 24,
+    "id": 37,
+    "title": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
+    "category": "SPACE",
+    "date": "2026-08-02T04:05:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FireRainbow_Harbig_4000.jpg?w=4000&#038;h=3000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "APOD Science APOD APOD: 2026 August 2 – A Fire… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A […]",
+    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 August 2 – A Fire… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A […]</p><p><a href=\"https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/"
+  },
+  {
+    "id": 38,
     "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
     "category": "WORLD",
     "date": "2026-08-02T04:00:11.000Z",
@@ -264,7 +418,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn"
   },
   {
-    "id": 25,
+    "id": 39,
     "title": "Using reason, again and again",
     "category": "TECH",
     "date": "2026-08-02T04:00:00.000Z",
@@ -275,29 +429,7 @@
     "sourceUrl": "https://news.mit.edu/2026/using-reason-again-and-again-brian-hedden-0802"
   },
   {
-    "id": 26,
-    "title": "Fluorescent probes offer sharper view of plant tissues",
-    "category": "SCIENCE",
-    "date": "2026-08-02T00:30:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Researchers at the Indian Institute of Technology Gandhinagar (IITGN) and the Regional Centre for Biotechnology, Faridabad, have developed and tested a new class of fluorescent probes that enable scientists to visualize xylem, the specialized tissue responsible for transporting water and minerals through plants. The work, published in Plant and Cell Physiology, introduces a faster, more specific and sensitive staining method than conventional dyes, creating avenues to strengthen research on plant development, vascular biology and crop resilience.",
-    "content": "<h2>概要</h2><p>Researchers at the Indian Institute of Technology Gandhinagar (IITGN) and the Regional Centre for Biotechnology, Faridabad, have developed and tested a new class of fluorescent probes that enable scientists to visualize xylem, the specialized tissue responsible for transporting water and minerals through plants. The work, published in Plant and Cell Physiology, introduces a faster, more specific and sensitive staining method than conventional dyes, creating avenues to strengthen research on plant development, vascular biology and crop resilience.</p><p><a href=\"https://phys.org/news/2026-07-fluorescent-probes-sharper-view-tissues.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-07-fluorescent-probes-sharper-view-tissues.html"
-  },
-  {
-    "id": 27,
-    "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-    "category": "WORLD",
-    "date": "2026-08-01T23:03:35.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-    "content": "<h2>概要</h2><p>The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.</p><p><a href=\"https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 28,
+    "id": 40,
     "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
     "category": "WORLD",
     "date": "2026-08-01T22:23:39.000Z",
@@ -308,29 +440,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche"
   },
   {
-    "id": 29,
-    "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-    "category": "WORLD",
-    "date": "2026-08-01T22:23:20.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
-    "content": "<h2>概要</h2><p>Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?</p><p><a href=\"https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 30,
-    "title": "Pixel 11 specs and price leak with no surprises",
-    "category": "TECH",
-    "date": "2026-08-01T21:31:24.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB of storage instead of 128GB in the base model. While the entire lineup will sport the new Tensor G6 and Titan M3 chips, the base model Pixel 11 Pro and Pixel 11 Pro XL are both getting that rumored RAM cut to just 12GB, along with price increases to $1,099 and $1,299, respectively.\nThe Pixel 11 will supposedly ditch the telephoto lens and settle fo …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB of storage instead of 128GB in the base model. While the entire lineup will sport the new Tensor G6 and Titan M3 chips, the base model Pixel 11 Pro and Pixel 11 Pro XL are both getting that rumored RAM cut to just 12GB, along with price increases to $1,099 and $1,299, respectively.\nThe Pixel 11 will supposedly ditch the telephoto lens and settle fo …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak"
-  },
-  {
-    "id": 31,
+    "id": 41,
     "title": "Inside the London hacker house taking a stand against founder burnout",
     "category": "TECH",
     "date": "2026-08-01T21:14:48.000Z",
@@ -341,7 +451,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/"
   },
   {
-    "id": 32,
+    "id": 42,
     "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
     "category": "WORLD",
     "date": "2026-08-01T20:27:32.000Z",
@@ -352,7 +462,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes"
   },
   {
-    "id": 33,
+    "id": 43,
     "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
     "category": "TECH",
     "date": "2026-08-01T20:26:04.000Z",
@@ -363,29 +473,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
   },
   {
-    "id": 34,
-    "title": "Angela Nissel faces down grief with a laugh",
-    "category": "TECH",
-    "date": "2026-08-01T20:15:00.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Angela-Nissel_Author-Headshot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Angela Nissel smiles through the pain. | Image: Angela Nissel\t\n\nAngela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn to to get me through tough times. \nOf course, that sort of dark humor should come as no surprise from Nissel. She first made a splash with The Broke Diaries, which grew out of a blog she kept in college detailing her daily struggles and, at times, embarrassment at being a broke student. Eventually she went on to produce and write for hit shows including Scrubs and The Boondocks.\nOne of her most lasting cont …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Angela Nissel smiles through the pain. | Image: Angela Nissel\t\n\nAngela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn to to get me through tough times. \nOf course, that sort of dark humor should come as no surprise from Nissel. She first made a splash with The Broke Diaries, which grew out of a blog she kept in college detailing her daily struggles and, at times, embarrassment at being a broke student. Eventually she went on to produce and write for hit shows including Scrubs and The Boondocks.\nOne of her most lasting cont …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead"
-  },
-  {
-    "id": 35,
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "category": "TECH",
-    "date": "2026-08-01T19:45:45.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-    "content": "<h2>概要</h2><p>Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"</p><p><a href=\"https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
-  },
-  {
-    "id": 36,
+    "id": 44,
     "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
     "category": "WORLD",
     "date": "2026-08-01T19:03:39.000Z",
@@ -396,18 +484,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing"
   },
   {
-    "id": 37,
-    "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-    "category": "TECH",
-    "date": "2026-08-01T18:47:27.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
-    "content": "<h2>概要</h2><p>Apple's new Upgrade program is the latest sign that smartphone ownership is changing.</p><p><a href=\"https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
-  },
-  {
-    "id": 38,
+    "id": 45,
     "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
     "category": "WORLD",
     "date": "2026-08-01T18:33:27.000Z",
@@ -418,7 +495,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants"
   },
   {
-    "id": 39,
+    "id": 46,
     "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
     "category": "TECH",
     "date": "2026-08-01T18:20:11.000Z",
@@ -429,40 +506,7 @@
     "sourceUrl": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/"
   },
   {
-    "id": 40,
-    "title": "Is this Billboard Hot 100 hit AI slop?",
-    "category": "TECH",
-    "date": "2026-08-01T18:20:00.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "That cover art is almost certainly AI, too. | Image: Fenix Flexin\t\n\nFenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, if not entirely, generated by AI. Fenix has denied those accusations, but done little to dispel them.\nPart of the suspicion is certainly due to the fact that the song is a dramatic left turn. Fenix has primarily trafficked in trap-influenced West Coast rap. \"Rubberz,\" on the other hand, is heavily influenced by '80s UK s …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>That cover art is almost certainly AI, too. | Image: Fenix Flexin\t\n\nFenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, if not entirely, generated by AI. Fenix has denied those accusations, but done little to dispel them.\nPart of the suspicion is certainly due to the fact that the song is a dramatic left turn. Fenix has primarily trafficked in trap-influenced West Coast rap. \"Rubberz,\" on the other hand, is heavily influenced by '80s UK s …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop"
-  },
-  {
-    "id": 41,
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "category": "TECH",
-    "date": "2026-08-01T17:07:34.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-    "content": "<h2>概要</h2><p>OpenAI's CEO seemed excited to share a \"cool use case\" for parents.</p><p><a href=\"https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
-  },
-  {
-    "id": 42,
-    "title": " Move over He-Man, Mattel's Major Matt Mason space toys could still be blasting off for Hollywood ",
-    "category": "SPACE",
-    "date": "2026-08-01T16:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/XekHDoTapLgiFYkrCUXTZQ-1280-80.jpg",
-    "summary": "Is Mattel's 'Man in Space' getting a deserved live-action film in the near future?",
-    "content": "<h2>概要</h2><p>Is Mattel's 'Man in Space' getting a deserved live-action film in the near future?</p><p><a href=\"https://www.space.com/entertainment/space-movies-shows/move-over-he-man-mattels-major-matt-mason-space-toys-could-still-be-blasting-off-for-hollywood\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/move-over-he-man-mattels-major-matt-mason-space-toys-could-still-be-blasting-off-for-hollywood"
-  },
-  {
-    "id": 43,
+    "id": 47,
     "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
     "category": "TECH",
     "date": "2026-08-01T15:19:04.000Z",
@@ -473,18 +517,7 @@
     "sourceUrl": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/"
   },
   {
-    "id": 44,
-    "title": " This Week In Space podcast: Episode 221 — Starship Can Float? ",
-    "category": "SPACE",
-    "date": "2026-08-01T14:16:28.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/B2qupiDndpakYVUezsXb4H-1280-80.jpg",
-    "summary": "On Episode 221 of This Week In Space, Tariq Malik and guest host Rick Jenet of the National Space Society talk about SpaceX's Starship Flight 13, which survived reentry intact enough to float.",
-    "content": "<h2>概要</h2><p>On Episode 221 of This Week In Space, Tariq Malik and guest host Rick Jenet of the National Space Society talk about SpaceX's Starship Flight 13, which survived reentry intact enough to float.</p><p><a href=\"https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-221-starship-can-float\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-221-starship-can-float"
-  },
-  {
-    "id": 45,
+    "id": 48,
     "title": "The First Temporal Photonic Crystal Advances Light into a New Dimension",
     "category": "MYSTERY",
     "date": "2026-08-01T13:44:17.000Z",
@@ -495,7 +528,7 @@
     "sourceUrl": "https://thedebrief.org/the-first-temporal-photonic-crystal-advances-light-into-a-new-dimension/"
   },
   {
-    "id": 46,
+    "id": 49,
     "title": "Rare Meteorite From New Jersey Roof Strike Offers New Clues to the Origins of Life",
     "category": "MYSTERY",
     "date": "2026-08-01T13:38:25.000Z",
@@ -506,7 +539,7 @@
     "sourceUrl": "https://thedebrief.org/rare-meteorite-from-new-jersey-roof-strike-offers-new-clues-to-the-origins-of-life/"
   },
   {
-    "id": 47,
+    "id": 50,
     "title": "New Observations Reveal the Staggering Scale of the Universe’s Largest Galaxy",
     "category": "MYSTERY",
     "date": "2026-08-01T13:10:02.000Z",
@@ -517,7 +550,7 @@
     "sourceUrl": "https://thedebrief.org/new-observations-reveal-the-staggering-scale-of-the-universes-largest-galaxy/"
   },
   {
-    "id": 48,
+    "id": 51,
     "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
     "category": "BUSINESS",
     "date": "2026-08-01T12:41:17.000Z",
@@ -528,7 +561,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 49,
+    "id": 52,
     "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
     "category": "TECH",
     "date": "2026-08-01T12:30:36.000Z",
@@ -539,7 +572,7 @@
     "sourceUrl": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/"
   },
   {
-    "id": 50,
+    "id": 53,
     "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
     "category": "TECH",
     "date": "2026-08-01T11:30:54.000Z",
@@ -550,7 +583,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/"
   },
   {
-    "id": 51,
+    "id": 54,
     "title": "Why your Windows installation files keep getting bigger - AI is filling up smaller drives",
     "category": "TECH",
     "date": "2026-08-01T11:00:00.000Z",
@@ -561,7 +594,7 @@
     "sourceUrl": "https://www.zdnet.com/article/windows-installation-files-getting-bigger-blame-ai/"
   },
   {
-    "id": 52,
+    "id": 55,
     "title": "The 5 laptop features worth spending extra on (and 3 that are mostly hype)",
     "category": "TECH",
     "date": "2026-08-01T10:30:41.000Z",
@@ -572,7 +605,7 @@
     "sourceUrl": "https://www.zdnet.com/article/laptop-features-worth-paying-for-vs-what-to-ignore/"
   },
   {
-    "id": 53,
+    "id": 56,
     "title": "Solar wind stirs Mars' upper atmosphere, boosting ion loss to space",
     "category": "SPACE",
     "date": "2026-08-01T10:20:01.000Z",
@@ -583,7 +616,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-solar-mars-upper-atmosphere-boosting.html"
   },
   {
-    "id": 54,
+    "id": 57,
     "title": "Defcon's new badge is a security key you can see inside",
     "category": "TECH",
     "date": "2026-08-01T10:05:21.000Z",
@@ -594,18 +627,18 @@
     "sourceUrl": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/"
   },
   {
-    "id": 55,
+    "id": 58,
     "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
     "category": "SPACE",
     "date": "2026-08-01T04:05:00.000Z",
     "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FullMoon28-7-2026BrankoNadj.jpg?w=3150&#038;h=2096&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
     "summary": "APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon […]",
-    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon […]</p><p><a href=\"https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/\" target=\"_blank\">出典記事を読む</a></p>",
+    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon […]</p><p><a href=\"https://science.nasa.gov/image-article/apod/apod-2026-august-1-buck-moon-and-belt-of-venus/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "NASA",
-    "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/"
+    "sourceUrl": "https://science.nasa.gov/image-article/apod/apod-2026-august-1-buck-moon-and-belt-of-venus/"
   },
   {
-    "id": 56,
+    "id": 59,
     "title": "What’s Up: August 2026 Skywatching Tips from NASA",
     "category": "SPACE",
     "date": "2026-07-31T22:35:36.000Z",
@@ -616,7 +649,7 @@
     "sourceUrl": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/"
   },
   {
-    "id": 57,
+    "id": 60,
     "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
     "category": "TECH",
     "date": "2026-07-31T21:57:59.000Z",
@@ -627,7 +660,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 58,
+    "id": 61,
     "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
     "category": "BUSINESS",
     "date": "2026-07-31T21:57:59.000Z",
@@ -638,7 +671,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 59,
+    "id": 62,
     "title": "Moonquakes could reveal ice buried beneath lunar south polar craters",
     "category": "SPACE",
     "date": "2026-07-31T21:40:03.000Z",
@@ -649,7 +682,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-moonquakes-reveal-ice-beneath-lunar.html"
   },
   {
-    "id": 60,
+    "id": 63,
     "title": "Laying odds on the potential for Martian water near future landing zones",
     "category": "SPACE",
     "date": "2026-07-31T21:20:03.000Z",
@@ -660,7 +693,7 @@
     "sourceUrl": "https://phys.org/news/2026-07-laying-odds-potential-martian-future.html"
   },
   {
-    "id": 61,
+    "id": 64,
     "title": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
     "category": "SPACE",
     "date": "2026-07-31T21:08:10.000Z",
@@ -671,18 +704,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/"
   },
   {
-    "id": 62,
-    "title": "Homing in on the X-ray sky with eROSITA's second data release",
-    "category": "SPACE",
-    "date": "2026-07-31T20:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The German eROSITA consortium (eROSITA-DE), which includes the University of Bonn and is led by the Max Planck Institute for Extraterrestrial Physics (MPE), has released its second major public data set, the \"eROSITA Data Release 2\" (DR2).",
-    "content": "<h2>概要</h2><p>The German eROSITA consortium (eROSITA-DE), which includes the University of Bonn and is led by the Max Planck Institute for Extraterrestrial Physics (MPE), has released its second major public data set, the \"eROSITA Data Release 2\" (DR2).</p><p><a href=\"https://phys.org/news/2026-07-homing-ray-sky-erosita.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-07-homing-ray-sky-erosita.html"
-  },
-  {
-    "id": 63,
+    "id": 65,
     "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
     "category": "SPACE",
     "date": "2026-07-31T20:19:37.000Z",
@@ -693,18 +715,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/"
   },
   {
-    "id": 64,
-    "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
-    "category": "SPACE",
-    "date": "2026-07-31T19:05:25.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2015/04/prepost-flammability-test-photo-of-natural-webbing.png",
-    "summary": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a […]",
-    "content": "<h2>概要</h2><p>Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a […]</p><p><a href=\"https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/"
-  },
-  {
-    "id": 65,
+    "id": 66,
     "title": "AI firms must answer for rogue bots, says boss of hacked company",
     "category": "TECH",
     "date": "2026-07-31T18:10:28.000Z",
@@ -715,7 +726,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 66,
+    "id": 67,
     "title": "AI firms must answer for rogue bots, says boss of hacked company",
     "category": "BUSINESS",
     "date": "2026-07-31T18:10:28.000Z",
@@ -726,7 +737,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 67,
+    "id": 68,
     "title": "“The Images Reveal a Remarkably Unusual Object”: Astronomers Just Discovered an Odd Three-Lobed Asteroid—And It’s Not Traveling Alone",
     "category": "MYSTERY",
     "date": "2026-07-31T18:06:46.000Z",
@@ -737,7 +748,7 @@
     "sourceUrl": "https://thedebrief.org/the-images-reveal-a-remarkably-unusual-object-astronomers-just-discovered-an-odd-three-lobed-asteroid-and-its-not-traveling-alone/"
   },
   {
-    "id": 68,
+    "id": 69,
     "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
     "category": "WORLD",
     "date": "2026-07-31T17:52:11.000Z",
@@ -748,7 +759,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths"
   },
   {
-    "id": 69,
+    "id": 70,
     "title": "3,500-Year-Old Hittite “Storm God” Crafted from Arsenical Copper Reveals Evidence of Advanced Metalworking Rarely Seen in Tiny Bronze Age Artifacts",
     "category": "MYSTERY",
     "date": "2026-07-31T14:41:53.000Z",
@@ -759,7 +770,7 @@
     "sourceUrl": "https://thedebrief.org/3500-year-old-hittite-storm-god-crafted-from-arsenical-copper-reveals-evidence-of-advanced-metalworking-rarely-seen-in-tiny-bronze-age-artifacts/"
   },
   {
-    "id": 70,
+    "id": 71,
     "title": "How to safely watch a solar eclipse",
     "category": "SPACE",
     "date": "2026-07-31T14:00:00.000Z",
@@ -770,7 +781,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse"
   },
   {
-    "id": 71,
+    "id": 72,
     "title": "Week in images: 27-31 July 2026",
     "category": "SPACE",
     "date": "2026-07-31T13:10:00.000Z",
@@ -781,7 +792,7 @@
     "sourceUrl": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_July_2026"
   },
   {
-    "id": 72,
+    "id": 73,
     "title": "Sainsbury's agrees to sell Argos for £120m",
     "category": "BUSINESS",
     "date": "2026-07-31T12:42:22.000Z",
@@ -792,7 +803,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 73,
+    "id": 74,
     "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
     "category": "BUSINESS",
     "date": "2026-07-31T12:19:20.000Z",
@@ -801,17 +812,6 @@
     "content": "<h2>概要</h2><p>Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC Business",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 74,
-    "title": "The Download: Montana’s new experimental drug rules",
-    "category": "TECH",
-    "date": "2026-07-31T12:16:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MA25-ota-01.jpg?w=840",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…</p><p><a href=\"https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
   },
   {
     "id": 75,
@@ -826,6 +826,17 @@
   },
   {
     "id": 76,
+    "title": "The Download: Montana’s new experimental drug rules",
+    "category": "TECH",
+    "date": "2026-07-31T12:16:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MA25-ota-01.jpg?w=840",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…</p><p><a href=\"https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
+  },
+  {
+    "id": 77,
     "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
     "category": "WORLD",
     "date": "2026-07-31T11:38:46.000Z",
@@ -836,7 +847,7 @@
     "sourceUrl": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement"
   },
   {
-    "id": 77,
+    "id": 78,
     "title": "This Month at ESA: July 2026",
     "category": "SPACE",
     "date": "2026-07-31T11:00:00.000Z",
@@ -845,17 +856,6 @@
     "content": "<h2>概要</h2><p>Video: \n\t\t\t00:03:06\n\t\t\t\t\nWhat did space have in store for Europe this July?\nThe Artemis II crew visited ESA’s technical center in the Netherlands to meet the team behind Orion’s European Service Module, celebrating the colaboration that powered their trip around the Moon. Meanwhile, ESA’s Hera successfully upgraded it’s software fom 140 milliom km away, in preperation for it’s investigation of Dydimos and Dimorphos later this year.\nJuly also saw FLEX and Copernicus Sentinel-3C head to Europe’s Spaceport in French Guiana in preperation for their launch this September. Then, the James Webb Space Telescope celebrates four years of sciency with a spectacular new view of the galaxy Centaurus A.\n400 km above Earth, Sophie Adenot inaugurated the European Enhanced Exercise Device with rowing, rope-pulling, strength training and more. She also showed us the ISS veggie chamber, and how the space seedlings have been growing. From the cupola, Sophie captured her most impressive footage of Earth’s auroras yet.\nHere’s your monthly roundup of everything happening at the European Space Agency.</p><p><a href=\"https://www.esa.int/ESA_Multimedia/Videos/2026/07/This_Month_at_ESA_July_2026\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "ESA Top News",
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/This_Month_at_ESA_July_2026"
-  },
-  {
-    "id": 78,
-    "title": "Montana’s new “right to try” law can’t come soon enough for some",
-    "category": "TECH",
-    "date": "2026-07-31T09:00:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/family-inset.jpg?w=840",
-    "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test…",
-    "content": "<h2>概要</h2><p>Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test…</p><p><a href=\"https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/"
   },
   {
     "id": 79,
@@ -870,14 +870,14 @@
   },
   {
     "id": 80,
-    "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
-    "category": "WORLD",
-    "date": "2026-07-31T08:00:08.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak\nThe latest numbers of confirmed cases of Ebola in the Democratic Republic of the Congo has made this latest outbreak the fastest growing in the known history of the virus.\nAt 3,360 confirmed cases, the disease is now affecting people in five provinces in the east of the DRC, with 1,487 deaths recorded, representing an overall case fatality rate estimated at about 45%, according to Congolese health officials. Health responses to the outbreak have been badly hampered by conflict in many of the affected areas.\n Continue reading...",
-    "content": "<h2>概要</h2><p>As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak\nThe latest numbers of confirmed cases of Ebola in the Democratic Republic of the Congo has made this latest outbreak the fastest growing in the known history of the virus.\nAt 3,360 confirmed cases, the disease is now affecting people in five provinces in the east of the DRC, with 1,487 deaths recorded, representing an overall case fatality rate estimated at about 45%, according to Congolese health officials. Health responses to the outbreak have been badly hampered by conflict in many of the affected areas.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus"
+    "title": "Montana’s new “right to try” law can’t come soon enough for some",
+    "category": "TECH",
+    "date": "2026-07-31T09:00:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/family-inset.jpg?w=840",
+    "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test…",
+    "content": "<h2>概要</h2><p>Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test…</p><p><a href=\"https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/"
   },
   {
     "id": 81,
