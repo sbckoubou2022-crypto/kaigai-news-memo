@@ -1,17 +1,336 @@
 [
   {
     "id": 1,
-    "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+    "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
     "category": "WORLD",
-    "date": "2026-08-05T02:55:58.000Z",
+    "date": "2026-08-05T08:29:40.000Z",
     "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
-    "content": "<h2>概要</h2><p>The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+    "content": "<h2>概要</h2><p>The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC World",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": 2,
+    "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
+    "category": "WORLD",
+    "date": "2026-08-05T08:29:30.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home.",
+    "content": "<h2>概要</h2><p>Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 3,
+    "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+    "category": "TECH",
+    "date": "2026-08-05T08:18:03.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
+    "content": "<h2>概要</h2><p>Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Technology",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 4,
+    "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+    "category": "BUSINESS",
+    "date": "2026-08-05T08:18:03.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
+    "content": "<h2>概要</h2><p>Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 5,
+    "title": "NASA’s new dark energy space telescope can also detect killer asteroids",
+    "category": "TECH",
+    "date": "2026-08-05T08:06:40.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.…",
+    "content": "<h2>概要</h2><p>At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.…</p><p><a href=\"https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/"
+  },
+  {
+    "id": 6,
+    "title": "NASA’s new dark energy space telescope can also detect killer asteroids",
+    "category": "TECH",
+    "date": "2026-08-05T08:06:40.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.…",
+    "content": "<h2>概要</h2><p>At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.…</p><p><a href=\"https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/"
+  },
+  {
+    "id": 7,
+    "title": "El Niño could push 50m people into acute hunger before end of next year",
+    "category": "WORLD",
+    "date": "2026-08-05T08:00:13.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "UN forecasters warn of worsening conditions in 45 countries currently experiencing severe food insecurity\nAbout 50 million people are likely to be pushed into acute hunger before the end of next year by the rapidly developing El Niño weather system, according to forecasting.\nThis is in addition to the hundreds of millions of people already facing dangerous levels of hunger, owing to years of drought in parts of Africa and pressure on food prices from the war in Iran.\n Continue reading...",
+    "content": "<h2>概要</h2><p>UN forecasters warn of worsening conditions in 45 countries currently experiencing severe food insecurity\nAbout 50 million people are likely to be pushed into acute hunger before the end of next year by the rapidly developing El Niño weather system, according to forecasting.\nThis is in addition to the hundreds of millions of people already facing dangerous levels of hunger, owing to years of drought in parts of Africa and pressure on food prices from the war in Iran.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year"
+  },
+  {
+    "id": 8,
+    "title": "Total solar eclipse: how to watch live from home",
+    "category": "SPACE",
+    "date": "2026-08-05T08:00:00.000Z",
+    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
+    "summary": "A total solar eclipse is coming to Europe. The European Space Agency (ESA) will broadcast live from 19:30 CEST on 12 August, allowing you to experience this rare event from anywhere in the world.\n\nQuick links:\nLive broadcast on YouTube (12 August, 19:30–20:45 CEST)\nEvent programme in León, Spain (12 August, 10:00–14:00 and 17:30–21:45 CEST)\n- Overview of all ESA activities, including videos, graphics and educational activities",
+    "content": "<h2>概要</h2><p>A total solar eclipse is coming to Europe. The European Space Agency (ESA) will broadcast live from 19:30 CEST on 12 August, allowing you to experience this rare event from anywhere in the world.\n\nQuick links:\nLive broadcast on YouTube (12 August, 19:30–20:45 CEST)\nEvent programme in León, Spain (12 August, 10:00–14:00 and 17:30–21:45 CEST)\n- Overview of all ESA activities, including videos, graphics and educational activities</p><p><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ESA Top News",
+    "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home"
+  },
+  {
+    "id": 9,
+    "title": "Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?",
+    "category": "TECH",
+    "date": "2026-08-05T07:36:06.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Samsung’s folding phone family has a new middle child with a fresh form factor, but which of its eighth-gen foldables is right for you?",
+    "content": "<h2>概要</h2><p>Samsung’s folding phone family has a new middle child with a fresh form factor, but which of its eighth-gen foldables is right for you?</p><p><a href=\"https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/"
+  },
+  {
+    "id": 10,
+    "title": "'Like the end of the world': The eclipse chasers flocking to Spain",
+    "category": "SCIENCE",
+    "date": "2026-08-05T07:20:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Suddenly, the world is plunged into an eerie, violet darkness. The temperature drops. Birds and other animals, bewildered by unforeseen night, start behaving strangely. Stars and planets appear in the sky next to the blotted-out sun.",
+    "content": "<h2>概要</h2><p>Suddenly, the world is plunged into an eerie, violet darkness. The temperature drops. Birds and other animals, bewildered by unforeseen night, start behaving strangely. Stars and planets appear in the sky next to the blotted-out sun.</p><p><a href=\"https://phys.org/news/2026-08-world-eclipse-chasers-flocking-spain.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-world-eclipse-chasers-flocking-spain.html"
+  },
+  {
+    "id": 11,
+    "title": "'Like the end of the world': The eclipse chasers flocking to Spain",
+    "category": "SPACE",
+    "date": "2026-08-05T07:20:01.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Suddenly, the world is plunged into an eerie, violet darkness. The temperature drops. Birds and other animals, bewildered by unforeseen night, start behaving strangely. Stars and planets appear in the sky next to the blotted-out sun.",
+    "content": "<h2>概要</h2><p>Suddenly, the world is plunged into an eerie, violet darkness. The temperature drops. Birds and other animals, bewildered by unforeseen night, start behaving strangely. Stars and planets appear in the sky next to the blotted-out sun.</p><p><a href=\"https://phys.org/news/2026-08-world-eclipse-chasers-flocking-spain.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-08-world-eclipse-chasers-flocking-spain.html"
+  },
+  {
+    "id": 12,
+    "title": "Wispr Flow launches a Granola-styled meeting notetaker",
+    "category": "TECH",
+    "date": "2026-08-05T07:15:49.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
+    "content": "<h2>概要</h2><p>Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.</p><p><a href=\"https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/"
+  },
+  {
+    "id": 13,
+    "title": "Egg oiling offers a targeted way to reduce raven predation on vulnerable prey",
+    "category": "SCIENCE",
+    "date": "2026-08-05T07:10:05.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Common ravens are intelligent omnivores that regularly consume the eggs and young of nesting birds, and their populations are boosted by human-provided food and nesting resources. This has resulted in elevated predation by ravens on many sensitive prey species, including greater sage-grouse.",
+    "content": "<h2>概要</h2><p>Common ravens are intelligent omnivores that regularly consume the eggs and young of nesting birds, and their populations are boosted by human-provided food and nesting resources. This has resulted in elevated predation by ravens on many sensitive prey species, including greater sage-grouse.</p><p><a href=\"https://phys.org/news/2026-08-egg-oiling-raven-predation-vulnerable.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-egg-oiling-raven-predation-vulnerable.html"
+  },
+  {
+    "id": 14,
+    "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+    "category": "WORLD",
+    "date": "2026-08-05T07:04:45.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
+    "content": "<h2>概要</h2><p>People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 15,
+    "title": "A new species of Ice Age toad discovered at La Brea Tar Pits: The spadefoot toad Spea labreae",
+    "category": "SCIENCE",
+    "date": "2026-08-05T07:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "For the first time, researchers have discovered a new species of extinct amphibian from Ice Age Los Angeles at La Brea Tar Pits: a spadefoot toad they have named Spea labreae. Only one other extinct Pleistocene amphibian from North America has ever been found (a tree frog from Florida).",
+    "content": "<h2>概要</h2><p>For the first time, researchers have discovered a new species of extinct amphibian from Ice Age Los Angeles at La Brea Tar Pits: a spadefoot toad they have named Spea labreae. Only one other extinct Pleistocene amphibian from North America has ever been found (a tree frog from Florida).</p><p><a href=\"https://phys.org/news/2026-08-species-ice-age-toad-la.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-species-ice-age-toad-la.html"
+  },
+  {
+    "id": 16,
+    "title": "Ted Lasso returns at an important time for Apple TV",
+    "category": "TECH",
+    "date": "2026-08-05T07:00:00.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ted_Lasso_Photo_040203.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "2026 is shaping up to be an excellent year for Apple TV. Apple's streaming service has built out an impressive slate that spans returning favorites like Silo and Sugar to all-new hits including OnlyFans-inspired dramedies, terrifying comedies, and paranoid tech thrillers. But the most important release might be a feel-good sports sitcom. After what seemed like a definitive finale, Ted Lasso is back with a fourth season that doubles as a soft reboot for the show, mixing up familiar characters with a substantially new cast. And as Apple TV continues its push for a bigger piece of the streaming market, the return of its most culturally impactfu …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>2026 is shaping up to be an excellent year for Apple TV. Apple's streaming service has built out an impressive slate that spans returning favorites like Silo and Sugar to all-new hits including OnlyFans-inspired dramedies, terrifying comedies, and paranoid tech thrillers. But the most important release might be a feel-good sports sitcom. After what seemed like a definitive finale, Ted Lasso is back with a fourth season that doubles as a soft reboot for the show, mixing up familiar characters with a substantially new cast. And as Apple TV continues its push for a bigger piece of the streaming market, the return of its most culturally impactfu …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv"
+  },
+  {
+    "id": 17,
+    "title": "The AI Notetaker Has Been Invited to All the Meetings",
+    "category": "TECH",
+    "date": "2026-08-05T07:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Wispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summarizes meetings. It joins a growing wave of AI notetakers for the workplace.",
+    "content": "<h2>概要</h2><p>Wispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summarizes meetings. It joins a growing wave of AI notetakers for the workplace.</p><p><a href=\"https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/"
+  },
+  {
+    "id": 18,
+    "title": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
+    "category": "TECH",
+    "date": "2026-08-05T06:50:19.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&A section of the company's first earnings call.\n\"The spectrum that we purchased from EchoStar does have terrestrial components, so we definitely intend to build out the terrestrial component,\" said Shotwell. \"You will have not only the capacity from the satellites themselves, but you will have a buildout of the terrestrial, basically the hardware and systems ne …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&A section of the company's first earnings call.\n\"The spectrum that we purchased from EchoStar does have terrestrial components, so we definitely intend to build out the terrestrial component,\" said Shotwell. \"You will have not only the capacity from the satellites themselves, but you will have a buildout of the terrestrial, basically the hardware and systems ne …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company"
+  },
+  {
+    "id": 19,
+    "title": "Fuego volcano spews more ash and mud as Guatemala shelters 1,700 who fled nearby villages",
+    "category": "SCIENCE",
+    "date": "2026-08-05T06:38:30.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Guatemala remained on alert Tuesday after evacuating villages during an eruption of the Fuego volcano, one of Central America's most active.",
+    "content": "<h2>概要</h2><p>Guatemala remained on alert Tuesday after evacuating villages during an eruption of the Fuego volcano, one of Central America's most active.</p><p><a href=\"https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html"
+  },
+  {
+    "id": 20,
+    "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
+    "category": "WORLD",
+    "date": "2026-08-05T05:54:54.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the ground\nGood morning. Last week, an estimated 72,000 migrants began crossing into a tiny Spanish enclave on the tip of Morocco. Within 24 hours, most of them had headed home. At least 88 people died after attempting the crossing, according to local officials. This isn’t the whole story of what happened over the last week, but the facts are worth remembering.\nAt an emergency meeting yesterday, EU interior ministers sought to draw a line under Ceuta, insisting that the passport-free Schengen area had never been at risk from the arrival of migrants at this scale. Despite this, much of the media coverage has suggested that events in Ceuta represent a territorial threat to Europe, sparking calls for greater security across the region’s borders.\nEnvironment | Eight of the biggest oil companies amassed profits of more than $90bn (£67bn) in just three months as the Iran conflict sent energy prices soaring and the emissions-fuelled climate crisis caused deadly heatwaves.\nUK politics | Women should not feel pressurised into experiencing an “ideal birth”, the new health secretary, Yvette Cooper, has said, promising a root-and-branch reform of standards after several damning maternity scandals.\nMiddle East | Jordan is convening an emergency meeting over an “imminent” threat of an Israeli takeover of the most important Muslim site in Jerusalem, with the potential to “trigger a religious conflict”.\nUkraine | Russian strikes in and around Kyiv killed at least 14 people, ⁠injured 27 and ⁠damaged warehouses, ​emergency service officials said. Some reports put the death toll at 15.\nCeuta | Hundreds of people have gathered in the northern Moroccan town of Fnideq, near the border with Spain’s Ceuta, flashing photos of their missing loved ones to passersby in the hope of tracking them down.\n Continue reading...",
+    "content": "<h2>概要</h2><p>In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the ground\nGood morning. Last week, an estimated 72,000 migrants began crossing into a tiny Spanish enclave on the tip of Morocco. Within 24 hours, most of them had headed home. At least 88 people died after attempting the crossing, according to local officials. This isn’t the whole story of what happened over the last week, but the facts are worth remembering.\nAt an emergency meeting yesterday, EU interior ministers sought to draw a line under Ceuta, insisting that the passport-free Schengen area had never been at risk from the arrival of migrants at this scale. Despite this, much of the media coverage has suggested that events in Ceuta represent a territorial threat to Europe, sparking calls for greater security across the region’s borders.\nEnvironment | Eight of the biggest oil companies amassed profits of more than $90bn (£67bn) in just three months as the Iran conflict sent energy prices soaring and the emissions-fuelled climate crisis caused deadly heatwaves.\nUK politics | Women should not feel pressurised into experiencing an “ideal birth”, the new health secretary, Yvette Cooper, has said, promising a root-and-branch reform of standards after several damning maternity scandals.\nMiddle East | Jordan is convening an emergency meeting over an “imminent” threat of an Israeli takeover of the most important Muslim site in Jerusalem, with the potential to “trigger a religious conflict”.\nUkraine | Russian strikes in and around Kyiv killed at least 14 people, ⁠injured 27 and ⁠damaged warehouses, ​emergency service officials said. Some reports put the death toll at 15.\nCeuta | Hundreds of people have gathered in the northern Moroccan town of Fnideq, near the border with Spain’s Ceuta, flashing photos of their missing loved ones to passersby in the hope of tracking them down.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint"
+  },
+  {
+    "id": 21,
+    "title": " Total solar eclipse Aug. 12, 2026 live updates — 1 week to go ",
+    "category": "SPACE",
+    "date": "2026-08-05T05:30:17.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/FjsLrdUxHVhG9wH44TDHkJ-1280-80.jpg",
+    "summary": "Follow our live coverage of the total solar eclipse 2026 as we count down to eclipse day with the latest news, expert insight and updates before bringing you live reports from Greenland and Spain.",
+    "content": "<h2>概要</h2><p>Follow our live coverage of the total solar eclipse 2026 as we count down to eclipse day with the latest news, expert insight and updates before bringing you live reports from Greenland and Spain.</p><p><a href=\"https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-one-week-to-go\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-one-week-to-go"
+  },
+  {
+    "id": 22,
+    "title": " 1 week to go until a dramatic total solar eclipse darkens the skies over Spain, Iceland and Greenland ",
+    "category": "SPACE",
+    "date": "2026-08-05T05:17:14.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/3Ps3XQsEyxauxjyudY7dxi-1280-80.jpg",
+    "summary": "Here's what you need to know before the total solar eclipse one week from now.",
+    "content": "<h2>概要</h2><p>Here's what you need to know before the total solar eclipse one week from now.</p><p><a href=\"https://www.space.com/stargazing/solar-eclipses/1-week-to-go-until-a-dramatic-total-solar-eclipse-darkens-the-skies-over-spain-iceland-and-greenland\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/stargazing/solar-eclipses/1-week-to-go-until-a-dramatic-total-solar-eclipse-darkens-the-skies-over-spain-iceland-and-greenland"
+  },
+  {
+    "id": 23,
+    "title": "Sportsman's Warehouse Promo Code: Save in August 2026",
+    "category": "TECH",
+    "date": "2026-08-05T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in August 2026.",
+    "content": "<h2>概要</h2><p>Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in August 2026.</p><p><a href=\"https://www.wired.com/story/sportsmans-warehouse-promo-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/sportsmans-warehouse-promo-code/"
+  },
+  {
+    "id": 24,
+    "title": "Medicube Coupon Code: 40% Off for August 2026",
+    "category": "TECH",
+    "date": "2026-08-05T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Upgrade your K-beauty routine with these active Medicube promo codes. Save on Age-R devices, serums, and masks with student discounts and referral rewards.",
+    "content": "<h2>概要</h2><p>Upgrade your K-beauty routine with these active Medicube promo codes. Save on Age-R devices, serums, and masks with student discounts and referral rewards.</p><p><a href=\"https://www.wired.com/story/medicube-coupon-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/medicube-coupon-code/"
+  },
+  {
+    "id": 25,
+    "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026",
+    "category": "TECH",
+    "date": "2026-08-05T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+    "content": "<h2>概要</h2><p>Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.</p><p><a href=\"https://www.wired.com/story/nordvpn-coupon/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/nordvpn-coupon/"
+  },
+  {
+    "id": 26,
+    "title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
+    "category": "WORLD",
+    "date": "2026-08-05T04:00:08.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "People hope to see friends or relatives among those still returning as death toll from mass crossing nears 100\nHundreds of people have gathered in the northern Moroccan town of Fnideq, near the border with Spain’s Ceuta, flashing photos of their missing loved ones to passersby in the hope of tracking them down.\nTheir perch was the same small tranche of land that made headlines around the world last week as extraordinary scenes emerged of about 72,000 people making their way into Ceuta, a tiny Spanish territory in north Africa.\n Continue reading...",
+    "content": "<h2>概要</h2><p>People hope to see friends or relatives among those still returning as death toll from mass crossing nears 100\nHundreds of people have gathered in the northern Moroccan town of Fnideq, near the border with Spain’s Ceuta, flashing photos of their missing loved ones to passersby in the hope of tracking them down.\nTheir perch was the same small tranche of land that made headlines around the world last week as extraordinary scenes emerged of about 72,000 people making their way into Ceuta, a tiny Spanish territory in north Africa.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones"
+  },
+  {
+    "id": 27,
+    "title": "These 3D-printed objects can tell you if they’re being used properly ",
+    "category": "TECH",
+    "date": "2026-08-05T04:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The “ShiftLens” design and fabrication system creates objects that change their surface appearance based on user interactions, without any electronics.",
+    "content": "<h2>概要</h2><p>The “ShiftLens” design and fabrication system creates objects that change their surface appearance based on user interactions, without any electronics.</p><p><a href=\"https://news.mit.edu/2026/shiftlens-3d-printed-objects-can-tell-you-if-used-properly-0805\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/shiftlens-3d-printed-objects-can-tell-you-if-used-properly-0805"
+  },
+  {
+    "id": 28,
+    "title": "These 3D-printed objects can tell you if they’re being used properly ",
+    "category": "TECH",
+    "date": "2026-08-05T04:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The “ShiftLens” design and fabrication system creates objects that change their surface appearance based on user interactions, without any electronics.",
+    "content": "<h2>概要</h2><p>The “ShiftLens” design and fabrication system creates objects that change their surface appearance based on user interactions, without any electronics.</p><p><a href=\"https://news.mit.edu/2026/shiftlens-3d-printed-objects-can-tell-you-if-used-properly-0805\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News Engineering",
+    "sourceUrl": "https://news.mit.edu/2026/shiftlens-3d-printed-objects-can-tell-you-if-used-properly-0805"
+  },
+  {
+    "id": 29,
+    "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+    "category": "WORLD",
+    "date": "2026-08-05T03:44:30.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+    "content": "<h2>概要</h2><p>US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 30,
+    "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+    "category": "BUSINESS",
+    "date": "2026-08-05T03:44:30.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+    "content": "<h2>概要</h2><p>US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 31,
     "title": "Metal-free process makes plant dyes more durable for textiles",
     "category": "SCIENCE",
     "date": "2026-08-05T02:40:03.000Z",
@@ -22,62 +341,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-metal-free-dyes-durable-textiles.html"
   },
   {
-    "id": 3,
-    "title": "In Atlantic Forest restoration, connection between fragments is more important than fragment size",
-    "category": "SCIENCE",
-    "date": "2026-08-05T02:20:03.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Seed dispersal through wind, water or animals is a crucial process for forest renewal and biodiversity preservation. In the Atlantic Forest, a new study showed that the amount of forest in the landscape surrounding an area and the amount of rain are the main factors responsible for ensuring seed richness and diversity. In practical terms, the research revealed that a small patch of forest with adjacent green areas is more capable of regenerating itself than a huge but isolated fragment amid a deforested landscape.",
-    "content": "<h2>概要</h2><p>Seed dispersal through wind, water or animals is a crucial process for forest renewal and biodiversity preservation. In the Atlantic Forest, a new study showed that the amount of forest in the landscape surrounding an area and the amount of rain are the main factors responsible for ensuring seed richness and diversity. In practical terms, the research revealed that a small patch of forest with adjacent green areas is more capable of regenerating itself than a huge but isolated fragment amid a deforested landscape.</p><p><a href=\"https://phys.org/news/2026-08-atlantic-forest-fragments-important-fragment.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-atlantic-forest-fragments-important-fragment.html"
-  },
-  {
-    "id": 4,
-    "title": "This summer isn't breaking heat records—yet. Wait until El Nino kicks in, scientists say",
-    "category": "SCIENCE",
-    "date": "2026-08-05T02:00:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Wildfires are burning in North America and Europe. Deadly heat waves have parked over cities and the world's oceans are the hottest ever recorded for this time of year. A strengthening El Niño is forecast to be off-the-charts, spiking global temperatures and warping weather all over.",
-    "content": "<h2>概要</h2><p>Wildfires are burning in North America and Europe. Deadly heat waves have parked over cities and the world's oceans are the hottest ever recorded for this time of year. A strengthening El Niño is forecast to be off-the-charts, spiking global temperatures and warping weather all over.</p><p><a href=\"https://phys.org/news/2026-08-summer-isnt-el-nino-scientists.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-summer-isnt-el-nino-scientists.html"
-  },
-  {
-    "id": 5,
-    "title": "Social influence can help tackle climate change",
-    "category": "SCIENCE",
-    "date": "2026-08-05T01:40:04.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The power of social influence could be key to changing attitudes and behaviors around climate change, according to a new study by researchers at the Center for Climate Change and Social Transformations (CAST). The team examined the role of social influence in accelerating climate action, outlining how celebrities, athletes, health care workers, religious leaders, hairdressers, small business owners, family, friends, neighbors and colleagues all have the ability to influence climate action.",
-    "content": "<h2>概要</h2><p>The power of social influence could be key to changing attitudes and behaviors around climate change, according to a new study by researchers at the Center for Climate Change and Social Transformations (CAST). The team examined the role of social influence in accelerating climate action, outlining how celebrities, athletes, health care workers, religious leaders, hairdressers, small business owners, family, friends, neighbors and colleagues all have the ability to influence climate action.</p><p><a href=\"https://phys.org/news/2026-08-social-tackle-climate.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-social-tackle-climate.html"
-  },
-  {
-    "id": 6,
-    "title": "Lemurs fall prey to human herpes virus",
-    "category": "SCIENCE",
-    "date": "2026-08-05T01:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The last time you had a cold sore, you might have fretted about how long it would hang around. Perhaps you avoided reflective surfaces. It's unlikely you worried about dying from it.",
-    "content": "<h2>概要</h2><p>The last time you had a cold sore, you might have fretted about how long it would hang around. Perhaps you avoided reflective surfaces. It's unlikely you worried about dying from it.</p><p><a href=\"https://phys.org/news/2026-08-lemurs-fall-prey-human-herpes.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-lemurs-fall-prey-human-herpes.html"
-  },
-  {
-    "id": 7,
-    "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-    "category": "WORLD",
-    "date": "2026-08-05T01:05:21.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-    "content": "<h2>概要</h2><p>US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 8,
+    "id": 32,
     "title": "Armed man arrested near Trump's golf course ahead of president's visit",
     "category": "WORLD",
     "date": "2026-08-05T00:19:04.000Z",
@@ -88,7 +352,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 9,
+    "id": 33,
     "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
     "category": "TECH",
     "date": "2026-08-05T00:02:18.000Z",
@@ -99,19 +363,8 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 10,
-    "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
-    "category": "BUSINESS",
-    "date": "2026-08-05T00:02:18.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
-    "content": "<h2>概要</h2><p>The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 11,
-    "title": "Could tech replace firefighters in the battle against wildfires?",
+    "id": 34,
+    "title": "How tech is helping in the battle against wildfires",
     "category": "TECH",
     "date": "2026-08-04T23:21:47.000Z",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
@@ -121,7 +374,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 12,
+    "id": 35,
     "title": "The cost of being single – and how friends are teaming up to beat it",
     "category": "BUSINESS",
     "date": "2026-08-04T23:21:08.000Z",
@@ -132,7 +385,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 13,
+    "id": 36,
     "title": "Don’t screw this up, Marvel",
     "category": "TECH",
     "date": "2026-08-04T23:20:56.000Z",
@@ -143,8 +396,8 @@
     "sourceUrl": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday"
   },
   {
-    "id": 14,
-    "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+    "id": 37,
+    "title": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
     "category": "BUSINESS",
     "date": "2026-08-04T23:20:12.000Z",
     "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
@@ -154,18 +407,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 15,
-    "title": "OK, Well, Rogue AI Agents Are Hacking Again",
-    "category": "TECH",
-    "date": "2026-08-04T23:11:31.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
-    "content": "<h2>概要</h2><p>Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.</p><p><a href=\"https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/"
-  },
-  {
-    "id": 16,
+    "id": 38,
     "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
     "category": "TECH",
     "date": "2026-08-04T23:09:44.000Z",
@@ -176,18 +418,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 17,
-    "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
-    "category": "BUSINESS",
-    "date": "2026-08-04T23:09:44.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
-    "content": "<h2>概要</h2><p>The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 18,
+    "id": 39,
     "title": " SpaceX wants to launch next Starship this month (and catch it, too), Elon Musk says in 1st earnings call since historic IPO ",
     "category": "SPACE",
     "date": "2026-08-04T22:55:30.000Z",
@@ -198,7 +429,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-next-starship-this-month-and-catch-it-too-elon-musk-says-in-1st-earnings-call-since-historic-ipo"
   },
   {
-    "id": 19,
+    "id": 40,
     "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
     "category": "TECH",
     "date": "2026-08-04T22:30:58.000Z",
@@ -209,7 +440,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/"
   },
   {
-    "id": 20,
+    "id": 41,
     "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
     "category": "TECH",
     "date": "2026-08-04T22:24:00.000Z",
@@ -220,7 +451,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/"
   },
   {
-    "id": 21,
+    "id": 42,
     "title": "How to get the best hotel deals for TechCrunch Disrupt 2026 ",
     "category": "TECH",
     "date": "2026-08-04T22:18:30.000Z",
@@ -231,7 +462,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/"
   },
   {
-    "id": 22,
+    "id": 43,
     "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
     "category": "BUSINESS",
     "date": "2026-08-04T22:10:00.000Z",
@@ -242,18 +473,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 23,
-    "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-    "category": "TECH",
-    "date": "2026-08-04T22:06:07.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
-    "content": "<h2>概要</h2><p>The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.</p><p><a href=\"https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/"
-  },
-  {
-    "id": 24,
+    "id": 44,
     "title": "Now you can securely link multiple phones to one Signal account",
     "category": "TECH",
     "date": "2026-08-04T22:02:46.000Z",
@@ -264,7 +484,7 @@
     "sourceUrl": "https://www.theverge.com/tech/975407/signal-linked-devices-sync"
   },
   {
-    "id": 25,
+    "id": 45,
     "title": " Watch SpaceX launch 3 giant BlueBird direct-to-cell satellites early on Aug. 5 ",
     "category": "SPACE",
     "date": "2026-08-04T22:00:00.000Z",
@@ -275,18 +495,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-ast-spacemobile-11-13-direct-to-cell-satellites"
   },
   {
-    "id": 26,
-    "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-    "category": "TECH",
-    "date": "2026-08-04T21:57:19.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
-    "content": "<h2>概要</h2><p>Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Technology",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 27,
+    "id": 46,
     "title": "Senators demand crackdown on wildfire \"prediction markets\"",
     "category": "TECH",
     "date": "2026-08-04T21:52:31.000Z",
@@ -297,18 +506,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/"
   },
   {
-    "id": 28,
-    "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-    "category": "WORLD",
-    "date": "2026-08-04T21:45:20.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-    "content": "<h2>概要</h2><p>About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 29,
+    "id": 47,
     "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
     "category": "TECH",
     "date": "2026-08-04T21:27:05.000Z",
@@ -319,7 +517,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/"
   },
   {
-    "id": 30,
+    "id": 48,
     "title": "NASA's PUNCH sharpens solar storm forecasting in first test",
     "category": "SPACE",
     "date": "2026-08-04T21:10:03.000Z",
@@ -330,7 +528,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-nasa-sharpens-solar-storm.html"
   },
   {
-    "id": 31,
+    "id": 49,
     "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
     "category": "TECH",
     "date": "2026-08-04T21:07:26.000Z",
@@ -341,7 +539,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
   },
   {
-    "id": 32,
+    "id": 50,
     "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
     "category": "TECH",
     "date": "2026-08-04T20:57:49.000Z",
@@ -352,29 +550,7 @@
     "sourceUrl": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen"
   },
   {
-    "id": 33,
-    "title": "SpaceX made more revenue as an AI company than a space company",
-    "category": "TECH",
-    "date": "2026-08-04T20:47:55.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its value, lost $1.5 billion this quarter, slightly less than in the same quarter last year.\nSpaceX made deals with Anthropic in May and Google in June to provide compute to the other two AI companies, putting it in competition with other neoclouds such as CoreWeave. The increased presence in AI is also driving the company to spend mor …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its value, lost $1.5 billion this quarter, slightly less than in the same quarter last year.\nSpaceX made deals with Anthropic in May and Google in June to provide compute to the other two AI companies, putting it in competition with other neoclouds such as CoreWeave. The increased presence in AI is also driving the company to spend mor …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud"
-  },
-  {
-    "id": 34,
-    "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-    "category": "TECH",
-    "date": "2026-08-04T20:36:30.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
-    "content": "<h2>概要</h2><p>SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.</p><p><a href=\"https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/"
-  },
-  {
-    "id": 35,
+    "id": 51,
     "title": "Texas halts data center connections to power grid amid overwhelming demand",
     "category": "TECH",
     "date": "2026-08-04T20:34:28.000Z",
@@ -385,7 +561,7 @@
     "sourceUrl": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
   },
   {
-    "id": 36,
+    "id": 52,
     "title": "Past is prologue for geopolitical developments",
     "category": "TECH",
     "date": "2026-08-04T20:25:00.000Z",
@@ -396,18 +572,7 @@
     "sourceUrl": "https://news.mit.edu/2026/past-prologue-geopolitical-developments-0804"
   },
   {
-    "id": 37,
-    "title": "EA is now a private company",
-    "category": "TECH",
-    "date": "2026-08-04T20:18:14.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ss_34588453e785e37518c3e448c91563c25ea0de95.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully closed. The PIF will reportedly own 93.4 percent of the new company.\nThe deal includes $20 billion of debt financing - making it the largest leveraged buyout ever - which could mean big changes at EA to justify the deal. As of late, EA has been focusing heavily on its big tentpole franchises, including things like Battlefield, its sports games l …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully closed. The PIF will reportedly own 93.4 percent of the new company.\nThe deal includes $20 billion of debt financing - making it the largest leveraged buyout ever - which could mean big changes at EA to justify the deal. As of late, EA has been focusing heavily on its big tentpole franchises, including things like Battlefield, its sports games l …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/games/974736/ea-private-company-deal-closed\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/games/974736/ea-private-company-deal-closed"
-  },
-  {
-    "id": 38,
+    "id": 53,
     "title": "Ukraine's air defenses are proving to be a weak point",
     "category": "WORLD",
     "date": "2026-08-04T20:16:33.000Z",
@@ -418,7 +583,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/04/nx-s1-5909140/ukraines-air-defenses-are-proving-to-be-a-weak-point"
   },
   {
-    "id": 39,
+    "id": 54,
     "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
     "category": "SPACE",
     "date": "2026-08-04T20:00:14.000Z",
@@ -429,7 +594,7 @@
     "sourceUrl": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/"
   },
   {
-    "id": 40,
+    "id": 55,
     "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
     "category": "SPACE",
     "date": "2026-08-04T20:00:14.000Z",
@@ -440,7 +605,7 @@
     "sourceUrl": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/"
   },
   {
-    "id": 41,
+    "id": 56,
     "title": "Reframing leadership as a design problem",
     "category": "TECH",
     "date": "2026-08-04T20:00:00.000Z",
@@ -451,7 +616,7 @@
     "sourceUrl": "https://news.mit.edu/2026/reframing-leadership-design-problem-nicholas-de-monchaux-0804"
   },
   {
-    "id": 42,
+    "id": 57,
     "title": "Mapping the upper atmosphere with public Starlink satellite data",
     "category": "SPACE",
     "date": "2026-08-04T19:10:02.000Z",
@@ -462,7 +627,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-upper-atmosphere-starlink-satellite.html"
   },
   {
-    "id": 43,
+    "id": 58,
     "title": "Solving the solvent problem  ",
     "category": "TECH",
     "date": "2026-08-04T18:50:00.000Z",
@@ -473,7 +638,7 @@
     "sourceUrl": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804"
   },
   {
-    "id": 44,
+    "id": 59,
     "title": "Solving the solvent problem  ",
     "category": "TECH",
     "date": "2026-08-04T18:50:00.000Z",
@@ -484,7 +649,7 @@
     "sourceUrl": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804"
   },
   {
-    "id": 45,
+    "id": 60,
     "title": "Marshall Stanmore IV vs. Sonos Era 300: I tested both to find the ultimate home speaker",
     "category": "TECH",
     "date": "2026-08-04T18:13:00.000Z",
@@ -495,7 +660,7 @@
     "sourceUrl": "https://www.zdnet.com/article/marshall-stanmore-4-vs-sonos-era-300/"
   },
   {
-    "id": 46,
+    "id": 61,
     "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
     "category": "SPACE",
     "date": "2026-08-04T18:02:55.000Z",
@@ -506,7 +671,7 @@
     "sourceUrl": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/"
   },
   {
-    "id": 47,
+    "id": 62,
     "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
     "category": "SPACE",
     "date": "2026-08-04T18:02:55.000Z",
@@ -517,7 +682,7 @@
     "sourceUrl": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/"
   },
   {
-    "id": 48,
+    "id": 63,
     "title": "15+ gadgets that can upgrade your dorm room from basic to better",
     "category": "TECH",
     "date": "2026-08-04T18:01:50.000Z",
@@ -528,7 +693,7 @@
     "sourceUrl": "https://www.zdnet.com/article/everything-you-need-for-a-college-dorm-2026/"
   },
   {
-    "id": 49,
+    "id": 64,
     "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
     "category": "WORLD",
     "date": "2026-08-04T18:01:04.000Z",
@@ -539,7 +704,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war"
   },
   {
-    "id": 50,
+    "id": 65,
     "title": " When a total solar eclipse darkens the sky on Aug. 12, these citizen scientists will be watching ",
     "category": "SPACE",
     "date": "2026-08-04T18:00:00.000Z",
@@ -550,29 +715,7 @@
     "sourceUrl": "https://www.space.com/stargazing/solar-eclipses/when-a-total-solar-eclipse-darkens-the-sky-on-aug-12-these-citizen-scientists-will-be-watching"
   },
   {
-    "id": 51,
-    "title": " August full moon 2026: When, where and how to see the Sturgeon Moon ",
-    "category": "SPACE",
-    "date": "2026-08-04T17:48:57.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/qivTjSBxQsuq5vzsuop6KU-1280-80.jpg",
-    "summary": "Your guide to August's full Sturgeon Moon, from peak times to skywatching highlights.",
-    "content": "<h2>概要</h2><p>Your guide to August's full Sturgeon Moon, from peak times to skywatching highlights.</p><p><a href=\"https://www.space.com/stargazing/august-full-moon-2026-when-where-and-how-to-see-the-sturgeon-moon\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/stargazing/august-full-moon-2026-when-where-and-how-to-see-the-sturgeon-moon"
-  },
-  {
-    "id": 52,
-    "title": " SpaceX launches Starlink satellites on 90th Falcon 9 flight of the year (video) ",
-    "category": "SPACE",
-    "date": "2026-08-04T17:37:29.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/Wd96q9kNwWgYEVADQKNaMV-1280-80.jpg",
-    "summary": "SpaceX launched 24 more of its Starlink internet satellites to low Earth orbit today (Aug. 4), on the 90th Falcon 9 rocket flight of 2026.",
-    "content": "<h2>概要</h2><p>SpaceX launched 24 more of its Starlink internet satellites to low Earth orbit today (Aug. 4), on the 90th Falcon 9 rocket flight of 2026.</p><p><a href=\"https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-53-ocisly\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-53-ocisly"
-  },
-  {
-    "id": 53,
+    "id": 66,
     "title": "China is Tesla's cash cow, but for how much longer?",
     "category": "TECH",
     "date": "2026-08-04T17:34:48.000Z",
@@ -583,18 +726,7 @@
     "sourceUrl": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/"
   },
   {
-    "id": 54,
-    "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-    "category": "WORLD",
-    "date": "2026-08-04T17:26:06.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
-    "content": "<h2>概要</h2><p>Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 55,
+    "id": 67,
     "title": "Ames Science Stars of the Month – August 2026",
     "category": "SPACE",
     "date": "2026-08-04T17:08:04.000Z",
@@ -605,7 +737,7 @@
     "sourceUrl": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/"
   },
   {
-    "id": 56,
+    "id": 68,
     "title": "Ames Science Stars of the Month – August 2026",
     "category": "SPACE",
     "date": "2026-08-04T17:08:04.000Z",
@@ -616,7 +748,7 @@
     "sourceUrl": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/"
   },
   {
-    "id": 57,
+    "id": 69,
     "title": "Mapping monsters: Data release unveils all-sky views of supermassive black holes",
     "category": "SPACE",
     "date": "2026-08-04T17:00:05.000Z",
@@ -627,7 +759,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-monsters-unveils-sky-views-supermassive.html"
   },
   {
-    "id": 58,
+    "id": 70,
     "title": "Rubin Observatory Reveals More Than Half a Million Galaxies in Landmark First Science Image",
     "category": "MYSTERY",
     "date": "2026-08-04T16:48:14.000Z",
@@ -638,7 +770,7 @@
     "sourceUrl": "https://thedebrief.org/rubin-observatory-reveals-more-than-half-a-million-galaxies-in-landmark-first-science-image/"
   },
   {
-    "id": 59,
+    "id": 71,
     "title": "Designing memory-centric chips for future space telescopes",
     "category": "SPACE",
     "date": "2026-08-04T16:40:01.000Z",
@@ -649,7 +781,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-memory-centric-chips-future-space.html"
   },
   {
-    "id": 60,
+    "id": 72,
     "title": "Europe's heat wave fuels drought, wildfires and fears about energy supplies",
     "category": "WORLD",
     "date": "2026-08-04T16:37:38.000Z",
@@ -660,7 +792,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires"
   },
   {
-    "id": 61,
+    "id": 73,
     "title": "August 2026 Satellite Puzzler",
     "category": "SPACE",
     "date": "2026-08-04T16:31:46.000Z",
@@ -671,7 +803,7 @@
     "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/"
   },
   {
-    "id": 62,
+    "id": 74,
     "title": "August 2026 Satellite Puzzler",
     "category": "SPACE",
     "date": "2026-08-04T16:31:46.000Z",
@@ -682,7 +814,7 @@
     "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/"
   },
   {
-    "id": 63,
+    "id": 75,
     "title": "The Ninja Slushi makes vacation-worthy frozen drinks, and I highly recommend it (especially on sale)",
     "category": "TECH",
     "date": "2026-08-04T16:27:34.000Z",
@@ -693,7 +825,7 @@
     "sourceUrl": "https://www.zdnet.com/article/ninja-slushi-88-deal/"
   },
   {
-    "id": 64,
+    "id": 76,
     "title": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
     "category": "SPACE",
     "date": "2026-08-04T16:14:51.000Z",
@@ -704,7 +836,7 @@
     "sourceUrl": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/"
   },
   {
-    "id": 65,
+    "id": 77,
     "title": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
     "category": "SPACE",
     "date": "2026-08-04T16:14:51.000Z",
@@ -715,7 +847,7 @@
     "sourceUrl": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/"
   },
   {
-    "id": 66,
+    "id": 78,
     "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
     "category": "TECH",
     "date": "2026-08-04T16:11:05.000Z",
@@ -726,7 +858,7 @@
     "sourceUrl": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/"
   },
   {
-    "id": 67,
+    "id": 79,
     "title": "Scientists Develop New 3D Printing Method That Can Build Directly Onto Existing Objects in Seconds",
     "category": "MYSTERY",
     "date": "2026-08-04T15:54:24.000Z",
@@ -737,7 +869,7 @@
     "sourceUrl": "https://thedebrief.org/scientists-develop-new-3d-printing-method-that-can-build-directly-onto-existing-objects-in-seconds/"
   },
   {
-    "id": 68,
+    "id": 80,
     "title": "Sennheiser Momentum 5 vs. Bowers & Wilkins Px7 S3: I tested both, and one wins nearly every metric",
     "category": "TECH",
     "date": "2026-08-04T15:45:46.000Z",
@@ -748,18 +880,7 @@
     "sourceUrl": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-bowers-wilkins-px7-s3/"
   },
   {
-    "id": 69,
-    "title": "Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal",
-    "category": "TECH",
-    "date": "2026-08-04T15:29:45.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Facing a growing drone threat, the Pentagon is poised to sign a first-of-its-kind contract for “Enduring High Energy Lasers”—and make directed energy weapons an official part of the Army’s kit.",
-    "content": "<h2>概要</h2><p>Facing a growing drone threat, the Pentagon is poised to sign a first-of-its-kind contract for “Enduring High Energy Lasers”—and make directed energy weapons an official part of the Army’s kit.</p><p><a href=\"https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/"
-  },
-  {
-    "id": 70,
+    "id": 81,
     "title": "This Android launcher made my home screen fun again - and I'm using the free version",
     "category": "TECH",
     "date": "2026-08-04T15:22:00.000Z",
@@ -770,18 +891,7 @@
     "sourceUrl": "https://www.zdnet.com/article/mango-launcher-might-be-the-most-enjoyable-home-screen-on-the-market/"
   },
   {
-    "id": 71,
-    "title": "Astronomers catch massive star's death from the first explosive moment",
-    "category": "SPACE",
-    "date": "2026-08-04T15:00:05.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "In March 2026, the Einstein Probe detected a brief flash of soft X-rays emitted from a galaxy about 500 million light-years away. The flash, dubbed EP260321a, immediately triggered a worldwide observing campaign. Within an hour, ground-based telescopes began monitoring the source, revealing a rapidly brightening supernova, later designated SN 2026gzf. Two teams of scientists used several NSF NOIRLab facilities to observe the event and monitor its evolving light profile.",
-    "content": "<h2>概要</h2><p>In March 2026, the Einstein Probe detected a brief flash of soft X-rays emitted from a galaxy about 500 million light-years away. The flash, dubbed EP260321a, immediately triggered a worldwide observing campaign. Within an hour, ground-based telescopes began monitoring the source, revealing a rapidly brightening supernova, later designated SN 2026gzf. Two teams of scientists used several NSF NOIRLab facilities to observe the event and monitor its evolving light profile.</p><p><a href=\"https://phys.org/news/2026-08-astronomers-massive-star-death-explosive.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-08-astronomers-massive-star-death-explosive.html"
-  },
-  {
-    "id": 72,
+    "id": 82,
     "title": "Metasurface Breakthrough Makes Blistering Laser Light Speeds a Reality",
     "category": "MYSTERY",
     "date": "2026-08-04T12:24:50.000Z",
@@ -792,7 +902,7 @@
     "sourceUrl": "https://thedebrief.org/metasurface-breakthrough-makes-blistering-laser-light-speeds-a-reality/"
   },
   {
-    "id": 73,
+    "id": 83,
     "title": "The Download: US robot restrictions, and ICE’s DNA grab",
     "category": "TECH",
     "date": "2026-08-04T12:14:00.000Z",
@@ -803,7 +913,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
   },
   {
-    "id": 74,
+    "id": 84,
     "title": "The Download: US robot restrictions, and ICE’s DNA grab",
     "category": "TECH",
     "date": "2026-08-04T12:14:00.000Z",
@@ -814,7 +924,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
   },
   {
-    "id": 75,
+    "id": 85,
     "title": "Max Planck eROSITA Team Releases the Most Comprehensive Census of the High-Energy Universe Ever Assembled",
     "category": "MYSTERY",
     "date": "2026-08-04T12:08:19.000Z",
@@ -825,29 +935,7 @@
     "sourceUrl": "https://thedebrief.org/max-planck-erosita-team-releases-the-most-comprehensive-census-of-the-high-energy-universe-ever-assembled/"
   },
   {
-    "id": 76,
-    "title": "The Best Gaming Mouse You Can Buy After Testing Dozens of Models",
-    "category": "TECH",
-    "date": "2026-08-04T12:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "From wired to wireless to ultralight, we've tested dozens of gaming mice to find the best for work, your next MMO, and everything in between.",
-    "content": "<h2>概要</h2><p>From wired to wireless to ultralight, we've tested dozens of gaming mice to find the best for work, your next MMO, and everything in between.</p><p><a href=\"https://www.wired.com/gallery/best-gaming-mouse/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/gallery/best-gaming-mouse/"
-  },
-  {
-    "id": 77,
-    "title": "Purple Carrot Meal Kit Review: Tastier Than Meal Kits With Meat",
-    "category": "TECH",
-    "date": "2026-08-04T11:34:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "I’m an omnivore. Purple Carrot’s vegan meal kit offers some of the best cooking I’ve seen from any meal kit, with or without meat.",
-    "content": "<h2>概要</h2><p>I’m an omnivore. Purple Carrot’s vegan meal kit offers some of the best cooking I’ve seen from any meal kit, with or without meat.</p><p><a href=\"https://www.wired.com/review/purple-carrot-meal-kit-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/review/purple-carrot-meal-kit-2026/"
-  },
-  {
-    "id": 78,
+    "id": 86,
     "title": "Apple issues new challenge against UK order for access to private user data",
     "category": "TECH",
     "date": "2026-08-04T10:22:40.000Z",
@@ -858,7 +946,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 79,
+    "id": 87,
     "title": "The benefits of medical AI assistance vary based on user expertise",
     "category": "TECH",
     "date": "2026-08-04T09:00:00.000Z",
@@ -869,7 +957,7 @@
     "sourceUrl": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804"
   },
   {
-    "id": 80,
+    "id": 88,
     "title": "The benefits of medical AI assistance vary based on user expertise",
     "category": "TECH",
     "date": "2026-08-04T09:00:00.000Z",
@@ -880,7 +968,7 @@
     "sourceUrl": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804"
   },
   {
-    "id": 81,
+    "id": 89,
     "title": "ESA and Pokémon team up to celebrate World Space Week",
     "category": "SPACE",
     "date": "2026-08-04T08:00:00.000Z",
@@ -891,7 +979,7 @@
     "sourceUrl": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week"
   },
   {
-    "id": 82,
+    "id": 90,
     "title": "Nauru, the world's 3rd-smallest country, changes its name to Naoero",
     "category": "WORLD",
     "date": "2026-08-04T06:59:01.000Z",
@@ -902,18 +990,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change"
   },
   {
-    "id": 83,
-    "title": "Alexander Rakhlin named director of  the MIT Statistics and Data Science Center",
-    "category": "TECH",
-    "date": "2026-08-03T19:50:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "An expert in machine learning, statistics, and computation, Rakhlin succeeds Professor Ankur Moitra.",
-    "content": "<h2>概要</h2><p>An expert in machine learning, statistics, and computation, Rakhlin succeeds Professor Ankur Moitra.</p><p><a href=\"https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News",
-    "sourceUrl": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803"
-  },
-  {
-    "id": 84,
+    "id": 91,
     "title": "Alexander Rakhlin named director of  the MIT Statistics and Data Science Center",
     "category": "TECH",
     "date": "2026-08-03T19:50:00.000Z",
@@ -924,7 +1001,7 @@
     "sourceUrl": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803"
   },
   {
-    "id": 85,
+    "id": 92,
     "title": "Alexander Rakhlin named director of  the MIT Statistics and Data Science Center",
     "category": "SCIENCE",
     "date": "2026-08-03T19:50:00.000Z",
@@ -935,7 +1012,7 @@
     "sourceUrl": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803"
   },
   {
-    "id": 86,
+    "id": 93,
     "title": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
     "category": "WORLD",
     "date": "2026-08-03T19:05:41.000Z",
@@ -946,7 +1023,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/03/nx-s1-5910714/brazil-cuba-migration"
   },
   {
-    "id": 87,
+    "id": 94,
     "title": "Trump’s AI protectionism has come for robotics",
     "category": "TECH",
     "date": "2026-08-03T18:43:30.000Z",
@@ -957,7 +1034,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   },
   {
-    "id": 88,
+    "id": 95,
     "title": "Trump’s AI protectionism has come for robotics",
     "category": "TECH",
     "date": "2026-08-03T18:43:30.000Z",
@@ -968,7 +1045,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   },
   {
-    "id": 89,
+    "id": 96,
     "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
     "category": "WORLD",
     "date": "2026-08-03T17:44:01.000Z",
@@ -979,7 +1056,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen"
   },
   {
-    "id": 90,
+    "id": 97,
     "title": "Connecting students with the future of microelectronics",
     "category": "TECH",
     "date": "2026-08-03T17:30:00.000Z",
@@ -990,7 +1067,7 @@
     "sourceUrl": "https://news.mit.edu/2026/connecting-students-future-microelectronics-0803"
   },
   {
-    "id": 91,
+    "id": 98,
     "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
     "category": "WORLD",
     "date": "2026-08-03T16:05:20.000Z",
@@ -1001,18 +1078,7 @@
     "sourceUrl": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest"
   },
   {
-    "id": 92,
-    "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
-    "category": "WORLD",
-    "date": "2026-08-03T14:13:01.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Juan Jesús Vivas says influx seen as ‘at least encouraged or permitted’ by Rabat, as Spain demands EU solidarity\n\nExplainer: why is Ceuta a migration flashpoint?\n\nA growing chorus of voices has accused Morocco of helping to fuel the crisis in Ceuta, with the leader of the Spanish enclave describing last week’s border crossings as an attack on Spain’s territorial integrity that was seen as being “if not orchestrated, at least encouraged or permitted by Morocco”.\nSpanish officials ⁠said on Monday that an estimated 69,500 people who had arrived late last week in Ceuta, a tiny Spanish territory in north Africa, had returned to Morocco in recent days. About 2,500 people who had made the crossing were believed to still be in Ceuta.\n Continue reading...",
-    "content": "<h2>概要</h2><p>Juan Jesús Vivas says influx seen as ‘at least encouraged or permitted’ by Rabat, as Spain demands EU solidarity\n\nExplainer: why is Ceuta a migration flashpoint?\n\nA growing chorus of voices has accused Morocco of helping to fuel the crisis in Ceuta, with the leader of the Spanish enclave describing last week’s border crossings as an attack on Spain’s territorial integrity that was seen as being “if not orchestrated, at least encouraged or permitted by Morocco”.\nSpanish officials ⁠said on Monday that an estimated 69,500 people who had arrived late last week in Ceuta, a tiny Spanish territory in north Africa, had returned to Morocco in recent days. About 2,500 people who had made the crossing were believed to still be in Ceuta.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain"
-  },
-  {
-    "id": 93,
+    "id": 99,
     "title": "Mystery of Martian “Honeycombs” Deepens with Discovery of Unusual Patterns by NASA’s Curiosity Rover",
     "category": "MYSTERY",
     "date": "2026-08-03T13:30:53.000Z",
@@ -1023,7 +1089,7 @@
     "sourceUrl": "https://thedebrief.org/mystery-of-martian-honeycombs-deepens-with-discovery-of-unusual-patterns-by-nasas-curiosity-rover/"
   },
   {
-    "id": 94,
+    "id": 100,
     "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
     "category": "TECH",
     "date": "2026-08-03T12:08:00.000Z",
@@ -1034,7 +1100,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
   },
   {
-    "id": 95,
+    "id": 101,
     "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
     "category": "TECH",
     "date": "2026-08-03T12:08:00.000Z",
@@ -1045,7 +1111,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
   },
   {
-    "id": 96,
+    "id": 102,
     "title": "The journey of Sophie Adenot's bonus food",
     "category": "SPACE",
     "date": "2026-08-03T12:00:00.000Z",
@@ -1056,18 +1122,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/The_journey_of_Sophie_Adenot_s_bonus_food"
   },
   {
-    "id": 97,
-    "title": "Turning molecules into reliable electronic devices",
-    "category": "TECH",
-    "date": "2026-08-03T09:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new fabrication platform integrates molecules into electronic devices, opening the door to emerging computing technologies.",
-    "content": "<h2>概要</h2><p>A new fabrication platform integrates molecules into electronic devices, opening the door to emerging computing technologies.</p><p><a href=\"https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News Engineering",
-    "sourceUrl": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803"
-  },
-  {
-    "id": 98,
+    "id": 103,
     "title": "Turning molecules into reliable electronic devices",
     "category": "SCIENCE",
     "date": "2026-08-03T09:00:00.000Z",
@@ -1078,81 +1133,26 @@
     "sourceUrl": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803"
   },
   {
-    "id": 99,
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "category": "TECH",
-    "date": "2026-08-03T08:30:05.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
-    "content": "<h2>概要</h2><p>MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…</p><p><a href=\"https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
-  },
-  {
-    "id": 100,
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "category": "TECH",
-    "date": "2026-08-03T08:30:05.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
-    "content": "<h2>概要</h2><p>MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…</p><p><a href=\"https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
-  },
-  {
-    "id": 101,
-    "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
-    "category": "WORLD",
-    "date": "2026-08-02T13:11:56.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects\nFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about 400 people had swum from Morocco to the neighbouring Spanish enclave of Ceuta on the north African coast, approximately 12 miles (19km) across the strait of Gibraltar from mainland Spain.\nHere was a chance for the 44-year-old Moroccan father of four to return to Spain, from which he had been deported when his residency expired after the loss of his job in Bilbao in 2019.\n Continue reading...",
-    "content": "<h2>概要</h2><p>People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects\nFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about 400 people had swum from Morocco to the neighbouring Spanish enclave of Ceuta on the north African coast, approximately 12 miles (19km) across the strait of Gibraltar from mainland Spain.\nHere was a chance for the 44-year-old Moroccan father of four to return to Spain, from which he had been deported when his residency expired after the loss of his job in Bilbao in 2019.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco"
-  },
-  {
-    "id": 102,
-    "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
-    "category": "WORLD",
-    "date": "2026-08-02T04:00:11.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’\nA growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures and a global pushback against LGBTQ+ rights.\nIn March, Senegal doubled the maximum prison sentence for gay sex to 10 years and criminalised the “promotion” of homosexuality. Niger criminalised “sexual relations with a person of the same sex” in February, the first time same-sex intimacy had been outlawed in the country.\n Continue reading...",
-    "content": "<h2>概要</h2><p>Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’\nA growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures and a global pushback against LGBTQ+ rights.\nIn March, Senegal doubled the maximum prison sentence for gay sex to 10 years and criminalised the “promotion” of homosexuality. Niger criminalised “sexual relations with a person of the same sex” in February, the first time same-sex intimacy had been outlawed in the country.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn"
-  },
-  {
-    "id": 103,
-    "title": "How to safely watch a solar eclipse",
-    "category": "SPACE",
-    "date": "2026-07-31T14:00:00.000Z",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/how_to_safely_watch_a_solar_eclipse/27395405-1-eng-GB/How_to_safely_watch_a_solar_eclipse_card_full.png",
-    "summary": "Video: \n\t\t\t00:01:34\n\t\t\t\t\n[English]: A solar eclipse is an unforgettable sight, but only if you watch it safely!\nESA reserve astronaut Sara García Alonso shows you how to enjoy this incredible cosmic event using certified eclipse glasses and explains why ordinary sunglasses are not enough.\nLearn what happens during the different stages of an eclipse, when it is safe to look up, and how to experience one of the greatest shows in the Solar System without risking your eyes.\n[Spanish]: Un eclipse solar es un espectáculo inolvidable, ¡pero solo si lo observas de forma Segura!\nEl astronauta de reserva de la ESA Pablo Álvarez Fernández te explica cómo disfrutar de este increíble fenómeno cósmico utilizando gafas de eclipse certificadas y por qué unas gafas de sol normales no son suficientes.\nDescubre qué ocurre durante las distintas fases de un eclipse, cuándo es seguro mirar al Sol y cómo disfrutar de uno de los mayores espectáculos del Sistema Solar sin poner en Riesgo tu vista.",
-    "content": "<h2>概要</h2><p>Video: \n\t\t\t00:01:34\n\t\t\t\t\n[English]: A solar eclipse is an unforgettable sight, but only if you watch it safely!\nESA reserve astronaut Sara García Alonso shows you how to enjoy this incredible cosmic event using certified eclipse glasses and explains why ordinary sunglasses are not enough.\nLearn what happens during the different stages of an eclipse, when it is safe to look up, and how to experience one of the greatest shows in the Solar System without risking your eyes.\n[Spanish]: Un eclipse solar es un espectáculo inolvidable, ¡pero solo si lo observas de forma Segura!\nEl astronauta de reserva de la ESA Pablo Álvarez Fernández te explica cómo disfrutar de este increíble fenómeno cósmico utilizando gafas de eclipse certificadas y por qué unas gafas de sol normales no son suficientes.\nDescubre qué ocurre durante las distintas fases de un eclipse, cuándo es seguro mirar al Sol y cómo disfrutar de uno de los mayores espectáculos del Sistema Solar sin poner en Riesgo tu vista.</p><p><a href=\"https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ESA Top News",
-    "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse"
-  },
-  {
     "id": 104,
-    "title": "The Download: Montana’s new experimental drug rules",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
     "category": "TECH",
-    "date": "2026-07-31T12:16:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MA25-ota-01.jpg?w=840",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…</p><p><a href=\"https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/\" target=\"_blank\">出典記事を読む</a></p>",
+    "date": "2026-08-03T08:30:05.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
+    "content": "<h2>概要</h2><p>MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…</p><p><a href=\"https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
+    "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
   },
   {
     "id": 105,
-    "title": "The Download: Montana’s new experimental drug rules",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
     "category": "TECH",
-    "date": "2026-07-31T12:16:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MA25-ota-01.jpg?w=840",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…</p><p><a href=\"https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/\" target=\"_blank\">出典記事を読む</a></p>",
+    "date": "2026-08-03T08:30:05.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
+    "content": "<h2>概要</h2><p>MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…</p><p><a href=\"https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
+    "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
   },
   {
     "id": 106,
@@ -1189,14 +1189,14 @@
   },
   {
     "id": 109,
-    "title": "Join ESA for a total solar eclipse on 12 August 2026",
+    "title": "Watch the total solar eclipse with ESA in León",
     "category": "SPACE",
-    "date": "2026-05-21T13:00:00.000Z",
+    "date": "2026-07-23T10:00:00.000Z",
     "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
-    "summary": "Follow the total solar eclipse with the European Space Agency (ESA), in person or online.",
-    "content": "<h2>概要</h2><p>Follow the total solar eclipse with the European Space Agency (ESA), in person or online.</p><p><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Discover the science behind one of nature's most extraordinary phenomena and experience a total solar eclipse with the European Space Agency (ESA), the City of León and the University of León.\n\nQuick links:\nOverview of all ESA activities, including videos, graphics and educational activities\ndaytime programme and evening programme\n- How to watch live from home (12 August, 19:30–20:45 CEST)",
+    "content": "<h2>概要</h2><p>Discover the science behind one of nature's most extraordinary phenomena and experience a total solar eclipse with the European Space Agency (ESA), the City of León and the University of León.\n\nQuick links:\nOverview of all ESA activities, including videos, graphics and educational activities\ndaytime programme and evening programme\n- How to watch live from home (12 August, 19:30–20:45 CEST)</p><p><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "ESA Top News",
-    "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026"
+    "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon"
   },
   {
     "id": 110,
