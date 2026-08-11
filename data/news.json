@@ -1,28 +1,204 @@
 [
   {
     "id": 1,
-    "title": "At least 132 killed in Colombia's largest  earthquake in years",
-    "category": "WORLD",
-    "date": "2026-08-11T01:59:40.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
-    "content": "<h2>概要</h2><p>The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
+    "title": "Jackie, the California bald eagle who became an internet sensation, dies after illness",
+    "category": "SCIENCE",
+    "date": "2026-08-11T07:10:02.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Jackie, the bald eagle who became an internet sensation and a symbol of the species' recovery in California, died Monday after being treated for an illness at a veterinary facility, her caretakers announced.",
+    "content": "<h2>概要</h2><p>Jackie, the bald eagle who became an internet sensation and a symbol of the species' recovery in California, died Monday after being treated for an illness at a veterinary facility, her caretakers announced.</p><p><a href=\"https://phys.org/news/2026-08-jackie-california-bald-eagle-internet.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-jackie-california-bald-eagle-internet.html"
   },
   {
     "id": 2,
     "title": "Trump Media reports $238m loss as crypto falls",
     "category": "BUSINESS",
-    "date": "2026-08-11T01:12:11.000Z",
+    "date": "2026-08-11T06:55:32.000Z",
     "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The firm says it will refocus on its social media mission, which includes a controversial service that sells faster access to Trump's market-moving posts.",
-    "content": "<h2>概要</h2><p>The firm says it will refocus on its social media mission, which includes a controversial service that sells faster access to Trump's market-moving posts.</p><p><a href=\"https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
+    "content": "<h2>概要</h2><p>The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.</p><p><a href=\"https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC Business",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": 3,
+    "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+    "category": "SCIENCE",
+    "date": "2026-08-11T06:36:14.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A powerful 7.4 magnitude earthquake struck western Colombia on Monday, killing at least 111 people, damaging hundreds of buildings and leaving many trapped under debris while their loved ones and rescue workers searched through rubble.",
+    "content": "<h2>概要</h2><p>A powerful 7.4 magnitude earthquake struck western Colombia on Monday, killing at least 111 people, damaging hundreds of buildings and leaving many trapped under debris while their loved ones and rescue workers searched through rubble.</p><p><a href=\"https://phys.org/news/2026-08-magnitude-quake-western-colombia-people.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-magnitude-quake-western-colombia-people.html"
+  },
+  {
+    "id": 4,
+    "title": "Weather prediction hits a theoretical 129-day ceiling",
+    "category": "SCIENCE",
+    "date": "2026-08-11T06:32:13.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Prediction is the goal and test of all science, one might argue. Meteorologists have been curious about the inherent limits of weather forecasting ever since the dawn of numerical weather prediction in the late 1950s.",
+    "content": "<h2>概要</h2><p>Prediction is the goal and test of all science, one might argue. Meteorologists have been curious about the inherent limits of weather forecasting ever since the dawn of numerical weather prediction in the late 1950s.</p><p><a href=\"https://phys.org/news/2026-08-weather-theoretical-day-ceiling.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-weather-theoretical-day-ceiling.html"
+  },
+  {
+    "id": 5,
+    "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
+    "category": "WORLD",
+    "date": "2026-08-11T06:03:49.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2Fa5%2Ff0b096484b809113be37619d8e3e%2Fap26217518793774.jpg",
+    "summary": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.",
+    "content": "<h2>概要</h2><p>Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.</p><p><a href=\"https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants"
+  },
+  {
+    "id": 6,
+    "title": " Watch the total solar eclipse online Aug. 12 with these free livestreams ",
+    "category": "SPACE",
+    "date": "2026-08-11T06:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/Dh7toSqXT8DiBixsfDo2Y8-1280-80.jpg",
+    "summary": "Here's how to watch the Aug. 12 total solar eclipse live online for free.",
+    "content": "<h2>概要</h2><p>Here's how to watch the Aug. 12 total solar eclipse live online for free.</p><p><a href=\"https://www.space.com/stargazing/solar-eclipses/watch-the-total-solar-eclipse-online-aug-12-with-these-free-livestreams\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/stargazing/solar-eclipses/watch-the-total-solar-eclipse-online-aug-12-with-these-free-livestreams"
+  },
+  {
+    "id": 7,
+    "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+    "category": "WORLD",
+    "date": "2026-08-11T05:48:27.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2975x1983+0+0/resize/2975x1983!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F46%2Fb0%2F665362f4485f955873488ac91728%2Fap26221761800502.jpg",
+    "summary": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.",
+    "content": "<h2>概要</h2><p>The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.</p><p><a href=\"https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war"
+  },
+  {
+    "id": 8,
+    "title": "Chewy Promo Codes: $20 Off August 2026",
+    "category": "TECH",
+    "date": "2026-08-11T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more August 2026 discounts.",
+    "content": "<h2>概要</h2><p>Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more August 2026 discounts.</p><p><a href=\"https://www.wired.com/story/chewy-promo-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/chewy-promo-code/"
+  },
+  {
+    "id": 9,
+    "title": "Home Depot Promo Codes: 30% Off in August 2026",
+    "category": "TECH",
+    "date": "2026-08-11T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this August.",
+    "content": "<h2>概要</h2><p>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this August.</p><p><a href=\"https://www.wired.com/story/home-depot-promo-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/home-depot-promo-code/"
+  },
+  {
+    "id": 10,
+    "title": "LG Promo Codes and Coupons for August 2026",
+    "category": "TECH",
+    "date": "2026-08-11T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+    "content": "<h2>概要</h2><p>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</p><p><a href=\"https://www.wired.com/story/lg-promo-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/lg-promo-code/"
+  },
+  {
+    "id": 11,
+    "title": "Mattress Firm Coupons: Save up to $700 |",
+    "category": "TECH",
+    "date": "2026-08-11T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
+    "content": "<h2>概要</h2><p>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</p><p><a href=\"https://www.wired.com/story/mattress-firm-coupon/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/mattress-firm-coupon/"
+  },
+  {
+    "id": 12,
+    "title": "Best Buy Discount Codes: Up to 60% Off",
+    "category": "TECH",
+    "date": "2026-08-11T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
+    "content": "<h2>概要</h2><p>Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.</p><p><a href=\"https://www.wired.com/story/best-buy-discount-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/best-buy-discount-code/"
+  },
+  {
+    "id": 13,
+    "title": "At least 132 killed in Colombia's largest  earthquake in years",
+    "category": "WORLD",
+    "date": "2026-08-11T04:06:07.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+    "content": "<h2>概要</h2><p>More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 14,
+    "title": "APOD: 2026 August 11 – Six Moons of Saturn",
+    "category": "SPACE",
+    "date": "2026-08-11T04:05:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/2026-08-05-0609_7-SaturnSystem_c.jpg?w=1000&#038;h=896&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Six Moons […]",
+    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Six Moons […]</p><p><a href=\"https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/"
+  },
+  {
+    "id": 15,
+    "title": "Bountiful Roebuck Bay ",
+    "category": "SPACE",
+    "date": "2026-08-11T04:01:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/bountiful-roebuck-bay/broomewater_oli_20260318.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region.",
+    "content": "<h2>概要</h2><p>Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/"
+  },
+  {
+    "id": 16,
+    "title": "On the hunt for dark matter",
+    "category": "TECH",
+    "date": "2026-08-11T04:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting for the universe’s most elusive particle.",
+    "content": "<h2>概要</h2><p>From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting for the universe’s most elusive particle.</p><p><a href=\"https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811"
+  },
+  {
+    "id": 17,
+    "title": "On the hunt for dark matter",
+    "category": "SCIENCE",
+    "date": "2026-08-11T04:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting for the universe’s most elusive particle.",
+    "content": "<h2>概要</h2><p>From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting for the universe’s most elusive particle.</p><p><a href=\"https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News Science",
+    "sourceUrl": "https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811"
+  },
+  {
+    "id": 18,
+    "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+    "category": "WORLD",
+    "date": "2026-08-11T03:39:40.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3375x2250+0+0/resize/3375x2250!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2Fa5%2F784e9cd34d2cb0873ca1b63ee34d%2Fap26222743359122.jpg",
+    "summary": "Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers.",
+    "content": "<h2>概要</h2><p>Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers.</p><p><a href=\"https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia"
+  },
+  {
+    "id": 19,
     "title": "Ancient Maltese seafarers likely navigated by the stars",
     "category": "SCIENCE",
     "date": "2026-08-11T00:20:01.000Z",
@@ -33,7 +209,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-ancient-maltese-seafarers-stars.html"
   },
   {
-    "id": 4,
+    "id": 20,
     "title": "OpenAI reportedly completed a $7 billion employee tender offer",
     "category": "TECH",
     "date": "2026-08-11T00:03:18.000Z",
@@ -44,7 +220,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
   },
   {
-    "id": 5,
+    "id": 21,
     "title": "Microplastics may transport hazardous plastic additives through marine environments",
     "category": "SCIENCE",
     "date": "2026-08-11T00:00:01.000Z",
@@ -55,7 +231,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-microplastics-hazardous-plastic-additives-marine.html"
   },
   {
-    "id": 6,
+    "id": 22,
     "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
     "category": "TECH",
     "date": "2026-08-10T23:56:15.000Z",
@@ -66,40 +242,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
   },
   {
-    "id": 7,
-    "title": "Scientific advancement has never been more prolific—so why has trust in science plummeted?",
-    "category": "SCIENCE",
-    "date": "2026-08-10T23:40:03.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "From genome editing to quantum computing, scientific progress is accelerating at an unprecedented pace, yet public faith in science is collapsing. Our species has mapped the human genome, created powerful computers that sit in the palms of our hands and extended human life spans beyond what our ancestors could have imagined—meanwhile, anti-intellectual movements are gaining momentum.",
-    "content": "<h2>概要</h2><p>From genome editing to quantum computing, scientific progress is accelerating at an unprecedented pace, yet public faith in science is collapsing. Our species has mapped the human genome, created powerful computers that sit in the palms of our hands and extended human life spans beyond what our ancestors could have imagined—meanwhile, anti-intellectual movements are gaining momentum.</p><p><a href=\"https://phys.org/news/2026-08-scientific-advancement-prolific-science-plummeted.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-scientific-advancement-prolific-science-plummeted.html"
-  },
-  {
-    "id": 8,
-    "title": "Machine learning predicts forest soil fungal diversity from drone images",
-    "category": "SCIENCE",
-    "date": "2026-08-10T23:40:02.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Combining drone data and machine learning can help cover more ground in monitoring forest soil health, University of Alberta research shows. The findings are published in the journal Forest Ecology and Management. Using both tools to map and monitor soil fungal diversity—a key indicator of a healthy forest ecosystem—proved highly effective and could help reduce the need for boots-on-the-ground soil sampling over huge areas of forest, says Dr. Cameron Carlyle, a professor in the Faculty of Agricultural, Life & Environmental Sciences and a co-author of the study.",
-    "content": "<h2>概要</h2><p>Combining drone data and machine learning can help cover more ground in monitoring forest soil health, University of Alberta research shows. The findings are published in the journal Forest Ecology and Management. Using both tools to map and monitor soil fungal diversity—a key indicator of a healthy forest ecosystem—proved highly effective and could help reduce the need for boots-on-the-ground soil sampling over huge areas of forest, says Dr. Cameron Carlyle, a professor in the Faculty of Agricultural, Life & Environmental Sciences and a co-author of the study.</p><p><a href=\"https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html"
-  },
-  {
-    "id": 9,
-    "title": "Traditional plastic forks shed harmful microplastics. Plastic created from sugar is an alternative",
-    "category": "SCIENCE",
-    "date": "2026-08-10T23:20:03.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "At a Massachusetts lab, pebble-sized pellets are transformed into forks and films that won't leave persistent microplastics in the environment.",
-    "content": "<h2>概要</h2><p>At a Massachusetts lab, pebble-sized pellets are transformed into forks and films that won't leave persistent microplastics in the environment.</p><p><a href=\"https://phys.org/news/2026-08-traditional-plastic-forks-microplastics-sugar.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-traditional-plastic-forks-microplastics-sugar.html"
-  },
-  {
-    "id": 10,
+    "id": 23,
     "title": "Jeff Bezos might finally get his hands on a sports team",
     "category": "TECH",
     "date": "2026-08-10T23:16:44.000Z",
@@ -110,7 +253,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/"
   },
   {
-    "id": 11,
+    "id": 24,
     "title": " 'Launching anywhere, anytime and without compromise': Rocket Lab unveils new 'GHOST' portable spaceport system ",
     "category": "SPACE",
     "date": "2026-08-10T22:43:51.000Z",
@@ -121,7 +264,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/launching-anywhere-anytime-and-without-compromise-rocket-lab-unveils-new-ghost-portable-spaceport-system"
   },
   {
-    "id": 12,
+    "id": 25,
     "title": "Monochrome No More: New Night-Vision Glasses Show Color",
     "category": "MYSTERY",
     "date": "2026-08-10T22:36:58.000Z",
@@ -132,8 +275,8 @@
     "sourceUrl": "https://singularityhub.com/2026/08/10/monochrome-no-more-new-night-vision-glasses-show-color/"
   },
   {
-    "id": 13,
-    "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+    "id": 26,
+    "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
     "category": "TECH",
     "date": "2026-08-10T22:31:42.000Z",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
@@ -143,8 +286,8 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 14,
-    "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+    "id": 27,
+    "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
     "category": "BUSINESS",
     "date": "2026-08-10T22:31:42.000Z",
     "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
@@ -154,7 +297,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 15,
+    "id": 28,
     "title": "Now Rippling is counter-suing tiny startup Runlayer",
     "category": "TECH",
     "date": "2026-08-10T22:26:54.000Z",
@@ -165,7 +308,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/"
   },
   {
-    "id": 16,
+    "id": 29,
     "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
     "category": "TECH",
     "date": "2026-08-10T22:23:43.000Z",
@@ -176,7 +319,7 @@
     "sourceUrl": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/"
   },
   {
-    "id": 17,
+    "id": 30,
     "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
     "category": "TECH",
     "date": "2026-08-10T22:13:03.000Z",
@@ -187,7 +330,7 @@
     "sourceUrl": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
   },
   {
-    "id": 18,
+    "id": 31,
     "title": "Mark Zuckerberg doesn’t understand how to live",
     "category": "TECH",
     "date": "2026-08-10T22:00:00.000Z",
@@ -198,7 +341,7 @@
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision"
   },
   {
-    "id": 19,
+    "id": 32,
     "title": "I tried Google Wallet's new allowance feature, and my kid already ditched their debit card",
     "category": "TECH",
     "date": "2026-08-10T21:57:00.000Z",
@@ -209,7 +352,7 @@
     "sourceUrl": "https://www.zdnet.com/article/i-tried-google-wallets-new-allowance-feature/"
   },
   {
-    "id": 20,
+    "id": 33,
     "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
     "category": "TECH",
     "date": "2026-08-10T21:42:56.000Z",
@@ -220,7 +363,7 @@
     "sourceUrl": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/"
   },
   {
-    "id": 21,
+    "id": 34,
     "title": "Councils to get more powers to stop vape and betting shops, PM announces",
     "category": "BUSINESS",
     "date": "2026-08-10T21:33:51.000Z",
@@ -231,7 +374,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 22,
+    "id": 35,
     "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
     "category": "TECH",
     "date": "2026-08-10T21:26:38.000Z",
@@ -242,7 +385,7 @@
     "sourceUrl": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/"
   },
   {
-    "id": 23,
+    "id": 36,
     "title": "Rocket debris crashed into the moon—why this could threaten future lunar bases",
     "category": "SPACE",
     "date": "2026-08-10T21:20:09.000Z",
@@ -253,7 +396,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-rocket-debris-moon-threaten-future.html"
   },
   {
-    "id": 24,
+    "id": 37,
     "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
     "category": "TECH",
     "date": "2026-08-10T21:20:04.000Z",
@@ -264,7 +407,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/"
   },
   {
-    "id": 25,
+    "id": 38,
     "title": "Anker&#8217;s travel charger works in almost any country and is down to $20",
     "category": "TECH",
     "date": "2026-08-10T21:18:15.000Z",
@@ -275,7 +418,7 @@
     "sourceUrl": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale"
   },
   {
-    "id": 26,
+    "id": 39,
     "title": "Canada flight cancelled after child refuses to wear seat belt",
     "category": "WORLD",
     "date": "2026-08-10T21:06:27.000Z",
@@ -286,7 +429,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 27,
+    "id": 40,
     "title": "Mars could have carried liquid water more recently than we thought",
     "category": "SPACE",
     "date": "2026-08-10T21:00:13.000Z",
@@ -297,7 +440,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-mars-liquid-thought.html"
   },
   {
-    "id": 28,
+    "id": 41,
     "title": "Amazon backs power plant that may become top source of US climate pollution",
     "category": "TECH",
     "date": "2026-08-10T20:45:52.000Z",
@@ -308,7 +451,18 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/"
   },
   {
-    "id": 29,
+    "id": 42,
+    "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+    "category": "WORLD",
+    "date": "2026-08-10T20:45:29.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
+    "content": "<h2>概要</h2><p>The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.</p><p><a href=\"https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 43,
     "title": "Why Russia and Ukraine can't stop each other's air attacks",
     "category": "WORLD",
     "date": "2026-08-10T20:14:08.000Z",
@@ -319,7 +473,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/10/nx-s1-5921306/why-russia-and-ukraine-cant-stop-each-others-air-attacks"
   },
   {
-    "id": 30,
+    "id": 44,
     "title": "AI professors are negotiating the new realities of academic research",
     "category": "TECH",
     "date": "2026-08-10T20:00:00.000Z",
@@ -330,7 +484,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
   },
   {
-    "id": 31,
+    "id": 45,
     "title": "AI professors are negotiating the new realities of academic research",
     "category": "TECH",
     "date": "2026-08-10T20:00:00.000Z",
@@ -341,7 +495,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
   },
   {
-    "id": 32,
+    "id": 46,
     "title": "This pocket-sized gadget helped cut down our editor's screen time - and it's on sale",
     "category": "TECH",
     "date": "2026-08-10T19:50:28.000Z",
@@ -352,7 +506,7 @@
     "sourceUrl": "https://www.zdnet.com/article/brick-back-to-school-deal/"
   },
   {
-    "id": 33,
+    "id": 47,
     "title": "Bluesky now lets you hide reposts from that annoying person you follow",
     "category": "TECH",
     "date": "2026-08-10T19:26:50.000Z",
@@ -363,7 +517,7 @@
     "sourceUrl": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads"
   },
   {
-    "id": 34,
+    "id": 48,
     "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
     "category": "TECH",
     "date": "2026-08-10T19:25:00.000Z",
@@ -374,7 +528,7 @@
     "sourceUrl": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810"
   },
   {
-    "id": 35,
+    "id": 49,
     "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
     "category": "TECH",
     "date": "2026-08-10T19:25:00.000Z",
@@ -385,18 +539,7 @@
     "sourceUrl": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810"
   },
   {
-    "id": 36,
-    "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-    "category": "WORLD",
-    "date": "2026-08-10T19:17:11.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
-    "content": "<h2>概要</h2><p>More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 37,
+    "id": 50,
     "title": "Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff",
     "category": "TECH",
     "date": "2026-08-10T19:14:27.000Z",
@@ -407,7 +550,7 @@
     "sourceUrl": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale"
   },
   {
-    "id": 38,
+    "id": 51,
     "title": "Why recovery readiness has become the new standard for cyber resilience",
     "category": "TECH",
     "date": "2026-08-10T18:56:00.000Z",
@@ -418,7 +561,7 @@
     "sourceUrl": "https://www.zdnet.com/article/why-recovery-readiness-has-become-the-new-standard-for-cyber-resilience/"
   },
   {
-    "id": 39,
+    "id": 52,
     "title": "Scientists Are About to Test a Revolutionary New Device During This Week’s Solar Eclipse—Here’s What It Could Reveal",
     "category": "MYSTERY",
     "date": "2026-08-10T18:21:38.000Z",
@@ -429,7 +572,7 @@
     "sourceUrl": "https://thedebrief.org/scientists-are-about-to-test-a-revolutionary-new-device-during-this-weeks-solar-eclipse-heres-what-it-could-reveal/"
   },
   {
-    "id": 40,
+    "id": 53,
     "title": "High-orbit satellites could light the way for travel to the moon",
     "category": "TECH",
     "date": "2026-08-10T18:10:00.000Z",
@@ -440,7 +583,7 @@
     "sourceUrl": "https://news.mit.edu/2026/high-orbit-satellites-could-light-way-for-travel-to-moon-0810"
   },
   {
-    "id": 41,
+    "id": 54,
     "title": "Community College Instructors Bring Astronomy Textbook Into 21st Century",
     "category": "SPACE",
     "date": "2026-08-10T18:08:56.000Z",
@@ -451,7 +594,7 @@
     "sourceUrl": "https://science.nasa.gov/learning-resources/science-activation/community-college-instructors-bring-astronomy-textbook-into-21st-century/"
   },
   {
-    "id": 42,
+    "id": 55,
     "title": " The Andromeda galaxy may be getting bullied by a smaller galactic neighbor, scientists find ",
     "category": "SPACE",
     "date": "2026-08-10T18:00:00.000Z",
@@ -462,7 +605,7 @@
     "sourceUrl": "https://www.space.com/astronomy/galaxies/the-andromeda-galaxy-may-be-getting-bullied-by-a-smaller-galactic-neighbor-scientists-find"
   },
   {
-    "id": 43,
+    "id": 56,
     "title": "What to expect from Google’s 2026 Pixel hardware launch event",
     "category": "TECH",
     "date": "2026-08-10T17:30:00.000Z",
@@ -473,7 +616,7 @@
     "sourceUrl": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event"
   },
   {
-    "id": 44,
+    "id": 57,
     "title": "DESI releases biggest 2D map of the universe",
     "category": "SPACE",
     "date": "2026-08-10T17:00:05.000Z",
@@ -484,7 +627,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-desi-biggest-2d-universe.html"
   },
   {
-    "id": 45,
+    "id": 58,
     "title": " Lego Project Hail Mary review: Amaze, amaze, amaze! ",
     "category": "SPACE",
     "date": "2026-08-10T17:00:00.000Z",
@@ -495,7 +638,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-toys-lego/lego-project-hail-mary-review-amaze-amaze-amaze"
   },
   {
-    "id": 46,
+    "id": 59,
     "title": "NASA+ Debuts on discovery+, Coming Soon to HBO Max",
     "category": "SPACE",
     "date": "2026-08-10T16:30:13.000Z",
@@ -506,7 +649,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/"
   },
   {
-    "id": 47,
+    "id": 60,
     "title": "Why managers are ransomware's top targets now - and 6 ways to stay safe",
     "category": "TECH",
     "date": "2026-08-10T16:08:17.000Z",
@@ -517,7 +660,7 @@
     "sourceUrl": "https://www.zdnet.com/article/managers-biggest-ransomware-targets-ways-to-stay-safe/"
   },
   {
-    "id": 48,
+    "id": 61,
     "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
     "category": "WORLD",
     "date": "2026-08-10T16:08:06.000Z",
@@ -528,7 +671,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war"
   },
   {
-    "id": 49,
+    "id": 62,
     "title": " Chinese rocket explodes less than 90 seconds after liftoff (photos) ",
     "category": "SPACE",
     "date": "2026-08-10T16:03:25.000Z",
@@ -539,7 +682,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-explodes-less-than-90-seconds-after-liftoff"
   },
   {
-    "id": 50,
+    "id": 63,
     "title": "This blazing-fast, super-private browser delivers a brand new beta - try it for free",
     "category": "TECH",
     "date": "2026-08-10T15:56:48.000Z",
@@ -550,7 +693,7 @@
     "sourceUrl": "https://www.zdnet.com/article/orion-browser-linux-beta/"
   },
   {
-    "id": 51,
+    "id": 64,
     "title": "Look: NASA’s James Webb Space Telescope Captures Striking New Images That Bring the ‘Lion Nebula’ Roaring to Life",
     "category": "MYSTERY",
     "date": "2026-08-10T15:44:23.000Z",
@@ -561,7 +704,7 @@
     "sourceUrl": "https://thedebrief.org/look-nasas-james-webb-space-telescope-captures-striking-new-images-that-bring-the-lion-nebula-roaring-to-life/"
   },
   {
-    "id": 52,
+    "id": 65,
     "title": "Thames Water gave finance boss a £1m signing-on fee",
     "category": "BUSINESS",
     "date": "2026-08-10T14:49:46.000Z",
@@ -572,18 +715,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 53,
-    "title": "Orange Crush: TAG Heuer Drops a Bright Revamp of the Original Metal F1 Watch",
-    "category": "TECH",
-    "date": "2026-08-10T14:47:52.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The solar-powered limited edition may be here to mark the final Dutch Grand Prix taking place in Zandvoort, but it’s the juicy iconic colorway WIRED’s been waiting for.",
-    "content": "<h2>概要</h2><p>The solar-powered limited edition may be here to mark the final Dutch Grand Prix taking place in Zandvoort, but it’s the juicy iconic colorway WIRED’s been waiting for.</p><p><a href=\"https://www.wired.com/story/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-watch/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-watch/"
-  },
-  {
-    "id": 54,
+    "id": 66,
     "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
     "category": "WORLD",
     "date": "2026-08-10T14:43:08.000Z",
@@ -594,7 +726,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 55,
+    "id": 67,
     "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
     "category": "WORLD",
     "date": "2026-08-10T14:34:25.000Z",
@@ -605,7 +737,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 56,
+    "id": 68,
     "title": "A Bizarre Dead Star’s Magnetic Field Has Revealed a Strange Surprise, Potentially Confirming a 90-Year-Old Theory",
     "category": "MYSTERY",
     "date": "2026-08-10T14:19:13.000Z",
@@ -616,18 +748,7 @@
     "sourceUrl": "https://thedebrief.org/a-bizarre-dead-stars-magnetic-field-has-revealed-a-strange-surprise-potentially-confirming-a-90-year-old-theory/"
   },
   {
-    "id": 57,
-    "title": " This ZWO astronomy camera is perfect for solar and lunar imaging ",
-    "category": "SPACE",
-    "date": "2026-08-10T14:11:15.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/phjcKLJpvCmpR9extLyKNe-1280-80.jpg",
-    "summary": "Easy to use and with an excellent build quality, the ZWO ASI174MM is a fast, monochrome USB 3.0 camera that’s perfect for solar and lunar imaging.",
-    "content": "<h2>概要</h2><p>Easy to use and with an excellent build quality, the ZWO ASI174MM is a fast, monochrome USB 3.0 camera that’s perfect for solar and lunar imaging.</p><p><a href=\"https://www.space.com/stargazing/skywatching-kit/this-zwo-astronomy-camera-is-perfect-for-solar-and-lunar-imaging\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/stargazing/skywatching-kit/this-zwo-astronomy-camera-is-perfect-for-solar-and-lunar-imaging"
-  },
-  {
-    "id": 58,
+    "id": 69,
     "title": "Slow spin could explain why planets become hellish",
     "category": "SPACE",
     "date": "2026-08-10T14:00:01.000Z",
@@ -638,7 +759,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-planets-hellish.html"
   },
   {
-    "id": 59,
+    "id": 70,
     "title": "Lion Nebula Roars to Life With NASA’s Webb",
     "category": "SPACE",
     "date": "2026-08-10T14:00:00.000Z",
@@ -649,7 +770,7 @@
     "sourceUrl": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/"
   },
   {
-    "id": 60,
+    "id": 71,
     "title": "Lion Nebula roars to life for Webb",
     "category": "SPACE",
     "date": "2026-08-10T14:00:00.000Z",
@@ -660,18 +781,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Lion_Nebula_roars_to_life_for_Webb"
   },
   {
-    "id": 61,
-    "title": "Launch Into a New School Year With NASA",
-    "category": "SPACE",
-    "date": "2026-08-10T13:59:28.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/08/bts-2026-express-2.jpg?w=846",
-    "summary": "A new school year brings fresh opportunities to get involved with NASA. Whether you’re curious about space or eager to build real STEM skills, NASA offers a world of experiences putting you close to the action. As we enter a new golden age of exploration, there’s no better time to jump in, try something bold, […]",
-    "content": "<h2>概要</h2><p>A new school year brings fresh opportunities to get involved with NASA. Whether you’re curious about space or eager to build real STEM skills, NASA offers a world of experiences putting you close to the action. As we enter a new golden age of exploration, there’s no better time to jump in, try something bold, […]</p><p><a href=\"https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/"
-  },
-  {
-    "id": 62,
+    "id": 72,
     "title": "Look What NASA’s Perseverance Rover Just Spotted Vanishing Behind the Martian Moon Phobos",
     "category": "MYSTERY",
     "date": "2026-08-10T13:14:30.000Z",
@@ -682,7 +792,7 @@
     "sourceUrl": "https://thedebrief.org/look-what-nasas-perseverance-rover-just-spotted-vanishing-behind-the-martian-moon-phobos/"
   },
   {
-    "id": 63,
+    "id": 73,
     "title": "Wildfires, drought and extreme heat, 2026",
     "category": "SPACE",
     "date": "2026-08-10T13:00:00.000Z",
@@ -693,18 +803,7 @@
     "sourceUrl": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026"
   },
   {
-    "id": 64,
-    "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
-    "category": "WORLD",
-    "date": "2026-08-10T12:39:05.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1905x1265+0+0/resize/1905x1265!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F4e%2F38ee48a1401e849a0c6e196fedb5%2Fap26222295781737.jpg",
-    "summary": "Days of heavy monsoon rain has caused rivers, including the Brahmaputra, to overflow, inundating communities, disrupting livelihoods and damaging infrastructure.",
-    "content": "<h2>概要</h2><p>Days of heavy monsoon rain has caused rivers, including the Brahmaputra, to overflow, inundating communities, disrupting livelihoods and damaging infrastructure.</p><p><a href=\"https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes"
-  },
-  {
-    "id": 65,
+    "id": 74,
     "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
     "category": "TECH",
     "date": "2026-08-10T12:10:00.000Z",
@@ -715,7 +814,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
   },
   {
-    "id": 66,
+    "id": 75,
     "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
     "category": "TECH",
     "date": "2026-08-10T12:10:00.000Z",
@@ -726,40 +825,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
   },
   {
-    "id": 67,
-    "title": "The Outlaw Chemist Teaching People How to Make Drugs From Scratch",
-    "category": "TECH",
-    "date": "2026-08-10T12:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Willy Myco has made over 120 videos showing people his exact process for making everything from LSD to DMT vapes. Not everyone’s a fan of his methods.",
-    "content": "<h2>概要</h2><p>Willy Myco has made over 120 videos showing people his exact process for making everything from LSD to DMT vapes. Not everyone’s a fan of his methods.</p><p><a href=\"https://www.wired.com/story/the-outlaw-chemist-teaching-people-how-to-make-drugs-from-scratch/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/the-outlaw-chemist-teaching-people-how-to-make-drugs-from-scratch/"
-  },
-  {
-    "id": 68,
-    "title": "The Best Portable Solar Panels: My Take After Years of Testing",
-    "category": "TECH",
-    "date": "2026-08-10T12:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Clean, free power from the sun is easier and more affordable to capture than ever with the best portable solar panels.",
-    "content": "<h2>概要</h2><p>Clean, free power from the sun is easier and more affordable to capture than ever with the best portable solar panels.</p><p><a href=\"https://www.wired.com/story/best-portable-solar-panels/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/best-portable-solar-panels/"
-  },
-  {
-    "id": 69,
-    "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
-    "category": "WORLD",
-    "date": "2026-08-10T11:42:58.000Z",
-    "image": "undefined",
-    "summary": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.",
-    "content": "<h2>概要</h2><p>A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.</p><p><a href=\"https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires"
-  },
-  {
-    "id": 70,
+    "id": 76,
     "title": "Astronomers find a new object from the early universe using Webb data",
     "category": "SPACE",
     "date": "2026-08-10T11:40:02.000Z",
@@ -770,29 +836,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-astronomers-early-universe-webb.html"
   },
   {
-    "id": 71,
-    "title": "The AI Slop Backlash Is Actually Having an Impact",
-    "category": "TECH",
-    "date": "2026-08-10T11:30:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
-    "content": "<h2>概要</h2><p>Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.</p><p><a href=\"https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/"
-  },
-  {
-    "id": 72,
-    "title": "The Best E-Readers of 2026: Kobo, Kindle, Boox",
-    "category": "TECH",
-    "date": "2026-08-10T11:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Looking to read more? These handy ebook readers are here to help.",
-    "content": "<h2>概要</h2><p>Looking to read more? These handy ebook readers are here to help.</p><p><a href=\"https://www.wired.com/gallery/best-ereaders/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/gallery/best-ereaders/"
-  },
-  {
-    "id": 73,
+    "id": 77,
     "title": "Ban on 'subscription traps' brought forward by three months",
     "category": "BUSINESS",
     "date": "2026-08-10T09:57:54.000Z",
@@ -803,62 +847,51 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 74,
-    "title": "AI for science needs reasoning, not just data",
-    "category": "TECH",
-    "date": "2026-08-10T09:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
-    "content": "<h2>概要</h2><p>Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…</p><p><a href=\"https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
-  },
-  {
-    "id": 75,
-    "title": "These startups are chasing the next big thing in LLMs",
-    "category": "TECH",
-    "date": "2026-08-10T09:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…",
-    "content": "<h2>概要</h2><p>MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…</p><p><a href=\"https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
-  },
-  {
-    "id": 76,
-    "title": "AI for science needs reasoning, not just data",
-    "category": "TECH",
-    "date": "2026-08-10T09:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
-    "content": "<h2>概要</h2><p>Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…</p><p><a href=\"https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
-  },
-  {
-    "id": 77,
-    "title": "These startups are chasing the next big thing in LLMs",
-    "category": "TECH",
-    "date": "2026-08-10T09:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…",
-    "content": "<h2>概要</h2><p>MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…</p><p><a href=\"https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
-  },
-  {
     "id": 78,
-    "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-    "category": "WORLD",
-    "date": "2026-08-10T08:58:22.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2Fb1%2F6076becf442d9754d44a3348ad61%2Fap26220396943506.jpg",
-    "summary": "Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public.",
-    "content": "<h2>概要</h2><p>Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public.</p><p><a href=\"https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia"
+    "title": "AI for science needs reasoning, not just data",
+    "category": "TECH",
+    "date": "2026-08-10T09:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
+    "content": "<h2>概要</h2><p>Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…</p><p><a href=\"https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
   },
   {
     "id": 79,
+    "title": "These startups are chasing the next big thing in LLMs",
+    "category": "TECH",
+    "date": "2026-08-10T09:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…",
+    "content": "<h2>概要</h2><p>MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…</p><p><a href=\"https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
+  },
+  {
+    "id": 80,
+    "title": "AI for science needs reasoning, not just data",
+    "category": "TECH",
+    "date": "2026-08-10T09:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
+    "content": "<h2>概要</h2><p>Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…</p><p><a href=\"https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
+  },
+  {
+    "id": 81,
+    "title": "These startups are chasing the next big thing in LLMs",
+    "category": "TECH",
+    "date": "2026-08-10T09:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…",
+    "content": "<h2>概要</h2><p>MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…</p><p><a href=\"https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
+  },
+  {
+    "id": 82,
     "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
     "category": "TECH",
     "date": "2026-08-10T05:00:32.000Z",
@@ -869,18 +902,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 80,
-    "title": "APOD: 2026 August 10 – Three Galaxy Pairs",
-    "category": "SPACE",
-    "date": "2026-08-10T04:05:00.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Three3GalaxyPairs_Sampaio_2784.jpg?w=2784&#038;h=3436&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. […]",
-    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. […]</p><p><a href=\"https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/"
-  },
-  {
-    "id": 81,
+    "id": 83,
     "title": "MIT researchers tackle the economic realities of fusion power",
     "category": "TECH",
     "date": "2026-08-10T04:00:00.000Z",
@@ -891,7 +913,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-researchers-tackle-economic-realities-fusion-power-0810"
   },
   {
-    "id": 82,
+    "id": 84,
     "title": "MIT researchers tackle the economic realities of fusion power",
     "category": "TECH",
     "date": "2026-08-10T04:00:00.000Z",
@@ -902,7 +924,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-researchers-tackle-economic-realities-fusion-power-0810"
   },
   {
-    "id": 83,
+    "id": 85,
     "title": "These Curious Ancient Greek Artifacts Have Extraterrestrial Origins—Why They Vanished 3000 Years Ago Remains a Mystery",
     "category": "MYSTERY",
     "date": "2026-08-09T14:30:48.000Z",
@@ -913,7 +935,7 @@
     "sourceUrl": "https://thedebrief.org/these-curious-ancient-greek-artifacts-have-extraterrestrial-origins-why-they-vanished-3000-years-ago-remains-a-mystery/"
   },
   {
-    "id": 84,
+    "id": 86,
     "title": "This Week’s Awesome Tech Stories From Around the Web (Through August 8)",
     "category": "MYSTERY",
     "date": "2026-08-08T14:00:00.000Z",
@@ -924,7 +946,7 @@
     "sourceUrl": "https://singularityhub.com/2026/08/08/this-weeks-awesome-tech-stories-from-around-the-web-through-august-8-2/"
   },
   {
-    "id": 85,
+    "id": 87,
     "title": "Spain to introduce temporary border checks on visitors from Italy",
     "category": "WORLD",
     "date": "2026-08-07T21:44:38.000Z",
@@ -935,7 +957,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy"
   },
   {
-    "id": 86,
+    "id": 88,
     "title": "Judge approves Trump effort to end South Sudan TPS protections",
     "category": "WORLD",
     "date": "2026-08-07T18:34:34.000Z",
@@ -946,29 +968,29 @@
     "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps"
   },
   {
-    "id": 87,
-    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-    "category": "TECH",
-    "date": "2026-08-07T14:20:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/Lavaforming-03-lighter-@s.ap-architects.jpg?w=1920",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…</p><p><a href=\"https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
-  },
-  {
-    "id": 88,
-    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-    "category": "TECH",
-    "date": "2026-08-07T14:20:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/Lavaforming-03-lighter-@s.ap-architects.jpg?w=1920",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…</p><p><a href=\"https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
-  },
-  {
     "id": 89,
+    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "category": "TECH",
+    "date": "2026-08-07T14:20:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/Lavaforming-03-lighter-@s.ap-architects.jpg?w=1920",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…</p><p><a href=\"https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
+  },
+  {
+    "id": 90,
+    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "category": "TECH",
+    "date": "2026-08-07T14:20:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/Lavaforming-03-lighter-@s.ap-architects.jpg?w=1920",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…</p><p><a href=\"https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
+  },
+  {
+    "id": 91,
     "title": "Join us live and enjoy the total solar eclipse!",
     "category": "SPACE",
     "date": "2026-08-07T14:00:00.000Z",
@@ -979,7 +1001,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Join_us_live_and_enjoy_the_total_solar_eclipse"
   },
   {
-    "id": 90,
+    "id": 92,
     "title": "Sam Altman Says We’re ‘in the Singularity’ With AI. Here’s Why He’s Wrong.",
     "category": "MYSTERY",
     "date": "2026-08-07T14:00:00.000Z",
@@ -990,7 +1012,7 @@
     "sourceUrl": "https://singularityhub.com/2026/08/07/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong/"
   },
   {
-    "id": 91,
+    "id": 93,
     "title": "Meta fined $567m in largest child safety ruling against social media giant",
     "category": "TECH",
     "date": "2026-08-07T09:22:03.000Z",
@@ -1001,7 +1023,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 92,
+    "id": 94,
     "title": "Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases",
     "category": "TECH",
     "date": "2026-08-07T09:00:00.000Z",
@@ -1012,7 +1034,7 @@
     "sourceUrl": "https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807"
   },
   {
-    "id": 93,
+    "id": 95,
     "title": "Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases",
     "category": "SCIENCE",
     "date": "2026-08-07T09:00:00.000Z",
@@ -1023,7 +1045,7 @@
     "sourceUrl": "https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807"
   },
   {
-    "id": 94,
+    "id": 96,
     "title": "Why airlines are warning over lithium-ion batteries",
     "category": "TECH",
     "date": "2026-08-06T23:04:40.000Z",
@@ -1034,18 +1056,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 95,
-    "title": "Akirah Bradley-Armstrong named vice chancellor for student life",
-    "category": "TECH",
-    "date": "2026-08-06T20:55:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "An experienced student affairs leader is joining MIT to oversee the next chapter for the Division of Student Life.",
-    "content": "<h2>概要</h2><p>An experienced student affairs leader is joining MIT to oversee the next chapter for the Division of Student Life.</p><p><a href=\"https://news.mit.edu/2026/akirah-bradley-armstrong-named-vice-chancellor-student-life-0806\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News",
-    "sourceUrl": "https://news.mit.edu/2026/akirah-bradley-armstrong-named-vice-chancellor-student-life-0806"
-  },
-  {
-    "id": 96,
+    "id": 97,
     "title": "Why Do Some People Never Get Cancer? The Answer May Be in Their Blood",
     "category": "MYSTERY",
     "date": "2026-08-06T20:48:17.000Z",
@@ -1056,7 +1067,7 @@
     "sourceUrl": "https://singularityhub.com/2026/08/06/why-do-some-people-never-get-cancer-the-answer-may-be-in-their-blood/"
   },
   {
-    "id": 97,
+    "id": 98,
     "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
     "category": "WORLD",
     "date": "2026-08-06T16:18:46.000Z",
@@ -1067,7 +1078,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating"
   },
   {
-    "id": 98,
+    "id": 99,
     "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
     "category": "TECH",
     "date": "2026-08-06T15:59:34.000Z",
@@ -1078,7 +1089,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 99,
+    "id": 100,
     "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
     "category": "WORLD",
     "date": "2026-08-06T15:41:29.000Z",
@@ -1089,7 +1100,7 @@
     "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures"
   },
   {
-    "id": 100,
+    "id": 101,
     "title": "Top Ugandan footballer killed by robbers armed with paving stones",
     "category": "WORLD",
     "date": "2026-08-06T14:30:32.000Z",
@@ -1100,7 +1111,7 @@
     "sourceUrl": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala"
   },
   {
-    "id": 101,
+    "id": 102,
     "title": "A new way to watch heat move through electronics",
     "category": "TECH",
     "date": "2026-08-06T04:00:00.000Z",
@@ -1111,7 +1122,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-way-watch-heat-move-through-electronics-0806"
   },
   {
-    "id": 102,
+    "id": 103,
     "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
     "category": "TECH",
     "date": "2026-08-05T15:00:00.000Z",
@@ -1122,7 +1133,7 @@
     "sourceUrl": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices-0805"
   },
   {
-    "id": 103,
+    "id": 104,
     "title": "Scientists unveil more than 600 new tissue models of human cancer ",
     "category": "TECH",
     "date": "2026-08-05T15:00:00.000Z",
@@ -1133,7 +1144,7 @@
     "sourceUrl": "https://news.mit.edu/2026/scientists-unveil-600-new-tissue-models-human-cancer-0805"
   },
   {
-    "id": 104,
+    "id": 105,
     "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
     "category": "SCIENCE",
     "date": "2026-08-05T15:00:00.000Z",
@@ -1144,7 +1155,7 @@
     "sourceUrl": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices-0805"
   },
   {
-    "id": 105,
+    "id": 106,
     "title": "Total solar eclipse: how to watch live from home",
     "category": "SPACE",
     "date": "2026-08-05T08:00:00.000Z",
@@ -1155,7 +1166,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home"
   },
   {
-    "id": 106,
+    "id": 107,
     "title": "Heat Is an Orbital Data Center’s Greatest Foe. These Tiles  Dump It at the Source.",
     "category": "MYSTERY",
     "date": "2026-08-04T20:10:46.000Z",
@@ -1166,7 +1177,7 @@
     "sourceUrl": "https://singularityhub.com/2026/08/04/heat-is-an-orbital-data-centers-greatest-foe-these-tiles-dump-it-at-the-source/"
   },
   {
-    "id": 107,
+    "id": 108,
     "title": "Alexander Rakhlin named director of  the MIT Statistics and Data Science Center",
     "category": "SCIENCE",
     "date": "2026-08-03T19:50:00.000Z",
@@ -1177,7 +1188,7 @@
     "sourceUrl": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803"
   },
   {
-    "id": 108,
+    "id": 109,
     "title": "Turning molecules into reliable electronic devices",
     "category": "SCIENCE",
     "date": "2026-08-03T09:00:00.000Z",
@@ -1186,17 +1197,6 @@
     "content": "<h2>概要</h2><p>A new fabrication platform integrates molecules into electronic devices, opening the door to emerging computing technologies.</p><p><a href=\"https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "MIT News Science",
     "sourceUrl": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803"
-  },
-  {
-    "id": 109,
-    "title": "Why some nitrogen-processing enzymes are more efficient than others",
-    "category": "SCIENCE",
-    "date": "2026-07-30T15:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "New findings could help researchers design synthetic catalysts that convert nitrogen gas to ammonia, a key step in fertilizer production.",
-    "content": "<h2>概要</h2><p>New findings could help researchers design synthetic catalysts that convert nitrogen gas to ammonia, a key step in fertilizer production.</p><p><a href=\"https://news.mit.edu/2026/why-some-nitrogen-processing-enzymes-are-more-efficient-0730\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News Science",
-    "sourceUrl": "https://news.mit.edu/2026/why-some-nitrogen-processing-enzymes-are-more-efficient-0730"
   },
   {
     "id": 110,
