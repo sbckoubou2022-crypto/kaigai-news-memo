@@ -1,6 +1,215 @@
 [
   {
     "id": 1,
+    "title": "Twitch faces backlash over Amazon using content to train AI",
+    "category": "BUSINESS",
+    "date": "2026-08-13T07:32:07.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
+    "content": "<h2>概要</h2><p>Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 2,
+    "title": "'Imposing ignorance': US climate science under siege",
+    "category": "SCIENCE",
+    "date": "2026-08-13T07:30:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A benchmark U.S. report on the fast-changing state of the Arctic has been canceled. The nation's top research body has removed a chapter on global warming from a reference manual for judges.",
+    "content": "<h2>概要</h2><p>A benchmark U.S. report on the fast-changing state of the Arctic has been canceled. The nation's top research body has removed a chapter on global warming from a reference manual for judges.</p><p><a href=\"https://phys.org/news/2026-08-imposing-climate-science-siege.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-imposing-climate-science-siege.html"
+  },
+  {
+    "id": 3,
+    "title": "Economy grew in April to June as sun and World Cup helped some UK businesses",
+    "category": "BUSINESS",
+    "date": "2026-08-13T07:10:29.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.",
+    "content": "<h2>概要</h2><p>The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 4,
+    "title": "Indian actor's video with endangered gibbon sparks investigation",
+    "category": "WORLD",
+    "date": "2026-08-13T07:05:35.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
+    "content": "<h2>概要</h2><p>A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 5,
+    "title": "Amazon is using Twitch to train generative AI",
+    "category": "TECH",
+    "date": "2026-08-13T07:04:31.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
+    "content": "<h2>概要</h2><p>The streaming platform's users criticised the move to allow the use of channel content for AI training.</p><p><a href=\"https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Technology",
+    "sourceUrl": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 6,
+    "title": "Germany's dry rivers spark battle over engineering vs. restoration",
+    "category": "SCIENCE",
+    "date": "2026-08-13T06:55:31.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "As a heat wave dries Germany's rivers, government ministers are at odds over what to do about it—re-engineer the waterways or restore them to their natural state.",
+    "content": "<h2>概要</h2><p>As a heat wave dries Germany's rivers, government ministers are at odds over what to do about it—re-engineer the waterways or restore them to their natural state.</p><p><a href=\"https://phys.org/news/2026-08-germany-dry-rivers.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-germany-dry-rivers.html"
+  },
+  {
+    "id": 7,
+    "title": "Uniaxial strain reveals new way to tune electron flow in altermagnet material",
+    "category": "SCIENCE",
+    "date": "2026-08-13T06:39:51.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Altermagnetism is a new, third type of magnetism of great interest for spin-transport applications like computer memory. If properly harnessed, it could combine the benefits of the two existing types of magnetism, ferromagnetism and antiferromagnetism, ultimately reducing or eliminating heat during information transfer and increasing the ability to miniaturize next-generation technologies. Rice University's Pengcheng Dai recently published a paper in Physical Review X describing the first successful efforts to put a proposed altermagnetic material into a single magnetic-domain state, allowing the research team to characterize the material's intrinsic magnetic structure.",
+    "content": "<h2>概要</h2><p>Altermagnetism is a new, third type of magnetism of great interest for spin-transport applications like computer memory. If properly harnessed, it could combine the benefits of the two existing types of magnetism, ferromagnetism and antiferromagnetism, ultimately reducing or eliminating heat during information transfer and increasing the ability to miniaturize next-generation technologies. Rice University's Pengcheng Dai recently published a paper in Physical Review X describing the first successful efforts to put a proposed altermagnetic material into a single magnetic-domain state, allowing the research team to characterize the material's intrinsic magnetic structure.</p><p><a href=\"https://phys.org/news/2026-08-uniaxial-strain-reveals-tune-electron.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-uniaxial-strain-reveals-tune-electron.html"
+  },
+  {
+    "id": 8,
+    "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
+    "category": "WORLD",
+    "date": "2026-08-13T06:04:38.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2650x1766+0+0/resize/2650x1766!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2Fdd%2Fc984742f4dbf89757e5ae3ca5d80%2Fap26224690997000.jpg",
+    "summary": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain's first total solar eclipse in more than a century.",
+    "content": "<h2>概要</h2><p>As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain's first total solar eclipse in more than a century.</p><p><a href=\"https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse"
+  },
+  {
+    "id": 9,
+    "title": "Priceline Promo Codes & Coupons: 10% Off August 2026",
+    "category": "TECH",
+    "date": "2026-08-13T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+    "content": "<h2>概要</h2><p>Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.</p><p><a href=\"https://www.wired.com/story/priceline-promo-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/priceline-promo-code/"
+  },
+  {
+    "id": 10,
+    "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
+    "category": "TECH",
+    "date": "2026-08-13T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Shop the Naturepedic sale this 2026.",
+    "content": "<h2>概要</h2><p>Shop the Naturepedic sale this 2026.</p><p><a href=\"https://www.wired.com/story/naturepedic-promo-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/naturepedic-promo-code/"
+  },
+  {
+    "id": 11,
+    "title": "Bose Promo Code: 40% Off for August 2026",
+    "category": "TECH",
+    "date": "2026-08-13T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
+    "content": "<h2>概要</h2><p>Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.</p><p><a href=\"https://www.wired.com/story/bose-coupon-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/bose-coupon-code/"
+  },
+  {
+    "id": 12,
+    "title": "Herman Miller Promo Codes: 40% Off August 2026",
+    "category": "TECH",
+    "date": "2026-08-13T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in August 2026.",
+    "content": "<h2>概要</h2><p>Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in August 2026.</p><p><a href=\"https://www.wired.com/story/herman-miller-promo-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/herman-miller-promo-code/"
+  },
+  {
+    "id": 13,
+    "title": "Braun Promo Codes: 15% Off August",
+    "category": "TECH",
+    "date": "2026-08-13T05:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.",
+    "content": "<h2>概要</h2><p>Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.</p><p><a href=\"https://www.wired.com/story/braun-promo-code/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/braun-promo-code/"
+  },
+  {
+    "id": 14,
+    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+    "category": "WORLD",
+    "date": "2026-08-13T04:55:58.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+    "content": "<h2>概要</h2><p>In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 15,
+    "title": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
+    "category": "SPACE",
+    "date": "2026-08-13T04:05:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/total_eclipse_spain26.jpg?w=1708&#038;h=2560&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]",
+    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]</p><p><a href=\"https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/"
+  },
+  {
+    "id": 16,
+    "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
+    "category": "WORLD",
+    "date": "2026-08-13T04:00:49.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues\nAs Zambians go to the polls, the ghost of the current president’s predecessor hangs over the elections.\nHakainde Hichilema, 64, is bidding for a second term leading the southern African country after defeating his arch-rival Edgar Lungu by a landslide in 2021.\n Continue reading...",
+    "content": "<h2>概要</h2><p>Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues\nAs Zambians go to the polls, the ghost of the current president’s predecessor hangs over the elections.\nHakainde Hichilema, 64, is bidding for a second term leading the southern African country after defeating his arch-rival Edgar Lungu by a landslide in 2021.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu"
+  },
+  {
+    "id": 17,
+    "title": "A 236-million-year-old fossil challenges the story of mammalian live birth",
+    "category": "SCIENCE",
+    "date": "2026-08-13T04:00:02.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Some cynodonts may have been giving birth to live young much sooner in evolutionary history than previously assumed. A new Frontiers in Mammal Science study has offered the first compelling evidence that cynodonts may have been viviparous—a reproductive mode characterized by live birth.",
+    "content": "<h2>概要</h2><p>Some cynodonts may have been giving birth to live young much sooner in evolutionary history than previously assumed. A new Frontiers in Mammal Science study has offered the first compelling evidence that cynodonts may have been viviparous—a reproductive mode characterized by live birth.</p><p><a href=\"https://phys.org/news/2026-08-million-year-fossil-story-mammalian.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-million-year-fossil-story-mammalian.html"
+  },
+  {
+    "id": 18,
+    "title": "Researchers uncover hidden pore network within nuclear fuel",
+    "category": "TECH",
+    "date": "2026-08-13T04:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "New understanding of how nuclear fuel breaks down and changes in an operating nuclear reactor could help keep some reactors running longer, will inform the next generation of nuclear reactor fuel systems.",
+    "content": "<h2>概要</h2><p>New understanding of how nuclear fuel breaks down and changes in an operating nuclear reactor could help keep some reactors running longer, will inform the next generation of nuclear reactor fuel systems.</p><p><a href=\"https://news.mit.edu/2026/researchers-uncover-hidden-pore-network-within-nuclear-fuel-0813\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/researchers-uncover-hidden-pore-network-within-nuclear-fuel-0813"
+  },
+  {
+    "id": 19,
+    "title": "Researchers uncover hidden pore network within nuclear fuel",
+    "category": "TECH",
+    "date": "2026-08-13T04:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "New understanding of how nuclear fuel breaks down and changes in an operating nuclear reactor could help keep some reactors running longer, will inform the next generation of nuclear reactor fuel systems.",
+    "content": "<h2>概要</h2><p>New understanding of how nuclear fuel breaks down and changes in an operating nuclear reactor could help keep some reactors running longer, will inform the next generation of nuclear reactor fuel systems.</p><p><a href=\"https://news.mit.edu/2026/researchers-uncover-hidden-pore-network-within-nuclear-fuel-0813\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News Engineering",
+    "sourceUrl": "https://news.mit.edu/2026/researchers-uncover-hidden-pore-network-within-nuclear-fuel-0813"
+  },
+  {
+    "id": 20,
     "title": "Photos: See the best photos from the solar eclipse",
     "category": "WORLD",
     "date": "2026-08-13T01:38:01.000Z",
@@ -11,7 +220,7 @@
     "sourceUrl": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse"
   },
   {
-    "id": 2,
+    "id": 21,
     "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
     "category": "WORLD",
     "date": "2026-08-13T01:31:21.000Z",
@@ -22,7 +231,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 3,
+    "id": 22,
     "title": "'Specialists aren't required' anymore: How to stay valuable in an AI agent workplace today",
     "category": "TECH",
     "date": "2026-08-13T01:00:39.000Z",
@@ -33,7 +242,7 @@
     "sourceUrl": "https://www.zdnet.com/article/polymaths-specialists-arent-required-ai-agent-workplace/"
   },
   {
-    "id": 4,
+    "id": 23,
     "title": "This South African river has a bacteria count off the charts: A natural filter is cleaning it for watering food gardens",
     "category": "SCIENCE",
     "date": "2026-08-13T00:20:03.000Z",
@@ -44,51 +253,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-south-african-river-bacteria-natural.html"
   },
   {
-    "id": 5,
-    "title": "EU curbs on 'forever chemicals' in food packaging kick in",
-    "category": "SCIENCE",
-    "date": "2026-08-13T00:00:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "New EU restrictions on toxic substances known as \"forever chemicals\" in food packaging kicked in Wednesday, along with broader rules aimed at cutting packaging waste in the bloc.",
-    "content": "<h2>概要</h2><p>New EU restrictions on toxic substances known as \"forever chemicals\" in food packaging kicked in Wednesday, along with broader rules aimed at cutting packaging waste in the bloc.</p><p><a href=\"https://phys.org/news/2026-08-eu-curbs-chemicals-food-packaging.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-eu-curbs-chemicals-food-packaging.html"
-  },
-  {
-    "id": 6,
-    "title": "African grasslands expanded 5 million year earlier than previously thought, molecular fossils suggest",
-    "category": "SCIENCE",
-    "date": "2026-08-12T23:40:04.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The iconic grassland savannas of Africa are geographically extensive and important for both local fauna and the global climate. But where did they come from, and how will they change in the future? Ongoing warming, rising CO2 levels and shifting rainfall patterns are likely to profoundly change these ecosystems. These effects are difficult to predict because they can alter ecosystems in competing ways.",
-    "content": "<h2>概要</h2><p>The iconic grassland savannas of Africa are geographically extensive and important for both local fauna and the global climate. But where did they come from, and how will they change in the future? Ongoing warming, rising CO2 levels and shifting rainfall patterns are likely to profoundly change these ecosystems. These effects are difficult to predict because they can alter ecosystems in competing ways.</p><p><a href=\"https://phys.org/news/2026-08-african-grasslands-million-year-earlier.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-african-grasslands-million-year-earlier.html"
-  },
-  {
-    "id": 7,
-    "title": "AI‑designed viruses are a test of whether biosecurity can keep pace",
-    "category": "SCIENCE",
-    "date": "2026-08-12T23:20:07.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Scientists have crossed an important line in biological engineering. In a recent study, researchers used artificial intelligence to design complete sets of genetic instructions for bacteriophages, viruses that infect bacteria. Some of those computer-generated designs produced working viruses when they were built and tested in the laboratory.",
-    "content": "<h2>概要</h2><p>Scientists have crossed an important line in biological engineering. In a recent study, researchers used artificial intelligence to design complete sets of genetic instructions for bacteriophages, viruses that infect bacteria. Some of those computer-generated designs produced working viruses when they were built and tested in the laboratory.</p><p><a href=\"https://phys.org/news/2026-08-aidesigned-viruses-biosecurity-pace.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-aidesigned-viruses-biosecurity-pace.html"
-  },
-  {
-    "id": 8,
-    "title": "Drug-carrying nanoparticles shrink venous malformations by 70% in mice",
-    "category": "SCIENCE",
-    "date": "2026-08-12T23:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Venous malformations are abnormally shaped veins that develop when the cells lining blood vessels grow too fast when they aren't supposed to. Children can be born with them, and as the child grows, the venous malformations can get bigger. Venous malformations are a type of vascular malformation that can range from small and superficial to disfiguring, debilitating or even life-threatening.",
-    "content": "<h2>概要</h2><p>Venous malformations are abnormally shaped veins that develop when the cells lining blood vessels grow too fast when they aren't supposed to. Children can be born with them, and as the child grows, the venous malformations can get bigger. Venous malformations are a type of vascular malformation that can range from small and superficial to disfiguring, debilitating or even life-threatening.</p><p><a href=\"https://phys.org/news/2026-08-drug-nanoparticles-venous-malformations-mice.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-drug-nanoparticles-venous-malformations-mice.html"
-  },
-  {
-    "id": 9,
+    "id": 24,
     "title": "Why Japanese firms are being so slow to use AI",
     "category": "TECH",
     "date": "2026-08-12T23:00:47.000Z",
@@ -99,29 +264,18 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 10,
-    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-    "category": "WORLD",
-    "date": "2026-08-12T22:58:45.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
-    "content": "<h2>概要</h2><p>Leavitt will depart from her role to spend time with her young children and family, the president says.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss"
+    "id": 25,
+    "title": "Why Japanese firms are being so slow to use AI",
+    "category": "BUSINESS",
+    "date": "2026-08-12T23:00:47.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
+    "content": "<h2>概要</h2><p>Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 11,
-    "title": "The Best Photos of the Big August Solar Eclipse",
-    "category": "TECH",
-    "date": "2026-08-12T22:47:30.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "It’s been a century since the Iberian Peninsula has been in the full shadow of the moon. Here’s what it looked like in the path of totality.",
-    "content": "<h2>概要</h2><p>It’s been a century since the Iberian Peninsula has been in the full shadow of the moon. Here’s what it looked like in the path of totality.</p><p><a href=\"https://www.wired.com/story/best-photos-august-solar-eclipse-spain/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/best-photos-august-solar-eclipse-spain/"
-  },
-  {
-    "id": 12,
+    "id": 26,
     "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
     "category": "TECH",
     "date": "2026-08-12T22:31:19.000Z",
@@ -132,7 +286,7 @@
     "sourceUrl": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/"
   },
   {
-    "id": 13,
+    "id": 27,
     "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
     "category": "TECH",
     "date": "2026-08-12T22:26:37.000Z",
@@ -143,7 +297,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
   },
   {
-    "id": 14,
+    "id": 28,
     "title": "AI nuclear power firm Fermi finally has a new CEO",
     "category": "TECH",
     "date": "2026-08-12T22:24:00.000Z",
@@ -154,7 +308,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/"
   },
   {
-    "id": 15,
+    "id": 29,
     "title": "Space travel doesn't affect the strength of heart muscle cells, study finds",
     "category": "SPACE",
     "date": "2026-08-12T22:20:03.000Z",
@@ -165,7 +319,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-space-doesnt-affect-strength-heart.html"
   },
   {
-    "id": 16,
+    "id": 30,
     "title": "Why are 'human fridges' being sold in Japan?",
     "category": "WORLD",
     "date": "2026-08-12T22:07:47.000Z",
@@ -176,7 +330,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 17,
+    "id": 31,
     "title": "The web’s newest weapon against AI scrapers is a font",
     "category": "TECH",
     "date": "2026-08-12T22:02:25.000Z",
@@ -187,7 +341,7 @@
     "sourceUrl": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
   },
   {
-    "id": 18,
+    "id": 32,
     "title": "A dying star offers a rare glimpse of how the universe recycles its raw materials",
     "category": "SPACE",
     "date": "2026-08-12T22:00:07.000Z",
@@ -198,7 +352,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-dying-star-rare-glimpse-universe.html"
   },
   {
-    "id": 19,
+    "id": 33,
     "title": "Terabytes of credentials leaked in massive supply-chain attack",
     "category": "TECH",
     "date": "2026-08-12T21:43:21.000Z",
@@ -209,7 +363,7 @@
     "sourceUrl": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
   },
   {
-    "id": 20,
+    "id": 34,
     "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
     "category": "TECH",
     "date": "2026-08-12T21:30:00.000Z",
@@ -220,7 +374,7 @@
     "sourceUrl": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah"
   },
   {
-    "id": 21,
+    "id": 35,
     "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
     "category": "TECH",
     "date": "2026-08-12T21:21:09.000Z",
@@ -231,7 +385,7 @@
     "sourceUrl": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale"
   },
   {
-    "id": 22,
+    "id": 36,
     "title": "First supernovae may have seeded rocky planet building blocks 100 million years after the Big Bang",
     "category": "SPACE",
     "date": "2026-08-12T21:20:03.000Z",
@@ -242,7 +396,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-supernovae-seeded-rocky-planet-blocks.html"
   },
   {
-    "id": 23,
+    "id": 37,
     "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
     "category": "TECH",
     "date": "2026-08-12T21:13:39.000Z",
@@ -253,7 +407,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/"
   },
   {
-    "id": 24,
+    "id": 38,
     "title": "Cats and dogs are missing meals after a popular smart feeder went down",
     "category": "TECH",
     "date": "2026-08-12T21:07:17.000Z",
@@ -264,7 +418,7 @@
     "sourceUrl": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders"
   },
   {
-    "id": 25,
+    "id": 39,
     "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
     "category": "TECH",
     "date": "2026-08-12T21:00:30.000Z",
@@ -275,18 +429,7 @@
     "sourceUrl": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
   },
   {
-    "id": 26,
-    "title": "The White House Is Going to Expand Its AI Policy",
-    "category": "TECH",
-    "date": "2026-08-12T21:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
-    "content": "<h2>概要</h2><p>Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.</p><p><a href=\"https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/"
-  },
-  {
-    "id": 27,
+    "id": 40,
     "title": " This year's 'Masters of the Universe' movie wasn't Hollywood's first attempt at capturing the power of He-Man; they tried back in 1987, and failed then too ",
     "category": "SPACE",
     "date": "2026-08-12T21:00:00.000Z",
@@ -297,7 +440,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/this-years-masters-of-the-universe-movie-wasnt-hollywoods-first-attempt-at-capturing-the-power-of-he-man-they-tried-back-in-1987-and-failed-then-too"
   },
   {
-    "id": 28,
+    "id": 41,
     "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
     "category": "TECH",
     "date": "2026-08-12T20:53:41.000Z",
@@ -308,7 +451,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/"
   },
   {
-    "id": 29,
+    "id": 42,
     "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon ",
     "category": "SPACE",
     "date": "2026-08-12T20:40:27.000Z",
@@ -319,7 +462,7 @@
     "sourceUrl": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/"
   },
   {
-    "id": 30,
+    "id": 43,
     "title": "Featured video: An “MIT story” about an iconic professor",
     "category": "TECH",
     "date": "2026-08-12T20:25:00.000Z",
@@ -330,7 +473,7 @@
     "sourceUrl": "https://news.mit.edu/2026/featured-video-mit-story-paula-hammond-0812"
   },
   {
-    "id": 31,
+    "id": 44,
     "title": "Featured video: An “MIT story” about an iconic professor",
     "category": "TECH",
     "date": "2026-08-12T20:25:00.000Z",
@@ -341,7 +484,7 @@
     "sourceUrl": "https://news.mit.edu/2026/featured-video-mit-story-paula-hammond-0812"
   },
   {
-    "id": 32,
+    "id": 45,
     "title": "Stellar stream beyond Milky Way offers new tool to map dark matter",
     "category": "SPACE",
     "date": "2026-08-12T20:20:06.000Z",
@@ -352,7 +495,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-stellar-stream-milky-tool-dark.html"
   },
   {
-    "id": 33,
+    "id": 46,
     "title": "MIT selected to lead new NSF materials research center",
     "category": "TECH",
     "date": "2026-08-12T20:15:00.000Z",
@@ -363,7 +506,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-to-lead-nsf-materials-research-center-0812"
   },
   {
-    "id": 34,
+    "id": 47,
     "title": "MIT selected to lead new NSF materials research center",
     "category": "TECH",
     "date": "2026-08-12T20:15:00.000Z",
@@ -374,7 +517,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-to-lead-nsf-materials-research-center-0812"
   },
   {
-    "id": 35,
+    "id": 48,
     "title": "MIT selected to lead new NSF materials research center",
     "category": "SCIENCE",
     "date": "2026-08-12T20:15:00.000Z",
@@ -385,18 +528,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-to-lead-nsf-materials-research-center-0812"
   },
   {
-    "id": 36,
-    "title": "The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden",
-    "category": "TECH",
-    "date": "2026-08-12T20:14:30.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Lettuce Grow, one of my favorite indoor gardens, lets you cultivate your own salad greens safely, right in your living room. And it’s 20 percent off right now.",
-    "content": "<h2>概要</h2><p>Lettuce Grow, one of my favorite indoor gardens, lets you cultivate your own salad greens safely, right in your living room. And it’s 20 percent off right now.</p><p><a href=\"https://www.wired.com/story/lettuce-grow-20-percent-off-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/lettuce-grow-20-percent-off-2026/"
-  },
-  {
-    "id": 37,
+    "id": 49,
     "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
     "category": "TECH",
     "date": "2026-08-12T20:10:40.000Z",
@@ -407,7 +539,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
   },
   {
-    "id": 38,
+    "id": 50,
     "title": "2026 Total Solar Eclipse in Spain",
     "category": "SPACE",
     "date": "2026-08-12T20:08:28.000Z",
@@ -418,7 +550,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/"
   },
   {
-    "id": 39,
+    "id": 51,
     "title": " Total solar eclipse 2026 thrills millions with a stunning cosmic spectacle (photos, video) ",
     "category": "SPACE",
     "date": "2026-08-12T19:30:59.000Z",
@@ -429,7 +561,7 @@
     "sourceUrl": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2026-thrills-millions-with-a-stunning-cosmic-spectacle-photos-video"
   },
   {
-    "id": 40,
+    "id": 52,
     "title": "The next big indie game publisher is taking some exciting swings",
     "category": "TECH",
     "date": "2026-08-12T19:30:00.000Z",
@@ -440,7 +572,7 @@
     "sourceUrl": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition"
   },
   {
-    "id": 41,
+    "id": 53,
     "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
     "category": "TECH",
     "date": "2026-08-12T19:27:47.000Z",
@@ -451,18 +583,7 @@
     "sourceUrl": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed"
   },
   {
-    "id": 42,
-    "title": "The Gender War Over ‘Obsession’ Has Come for Theme Parks",
-    "category": "TECH",
-    "date": "2026-08-12T19:05:29.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Debate over the true villain in Obsession is raging again after Universal Studios announced the movie’s female lead will be featured at an upcoming Halloween event.",
-    "content": "<h2>概要</h2><p>Debate over the true villain in Obsession is raging again after Universal Studios announced the movie’s female lead will be featured at an upcoming Halloween event.</p><p><a href=\"https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/"
-  },
-  {
-    "id": 43,
+    "id": 54,
     "title": "Satellite constellations could create spiraling space debris",
     "category": "SPACE",
     "date": "2026-08-12T19:00:08.000Z",
@@ -473,7 +594,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-satellite-constellations-spiraling-space-debris.html"
   },
   {
-    "id": 44,
+    "id": 55,
     "title": "Scientists just created female clones of male mice",
     "category": "TECH",
     "date": "2026-08-12T18:59:48.000Z",
@@ -484,7 +605,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/"
   },
   {
-    "id": 45,
+    "id": 56,
     "title": "Scientists just created female clones of male mice",
     "category": "TECH",
     "date": "2026-08-12T18:59:48.000Z",
@@ -495,18 +616,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/"
   },
   {
-    "id": 46,
-    "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-    "category": "TECH",
-    "date": "2026-08-12T18:45:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
-    "content": "<h2>概要</h2><p>AI agents that break free and hack into other systems are only trying to make us happy.</p><p><a href=\"https://www.wired.com/story/rogue-ai-is-just-misunderstood/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/"
-  },
-  {
-    "id": 47,
+    "id": 57,
     "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
     "category": "TECH",
     "date": "2026-08-12T18:34:21.000Z",
@@ -517,7 +627,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/"
   },
   {
-    "id": 48,
+    "id": 58,
     "title": "Has the U.S. lost its dominance to China?",
     "category": "WORLD",
     "date": "2026-08-12T18:24:48.000Z",
@@ -528,7 +638,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china"
   },
   {
-    "id": 49,
+    "id": 59,
     "title": " Total solar eclipse 2026 has begun. Here are the first views of totality ",
     "category": "SPACE",
     "date": "2026-08-12T18:05:08.000Z",
@@ -539,7 +649,7 @@
     "sourceUrl": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-has-begun-here-are-the-first-views-of-totality-aug-12-2026"
   },
   {
-    "id": 50,
+    "id": 60,
     "title": " Radiation-shielding vest aced Artemis I lunar test, could protect astronauts on moon and Mars missions ",
     "category": "SPACE",
     "date": "2026-08-12T18:00:00.000Z",
@@ -550,7 +660,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/artemis/artemis-i-radiation-vest-astrorad-protect-astronauts-moon-mars-missions"
   },
   {
-    "id": 51,
+    "id": 61,
     "title": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
     "category": "SPACE",
     "date": "2026-08-12T17:55:36.000Z",
@@ -561,7 +671,7 @@
     "sourceUrl": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/"
   },
   {
-    "id": 52,
+    "id": 62,
     "title": "Trump sued over Truth Social's $100,000 early access service",
     "category": "BUSINESS",
     "date": "2026-08-12T17:48:56.000Z",
@@ -572,18 +682,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 53,
-    "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-    "category": "WORLD",
-    "date": "2026-08-12T17:47:01.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-    "content": "<h2>概要</h2><p>Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 54,
+    "id": 63,
     "title": "Every Amazon Google Pixel 11 preorder deal - get up to $350 on an Amazon gift card, free",
     "category": "TECH",
     "date": "2026-08-12T17:34:05.000Z",
@@ -594,7 +693,7 @@
     "sourceUrl": "https://www.zdnet.com/article/google-pixel-11-amazon-deals/"
   },
   {
-    "id": 55,
+    "id": 64,
     "title": "Sparky Linux just restored 32-bit support - why that still matters",
     "category": "TECH",
     "date": "2026-08-12T17:33:54.000Z",
@@ -605,7 +704,7 @@
     "sourceUrl": "https://www.zdnet.com/article/sparky-linux-32-bit-support/"
   },
   {
-    "id": 56,
+    "id": 65,
     "title": "Discord ordered to suspend livestreams in Brazil",
     "category": "TECH",
     "date": "2026-08-12T17:10:31.000Z",
@@ -616,7 +715,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 57,
+    "id": 66,
     "title": "Discord ordered to suspend livestreams in Brazil",
     "category": "BUSINESS",
     "date": "2026-08-12T17:10:31.000Z",
@@ -627,18 +726,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 58,
-    "title": "US inflation eases as food and fuel costs cool",
-    "category": "BUSINESS",
-    "date": "2026-08-12T17:03:05.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
-    "content": "<h2>概要</h2><p>Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 59,
+    "id": 67,
     "title": "Scaling AI agents with trustworthy data",
     "category": "TECH",
     "date": "2026-08-12T16:51:57.000Z",
@@ -649,7 +737,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
   },
   {
-    "id": 60,
+    "id": 68,
     "title": "Scaling AI agents with trustworthy data",
     "category": "TECH",
     "date": "2026-08-12T16:51:57.000Z",
@@ -660,7 +748,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
   },
   {
-    "id": 61,
+    "id": 69,
     "title": "Israeli settlers besieging Palestinian families in West Bank village",
     "category": "WORLD",
     "date": "2026-08-12T16:14:08.000Z",
@@ -671,7 +759,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 62,
+    "id": 70,
     "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
     "category": "SPACE",
     "date": "2026-08-12T16:03:05.000Z",
@@ -682,18 +770,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/"
   },
   {
-    "id": 63,
-    "title": "Pursuing a Dream of Working for NASA",
-    "category": "SPACE",
-    "date": "2026-08-12T15:38:51.000Z",
-    "image": "https://images-assets.nasa.gov/image/KSC-20260806-PH-RCR01_0149/KSC-20260806-PH-RCR01_0149~large.jpg?w=1280&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-    "summary": "As a young girl raised in Worcester, Massachusetts, Lindsey Waitt dreamed of working for NASA. Her dream is now a reality as she embarks on her role as a NASA test project engineer with the Artemis launch team – an integral part of the agency’s missions that will enable humans to return to the surface […]",
-    "content": "<h2>概要</h2><p>As a young girl raised in Worcester, Massachusetts, Lindsey Waitt dreamed of working for NASA. Her dream is now a reality as she embarks on her role as a NASA test project engineer with the Artemis launch team – an integral part of the agency’s missions that will enable humans to return to the surface […]</p><p><a href=\"https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/"
-  },
-  {
-    "id": 64,
+    "id": 71,
     "title": "Hackers are hunting for your private photos, FBI warns: 6 ways to avoid a sextortion nightmare",
     "category": "TECH",
     "date": "2026-08-12T15:37:36.000Z",
@@ -704,7 +781,7 @@
     "sourceUrl": "https://www.zdnet.com/article/hackers-private-photos-fbi-avoid-sextortion/"
   },
   {
-    "id": 65,
+    "id": 72,
     "title": "Every Pixel 11 deal at T-Mobile right now: Trade-in offers, free phones with new line, and more",
     "category": "TECH",
     "date": "2026-08-12T15:29:00.000Z",
@@ -715,7 +792,7 @@
     "sourceUrl": "https://www.zdnet.com/article/t-mobile-google-pixel-deals/"
   },
   {
-    "id": 66,
+    "id": 73,
     "title": " Farthest 'black hole star' ever found could help solve the James Webb Space Telescope's little red dot mystery ",
     "category": "SPACE",
     "date": "2026-08-12T15:05:00.000Z",
@@ -726,7 +803,7 @@
     "sourceUrl": "https://www.space.com/astronomy/james-webb-space-telescope/farthest-black-hole-star-ever-found-could-help-solve-the-james-webb-space-telescopes-little-red-dot-mystery"
   },
   {
-    "id": 67,
+    "id": 74,
     "title": "Secret Self-Healing Powers of the Brain Revealed in Landmark Study, Upending Past Thinking on Adult Brain’s Regenerative Abilities",
     "category": "MYSTERY",
     "date": "2026-08-12T15:04:10.000Z",
@@ -737,7 +814,7 @@
     "sourceUrl": "https://thedebrief.org/secret-self-healing-powers-of-the-brain-revealed-in-landmark-study-upending-past-thinking-on-adult-brains-regenerative-abilities/"
   },
   {
-    "id": 68,
+    "id": 75,
     "title": "Astronomers discover a brand-new type of astrophysical object: A black hole star",
     "category": "TECH",
     "date": "2026-08-12T15:00:00.000Z",
@@ -748,7 +825,7 @@
     "sourceUrl": "https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812"
   },
   {
-    "id": 69,
+    "id": 76,
     "title": "Astronomers discover a brand-new type of astrophysical object: A black hole star",
     "category": "SCIENCE",
     "date": "2026-08-12T15:00:00.000Z",
@@ -759,18 +836,7 @@
     "sourceUrl": "https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812"
   },
   {
-    "id": 70,
-    "title": "Burnham warned Iran war could hit UK growth next year",
-    "category": "BUSINESS",
-    "date": "2026-08-12T14:17:26.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
-    "content": "<h2>概要</h2><p>The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 71,
+    "id": 77,
     "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
     "category": "WORLD",
     "date": "2026-08-12T13:38:58.000Z",
@@ -781,7 +847,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park"
   },
   {
-    "id": 72,
+    "id": 78,
     "title": "What Time is the Solar Eclipse on August 12? Here’s Everything You Need to Know",
     "category": "MYSTERY",
     "date": "2026-08-12T13:37:07.000Z",
@@ -792,7 +858,7 @@
     "sourceUrl": "https://thedebrief.org/what-time-is-the-solar-eclipse-on-august-12-heres-everything-you-need-to-know/"
   },
   {
-    "id": 73,
+    "id": 79,
     "title": "Zhu Rongji, who drove China's 1990s economic reforms, has died at 97",
     "category": "WORLD",
     "date": "2026-08-12T12:36:30.000Z",
@@ -803,7 +869,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead"
   },
   {
-    "id": 74,
+    "id": 80,
     "title": "Centuries Before the Aztec and Inca Empires Existed, Locals Built Something Incredible in the Colombian Jungle",
     "category": "MYSTERY",
     "date": "2026-08-12T12:31:35.000Z",
@@ -814,7 +880,7 @@
     "sourceUrl": "https://thedebrief.org/centuries-before-the-aztec-and-inca-empires-existed-locals-built-something-incredible-in-the-colombian-jungle/"
   },
   {
-    "id": 75,
+    "id": 81,
     "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
     "category": "WORLD",
     "date": "2026-08-12T12:21:08.000Z",
@@ -825,7 +891,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize"
   },
   {
-    "id": 76,
+    "id": 82,
     "title": "Cameras Finally Captured How a Parasitic Plant That Mimics Mushrooms Spreads Its Seeds—and an Unexpected Ally Was Revealed",
     "category": "MYSTERY",
     "date": "2026-08-12T12:19:41.000Z",
@@ -836,7 +902,7 @@
     "sourceUrl": "https://thedebrief.org/cameras-finally-captured-how-a-parasitic-plant-that-mimics-mushrooms-spreads-its-seeds-and-an-unexpected-ally-was-revealed/"
   },
   {
-    "id": 77,
+    "id": 83,
     "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
     "category": "TECH",
     "date": "2026-08-12T12:10:00.000Z",
@@ -847,7 +913,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/"
   },
   {
-    "id": 78,
+    "id": 84,
     "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
     "category": "TECH",
     "date": "2026-08-12T12:10:00.000Z",
@@ -858,7 +924,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/"
   },
   {
-    "id": 79,
+    "id": 85,
     "title": "Musification of the 2026 total solar eclipse",
     "category": "SPACE",
     "date": "2026-08-12T12:00:00.000Z",
@@ -869,7 +935,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse"
   },
   {
-    "id": 80,
+    "id": 86,
     "title": "Hidden Charcoal Inside a Famous French Cave Just Rewrote the Timeline of Its Ice Age Paintings",
     "category": "MYSTERY",
     "date": "2026-08-12T11:58:43.000Z",
@@ -880,18 +946,7 @@
     "sourceUrl": "https://thedebrief.org/hidden-charcoal-inside-a-famous-french-cave-just-rewrote-the-timeline-of-its-ice-age-paintings/"
   },
   {
-    "id": 81,
-    "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
-    "category": "WORLD",
-    "date": "2026-08-12T11:25:11.000Z",
-    "image": "undefined",
-    "summary": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
-    "content": "<h2>概要</h2><p>Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat</p><p><a href=\"https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias"
-  },
-  {
-    "id": 82,
+    "id": 87,
     "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
     "category": "WORLD",
     "date": "2026-08-12T11:00:27.000Z",
@@ -902,7 +957,7 @@
     "sourceUrl": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers"
   },
   {
-    "id": 83,
+    "id": 88,
     "title": "Met Warehouse opens as the new home of MIT’s School of Architecture and Planning",
     "category": "TECH",
     "date": "2026-08-12T10:00:00.000Z",
@@ -913,7 +968,7 @@
     "sourceUrl": "https://news.mit.edu/2026/met-warehouse-opens-new-home-mit-school-architecture-planning-0812"
   },
   {
-    "id": 84,
+    "id": 89,
     "title": "How we picked 35 of the world’s top young scientists and engineers",
     "category": "TECH",
     "date": "2026-08-12T09:08:40.000Z",
@@ -924,7 +979,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/"
   },
   {
-    "id": 85,
+    "id": 90,
     "title": "How we picked 35 of the world’s top young scientists and engineers",
     "category": "TECH",
     "date": "2026-08-12T09:08:40.000Z",
@@ -935,18 +990,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/"
   },
   {
-    "id": 86,
-    "title": "How to design a space habitat that supports its residents’ mental health",
-    "category": "TECH",
-    "date": "2026-08-12T09:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new online platform helps engineers look beyond survival mode when designing habitats for extreme living conditions.",
-    "content": "<h2>概要</h2><p>A new online platform helps engineers look beyond survival mode when designing habitats for extreme living conditions.</p><p><a href=\"https://news.mit.edu/2026/how-space-habitat-design-supports-its-residents-mental-health-0812\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News",
-    "sourceUrl": "https://news.mit.edu/2026/how-space-habitat-design-supports-its-residents-mental-health-0812"
-  },
-  {
-    "id": 87,
+    "id": 91,
     "title": "How to design a space habitat that supports its residents’ mental health",
     "category": "TECH",
     "date": "2026-08-12T09:00:00.000Z",
@@ -957,7 +1001,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-space-habitat-design-supports-its-residents-mental-health-0812"
   },
   {
-    "id": 88,
+    "id": 92,
     "title": "Tokenomics: Why making AI pay is tricky",
     "category": "TECH",
     "date": "2026-08-11T23:03:52.000Z",
@@ -968,18 +1012,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 89,
-    "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-    "category": "BUSINESS",
-    "date": "2026-08-11T23:00:26.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
-    "content": "<h2>概要</h2><p>British shoppers should expect to see more wonky vegetables due to repeated heatwaves.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 90,
+    "id": 93,
     "title": "How the “censorship-industrial complex” is changing the internet and US policy",
     "category": "TECH",
     "date": "2026-08-11T17:58:57.000Z",
@@ -990,7 +1023,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/"
   },
   {
-    "id": 91,
+    "id": 94,
     "title": "How the “censorship-industrial complex” is changing the internet and US policy",
     "category": "TECH",
     "date": "2026-08-11T17:58:57.000Z",
@@ -1001,7 +1034,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/"
   },
   {
-    "id": 92,
+    "id": 95,
     "title": "A total solar eclipse is coming to Europe",
     "category": "SPACE",
     "date": "2026-08-11T12:30:00.000Z",
@@ -1012,7 +1045,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe"
   },
   {
-    "id": 93,
+    "id": 96,
     "title": "AI agent hacks gym to get its user a spot in pilates class",
     "category": "TECH",
     "date": "2026-08-11T12:09:26.000Z",
@@ -1023,18 +1056,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 94,
-    "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-    "category": "TECH",
-    "date": "2026-08-11T08:44:52.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-    "content": "<h2>概要</h2><p>The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Technology",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 95,
+    "id": 97,
     "title": "Dust and water spotted close to giant black hole",
     "category": "SPACE",
     "date": "2026-08-11T08:00:00.000Z",
@@ -1045,7 +1067,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole"
   },
   {
-    "id": 96,
+    "id": 98,
     "title": "On the hunt for dark matter",
     "category": "SCIENCE",
     "date": "2026-08-11T04:00:00.000Z",
@@ -1056,7 +1078,7 @@
     "sourceUrl": "https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811"
   },
   {
-    "id": 97,
+    "id": 99,
     "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
     "category": "TECH",
     "date": "2026-08-10T19:25:00.000Z",
@@ -1067,7 +1089,7 @@
     "sourceUrl": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810"
   },
   {
-    "id": 98,
+    "id": 100,
     "title": "Lion Nebula roars to life for Webb",
     "category": "SPACE",
     "date": "2026-08-10T14:00:00.000Z",
@@ -1078,18 +1100,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Lion_Nebula_roars_to_life_for_Webb"
   },
   {
-    "id": 99,
-    "title": "MIT researchers tackle the economic realities of fusion power",
-    "category": "TECH",
-    "date": "2026-08-10T04:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Their new study aims to give budding industry a framework for understanding how fusion can be profitable.",
-    "content": "<h2>概要</h2><p>Their new study aims to give budding industry a framework for understanding how fusion can be profitable.</p><p><a href=\"https://news.mit.edu/2026/mit-researchers-tackle-economic-realities-fusion-power-0810\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News Engineering",
-    "sourceUrl": "https://news.mit.edu/2026/mit-researchers-tackle-economic-realities-fusion-power-0810"
-  },
-  {
-    "id": 100,
+    "id": 101,
     "title": "Spain to introduce temporary border checks on visitors from Italy",
     "category": "WORLD",
     "date": "2026-08-07T21:44:38.000Z",
@@ -1100,7 +1111,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy"
   },
   {
-    "id": 101,
+    "id": 102,
     "title": "Judge approves Trump effort to end South Sudan TPS protections",
     "category": "WORLD",
     "date": "2026-08-07T18:34:34.000Z",
@@ -1111,7 +1122,7 @@
     "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps"
   },
   {
-    "id": 102,
+    "id": 103,
     "title": "Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases",
     "category": "SCIENCE",
     "date": "2026-08-07T09:00:00.000Z",
@@ -1120,17 +1131,6 @@
     "content": "<h2>概要</h2><p>The study could help scientists understand how superconductivity and other more complex phenomena emerge in quantum materials.</p><p><a href=\"https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "MIT News Science",
     "sourceUrl": "https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807"
-  },
-  {
-    "id": 103,
-    "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
-    "category": "WORLD",
-    "date": "2026-08-06T16:18:46.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation\nThe virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials fear, as confirmed cases pass 4,000.\nAfrica’s public health watchdog said the time for incremental action was over as they announced plans to scale up every aspect of the response and go “door to door” looking for patients.\n Continue reading...",
-    "content": "<h2>概要</h2><p>Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation\nThe virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials fear, as confirmed cases pass 4,000.\nAfrica’s public health watchdog said the time for incremental action was over as they announced plans to scale up every aspect of the response and go “door to door” looking for patients.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating"
   },
   {
     "id": 104,
