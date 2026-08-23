@@ -1,6 +1,28 @@
 [
   {
     "id": 1,
+    "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+    "category": "WORLD",
+    "date": "2026-08-23T05:46:43.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+    "content": "<h2>概要</h2><p>Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 2,
+    "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+    "category": "TECH",
+    "date": "2026-08-23T03:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+    "content": "<h2>概要</h2><p>Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.</p><p><a href=\"https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/"
+  },
+  {
+    "id": 3,
     "title": "How we found Haida Gwaii's first marbled murrelet nest in more than 30 years",
     "category": "SCIENCE",
     "date": "2026-08-22T23:00:01.000Z",
@@ -11,7 +33,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-haida-gwaii-marbled-murrelet-years.html"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
     "category": "TECH",
     "date": "2026-08-22T21:46:56.000Z",
@@ -22,7 +44,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "Syria says Israeli strike near Damascus violation of international law",
     "category": "WORLD",
     "date": "2026-08-22T21:42:42.000Z",
@@ -33,7 +55,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "Computer models pinpoint catalysts for replacing fossil-fueled ammonia production",
     "category": "SCIENCE",
     "date": "2026-08-22T21:00:04.000Z",
@@ -44,7 +66,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-catalysts-fossil-fueled-ammonia-production.html"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "Will the DOJ’s investigation into a16z spook other VCs?",
     "category": "TECH",
     "date": "2026-08-22T20:24:20.000Z",
@@ -55,18 +77,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
   },
   {
-    "id": 6,
-    "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-    "category": "WORLD",
-    "date": "2026-08-22T20:10:00.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-    "content": "<h2>概要</h2><p>Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 7,
+    "id": 8,
     "title": "Carney faces crucial test after walking away from Trump's deal",
     "category": "WORLD",
     "date": "2026-08-22T20:02:46.000Z",
@@ -77,7 +88,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "The dynamic duo: 'Weaving' hierarchical DNA materials with two classes of biomolecular nanomachines",
     "category": "SCIENCE",
     "date": "2026-08-22T19:00:01.000Z",
@@ -88,7 +99,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-dynamic-duo-hierarchical-dna-materials.html"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "category": "TECH",
     "date": "2026-08-22T19:00:00.000Z",
@@ -99,7 +110,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Mars Curiosity rover discovers massive field of polygons",
     "category": "SCIENCE",
     "date": "2026-08-22T18:00:04.000Z",
@@ -110,7 +121,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-mars-curiosity-rover-massive-field.html"
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "Mars Curiosity rover discovers massive field of polygons",
     "category": "SPACE",
     "date": "2026-08-22T18:00:04.000Z",
@@ -121,7 +132,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-mars-curiosity-rover-massive-field.html"
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "AI mapping reveals hidden stage of Arctic freeze with climate implications",
     "category": "SCIENCE",
     "date": "2026-08-22T17:00:01.000Z",
@@ -132,7 +143,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-ai-reveals-hidden-stage-arctic.html"
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "Doodle generative compositions in your browser with Musical Spirograph",
     "category": "TECH",
     "date": "2026-08-22T17:00:00.000Z",
@@ -143,7 +154,7 @@
     "sourceUrl": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "How to turn your TV in a computer monitor in 3 easy steps - and for free",
     "category": "TECH",
     "date": "2026-08-22T16:59:00.000Z",
@@ -154,7 +165,7 @@
     "sourceUrl": "https://www.zdnet.com/article/how-to-use-your-tv-as-a-computer-monitor/"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "You can change your Messages backgrounds on iPhone - so you never text the wrong person again",
     "category": "TECH",
     "date": "2026-08-22T16:54:00.000Z",
@@ -165,7 +176,7 @@
     "sourceUrl": "https://www.zdnet.com/article/how-to-change-your-messages-background-on-iphone/"
   },
   {
-    "id": 16,
+    "id": 17,
     "title": "You can instantly curate your Discover feed now by telling Google exactly what you want",
     "category": "TECH",
     "date": "2026-08-22T16:46:00.000Z",
@@ -176,7 +187,7 @@
     "sourceUrl": "https://www.zdnet.com/article/how-to-fix-your-google-discover-feed-algorithm/"
   },
   {
-    "id": 17,
+    "id": 18,
     "title": "OpenAI says California should strengthen its AI safety bill",
     "category": "TECH",
     "date": "2026-08-22T16:30:34.000Z",
@@ -187,7 +198,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "'I can't stop': 80% of developers find AI coding more addictive than helpful",
     "category": "TECH",
     "date": "2026-08-22T16:24:00.000Z",
@@ -196,17 +207,6 @@
     "content": "<h2>概要</h2><p>A Coddy Developer Survey revealed that AI coding is leading to a new kind of burnout.</p><p><a href=\"https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "ZDNet",
     "sourceUrl": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/"
-  },
-  {
-    "id": 19,
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "category": "TECH",
-    "date": "2026-08-22T16:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-    "content": "<h2>概要</h2><p>A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.</p><p><a href=\"https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
   },
   {
     "id": 20,
