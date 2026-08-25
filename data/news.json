@@ -1,6 +1,512 @@
 [
   {
     "id": 1,
+    "title": "What would happen to human interaction if AI could read our emotions?",
+    "category": "SCIENCE",
+    "date": "2026-08-25T01:00:02.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "AI systems are increasingly being developed to recognize emotions by analyzing facial expressions, voices, body language and other physiological signals. Although the scientific validity of many of these systems remains contested, they are already being tested in health care and security settings.",
+    "content": "<h2>概要</h2><p>AI systems are increasingly being developed to recognize emotions by analyzing facial expressions, voices, body language and other physiological signals. Although the scientific validity of many of these systems remains contested, they are already being tested in health care and security settings.</p><p><a href=\"https://phys.org/news/2026-08-human-interaction-ai-emotions.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-human-interaction-ai-emotions.html"
+  },
+  {
+    "id": 2,
+    "title": "How Canada could hit back to hurt the US economy - and Trump",
+    "category": "BUSINESS",
+    "date": "2026-08-25T00:40:06.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+    "content": "<h2>概要</h2><p>What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?</p><p><a href=\"https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 3,
+    "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate ",
+    "category": "BUSINESS",
+    "date": "2026-08-25T00:25:52.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+    "content": "<h2>概要</h2><p>Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".</p><p><a href=\"https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 4,
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "category": "TECH",
+    "date": "2026-08-25T00:23:12.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+    "content": "<h2>概要</h2><p>The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"</p><p><a href=\"https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+  },
+  {
+    "id": 5,
+    "title": "US removes Syria from list of state sponsors of terrorism",
+    "category": "WORLD",
+    "date": "2026-08-25T00:17:25.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+    "content": "<h2>概要</h2><p>The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 6,
+    "title": "Moment tornado tears through southern France",
+    "category": "WORLD",
+    "date": "2026-08-25T00:16:35.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+    "content": "<h2>概要</h2><p>The tornado has injured more than 40 people and destroyed homes in villages.</p><p><a href=\"https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 7,
+    "title": "Blood-clotting protein may be SARS-CoV-2's hidden accomplice, helping it hide from antibodies and reach blood vessels",
+    "category": "SCIENCE",
+    "date": "2026-08-25T00:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Fibrinogen, the abundant plasma protein best known for forming blood clots, may play a second and far less benign role during SARS-CoV-2 infection: acting as a molecular bridge that simultaneously hides the virus from neutralizing antibodies and delivers it to the cells lining blood vessels.",
+    "content": "<h2>概要</h2><p>Fibrinogen, the abundant plasma protein best known for forming blood clots, may play a second and far less benign role during SARS-CoV-2 infection: acting as a molecular bridge that simultaneously hides the virus from neutralizing antibodies and delivers it to the cells lining blood vessels.</p><p><a href=\"https://phys.org/news/2026-08-blood-clotting-protein-sars-cov.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-blood-clotting-protein-sars-cov.html"
+  },
+  {
+    "id": 8,
+    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+    "category": "WORLD",
+    "date": "2026-08-24T23:48:25.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+    "content": "<h2>概要</h2><p>Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 9,
+    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+    "category": "BUSINESS",
+    "date": "2026-08-24T23:48:25.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+    "content": "<h2>概要</h2><p>Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 10,
+    "title": "Mystery statue unearthed at Sardis archaeological dig",
+    "category": "SCIENCE",
+    "date": "2026-08-24T23:40:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Researchers with the long-running Harvard–Cornell Archaeological Exploration of Sardis have unearthed a larger-than-life statue estimated to be nearly 2,500 years old.",
+    "content": "<h2>概要</h2><p>Researchers with the long-running Harvard–Cornell Archaeological Exploration of Sardis have unearthed a larger-than-life statue estimated to be nearly 2,500 years old.</p><p><a href=\"https://phys.org/news/2026-08-mystery-statue-unearthed-sardis-archaeological.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-mystery-statue-unearthed-sardis-archaeological.html"
+  },
+  {
+    "id": 11,
+    "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+    "category": "TECH",
+    "date": "2026-08-24T23:38:10.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-legion-go-sean-hollister-1-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Cursed BIOS. | Photo by Sean Hollister / The Verge\t\n\nWhen a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far.\nThree weeks after a Redditor presented a nearly $300 repair bill for their handheld gaming PC - among other reports of damage and high repair bills - the company is breaking its silence. It says, in short: try holding down the power button longer, and if that fails, contact customer support.\nHere's the statement Lenovo provided to The Verge, via communications director Jeff Witt:\nLenovo is aware that some Legion Go d …\n\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Cursed BIOS. | Photo by Sean Hollister / The Verge\t\n\nWhen a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far.\nThree weeks after a Redditor presented a nearly $300 repair bill for their handheld gaming PC - among other reports of damage and high repair bills - the company is breaking its silence. It says, in short: try holding down the power button longer, and if that fails, contact customer support.\nHere's the statement Lenovo provided to The Verge, via communications director Jeff Witt:\nLenovo is aware that some Legion Go d …\n\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked"
+  },
+  {
+    "id": 12,
+    "title": "Natural gas drilling could raise salt levels, in turn boosting radium in water",
+    "category": "SCIENCE",
+    "date": "2026-08-24T23:20:02.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Pennsylvania ranks second in U.S. natural gas production, accounting for about one-fifth of U.S. output in 2024, and has one of the most extensive histories of energy extraction in the country. A team of researchers from Penn State is trying to better understand the environmental impacts of these sites—specifically, whether fracking is increasing radium content in local drinking water.",
+    "content": "<h2>概要</h2><p>Pennsylvania ranks second in U.S. natural gas production, accounting for about one-fifth of U.S. output in 2024, and has one of the most extensive histories of energy extraction in the country. A team of researchers from Penn State is trying to better understand the environmental impacts of these sites—specifically, whether fracking is increasing radium content in local drinking water.</p><p><a href=\"https://phys.org/news/2026-08-natural-gas-drilling-salt-boosting.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-natural-gas-drilling-salt-boosting.html"
+  },
+  {
+    "id": 13,
+    "title": "NASA starshade would enable astronomers to directly image rocky exoworlds",
+    "category": "SCIENCE",
+    "date": "2026-08-24T23:20:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A NASA-led team hopes to take a shortcut to direct imaging of extrasolar Earth-like planets. The idea is to use what they call a hybrid telescope composed of an orbital starshade coupled with the next-generation extremely large ground-based optical telescopes.",
+    "content": "<h2>概要</h2><p>A NASA-led team hopes to take a shortcut to direct imaging of extrasolar Earth-like planets. The idea is to use what they call a hybrid telescope composed of an orbital starshade coupled with the next-generation extremely large ground-based optical telescopes.</p><p><a href=\"https://phys.org/news/2026-08-nasa-starshade-enable-astronomers-image.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-nasa-starshade-enable-astronomers-image.html"
+  },
+  {
+    "id": 14,
+    "title": "NASA starshade would enable astronomers to directly image rocky exoworlds",
+    "category": "SPACE",
+    "date": "2026-08-24T23:20:01.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A NASA-led team hopes to take a shortcut to direct imaging of extrasolar Earth-like planets. The idea is to use what they call a hybrid telescope composed of an orbital starshade coupled with the next-generation extremely large ground-based optical telescopes.",
+    "content": "<h2>概要</h2><p>A NASA-led team hopes to take a shortcut to direct imaging of extrasolar Earth-like planets. The idea is to use what they call a hybrid telescope composed of an orbital starshade coupled with the next-generation extremely large ground-based optical telescopes.</p><p><a href=\"https://phys.org/news/2026-08-nasa-starshade-enable-astronomers-image.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-08-nasa-starshade-enable-astronomers-image.html"
+  },
+  {
+    "id": 15,
+    "title": "Meteorite dust holds records of magnetism that may have helped form the sun",
+    "category": "SPACE",
+    "date": "2026-08-24T23:10:01.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Around 4.6 billion years ago, the solar system was little more than a giant ball of gas and dust. Over the next few million years, this \"solar nebula\" underwent a huge transformation, flattening into a disk of matter that then condensed to form the central sun and orbiting planets.",
+    "content": "<h2>概要</h2><p>Around 4.6 billion years ago, the solar system was little more than a giant ball of gas and dust. Over the next few million years, this \"solar nebula\" underwent a huge transformation, flattening into a disk of matter that then condensed to form the central sun and orbiting planets.</p><p><a href=\"https://phys.org/news/2026-08-meteorite-magnetism-sun.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-08-meteorite-magnetism-sun.html"
+  },
+  {
+    "id": 16,
+    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+    "category": "TECH",
+    "date": "2026-08-24T23:05:44.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "We all knew it was coming. The expected valuation may surprise, though.",
+    "content": "<h2>概要</h2><p>We all knew it was coming. The expected valuation may surprise, though.</p><p><a href=\"https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/"
+  },
+  {
+    "id": 17,
+    "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+    "category": "BUSINESS",
+    "date": "2026-08-24T23:04:17.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
+    "content": "<h2>概要</h2><p>Tips are central to US dining culture but some eateries think that they are unfair.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 18,
+    "title": "New 10p coin enters circulation - will you spot one?",
+    "category": "BUSINESS",
+    "date": "2026-08-24T23:03:42.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
+    "content": "<h2>概要</h2><p>The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 19,
+    "title": "Unitree Claims New Humanoid Robot Outruns Usain Bolt",
+    "category": "MYSTERY",
+    "date": "2026-08-24T22:52:36.000Z",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The flashy company, which recently completed a blockbuster IPO, appears to be leading the pack of humanoid robot makers.\nThe post Unitree Claims New Humanoid Robot Outruns Usain Bolt appeared first on SingularityHub.",
+    "content": "<h2>概要</h2><p>The flashy company, which recently completed a blockbuster IPO, appears to be leading the pack of humanoid robot makers.\nThe post Unitree Claims New Humanoid Robot Outruns Usain Bolt appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/08/24/unitree-claims-new-humanoid-robot-outruns-usain-bolt/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Singularity Hub",
+    "sourceUrl": "https://singularityhub.com/2026/08/24/unitree-claims-new-humanoid-robot-outruns-usain-bolt/"
+  },
+  {
+    "id": 20,
+    "title": "How the sun's galactic journey and superflare-filled youth shaped Earth's climate",
+    "category": "SPACE",
+    "date": "2026-08-24T22:50:01.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "At the center of our solar system, the sun influences every planet that orbits it. In two recent studies, scientists uncovered how ancient events in the sun's history may have helped create Earth's unique climate and driven previously unexplained climatic shifts.",
+    "content": "<h2>概要</h2><p>At the center of our solar system, the sun influences every planet that orbits it. In two recent studies, scientists uncovered how ancient events in the sun's history may have helped create Earth's unique climate and driven previously unexplained climatic shifts.</p><p><a href=\"https://phys.org/news/2026-08-sun-galactic-journey-superflare-youth.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-08-sun-galactic-journey-superflare-youth.html"
+  },
+  {
+    "id": 21,
+    "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
+    "category": "WORLD",
+    "date": "2026-08-24T22:22:13.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3402x2722+0+0/resize/3402x2722!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F8e%2Fcdcdf55840c58c59f6c67c03f089%2Ffifth-fleet-8-24-26.jpg",
+    "summary": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.",
+    "content": "<h2>概要</h2><p>When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.</p><p><a href=\"https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo"
+  },
+  {
+    "id": 22,
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "category": "TECH",
+    "date": "2026-08-24T21:45:53.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+    "content": "<h2>概要</h2><p>Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.</p><p><a href=\"https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
+  },
+  {
+    "id": 23,
+    "title": "Data centers become \"killer application\" for new power transformer tech",
+    "category": "TECH",
+    "date": "2026-08-24T21:32:16.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Solid-state transformers could also benefit EV charging and someday households.",
+    "content": "<h2>概要</h2><p>Solid-state transformers could also benefit EV charging and someday households.</p><p><a href=\"https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/"
+  },
+  {
+    "id": 24,
+    "title": "AI finds six ways to print rocket-grade alloy on commercial 3D printers",
+    "category": "SPACE",
+    "date": "2026-08-24T21:30:04.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Washington State University researchers used artificial intelligence to find a more efficient, less expensive way to 3D-print a high-performance metal alloy, saving researchers from needing to painstakingly test more than 100 million options.",
+    "content": "<h2>概要</h2><p>Washington State University researchers used artificial intelligence to find a more efficient, less expensive way to 3D-print a high-performance metal alloy, saving researchers from needing to painstakingly test more than 100 million options.</p><p><a href=\"https://phys.org/news/2026-08-ai-ways-rocket-grade-alloy.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-08-ai-ways-rocket-grade-alloy.html"
+  },
+  {
+    "id": 25,
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "category": "TECH",
+    "date": "2026-08-24T21:24:17.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+    "content": "<h2>概要</h2><p>The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.</p><p><a href=\"https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
+  },
+  {
+    "id": 26,
+    "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
+    "category": "TECH",
+    "date": "2026-08-24T21:08:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
+    "content": "<h2>概要</h2><p>Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.</p><p><a href=\"https://www.wired.com/review/bitdefender-vpn/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/review/bitdefender-vpn/"
+  },
+  {
+    "id": 27,
+    "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+    "category": "TECH",
+    "date": "2026-08-24T21:04:48.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+    "content": "<h2>概要</h2><p>There are currently 3 categories. Without reason, RFK Jr. is considering changes.</p><p><a href=\"https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/"
+  },
+  {
+    "id": 28,
+    "title": "New study reveals how space rocks become meteorites",
+    "category": "SPACE",
+    "date": "2026-08-24T21:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "What happens to a space rock as it falls through Earth's atmosphere and becomes a meteorite? By studying 75 meteorite falls captured on video and in photographs, researchers identified seven distinct phases in the journey from space rock to meteorite. Their findings show that melting and fragmentation, rather than simply evaporation and \"burning up,\" control how a rock loses mass, slows down and ultimately reaches the ground. The journal Meteoritics & Planetary Science published these findings.",
+    "content": "<h2>概要</h2><p>What happens to a space rock as it falls through Earth's atmosphere and becomes a meteorite? By studying 75 meteorite falls captured on video and in photographs, researchers identified seven distinct phases in the journey from space rock to meteorite. Their findings show that melting and fragmentation, rather than simply evaporation and \"burning up,\" control how a rock loses mass, slows down and ultimately reaches the ground. The journal Meteoritics & Planetary Science published these findings.</p><p><a href=\"https://phys.org/news/2026-08-reveals-space-meteorites.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-08-reveals-space-meteorites.html"
+  },
+  {
+    "id": 29,
+    "title": " Pluto losing its planet status may be the best thing that ever happened to solar system diversity ",
+    "category": "SPACE",
+    "date": "2026-08-24T21:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/Sisp5VW27rHJA5TfBk2gym-1280-80.png",
+    "summary": "Unpopular opinion time, Pluto being reclassified as a dwarf planet was a great thing for our understanding of the solar system and for the former planet, too.",
+    "content": "<h2>概要</h2><p>Unpopular opinion time, Pluto being reclassified as a dwarf planet was a great thing for our understanding of the solar system and for the former planet, too.</p><p><a href=\"https://www.space.com/astronomy/pluto/pluto-losing-its-planet-status-may-be-the-best-thing-that-ever-happened-to-solar-system-diversity\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/astronomy/pluto/pluto-losing-its-planet-status-may-be-the-best-thing-that-ever-happened-to-solar-system-diversity"
+  },
+  {
+    "id": 30,
+    "title": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It",
+    "category": "TECH",
+    "date": "2026-08-24T20:45:52.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home.",
+    "content": "<h2>概要</h2><p>With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home.</p><p><a href=\"https://www.wired.com/story/sous-vide-salmonella-eggs/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/sous-vide-salmonella-eggs/"
+  },
+  {
+    "id": 31,
+    "title": "Zillow and Redfin settle FTC antitrust case",
+    "category": "TECH",
+    "date": "2026-08-24T20:45:33.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
+    "content": "<h2>概要</h2><p>Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.</p><p><a href=\"https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/"
+  },
+  {
+    "id": 32,
+    "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
+    "category": "SPACE",
+    "date": "2026-08-24T20:44:58.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260821-ph-ser01-0003large.jpg?w=1439",
+    "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket […]",
+    "content": "<h2>概要</h2><p>Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket […]</p><p><a href=\"https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/"
+  },
+  {
+    "id": 33,
+    "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
+    "category": "SPACE",
+    "date": "2026-08-24T20:44:58.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260821-ph-ser01-0003large.jpg?w=1439",
+    "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket […]",
+    "content": "<h2>概要</h2><p>Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket […]</p><p><a href=\"https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/"
+  },
+  {
+    "id": 34,
+    "title": "The view from Canada after U.S. trade negotiations collapse",
+    "category": "WORLD",
+    "date": "2026-08-24T20:40:32.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5942972",
+    "summary": "NPR's Adrian Florido speaks with The Globe and Mail columnist Andrew Coyne about the reaction in Canada to Prime Minister Mark Carney rejecting a U.S. trade deal.",
+    "content": "<h2>概要</h2><p>NPR's Adrian Florido speaks with The Globe and Mail columnist Andrew Coyne about the reaction in Canada to Prime Minister Mark Carney rejecting a U.S. trade deal.</p><p><a href=\"https://www.npr.org/2026/08/24/nx-s1-5942972/the-view-from-canada-after-u-s-trade-negotiations-collapse\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/08/24/nx-s1-5942972/the-view-from-canada-after-u-s-trade-negotiations-collapse"
+  },
+  {
+    "id": 35,
+    "title": "The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe",
+    "category": "TECH",
+    "date": "2026-08-24T20:22:35.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Salmonella outbreaks are seemingly everywhere right now. A good temperature probe is the last and best line of defense.",
+    "content": "<h2>概要</h2><p>Salmonella outbreaks are seemingly everywhere right now. A good temperature probe is the last and best line of defense.</p><p><a href=\"https://www.wired.com/story/food-safety-gear-salmonella/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/food-safety-gear-salmonella/"
+  },
+  {
+    "id": 36,
+    "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+    "category": "TECH",
+    "date": "2026-08-24T20:17:41.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Monitor vendors are playing with fire.",
+    "content": "<h2>概要</h2><p>Monitor vendors are playing with fire.</p><p><a href=\"https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/"
+  },
+  {
+    "id": 37,
+    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+    "category": "TECH",
+    "date": "2026-08-24T20:16:34.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
+    "content": "<h2>概要</h2><p>Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.</p><p><a href=\"https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/"
+  },
+  {
+    "id": 38,
+    "title": " 'Ghosts of Mars' at 25: Are we any closer to living on the Red Planet? We asked the experts ",
+    "category": "SPACE",
+    "date": "2026-08-24T20:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/uHszpxf4TBXCWj5Z9BrVta-1280-80.jpg",
+    "summary": "John Carpenter's 'Ghosts of Mars' explored a future where Mars is terraformed, but is it closer to becoming a reality? We spoke to the experts to find out.",
+    "content": "<h2>概要</h2><p>John Carpenter's 'Ghosts of Mars' explored a future where Mars is terraformed, but is it closer to becoming a reality? We spoke to the experts to find out.</p><p><a href=\"https://www.space.com/entertainment/space-movies-shows/ghosts-of-mars-at-25-are-we-any-closer-to-living-on-the-red-planet-we-asked-the-experts\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/ghosts-of-mars-at-25-are-we-any-closer-to-living-on-the-red-planet-we-asked-the-experts"
+  },
+  {
+    "id": 39,
+    "title": "The cat-and-mouse game over 3D-printed guns has begun",
+    "category": "TECH",
+    "date": "2026-08-24T19:50:00.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to create workarounds. \nCody Wilson, who claims to have made the detection-defying tool, is calling it \"Hochulization\" as a direct jab at New York Gov. Kathy Hochul, who pushed through the nation's first law mandating gun file detection software on new printers earlier this year. \"New York is trying to reach into the internet and pol …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to create workarounds. \nCody Wilson, who claims to have made the detection-defying tool, is calling it \"Hochulization\" as a direct jab at New York Gov. Kathy Hochul, who pushed through the nation's first law mandating gun file detection software on new printers earlier this year. \"New York is trying to reach into the internet and pol …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul"
+  },
+  {
+    "id": 40,
+    "title": "GM vehicles under federal scrutiny after hundreds of reports",
+    "category": "TECH",
+    "date": "2026-08-24T19:42:50.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
+    "content": "<h2>概要</h2><p>The eBoost brake-by-wire system is responsible for at least 22 crashes now.</p><p><a href=\"https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/"
+  },
+  {
+    "id": 41,
+    "title": "Brain circuit keeps tabs on what just happened to aid judgment of what’s happening now",
+    "category": "TECH",
+    "date": "2026-08-24T19:40:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "To keep track of what’s going on in front of it, the brain relies not only on what it sees, but also a comparison with what it just saw. A new study pinpoints the circuit that provides that service.",
+    "content": "<h2>概要</h2><p>To keep track of what’s going on in front of it, the brain relies not only on what it sees, but also a comparison with what it just saw. A new study pinpoints the circuit that provides that service.</p><p><a href=\"https://news.mit.edu/2026/brain-keeps-tabs-what-just-happened-to-aid-judgment-whats-happening-now-0824\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/brain-keeps-tabs-what-just-happened-to-aid-judgment-whats-happening-now-0824"
+  },
+  {
+    "id": 42,
+    "title": "Brain circuit keeps tabs on what just happened to aid judgment of what’s happening now",
+    "category": "SCIENCE",
+    "date": "2026-08-24T19:40:00.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "To keep track of what’s going on in front of it, the brain relies not only on what it sees, but also a comparison with what it just saw. A new study pinpoints the circuit that provides that service.",
+    "content": "<h2>概要</h2><p>To keep track of what’s going on in front of it, the brain relies not only on what it sees, but also a comparison with what it just saw. A new study pinpoints the circuit that provides that service.</p><p><a href=\"https://news.mit.edu/2026/brain-keeps-tabs-what-just-happened-to-aid-judgment-whats-happening-now-0824\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News Science",
+    "sourceUrl": "https://news.mit.edu/2026/brain-keeps-tabs-what-just-happened-to-aid-judgment-whats-happening-now-0824"
+  },
+  {
+    "id": 43,
+    "title": "Businesses must reinvent their processes and workforce to scale agentic AI adoption",
+    "category": "TECH",
+    "date": "2026-08-24T19:22:32.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Only 15% of US-based organizations have reached scaled, orchestrated, multi-agent adoption, according to the latest Deloitte research.",
+    "content": "<h2>概要</h2><p>Only 15% of US-based organizations have reached scaled, orchestrated, multi-agent adoption, according to the latest Deloitte research.</p><p><a href=\"https://www.zdnet.com/article/businesses-must-reinvent-their-processes-and-workforce-to-scale-agentic-ai-adoption/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/businesses-must-reinvent-their-processes-and-workforce-to-scale-agentic-ai-adoption/"
+  },
+  {
+    "id": 44,
+    "title": " 'Project Hail Mary' and 'The Martian' author Andy Weir is headed back to outer space, but not how you'd expect ",
+    "category": "SPACE",
+    "date": "2026-08-24T19:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/qtijkCcVqbHCP3d5PkVwgk-1280-80.png",
+    "summary": "Weir will executive produce \"Exoplanet,\" a new Audible sci-fi drama coming this fall.",
+    "content": "<h2>概要</h2><p>Weir will executive produce \"Exoplanet,\" a new Audible sci-fi drama coming this fall.</p><p><a href=\"https://www.space.com/entertainment/project-hail-mary-and-the-martian-author-andy-weir-is-headed-back-to-outer-space-but-not-how-youd-expect\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/entertainment/project-hail-mary-and-the-martian-author-andy-weir-is-headed-back-to-outer-space-but-not-how-youd-expect"
+  },
+  {
+    "id": 45,
+    "title": "Meteorite dust holds records of magnetism that may have helped form the sun",
+    "category": "TECH",
+    "date": "2026-08-24T19:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The discovery likely represents the earliest known evidence of a magnetic field in the infant solar system.",
+    "content": "<h2>概要</h2><p>The discovery likely represents the earliest known evidence of a magnetic field in the infant solar system.</p><p><a href=\"https://news.mit.edu/2026/meteorite-dust-holds-records-magnetism-may-have-helped-form-sun-0824\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/meteorite-dust-holds-records-magnetism-may-have-helped-form-sun-0824"
+  },
+  {
+    "id": 46,
+    "title": "Meteorite dust holds records of magnetism that may have helped form the sun",
+    "category": "SCIENCE",
+    "date": "2026-08-24T19:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The discovery likely represents the earliest known evidence of a magnetic field in the infant solar system.",
+    "content": "<h2>概要</h2><p>The discovery likely represents the earliest known evidence of a magnetic field in the infant solar system.</p><p><a href=\"https://news.mit.edu/2026/meteorite-dust-holds-records-magnetism-may-have-helped-form-sun-0824\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News Science",
+    "sourceUrl": "https://news.mit.edu/2026/meteorite-dust-holds-records-magnetism-may-have-helped-form-sun-0824"
+  },
+  {
+    "id": 47,
     "title": "The best early Labor Day deals to shop now: Save on TVs, Apple devices, and more",
     "category": "TECH",
     "date": "2026-08-24T18:41:53.000Z",
@@ -11,73 +517,7 @@
     "sourceUrl": "https://www.zdnet.com/article/best-early-labor-day-deals-2026/"
   },
   {
-    "id": 2,
-    "title": "Mapping thorium's preferred sites could pave the way for nuclear clocks",
-    "category": "SCIENCE",
-    "date": "2026-08-24T18:40:04.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "For decades, physicists have used a technique called Mössbauer spectroscopy to peer inside solid materials, revealing fine details of their surroundings by studying how their atomic nuclei absorb and re-emit gamma rays.",
-    "content": "<h2>概要</h2><p>For decades, physicists have used a technique called Mössbauer spectroscopy to peer inside solid materials, revealing fine details of their surroundings by studying how their atomic nuclei absorb and re-emit gamma rays.</p><p><a href=\"https://phys.org/news/2026-08-thorium-sites-pave-nuclear-clocks.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-thorium-sites-pave-nuclear-clocks.html"
-  },
-  {
-    "id": 3,
-    "title": "Fish DNA in Ozark streams reveals region's complex geologic history",
-    "category": "SCIENCE",
-    "date": "2026-08-24T18:40:02.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "My students and I encountered a mystery. We were partnering with the Missouri Department of Conservation to monitor for fish presence and abundance in the Missouri Ozarks. We visited half a dozen rivers and streams across the region and collected a few cups of water from each.",
-    "content": "<h2>概要</h2><p>My students and I encountered a mystery. We were partnering with the Missouri Department of Conservation to monitor for fish presence and abundance in the Missouri Ozarks. We visited half a dozen rivers and streams across the region and collected a few cups of water from each.</p><p><a href=\"https://phys.org/news/2026-08-fish-dna-ozark-streams-reveals.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-fish-dna-ozark-streams-reveals.html"
-  },
-  {
-    "id": 4,
-    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-    "category": "WORLD",
-    "date": "2026-08-24T18:39:53.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-    "content": "<h2>概要</h2><p>Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 5,
-    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-    "category": "BUSINESS",
-    "date": "2026-08-24T18:39:53.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-    "content": "<h2>概要</h2><p>Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 6,
-    "title": "Mule helps scientists build the clearest horse and donkey genomes yet",
-    "category": "SCIENCE",
-    "date": "2026-08-24T18:20:04.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A mule has helped researchers build the most complete reference genomes to date for horses and donkeys, giving scientists access to complex regions of DNA that earlier versions could not fully capture.",
-    "content": "<h2>概要</h2><p>A mule has helped researchers build the most complete reference genomes to date for horses and donkeys, giving scientists access to complex regions of DNA that earlier versions could not fully capture.</p><p><a href=\"https://phys.org/news/2026-08-mule-scientists-clearest-horse-donkey.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-mule-scientists-clearest-horse-donkey.html"
-  },
-  {
-    "id": 7,
-    "title": "A single lever could ease India's twin agricultural pressures of fertilizer pollution and groundwater stress",
-    "category": "SCIENCE",
-    "date": "2026-08-24T18:20:02.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new study from the Indian Institute of Technology Gandhinagar (IITGN) and the Helmholtz Centre for Environmental Research (UFZ) has shown that redesigning India's cereal cultivation patterns around nitrogen management could significantly reduce environmental damage while maintaining calorie production and improving agricultural sustainability.",
-    "content": "<h2>概要</h2><p>A new study from the Indian Institute of Technology Gandhinagar (IITGN) and the Helmholtz Centre for Environmental Research (UFZ) has shown that redesigning India's cereal cultivation patterns around nitrogen management could significantly reduce environmental damage while maintaining calorie production and improving agricultural sustainability.</p><p><a href=\"https://phys.org/news/2026-08-lever-ease-india-twin-agricultural.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-lever-ease-india-twin-agricultural.html"
-  },
-  {
-    "id": 8,
+    "id": 48,
     "title": "Scientists Have Uncovered Large Quantities of Hidden Hydrogen Beneath Australia—and It Could Lead to a Clean Energy Breakthrough",
     "category": "MYSTERY",
     "date": "2026-08-24T18:18:40.000Z",
@@ -88,29 +528,7 @@
     "sourceUrl": "https://thedebrief.org/scientists-have-uncovered-large-quantities-of-hidden-hydrogen-beneath-australia-and-it-could-lead-to-a-clean-energy-breakthrough/"
   },
   {
-    "id": 9,
-    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-    "category": "TECH",
-    "date": "2026-08-24T18:03:55.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
-    "content": "<h2>概要</h2><p>Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs</p><p><a href=\"https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
-  },
-  {
-    "id": 10,
-    "title": "A 2-degree twist creates a nanoscale grid that traps light energy at room temperature",
-    "category": "SCIENCE",
-    "date": "2026-08-24T18:00:03.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "You may have once tried taking a close-up picture of a computer screen and noticed a wavy, rippling effect. This optical effect occurs whenever two fine, repeating grids overlap and slightly misalign, such as when the pixel grid of your camera's sensor overlaps with the pixel grid of the screen.",
-    "content": "<h2>概要</h2><p>You may have once tried taking a close-up picture of a computer screen and noticed a wavy, rippling effect. This optical effect occurs whenever two fine, repeating grids overlap and slightly misalign, such as when the pixel grid of your camera's sensor overlaps with the pixel grid of the screen.</p><p><a href=\"https://phys.org/news/2026-08-degree-nanoscale-grid-energy-room.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-degree-nanoscale-grid-energy-room.html"
-  },
-  {
-    "id": 11,
+    "id": 49,
     "title": " Goodbye, Falcon 9: SpaceX planning to retire workhorse launcher when Starship is up and running ",
     "category": "SPACE",
     "date": "2026-08-24T18:00:00.000Z",
@@ -121,7 +539,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/goodbye-falcon-9-spacex-planning-to-retire-workhorse-launcher-when-starship-is-up-and-running"
   },
   {
-    "id": 12,
+    "id": 50,
     "title": "Generating scenarios for extreme events, without extreme data",
     "category": "TECH",
     "date": "2026-08-24T18:00:00.000Z",
@@ -132,7 +550,7 @@
     "sourceUrl": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824"
   },
   {
-    "id": 13,
+    "id": 51,
     "title": "Generating scenarios for extreme events, without extreme data",
     "category": "TECH",
     "date": "2026-08-24T18:00:00.000Z",
@@ -143,7 +561,7 @@
     "sourceUrl": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824"
   },
   {
-    "id": 14,
+    "id": 52,
     "title": "This Blink security camera can last up to 2 years on one charge - and it's on sale",
     "category": "TECH",
     "date": "2026-08-24T17:59:31.000Z",
@@ -154,7 +572,18 @@
     "sourceUrl": "https://www.zdnet.com/article/blink-battery-doorbell-2k-and-outdoor-2k-security-camera-bundle-deal/"
   },
   {
-    "id": 15,
+    "id": 53,
+    "title": "Perseverance Captures Another Phobos Transit",
+    "category": "SPACE",
+    "date": "2026-08-24T17:56:49.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26811/PIA26811.png?w=2011&#038;h=1372&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.  The animation has been tinted to simulate what a human would see if […]",
+    "content": "<h2>概要</h2><p>Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.  The animation has been tinted to simulate what a human would see if […]</p><p><a href=\"https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/"
+  },
+  {
+    "id": 54,
     "title": "Perseverance Captures Another Phobos Transit",
     "category": "SPACE",
     "date": "2026-08-24T17:56:49.000Z",
@@ -165,7 +594,18 @@
     "sourceUrl": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/"
   },
   {
-    "id": 16,
+    "id": 55,
+    "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
+    "category": "SPACE",
+    "date": "2026-08-24T17:53:57.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604_th.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.   In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of […]",
+    "content": "<h2>概要</h2><p>At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.   In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of […]</p><p><a href=\"https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/"
+  },
+  {
+    "id": 56,
     "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
     "category": "SPACE",
     "date": "2026-08-24T17:53:57.000Z",
@@ -176,7 +616,7 @@
     "sourceUrl": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/"
   },
   {
-    "id": 17,
+    "id": 57,
     "title": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
     "category": "TECH",
     "date": "2026-08-24T17:46:18.000Z",
@@ -187,7 +627,7 @@
     "sourceUrl": "https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/"
   },
   {
-    "id": 18,
+    "id": 58,
     "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
     "category": "WORLD",
     "date": "2026-08-24T17:34:50.000Z",
@@ -198,7 +638,7 @@
     "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses"
   },
   {
-    "id": 19,
+    "id": 59,
     "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
     "category": "SPACE",
     "date": "2026-08-24T17:34:09.000Z",
@@ -209,7 +649,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/"
   },
   {
-    "id": 20,
+    "id": 60,
     "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
     "category": "SPACE",
     "date": "2026-08-24T17:34:09.000Z",
@@ -220,7 +660,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/"
   },
   {
-    "id": 21,
+    "id": 61,
     "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
     "category": "WORLD",
     "date": "2026-08-24T17:29:59.000Z",
@@ -231,7 +671,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 22,
+    "id": 62,
     "title": "MAIA Air Sensor at Work in Addis Ababa",
     "category": "SPACE",
     "date": "2026-08-24T17:27:01.000Z",
@@ -242,7 +682,7 @@
     "sourceUrl": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/"
   },
   {
-    "id": 23,
+    "id": 63,
     "title": "MAIA Air Sensor at Work in Addis Ababa",
     "category": "SPACE",
     "date": "2026-08-24T17:27:01.000Z",
@@ -253,29 +693,7 @@
     "sourceUrl": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/"
   },
   {
-    "id": 24,
-    "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
-    "category": "SPACE",
-    "date": "2026-08-24T17:21:28.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26694/PIA26694.png?w=2317&#038;h=1896&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less […]",
-    "content": "<h2>概要</h2><p>Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less […]</p><p><a href=\"https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/"
-  },
-  {
-    "id": 25,
-    "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
-    "category": "SPACE",
-    "date": "2026-08-24T17:21:28.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26694/PIA26694.png?w=2317&#038;h=1896&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less […]",
-    "content": "<h2>概要</h2><p>Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less […]</p><p><a href=\"https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/"
-  },
-  {
-    "id": 26,
+    "id": 64,
     "title": "The $649 Fairphone 6+ is the Goldilocks of Android phones - and it's available in the US now",
     "category": "TECH",
     "date": "2026-08-24T17:19:00.000Z",
@@ -286,7 +704,7 @@
     "sourceUrl": "https://www.zdnet.com/article/649-fairphone-6-goldilocks-of-android-phones/"
   },
   {
-    "id": 27,
+    "id": 65,
     "title": "I tried Meta's new free vibe coding app to make my own games, and it was surprisingly fun",
     "category": "TECH",
     "date": "2026-08-24T17:17:23.000Z",
@@ -297,7 +715,7 @@
     "sourceUrl": "https://www.zdnet.com/article/i-tried-metas-vibe-coding-app-to-make-own-games/"
   },
   {
-    "id": 28,
+    "id": 66,
     "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
     "category": "TECH",
     "date": "2026-08-24T17:01:05.000Z",
@@ -308,7 +726,7 @@
     "sourceUrl": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement"
   },
   {
-    "id": 29,
+    "id": 67,
     "title": " SpaceX will set rocket-reuse record on 100th Falcon 9 launch of the year early Aug. 25: Watch it live ",
     "category": "SPACE",
     "date": "2026-08-24T17:00:00.000Z",
@@ -319,18 +737,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-record-37th-booster-flight-100-falcon-9-launches"
   },
   {
-    "id": 30,
-    "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
-    "category": "BUSINESS",
-    "date": "2026-08-24T16:50:47.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
-    "content": "<h2>概要</h2><p>Job site Adzuna said the number of graduate vacancies was the lowest since 2016</p><p><a href=\"https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 31,
+    "id": 68,
     "title": "Robotaxis are real now — so is the pushback",
     "category": "TECH",
     "date": "2026-08-24T16:42:37.000Z",
@@ -341,7 +748,7 @@
     "sourceUrl": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa"
   },
   {
-    "id": 32,
+    "id": 69,
     "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
     "category": "TECH",
     "date": "2026-08-24T16:03:24.000Z",
@@ -352,29 +759,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 33,
-    "title": " Why do we care so much that Pluto isn't a planet? ",
-    "category": "SPACE",
-    "date": "2026-08-24T16:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/jH8DH4E6UTyXG6uk6froo-1280-80.jpg",
-    "summary": "Twenty years after Pluto became a dwarf planet, people are still fighting over its status. Experts explain why the debate feels so personal.",
-    "content": "<h2>概要</h2><p>Twenty years after Pluto became a dwarf planet, people are still fighting over its status. Experts explain why the debate feels so personal.</p><p><a href=\"https://www.space.com/astronomy/pluto/why-do-we-care-so-much-that-pluto-isnt-a-planet\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/astronomy/pluto/why-do-we-care-so-much-that-pluto-isnt-a-planet"
-  },
-  {
-    "id": 34,
-    "title": "The best early Labor Day Garmin watch deals: Gear up for marathon training for less",
-    "category": "TECH",
-    "date": "2026-08-24T15:57:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Training for a fall marathon? Snag one of these Garmin running watches we've tested at a discount.",
-    "content": "<h2>概要</h2><p>Training for a fall marathon? Snag one of these Garmin running watches we've tested at a discount.</p><p><a href=\"https://www.zdnet.com/article/best-early-labor-day-garmin-watch-deals-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/article/best-early-labor-day-garmin-watch-deals-2026/"
-  },
-  {
-    "id": 35,
+    "id": 70,
     "title": "The Witcher 4 developers target a 2028 release",
     "category": "TECH",
     "date": "2026-08-24T15:48:53.000Z",
@@ -385,84 +770,7 @@
     "sourceUrl": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom"
   },
   {
-    "id": 36,
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "category": "TECH",
-    "date": "2026-08-24T15:24:18.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-    "content": "<h2>概要</h2><p>General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.</p><p><a href=\"https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
-  },
-  {
-    "id": 37,
-    "title": "ESPN streaming plans are getting more expensive",
-    "category": "TECH",
-    "date": "2026-08-24T15:06:24.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25594406/STK281_ESPN_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost $13.99 instead of $12.99 / month, while its Unlimited plan will rise to $31.99 from $29.99 / month.\nThe annual ESPN Select plan is also going to $139.99 from $129.99 / year, and the annual Unlimited tier is increasing to $319.99 from $299.99 / year. Meanwhile, Disney Plus bundles with ESPN Select are going up in price as well. Here's a rundown of the changes:\nDisney Plus (with ads), Hulu (with ads), and ES …\n\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost $13.99 instead of $12.99 / month, while its Unlimited plan will rise to $31.99 from $29.99 / month.\nThe annual ESPN Select plan is also going to $139.99 from $129.99 / year, and the annual Unlimited tier is increasing to $319.99 from $299.99 / year. Meanwhile, Disney Plus bundles with ESPN Select are going up in price as well. Here's a rundown of the changes:\nDisney Plus (with ads), Hulu (with ads), and ES …\n\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase"
-  },
-  {
-    "id": 38,
-    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "category": "TECH",
-    "date": "2026-08-24T15:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-    "content": "<h2>概要</h2><p>Inside the frontier lab’s push to bring AI agents from software engineers to the masses.</p><p><a href=\"https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
-  },
-  {
-    "id": 39,
-    "title": " Is the Perseid meteor shower going to get even more spectacular? Jupiter could send more 'shooting stars' towards Earth in 2028 ",
-    "category": "SPACE",
-    "date": "2026-08-24T15:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/SuavxAgFpG3LobEC4X2RaN-1280-80.jpg",
-    "summary": "Jupiter's gravity could trigger an outburst of Perseid meteors as the 2028 shower hits its peak.",
-    "content": "<h2>概要</h2><p>Jupiter's gravity could trigger an outburst of Perseid meteors as the 2028 shower hits its peak.</p><p><a href=\"https://www.space.com/stargazing/meteor-showers/is-the-perseid-meteor-shower-going-to-get-even-more-spectacular-jupiter-could-send-more-shooting-stars-towards-earth-in-2028\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/stargazing/meteor-showers/is-the-perseid-meteor-shower-going-to-get-even-more-spectacular-jupiter-could-send-more-shooting-stars-towards-earth-in-2028"
-  },
-  {
-    "id": 40,
-    "title": " At 25% off, this beginner-friendly Celestron telescope will bring the lunar eclipse closer ",
-    "category": "SPACE",
-    "date": "2026-08-24T14:50:23.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/x3SNVdeAPupZC8smQazGNL-1280-80.jpg",
-    "summary": "Want great views of  this week's partial lunar eclipse or a closer look at Saturn as it reaches opposition in October? This Celestron PowerSeeker 80EQ, nearly 50% off at Walmart, is just what you need.",
-    "content": "<h2>概要</h2><p>Want great views of  this week's partial lunar eclipse or a closer look at Saturn as it reaches opposition in October? This Celestron PowerSeeker 80EQ, nearly 50% off at Walmart, is just what you need.</p><p><a href=\"https://www.space.com/stargazing/skywatching-kit/at-25-percent-off-this-beginner-friendly-celestron-telescope-will-bring-the-lunar-eclipse-closer\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/stargazing/skywatching-kit/at-25-percent-off-this-beginner-friendly-celestron-telescope-will-bring-the-lunar-eclipse-closer"
-  },
-  {
-    "id": 41,
-    "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
-    "category": "TECH",
-    "date": "2026-08-24T14:49:44.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/raspberry-pi-cyberdeck-main-Large.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses, jewelry boxes, and other thrifted or recycled parts have gone viral on TikTok and other social media platforms over the past year, and Raspberry Pi now has its own guide to building one of the homemade computers. \nRaspberry Pi has also increased its prices multiple times this year due to rising costs for RAM and other components, which could be another reason to support this growing market of active and would-be hobbyists. The 16G …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses, jewelry boxes, and other thrifted or recycled parts have gone viral on TikTok and other social media platforms over the past year, and Raspberry Pi now has its own guide to building one of the homemade computers. \nRaspberry Pi has also increased its prices multiple times this year due to rising costs for RAM and other components, which could be another reason to support this growing market of active and would-be hobbyists. The 16G …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases"
-  },
-  {
-    "id": 42,
-    "title": "LST-1 and MAGIC telescopes shatter distance record for the very high-energy blazar OP 313",
-    "category": "SPACE",
-    "date": "2026-08-24T14:40:01.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "On Aug. 15, the CTAO LST Collaboration and the MAGIC Collaboration released findings from observations of OP 313, the most distant very-high-energy blazar ever recorded. The paper, published in Astronomy & Astrophysics, presents in-depth observations conducted with the prototype Large-Sized Telescope (LST-1) and the MAGIC telescopes at the Roque de los Muchachos Observatory in La Palma, Spain.",
-    "content": "<h2>概要</h2><p>On Aug. 15, the CTAO LST Collaboration and the MAGIC Collaboration released findings from observations of OP 313, the most distant very-high-energy blazar ever recorded. The paper, published in Astronomy & Astrophysics, presents in-depth observations conducted with the prototype Large-Sized Telescope (LST-1) and the MAGIC telescopes at the Roque de los Muchachos Observatory in La Palma, Spain.</p><p><a href=\"https://phys.org/news/2026-08-lst-magic-telescopes-shatter-distance.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-08-lst-magic-telescopes-shatter-distance.html"
-  },
-  {
-    "id": 43,
+    "id": 71,
     "title": "How to encourage smarter AI use in the classroom",
     "category": "TECH",
     "date": "2026-08-24T14:20:19.000Z",
@@ -473,7 +781,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
   },
   {
-    "id": 44,
+    "id": 72,
     "title": "How to encourage smarter AI use in the classroom",
     "category": "TECH",
     "date": "2026-08-24T14:20:19.000Z",
@@ -484,7 +792,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
   },
   {
-    "id": 45,
+    "id": 73,
     "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
     "category": "WORLD",
     "date": "2026-08-24T14:19:14.000Z",
@@ -495,51 +803,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping"
   },
   {
-    "id": 46,
-    "title": "Brake problems in GM EVs draw greater federal scrutiny",
-    "category": "TECH",
-    "date": "2026-08-24T14:18:47.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
-    "content": "<h2>概要</h2><p>In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"</p><p><a href=\"https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/"
-  },
-  {
-    "id": 47,
-    "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-    "category": "WORLD",
-    "date": "2026-08-24T13:56:22.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-    "content": "<h2>概要</h2><p>Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 48,
-    "title": "Hugging Face reportedly in talks to be acquired for $13B",
-    "category": "TECH",
-    "date": "2026-08-24T13:47:26.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-    "content": "<h2>概要</h2><p>Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.</p><p><a href=\"https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
-  },
-  {
-    "id": 49,
-    "title": "A 4-star system caught eclipsing itself in a way never seen before",
-    "category": "SPACE",
-    "date": "2026-08-24T13:10:01.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Astronomers have found a four-star system doing something that has never been confirmed before. The system, TIC 433545934, has two close pairs of stars orbiting each other. While each pair eclipses its own two stars, as usual, only one pair eclipses the other. A paper outlining the properties of this unique system was submitted to the arXiv preprint server on Aug. 13. It has been accepted for publication in the journal Astronomy & Astrophysics.",
-    "content": "<h2>概要</h2><p>Astronomers have found a four-star system doing something that has never been confirmed before. The system, TIC 433545934, has two close pairs of stars orbiting each other. While each pair eclipses its own two stars, as usual, only one pair eclipses the other. A paper outlining the properties of this unique system was submitted to the arXiv preprint server on Aug. 13. It has been accepted for publication in the journal Astronomy & Astrophysics.</p><p><a href=\"https://phys.org/news/2026-08-star-caught-eclipsing.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-08-star-caught-eclipsing.html"
-  },
-  {
-    "id": 50,
+    "id": 74,
     "title": "Twitch and Amazon face legal action over using livestreams to train AI",
     "category": "TECH",
     "date": "2026-08-24T13:09:44.000Z",
@@ -550,18 +814,18 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 51,
-    "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
+    "id": 75,
+    "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
     "category": "WORLD",
     "date": "2026-08-24T12:26:00.000Z",
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3790x2534+0+0/resize/3790x2534!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F1c%2F23da8dcd4c6d9d50ba932deba0e5%2Fap26236622592645.jpg",
-    "summary": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
-    "content": "<h2>概要</h2><p>The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"</p><p><a href=\"https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
+    "content": "<h2>概要</h2><p>The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"</p><p><a href=\"https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "NPR World",
     "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
   },
   {
-    "id": 52,
+    "id": 76,
     "title": "Scientists Just Found a New Way to Investigate How Extinct Giants Ended Up in Australia’s Underwater Caves",
     "category": "MYSTERY",
     "date": "2026-08-24T12:21:52.000Z",
@@ -572,7 +836,7 @@
     "sourceUrl": "https://thedebrief.org/scientists-just-found-a-new-way-to-investigate-how-extinct-giants-ended-up-in-australias-underwater-caves/"
   },
   {
-    "id": 53,
+    "id": 77,
     "title": "Lost Ancient Egyptian City Found? Archaeologists Unveil Mysterious Inscription Linking Excavations to a Fabled Lost City from Egyptian Texts",
     "category": "MYSTERY",
     "date": "2026-08-24T12:16:12.000Z",
@@ -583,7 +847,7 @@
     "sourceUrl": "https://thedebrief.org/lost-ancient-egyptian-city-found-archaeologists-unveil-mysterious-inscription-linking-excavations-to-a-fabled-lost-city-from-egyptian-texts/"
   },
   {
-    "id": 54,
+    "id": 78,
     "title": "The Download: kids outlearning AI, and space travel agents",
     "category": "TECH",
     "date": "2026-08-24T12:10:00.000Z",
@@ -594,7 +858,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/"
   },
   {
-    "id": 55,
+    "id": 79,
     "title": "The Download: kids outlearning AI, and space travel agents",
     "category": "TECH",
     "date": "2026-08-24T12:10:00.000Z",
@@ -605,7 +869,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/"
   },
   {
-    "id": 56,
+    "id": 80,
     "title": "Immune Cells Revealed to Have a Unique Sense of Touch in New Research That Could Rewrite How We Understand Autoimmune Problems",
     "category": "MYSTERY",
     "date": "2026-08-24T12:00:57.000Z",
@@ -616,7 +880,7 @@
     "sourceUrl": "https://thedebrief.org/immune-cells-revealed-to-have-a-unique-sense-of-touch-in-new-research-that-could-rewrite-how-we-understand-autoimmune-problems/"
   },
   {
-    "id": 57,
+    "id": 81,
     "title": "Birdfy Nest Duo Review: My Own Private Nature Documentary",
     "category": "TECH",
     "date": "2026-08-24T11:30:00.000Z",
@@ -627,7 +891,7 @@
     "sourceUrl": "https://www.wired.com/review/birdfy-nest-duo/"
   },
   {
-    "id": 58,
+    "id": 82,
     "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
     "category": "WORLD",
     "date": "2026-08-24T11:27:44.000Z",
@@ -638,62 +902,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban"
   },
   {
-    "id": 59,
-    "title": "The Kindle Accessories I Never Want to Read Without (2026)",
-    "category": "TECH",
-    "date": "2026-08-24T11:09:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page turners and even charms, this is the guide for you.",
-    "content": "<h2>概要</h2><p>Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page turners and even charms, this is the guide for you.</p><p><a href=\"https://www.wired.com/story/best-kindle-accessories/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/best-kindle-accessories/"
-  },
-  {
-    "id": 60,
-    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-    "category": "TECH",
-    "date": "2026-08-24T11:00:01.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Unibook is a weird entry-level laptop for people with patience.",
-    "content": "<h2>概要</h2><p>The Unibook is a weird entry-level laptop for people with patience.</p><p><a href=\"https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/"
-  },
-  {
-    "id": 61,
-    "title": "The Best Home Theater Projectors in 2026: XGIMI, Hisense, Leica, and More",
-    "category": "TECH",
-    "date": "2026-08-24T11:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Home theater projectors are getting better and better, and have quickly become my favorite way to enjoy movies.",
-    "content": "<h2>概要</h2><p>Home theater projectors are getting better and better, and have quickly become my favorite way to enjoy movies.</p><p><a href=\"https://www.wired.com/story/best-home-theater-projector/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/best-home-theater-projector/"
-  },
-  {
-    "id": 62,
-    "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-    "category": "WORLD",
-    "date": "2026-08-24T10:40:22.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-    "content": "<h2>概要</h2><p>Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 63,
-    "title": "Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful",
-    "category": "TECH",
-    "date": "2026-08-24T10:30:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Tethered display glasses are truly practical face computers. They trade bulky spatial computing for simplicity: Plug in, recline, and get a massive screen right in front of your nose.",
-    "content": "<h2>概要</h2><p>Tethered display glasses are truly practical face computers. They trade bulky spatial computing for simplicity: Plug in, recline, and get a massive screen right in front of your nose.</p><p><a href=\"https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/"
-  },
-  {
-    "id": 64,
+    "id": 83,
     "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
     "category": "WORLD",
     "date": "2026-08-24T10:11:34.000Z",
@@ -704,18 +913,7 @@
     "sourceUrl": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa"
   },
   {
-    "id": 65,
-    "title": "Pubs and hotels could see business rates reformed after review",
-    "category": "BUSINESS",
-    "date": "2026-08-24T09:41:24.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
-    "content": "<h2>概要</h2><p>The review of how rates are calculated in England and Wales could lead to reform of the system.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 66,
+    "id": 84,
     "title": "Language skills stay strong in older adults, even while other cognitive abilities decline",
     "category": "TECH",
     "date": "2026-08-24T09:00:00.000Z",
@@ -726,7 +924,7 @@
     "sourceUrl": "https://news.mit.edu/2026/language-skills-stay-strong-older-adults-even-while-other-cognitive-abilities-decline-0824"
   },
   {
-    "id": 67,
+    "id": 85,
     "title": "Language skills stay strong in older adults, even while other cognitive abilities decline",
     "category": "SCIENCE",
     "date": "2026-08-24T09:00:00.000Z",
@@ -737,7 +935,7 @@
     "sourceUrl": "https://news.mit.edu/2026/language-skills-stay-strong-older-adults-even-while-other-cognitive-abilities-decline-0824"
   },
   {
-    "id": 68,
+    "id": 86,
     "title": "Kids outlearn AI—and we still don’t know why",
     "category": "TECH",
     "date": "2026-08-24T09:00:00.000Z",
@@ -748,7 +946,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
   },
   {
-    "id": 69,
+    "id": 87,
     "title": "Kids outlearn AI—and we still don’t know why",
     "category": "TECH",
     "date": "2026-08-24T09:00:00.000Z",
@@ -759,7 +957,18 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
   },
   {
-    "id": 70,
+    "id": 88,
+    "title": "These American doctors treated Gaza's wounded. Then they came home to bear witness",
+    "category": "WORLD",
+    "date": "2026-08-24T08:45:40.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Fd0%2F89d4341b4e7cb65ca6f8191dad1b%2Fgettyimages-2257863888.jpg",
+    "summary": "The director of American Doctor and two physicians in the film discuss the challenges of treating Gaza's wounded civilians and why they believe the world must see what is happening there.",
+    "content": "<h2>概要</h2><p>The director of American Doctor and two physicians in the film discuss the challenges of treating Gaza's wounded civilians and why they believe the world must see what is happening there.</p><p><a href=\"https://www.npr.org/2026/08/24/nx-s1-5928030/american-doctor-documentary-gaza-healthcare\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/08/24/nx-s1-5928030/american-doctor-documentary-gaza-healthcare"
+  },
+  {
+    "id": 89,
     "title": "King of Norway's health has worsened, palace says",
     "category": "WORLD",
     "date": "2026-08-24T08:31:55.000Z",
@@ -770,7 +979,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 71,
+    "id": 90,
     "title": "Watch live: MTG-I2 set for liftoff",
     "category": "SPACE",
     "date": "2026-08-24T08:14:00.000Z",
@@ -781,51 +990,7 @@
     "sourceUrl": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Watch_live_MTG-I2_set_for_liftoff"
   },
   {
-    "id": 72,
-    "title": "China says unmanned moon mission delayed over 'launch conditions'",
-    "category": "SPACE",
-    "date": "2026-08-24T07:10:01.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "China's manned space agency said Sunday it is delaying a research moon mission that is part of Beijing's efforts to land a crew there by 2030, less than two weeks after a rare launch failure.",
-    "content": "<h2>概要</h2><p>China's manned space agency said Sunday it is delaying a research moon mission that is part of Beijing's efforts to land a crew there by 2030, less than two weeks after a rare launch failure.</p><p><a href=\"https://phys.org/news/2026-08-china-unmanned-moon-mission-delayed.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-08-china-unmanned-moon-mission-delayed.html"
-  },
-  {
-    "id": 73,
-    "title": "Shein aims for almost $27bn valuation in stock market debut",
-    "category": "BUSINESS",
-    "date": "2026-08-24T07:00:53.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-    "content": "<h2>概要</h2><p>The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 74,
-    "title": "What Lake Bonneville Left Behind",
-    "category": "SPACE",
-    "date": "2026-08-24T04:01:00.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604.jpg?w=2322&#038;h=1940&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.",
-    "content": "<h2>概要</h2><p>The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/"
-  },
-  {
-    "id": 75,
-    "title": "'I didn't speak the Queen's English': Why people worry about their accents",
-    "category": "BUSINESS",
-    "date": "2026-08-23T23:25:44.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
-    "content": "<h2>概要</h2><p>A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 76,
+    "id": 91,
     "title": "Landslide at waste mound in Guinea capital kills 30, government says",
     "category": "WORLD",
     "date": "2026-08-23T22:16:53.000Z",
@@ -836,18 +1001,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens"
   },
   {
-    "id": 77,
-    "title": "Learning to live in a post-American world",
-    "category": "WORLD",
-    "date": "2026-08-23T21:21:23.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5939846",
-    "summary": "In a recent article for Foregin Affairs, Mark Leonard makes that argument that America's leading role in the world order is fading. He discusses his argument with NPR's Danielle Kurtzleben.",
-    "content": "<h2>概要</h2><p>In a recent article for Foregin Affairs, Mark Leonard makes that argument that America's leading role in the world order is fading. He discusses his argument with NPR's Danielle Kurtzleben.</p><p><a href=\"https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world"
-  },
-  {
-    "id": 78,
+    "id": 92,
     "title": "Scientists Grew Human Brain Organoids for Years and Discovered They Keep Track of Time",
     "category": "MYSTERY",
     "date": "2026-08-23T15:59:43.000Z",
@@ -858,62 +1012,7 @@
     "sourceUrl": "https://thedebrief.org/scientists-grew-human-brain-organoids-for-years-and-discovered-they-keep-track-of-time/"
   },
   {
-    "id": 79,
-    "title": "JWST peeks at Callisto's ancient scars",
-    "category": "SPACE",
-    "date": "2026-08-23T15:00:04.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Of Jupiter's four Galilean moons, Callisto is the one that gets the least attention. Io is constantly being resurfaced by volcanoes. Europa has a giant liquid water ocean. And Ganymede has its own magnetic field that interacts with its parent planet in weird ways. Callisto, by comparison, seems sedate, with its ancient, crater-saturated surface seemingly frozen in time. But new data from the James Webb Space Telescope (JWST) shows that even this most benign of the Big Four moons is more active than previously realized.",
-    "content": "<h2>概要</h2><p>Of Jupiter's four Galilean moons, Callisto is the one that gets the least attention. Io is constantly being resurfaced by volcanoes. Europa has a giant liquid water ocean. And Ganymede has its own magnetic field that interacts with its parent planet in weird ways. Callisto, by comparison, seems sedate, with its ancient, crater-saturated surface seemingly frozen in time. But new data from the James Webb Space Telescope (JWST) shows that even this most benign of the Big Four moons is more active than previously realized.</p><p><a href=\"https://phys.org/news/2026-08-jwst-peeks-callisto-ancient-scars.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-08-jwst-peeks-callisto-ancient-scars.html"
-  },
-  {
-    "id": 80,
-    "title": "China abruptly postpones ambitious Chang'e-7 lunar mission launch",
-    "category": "SPACE",
-    "date": "2026-08-23T14:38:51.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "China said on Sunday it was postponing its planned ambitious Chang'e-7 lunar mission, which was set to carry out explorations including searching for water ice on the moon.",
-    "content": "<h2>概要</h2><p>China said on Sunday it was postponing its planned ambitious Chang'e-7 lunar mission, which was set to carry out explorations including searching for water ice on the moon.</p><p><a href=\"https://phys.org/news/2026-08-china-abruptly-postpones-ambitious-lunar.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-08-china-abruptly-postpones-ambitious-lunar.html"
-  },
-  {
-    "id": 81,
-    "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
-    "category": "TECH",
-    "date": "2026-08-23T14:30:16.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
-    "content": "<h2>概要</h2><p>\"The Chang’e 7 mission does not meet the conditions for launch.\"</p><p><a href=\"https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/"
-  },
-  {
-    "id": 82,
-    "title": "Volcanoes that made history",
-    "category": "TECH",
-    "date": "2026-08-23T11:02:54.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
-    "content": "<h2>概要</h2><p>Enormous eruptions altered Earth’s climate and societies all over the globe.</p><p><a href=\"https://arstechnica.com/science/2026/08/volcanoes-that-made-history/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/"
-  },
-  {
-    "id": 83,
-    "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
-    "category": "SPACE",
-    "date": "2026-08-23T07:39:28.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04982_mcam_4982MR1098550121904994C00_DXXX.jpg?w=1328&#038;h=1184&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on course to ascend Mount Sharp. As we transition […]",
-    "content": "<h2>概要</h2><p>By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on course to ascend Mount Sharp. As we transition […]</p><p><a href=\"https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/"
-  },
-  {
-    "id": 84,
+    "id": 93,
     "title": "Robot horse and rider steal the spotlight at Chinese conference",
     "category": "TECH",
     "date": "2026-08-22T12:47:28.000Z",
@@ -924,40 +1023,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 85,
-    "title": "Putting mice into hibernation causes a major loss of synapses",
-    "category": "TECH",
-    "date": "2026-08-22T11:22:32.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
-    "content": "<h2>概要</h2><p>Hibernation cuts down on synapses, but mice seem to retain memories anyway.</p><p><a href=\"https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
-  },
-  {
-    "id": 86,
-    "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-    "category": "TECH",
-    "date": "2026-08-22T11:08:53.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
-    "content": "<h2>概要</h2><p>Lands free of roads are under threat from the Trump administration’s proposed rollback.</p><p><a href=\"https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/"
-  },
-  {
-    "id": 87,
-    "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
-    "category": "WORLD",
-    "date": "2026-08-22T04:36:27.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x746+0+0/resize/1024x746!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2F76%2Fce6c9c994f5eab171f25f577f3bb%2Fgetty-uscanadatariffs.jpg",
-    "summary": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" starting Sept. 8.",
-    "content": "<h2>概要</h2><p>The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" starting Sept. 8.</p><p><a href=\"https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
-  },
-  {
-    "id": 88,
+    "id": 94,
     "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
     "category": "TECH",
     "date": "2026-08-21T22:36:12.000Z",
@@ -968,18 +1034,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 89,
-    "title": "Big tech companies will have to pay to publish Australian news content under new laws",
-    "category": "WORLD",
-    "date": "2026-08-21T21:34:57.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5939814",
-    "summary": "Australia has passed a law requiring major tech platforms such as Google and Meta to strike deals with Australian news publishers or pay a levy on their advertising revenue.",
-    "content": "<h2>概要</h2><p>Australia has passed a law requiring major tech platforms such as Google and Meta to strike deals with Australian news publishers or pay a levy on their advertising revenue.</p><p><a href=\"https://www.npr.org/2026/08/21/nx-s1-5939814/big-tech-companies-will-have-to-pay-to-publish-australian-news-content-under-new-laws\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/08/21/nx-s1-5939814/big-tech-companies-will-have-to-pay-to-publish-australian-news-content-under-new-laws"
-  },
-  {
-    "id": 90,
+    "id": 95,
     "title": "We May Be Wrong About How the Brain Stores Memory",
     "category": "MYSTERY",
     "date": "2026-08-21T18:25:19.000Z",
@@ -990,7 +1045,7 @@
     "sourceUrl": "https://singularityhub.com/2026/08/21/we-may-be-wrong-about-how-the-brain-stores-memory/"
   },
   {
-    "id": 91,
+    "id": 96,
     "title": "The importance of indoor airflow patterns in spreading airborne disease",
     "category": "TECH",
     "date": "2026-08-21T16:00:00.000Z",
@@ -1001,7 +1056,7 @@
     "sourceUrl": "https://news.mit.edu/2026/indoor-airflow-patterns-importance-spreading-airborne-disease-0821"
   },
   {
-    "id": 92,
+    "id": 97,
     "title": "The importance of indoor airflow patterns in spreading airborne disease",
     "category": "TECH",
     "date": "2026-08-21T16:00:00.000Z",
@@ -1012,7 +1067,7 @@
     "sourceUrl": "https://news.mit.edu/2026/indoor-airflow-patterns-importance-spreading-airborne-disease-0821"
   },
   {
-    "id": 93,
+    "id": 98,
     "title": "Watch Sophie Adenot’s second spacewalk live",
     "category": "SPACE",
     "date": "2026-08-21T14:00:00.000Z",
@@ -1023,7 +1078,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_second_spacewalk_live"
   },
   {
-    "id": 94,
+    "id": 99,
     "title": "Week in images: 17-21 August 2026",
     "category": "SPACE",
     "date": "2026-08-21T13:10:00.000Z",
@@ -1034,7 +1089,7 @@
     "sourceUrl": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_August_2026"
   },
   {
-    "id": 95,
+    "id": 100,
     "title": "The Download: threats from space mirrors and credit for AI drugs",
     "category": "TECH",
     "date": "2026-08-21T12:10:00.000Z",
@@ -1045,7 +1100,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/"
   },
   {
-    "id": 96,
+    "id": 101,
     "title": "The Download: threats from space mirrors and credit for AI drugs",
     "category": "TECH",
     "date": "2026-08-21T12:10:00.000Z",
@@ -1056,7 +1111,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/"
   },
   {
-    "id": 97,
+    "id": 102,
     "title": "Mother tongue",
     "category": "TECH",
     "date": "2026-08-21T09:00:00.000Z",
@@ -1067,7 +1122,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/"
   },
   {
-    "id": 98,
+    "id": 103,
     "title": "Mother tongue",
     "category": "TECH",
     "date": "2026-08-21T09:00:00.000Z",
@@ -1078,7 +1133,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/"
   },
   {
-    "id": 99,
+    "id": 104,
     "title": "How landscape gardening is being electrified",
     "category": "TECH",
     "date": "2026-08-20T23:12:38.000Z",
@@ -1089,7 +1144,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 100,
+    "id": 105,
     "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
     "category": "WORLD",
     "date": "2026-08-20T19:57:59.000Z",
@@ -1100,18 +1155,7 @@
     "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement"
   },
   {
-    "id": 101,
-    "title": "Paving the way for greener ammonia production",
-    "category": "TECH",
-    "date": "2026-08-20T18:45:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertilizer and other products.",
-    "content": "<h2>概要</h2><p>New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertilizer and other products.</p><p><a href=\"https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News",
-    "sourceUrl": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820"
-  },
-  {
-    "id": 102,
+    "id": 106,
     "title": "Paving the way for greener ammonia production",
     "category": "TECH",
     "date": "2026-08-20T18:45:00.000Z",
@@ -1122,7 +1166,7 @@
     "sourceUrl": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820"
   },
   {
-    "id": 103,
+    "id": 107,
     "title": "Paving the way for greener ammonia production",
     "category": "SCIENCE",
     "date": "2026-08-20T18:45:00.000Z",
@@ -1133,7 +1177,7 @@
     "sourceUrl": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820"
   },
   {
-    "id": 104,
+    "id": 108,
     "title": "Long Foreseen, the Problem of AI Alignment Is Finally Reality. Solving It Won’t Be Easy.",
     "category": "MYSTERY",
     "date": "2026-08-20T14:56:20.000Z",
@@ -1144,18 +1188,7 @@
     "sourceUrl": "https://singularityhub.com/2026/08/20/long-foreseen-the-problem-of-ai-alignment-is-finally-reality-solving-it-wont-be-easy/"
   },
   {
-    "id": 105,
-    "title": "MIT engineers design a better controller for operating construction diggers",
-    "category": "TECH",
-    "date": "2026-08-20T04:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The new, more intuitive system could speed up the training process for excavator operators.",
-    "content": "<h2>概要</h2><p>The new, more intuitive system could speed up the training process for excavator operators.</p><p><a href=\"https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News",
-    "sourceUrl": "https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820"
-  },
-  {
-    "id": 106,
+    "id": 109,
     "title": "MIT engineers design a better controller for operating construction diggers",
     "category": "TECH",
     "date": "2026-08-20T04:00:00.000Z",
@@ -1166,7 +1199,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820"
   },
   {
-    "id": 107,
+    "id": 110,
     "title": "The game’s the thing",
     "category": "TECH",
     "date": "2026-08-19T18:35:00.000Z",
@@ -1177,7 +1210,7 @@
     "sourceUrl": "https://news.mit.edu/2026/games-the-thing-kayode-dada-0819"
   },
   {
-    "id": 108,
+    "id": 111,
     "title": "How the Toxoplasma parasite adapts to crowded conditions in host cells",
     "category": "SCIENCE",
     "date": "2026-08-19T17:50:00.000Z",
@@ -1188,7 +1221,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-toxoplasma-parasite-adapts-to-crowded-host-cell-conditions-0819"
   },
   {
-    "id": 109,
+    "id": 112,
     "title": "Scrapping a New Gas Car for an Electric One Could Cut Emissions, Study Finds",
     "category": "MYSTERY",
     "date": "2026-08-19T17:12:23.000Z",
@@ -1199,7 +1232,7 @@
     "sourceUrl": "https://singularityhub.com/2026/08/19/scrapping-even-a-new-gas-car-for-an-electric-one-could-cut-emissions-study-finds/"
   },
   {
-    "id": 110,
+    "id": 113,
     "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
     "category": "AI",
     "date": "2026-08-19T14:18:12.000Z",
@@ -1210,18 +1243,7 @@
     "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
   },
   {
-    "id": 111,
-    "title": "Tackling rare genetic disorders with patient-focused science",
-    "category": "SCIENCE",
-    "date": "2026-08-18T04:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Shannon Knight, a brain and cognitive sciences PhD candidate and McGovern Institute researcher, focuses on developing a novel gene therapy.",
-    "content": "<h2>概要</h2><p>Shannon Knight, a brain and cognitive sciences PhD candidate and McGovern Institute researcher, focuses on developing a novel gene therapy.</p><p><a href=\"https://news.mit.edu/2026/tackling-rare-genetic-disorders-patient-focused-science-shannon-knight-0818\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News Science",
-    "sourceUrl": "https://news.mit.edu/2026/tackling-rare-genetic-disorders-patient-focused-science-shannon-knight-0818"
-  },
-  {
-    "id": 112,
+    "id": 114,
     "title": "DeepMind’s Weather AI Predicts Hurricanes a Day Earlier Than Traditional Forecasting",
     "category": "MYSTERY",
     "date": "2026-08-17T22:42:15.000Z",
@@ -1230,28 +1252,6 @@
     "content": "<h2>概要</h2><p>For communities in the crosshairs, every extra hour counts.\nThe post DeepMind’s Weather AI Predicts Hurricanes a Day Earlier Than Traditional Forecasting appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/08/17/deepminds-weather-ai-accurately-predicts-hurricanes-a-day-earlier-than-traditional-forecasting-tools/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "Singularity Hub",
     "sourceUrl": "https://singularityhub.com/2026/08/17/deepminds-weather-ai-accurately-predicts-hurricanes-a-day-earlier-than-traditional-forecasting-tools/"
-  },
-  {
-    "id": 113,
-    "title": "DNA shaper steers nervous system development",
-    "category": "SCIENCE",
-    "date": "2026-08-17T20:20:00.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A study of worms finds a protein that helps shape the structure of the genome is critical for establishing the identity of some neurons.",
-    "content": "<h2>概要</h2><p>A study of worms finds a protein that helps shape the structure of the genome is critical for establishing the identity of some neurons.</p><p><a href=\"https://news.mit.edu/2026/dna-shaper-steers-nervous-system-development-0817\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News Science",
-    "sourceUrl": "https://news.mit.edu/2026/dna-shaper-steers-nervous-system-development-0817"
-  },
-  {
-    "id": 114,
-    "title": "This Week’s Awesome Tech Stories From Around the Web (Through August 15)",
-    "category": "MYSTERY",
-    "date": "2026-08-15T14:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Every week, we scour the web for important, insightful, and fascinating stories in science and technology.\nThe post This Week’s Awesome Tech Stories From Around the Web (Through August 15) appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>Every week, we scour the web for important, insightful, and fascinating stories in science and technology.\nThe post This Week’s Awesome Tech Stories From Around the Web (Through August 15) appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/08/15/this-weeks-awesome-tech-stories-from-around-the-web-through-august-15-2/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/08/15/this-weeks-awesome-tech-stories-from-around-the-web-through-august-15-2/"
   },
   {
     "id": 115,
