@@ -1,7 +1,161 @@
 [
   {
     "id": 1,
-    "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+    "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+    "category": "WORLD",
+    "date": "2026-08-30T11:25:11.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+    "content": "<h2>概要</h2><p>Five others in their twenties were injured after shots were fired at a techno event near Zurich.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 2,
+    "title": "Inside Meta’s push to put robots to work in data centers",
+    "category": "TECH",
+    "date": "2026-08-30T11:03:47.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The company is testing robots on tasks that can performed by technicians.",
+    "content": "<h2>概要</h2><p>The company is testing robots on tasks that can performed by technicians.</p><p><a href=\"https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
+  },
+  {
+    "id": 3,
+    "title": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
+    "category": "TECH",
+    "date": "2026-08-30T11:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested, multi-room mesh Wi-Fi systems will keep your whole house online.",
+    "content": "<h2>概要</h2><p>Forget about patchy internet connections and dead spots in the house. These WIRED-tested, multi-room mesh Wi-Fi systems will keep your whole house online.</p><p><a href=\"https://www.wired.com/story/best-mesh-wifi-routers/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/best-mesh-wifi-routers/"
+  },
+  {
+    "id": 4,
+    "title": "Iceland votes against restarting talks on joining EU",
+    "category": "WORLD",
+    "date": "2026-08-30T10:49:11.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
+    "content": "<h2>概要</h2><p>Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 5,
+    "title": "Why the Hottest New Wearables Want to Be Ignored",
+    "category": "TECH",
+    "date": "2026-08-30T10:30:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+    "content": "<h2>概要</h2><p>Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.</p><p><a href=\"https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/"
+  },
+  {
+    "id": 6,
+    "title": "The Best Label Makers (2026): Brother, Niimbot, Dymo",
+    "category": "TECH",
+    "date": "2026-08-30T10:03:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Experience the oddly satisfying joy of labeling bins, drawers, and more with the best Bluetooth and traditional label makers.",
+    "content": "<h2>概要</h2><p>Experience the oddly satisfying joy of labeling bins, drawers, and more with the best Bluetooth and traditional label makers.</p><p><a href=\"https://www.wired.com/gallery/the-best-label-makers-for-an-organized-home/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/gallery/the-best-label-makers-for-an-organized-home/"
+  },
+  {
+    "id": 7,
+    "title": "NASA's Roman telescope set to launch on cosmic mapping mission",
+    "category": "SCIENCE",
+    "date": "2026-08-30T10:00:58.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics.",
+    "content": "<h2>概要</h2><p>NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics.</p><p><a href=\"https://phys.org/news/2026-08-nasa-roman-telescope-cosmic-mission.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-nasa-roman-telescope-cosmic-mission.html"
+  },
+  {
+    "id": 8,
+    "title": "NASA's Roman telescope set to launch on cosmic mapping mission",
+    "category": "SPACE",
+    "date": "2026-08-30T10:00:58.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics.",
+    "content": "<h2>概要</h2><p>NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics.</p><p><a href=\"https://phys.org/news/2026-08-nasa-roman-telescope-cosmic-mission.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-08-nasa-roman-telescope-cosmic-mission.html"
+  },
+  {
+    "id": 9,
+    "title": "How to Escape Group Chat Hell",
+    "category": "TECH",
+    "date": "2026-08-30T10:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Young adults are in more group chats than ever—sometimes more than 20 at a time. Here’s how to tame the chat madness.",
+    "content": "<h2>概要</h2><p>Young adults are in more group chats than ever—sometimes more than 20 at a time. Here’s how to tame the chat madness.</p><p><a href=\"https://www.wired.com/story/how-to-escape-from-group-chat-hell/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/how-to-escape-from-group-chat-hell/"
+  },
+  {
+    "id": 10,
+    "title": "From Appalachia to Africa: Why Dolly Parton was beloved across the continent",
+    "category": "WORLD",
+    "date": "2026-08-30T10:00:00.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3335+0+0/resize/5000x3335!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2F49%2F8eafbc484b7a8dad967be0d67348%2Fgettyimages-2287054395.jpg",
+    "summary": "Dolly Parton's songs traveled far beyond Nashville. Across Africa, musicians embraced her stories of hardship, heartbreak and humble beginnings — and made them their own.",
+    "content": "<h2>概要</h2><p>Dolly Parton's songs traveled far beyond Nashville. Across Africa, musicians embraced her stories of hardship, heartbreak and humble beginnings — and made them their own.</p><p><a href=\"https://www.npr.org/2026/08/30/nx-s1-5946399/africa-dolly-parton-fans\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5946399/africa-dolly-parton-fans"
+  },
+  {
+    "id": 11,
+    "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
+    "category": "WORLD",
+    "date": "2026-08-30T09:52:41.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4627x2115+0+0/resize/4627x2115!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Fb5%2F8c0f91b946acaecb425753937db8%2Fap26241725231648.jpg",
+    "summary": "Authorities in Nepal warned of possible fresh flooding on Sunday and urged residents in flood-affected districts to remain on high alert after water levels rose in the Bhotekoshi River.",
+    "content": "<h2>概要</h2><p>Authorities in Nepal warned of possible fresh flooding on Sunday and urged residents in flood-affected districts to remain on high alert after water levels rose in the Bhotekoshi River.</p><p><a href=\"https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding"
+  },
+  {
+    "id": 12,
+    "title": "Scientists Create the Littlest Big Bang to Study the Universe's Origins",
+    "category": "TECH",
+    "date": "2026-08-30T09:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The discovery redefines how large atoms need to be to produce the extreme state of matter found in the early universe.",
+    "content": "<h2>概要</h2><p>The discovery redefines how large atoms need to be to produce the extreme state of matter found in the early universe.</p><p><a href=\"https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/"
+  },
+  {
+    "id": 13,
+    "title": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war",
+    "category": "WORLD",
+    "date": "2026-08-30T06:00:48.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Conditions are deteriorating in city of El Obeid and camps on its outskirts, with more people arriving every day\nHumanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people on the ground, as civilians displaced by fighting between the Sudanese Armed Forces and Rapid Support Forces (RSF) militia continue to pour in from the surrounding countryside.\nThe UN says more than 15,000 families have arrived since mid-July, joining more than 200,000 people who arrived in the first half of the year, according to government figures cited by Save the Children.\n Continue reading...",
+    "content": "<h2>概要</h2><p>Conditions are deteriorating in city of El Obeid and camps on its outskirts, with more people arriving every day\nHumanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people on the ground, as civilians displaced by fighting between the Sudanese Armed Forces and Rapid Support Forces (RSF) militia continue to pour in from the surrounding countryside.\nThe UN says more than 15,000 families have arrived since mid-July, joining more than 200,000 people who arrived in the first half of the year, according to government figures cited by Save the Children.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid"
+  },
+  {
+    "id": 14,
+    "title": "WhatsApp chat used to send cash for crime and extremism",
+    "category": "WORLD",
+    "date": "2026-08-30T04:59:56.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+    "content": "<h2>概要</h2><p>The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 15,
+    "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
     "category": "BUSINESS",
     "date": "2026-08-30T04:01:02.000Z",
     "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
@@ -11,29 +165,18 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 2,
-    "title": "Iceland EU referendum on a knife edge as counting continues",
-    "category": "WORLD",
-    "date": "2026-08-30T03:57:01.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
-    "content": "<h2>概要</h2><p>A vote on whether to resume membership talks with the European Union is too close to call.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 3,
-    "title": "Icelanders vote on whether they want to join the EU",
+    "id": 16,
+    "title": "Icelanders vote 'no' to talks aimed at joining the EU in close referendum",
     "category": "WORLD",
     "date": "2026-08-30T01:47:44.000Z",
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F8e%2Fecb298334aa0810bc003b316abaf%2Fap26241528064042.jpg",
-    "summary": "The final vote is expected to be extremely close, with ballot counting continuing through the night.",
-    "content": "<h2>概要</h2><p>The final vote is expected to be extremely close, with ballot counting continuing through the night.</p><p><a href=\"https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "The vote against the EU led by 52.8 percent with nearly all votes counted, according to RÚV, Iceland's broadcaster.",
+    "content": "<h2>概要</h2><p>The vote against the EU led by 52.8 percent with nearly all votes counted, according to RÚV, Iceland's broadcaster.</p><p><a href=\"https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "NPR World",
     "sourceUrl": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote"
   },
   {
-    "id": 4,
+    "id": 17,
     "title": "Scientists melted a diamond and cracked a secret of ice giants",
     "category": "SCIENCE",
     "date": "2026-08-30T00:30:04.000Z",
@@ -44,7 +187,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-scientists-diamond-secret-ice-giants.html"
   },
   {
-    "id": 5,
+    "id": 18,
     "title": "Scientists melted a diamond and cracked a secret of ice giants",
     "category": "SPACE",
     "date": "2026-08-30T00:30:04.000Z",
@@ -55,8 +198,8 @@
     "sourceUrl": "https://phys.org/news/2026-08-scientists-diamond-secret-ice-giants.html"
   },
   {
-    "id": 6,
-    "title": "Canada installs large Lake Ontario sign in latest jab at US",
+    "id": 19,
+    "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
     "category": "WORLD",
     "date": "2026-08-30T00:17:25.000Z",
     "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
@@ -66,7 +209,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 7,
+    "id": 20,
     "title": "I've been to Gamescom six times - here's what excited me this year",
     "category": "TECH",
     "date": "2026-08-29T23:02:28.000Z",
@@ -77,7 +220,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 8,
+    "id": 21,
     "title": " NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket ",
     "category": "SPACE",
     "date": "2026-08-29T22:44:18.000Z",
@@ -88,7 +231,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket"
   },
   {
-    "id": 9,
+    "id": 22,
     "title": "Getting help to Nepal's flood survivors is proving difficult",
     "category": "WORLD",
     "date": "2026-08-29T21:14:10.000Z",
@@ -99,7 +242,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/29/nx-s1-5948125/getting-help-to-nepals-flood-survivors-is-proving-difficult"
   },
   {
-    "id": 10,
+    "id": 23,
     "title": "Rescuers race to find thousands missing after deadly Himalayan floods",
     "category": "WORLD",
     "date": "2026-08-29T21:14:09.000Z",
@@ -110,7 +253,7 @@
     "sourceUrl": "https://www.npr.org/2026/08/29/nx-s1-5948040/rescuers-race-to-find-thousands-missing-after-deadly-himalayan-floods"
   },
   {
-    "id": 11,
+    "id": 24,
     "title": "Strategic irrigation stress can lift lucerne seed yield and returns",
     "category": "SCIENCE",
     "date": "2026-08-29T21:00:05.000Z",
@@ -121,7 +264,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-strategic-irrigation-stress-lucerne-seed.html"
   },
   {
-    "id": 12,
+    "id": 25,
     "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
     "category": "TECH",
     "date": "2026-08-29T20:59:26.000Z",
@@ -132,7 +275,7 @@
     "sourceUrl": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale"
   },
   {
-    "id": 13,
+    "id": 26,
     "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
     "category": "WORLD",
     "date": "2026-08-29T20:13:16.000Z",
@@ -143,7 +286,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 14,
+    "id": 27,
     "title": "Airborne tuberculosis bacteria may mutate as they dry, revealing a target to curb drug resistance",
     "category": "SCIENCE",
     "date": "2026-08-29T20:00:01.000Z",
@@ -154,7 +297,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-airborne-tuberculosis-bacteria-mutate-dry.html"
   },
   {
-    "id": 15,
+    "id": 28,
     "title": "Alt-right troll Milo Yiannopoulos has been deported",
     "category": "TECH",
     "date": "2026-08-29T19:49:59.000Z",
@@ -165,7 +308,7 @@
     "sourceUrl": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice"
   },
   {
-    "id": 16,
+    "id": 29,
     "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
     "category": "TECH",
     "date": "2026-08-29T18:41:59.000Z",
@@ -176,7 +319,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
   },
   {
-    "id": 17,
+    "id": 30,
     "title": "Sony Music and Warner Chappell are suing Anthropic",
     "category": "TECH",
     "date": "2026-08-29T18:19:53.000Z",
@@ -187,7 +330,7 @@
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
   },
   {
-    "id": 18,
+    "id": 31,
     "title": "How everyday household tasks impact relationships",
     "category": "SCIENCE",
     "date": "2026-08-29T18:00:04.000Z",
@@ -198,29 +341,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-everyday-household-tasks-impact-relationships.html"
   },
   {
-    "id": 19,
-    "title": "Most people would sacrifice some life satisfaction in exchange for a more equal society",
-    "category": "SCIENCE",
-    "date": "2026-08-29T18:00:02.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "What kind of society would you rather live in: an equal one where everyone is just about getting by? Or an unequal one where most people are doing substantially better, but a small group consistently falls behind? Now imagine having to choose that society before you were even born, but with no idea where you'll end up in it.",
-    "content": "<h2>概要</h2><p>What kind of society would you rather live in: an equal one where everyone is just about getting by? Or an unequal one where most people are doing substantially better, but a small group consistently falls behind? Now imagine having to choose that society before you were even born, but with no idea where you'll end up in it.</p><p><a href=\"https://phys.org/news/2026-08-people-sacrifice-life-satisfaction-exchange.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-people-sacrifice-life-satisfaction-exchange.html"
-  },
-  {
-    "id": 20,
-    "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-    "category": "WORLD",
-    "date": "2026-08-29T17:52:42.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-    "content": "<h2>概要</h2><p>The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).</p><p><a href=\"https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 21,
+    "id": 32,
     "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
     "category": "TECH",
     "date": "2026-08-29T17:51:10.000Z",
@@ -231,7 +352,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
   },
   {
-    "id": 22,
+    "id": 33,
     "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
     "category": "TECH",
     "date": "2026-08-29T17:36:47.000Z",
@@ -242,7 +363,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
   },
   {
-    "id": 23,
+    "id": 34,
     "title": "Hollywood celebs are getting into microdrama apps",
     "category": "TECH",
     "date": "2026-08-29T16:10:00.000Z",
@@ -253,7 +374,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/"
   },
   {
-    "id": 24,
+    "id": 35,
     "title": "Distraction-free writing gadget BYOK is adding custom extensions",
     "category": "TECH",
     "date": "2026-08-29T16:01:13.000Z",
@@ -264,18 +385,7 @@
     "sourceUrl": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions"
   },
   {
-    "id": 25,
-    "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-    "category": "WORLD",
-    "date": "2026-08-29T15:54:40.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1500+0+0/resize/2000x1500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F84%2F60b086da426693a6915e40d64336%2Fap26241383255550.jpg",
-    "summary": "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.",
-    "content": "<h2>概要</h2><p>The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.</p><p><a href=\"https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv"
-  },
-  {
-    "id": 26,
+    "id": 36,
     "title": "A B-52 Carrying Two Hydrogen Bombs Broke Apart Over North Carolina in 1961—and Nearly Caused a Nuclear Disaster",
     "category": "MYSTERY",
     "date": "2026-08-29T15:06:00.000Z",
@@ -286,7 +396,7 @@
     "sourceUrl": "https://thedebrief.org/a-b-52-carrying-two-hydrogen-bombs-broke-apart-over-north-carolina-in-1961-and-nearly-caused-a-nuclear-disaster/"
   },
   {
-    "id": 27,
+    "id": 37,
     "title": " This Week In Space podcast: Episode 225 — Get a Grip! ",
     "category": "SPACE",
     "date": "2026-08-29T15:03:54.000Z",
@@ -297,7 +407,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-225-get-a-grip"
   },
   {
-    "id": 28,
+    "id": 38,
     "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango ",
     "category": "TECH",
     "date": "2026-08-29T15:00:00.000Z",
@@ -308,7 +418,7 @@
     "sourceUrl": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango"
   },
   {
-    "id": 29,
+    "id": 39,
     "title": " When is the next lunar eclipse? ",
     "category": "SPACE",
     "date": "2026-08-29T15:00:00.000Z",
@@ -319,7 +429,7 @@
     "sourceUrl": "https://www.space.com/stargazing/lunar-eclipses/when-is-the-next-lunar-eclipse"
   },
   {
-    "id": 30,
+    "id": 40,
     "title": "Opinion: The Real Reason Putin Could Be Preparing to Test NATO",
     "category": "MYSTERY",
     "date": "2026-08-29T14:33:48.000Z",
@@ -330,7 +440,7 @@
     "sourceUrl": "https://thedebrief.org/opinion-the-real-reason-putin-could-be-preparing-to-test-nato/"
   },
   {
-    "id": 31,
+    "id": 41,
     "title": "NASA’s Two Most Powerful Space Telescopes Will Share the Same Region of Space. Here’s Why That’s Not a Problem",
     "category": "MYSTERY",
     "date": "2026-08-29T14:31:49.000Z",
@@ -341,18 +451,7 @@
     "sourceUrl": "https://thedebrief.org/nasas-two-most-powerful-space-telescopes-will-share-the-same-region-of-space-heres-why-thats-not-a-problem/"
   },
   {
-    "id": 32,
-    "title": "Photos: See the aftermath of deadly flash floods in Nepal",
-    "category": "WORLD",
-    "date": "2026-08-29T14:22:19.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3000+0+0/resize/4000x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fab%2F9d58903047aaa7d9adf604fdf9fd%2F2026-08-28t000000z-1484653559-mt1nurpho000jmtolk-rtrmadp-3-nepal-flood.JPG",
-    "summary": "Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both areas.",
-    "content": "<h2>概要</h2><p>Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both areas.</p><p><a href=\"https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal"
-  },
-  {
-    "id": 33,
+    "id": 42,
     "title": " On this day in space! Aug. 29, 1965: NASA's Gemini 5 breaks spaceflight duration record after 2 astronauts spent '8 days in a garbage can' ",
     "category": "SPACE",
     "date": "2026-08-29T14:14:12.000Z",
@@ -363,7 +462,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/on-this-day-in-space-august-29-2026"
   },
   {
-    "id": 34,
+    "id": 43,
     "title": "The Secret to Longevity and Destroying Cancer May Hide in Bat DNA",
     "category": "MYSTERY",
     "date": "2026-08-29T14:08:42.000Z",
@@ -374,7 +473,7 @@
     "sourceUrl": "https://thedebrief.org/the-secret-to-longevity-and-destroying-cancer-may-hide-in-bat-dna/"
   },
   {
-    "id": 35,
+    "id": 44,
     "title": "The Theragun Sense makes everyday recovery surprisingly easy",
     "category": "TECH",
     "date": "2026-08-29T14:00:00.000Z",
@@ -385,7 +484,7 @@
     "sourceUrl": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/"
   },
   {
-    "id": 36,
+    "id": 45,
     "title": " SpaceX test-fires Starship Super Heavy booster ahead of critical Flight 14 (video) ",
     "category": "SPACE",
     "date": "2026-08-29T14:00:00.000Z",
@@ -396,7 +495,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-super-heavy-booster-ahead-of-key-test-flight"
   },
   {
-    "id": 37,
+    "id": 46,
     "title": "New Survey Suggests Gen Z Are More Likely to Believe in Aliens—How UFO Media May Be Shaping a Generation",
     "category": "MYSTERY",
     "date": "2026-08-29T13:58:33.000Z",
@@ -407,7 +506,7 @@
     "sourceUrl": "https://thedebrief.org/new-survey-suggests-gen-z-are-more-likely-to-believe-in-aliens-how-ufo-media-may-be-shaping-a-generation/"
   },
   {
-    "id": 38,
+    "id": 47,
     "title": "A week with the Google Pixel 11 changed my mind about Gemini (for the better)",
     "category": "TECH",
     "date": "2026-08-29T13:00:44.000Z",
@@ -418,18 +517,7 @@
     "sourceUrl": "https://www.zdnet.com/article/google-pixel-11-review/"
   },
   {
-    "id": 39,
-    "title": "Soundcore Liberty 5 Pro Review: Master of Phone Calls",
-    "category": "TECH",
-    "date": "2026-08-29T11:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Outstanding call quality and an excellent price point put these earbuds way ahead of pricier competition.",
-    "content": "<h2>概要</h2><p>Outstanding call quality and an excellent price point put these earbuds way ahead of pricier competition.</p><p><a href=\"https://www.wired.com/review/soundcore-liberty-5-pro/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/review/soundcore-liberty-5-pro/"
-  },
-  {
-    "id": 40,
+    "id": 48,
     "title": "I asked 100 companies for my data. Some deleted it instead.",
     "category": "TECH",
     "date": "2026-08-29T10:50:31.000Z",
@@ -440,7 +528,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/"
   },
   {
-    "id": 41,
+    "id": 49,
     "title": "This pocket AI voice recorder took me back to the good old days of dictation (and shorthand)",
     "category": "TECH",
     "date": "2026-08-29T10:30:48.000Z",
@@ -451,62 +539,7 @@
     "sourceUrl": "https://www.zdnet.com/article/comulytic-note-pro-ai-voice-recorder-review/"
   },
   {
-    "id": 42,
-    "title": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
-    "category": "TECH",
-    "date": "2026-08-29T10:30:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Astronomers will test equipment that, if it’s successful, will one day be crucial for discovering Earthlike planets.",
-    "content": "<h2>概要</h2><p>Astronomers will test equipment that, if it’s successful, will one day be crucial for discovering Earthlike planets.</p><p><a href=\"https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/"
-  },
-  {
-    "id": 43,
-    "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-    "category": "TECH",
-    "date": "2026-08-29T10:30:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-    "content": "<h2>概要</h2><p>Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.</p><p><a href=\"https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/"
-  },
-  {
-    "id": 44,
-    "title": "How to Run a Chatbot on Your Own Computer",
-    "category": "TECH",
-    "date": "2026-08-29T10:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
-    "content": "<h2>概要</h2><p>Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.</p><p><a href=\"https://www.wired.com/story/how-to-run-your-own-local-llm/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/how-to-run-your-own-local-llm/"
-  },
-  {
-    "id": 45,
-    "title": "Psilocybin Might Make Your Brain Live in the Moment",
-    "category": "TECH",
-    "date": "2026-08-29T09:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Psychedelics are often associated with disconnecting from reality, but a recent neuroimaging study found that psilocybin can actually make our brain activity more connected to the world around us.",
-    "content": "<h2>概要</h2><p>Psychedelics are often associated with disconnecting from reality, but a recent neuroimaging study found that psilocybin can actually make our brain activity more connected to the world around us.</p><p><a href=\"https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/"
-  },
-  {
-    "id": 46,
-    "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-    "category": "WORLD",
-    "date": "2026-08-29T03:54:11.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-    "content": "<h2>概要</h2><p>Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 47,
+    "id": 50,
     "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
     "category": "SPACE",
     "date": "2026-08-28T22:21:31.000Z",
@@ -517,7 +550,18 @@
     "sourceUrl": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/"
   },
   {
-    "id": 48,
+    "id": 51,
+    "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+    "category": "SPACE",
+    "date": "2026-08-28T22:21:31.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg?w=2048",
+    "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized […]",
+    "content": "<h2>概要</h2><p>From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized […]</p><p><a href=\"https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/"
+  },
+  {
+    "id": 52,
     "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
     "category": "TECH",
     "date": "2026-08-28T22:14:52.000Z",
@@ -528,7 +572,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/"
   },
   {
-    "id": 49,
+    "id": 53,
     "title": "Cities terminate Flock contracts at record pace in August",
     "category": "TECH",
     "date": "2026-08-28T21:33:54.000Z",
@@ -539,7 +583,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"
   },
   {
-    "id": 50,
+    "id": 54,
     "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
     "category": "TECH",
     "date": "2026-08-28T21:17:38.000Z",
@@ -550,7 +594,7 @@
     "sourceUrl": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/"
   },
   {
-    "id": 51,
+    "id": 55,
     "title": "How an MIT graduate student helped a team of young scientists test their experiment at CERN",
     "category": "TECH",
     "date": "2026-08-28T20:35:00.000Z",
@@ -561,7 +605,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-mit-grad-student-helped-young-scientists-test-their-experiment-cern-0828"
   },
   {
-    "id": 52,
+    "id": 56,
     "title": "How an MIT graduate student helped a team of young scientists test their experiment at CERN",
     "category": "SCIENCE",
     "date": "2026-08-28T20:35:00.000Z",
@@ -572,7 +616,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-mit-grad-student-helped-young-scientists-test-their-experiment-cern-0828"
   },
   {
-    "id": 53,
+    "id": 57,
     "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge ",
     "category": "SPACE",
     "date": "2026-08-28T20:30:52.000Z",
@@ -583,7 +627,18 @@
     "sourceUrl": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/"
   },
   {
-    "id": 54,
+    "id": 58,
+    "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge ",
+    "category": "SPACE",
+    "date": "2026-08-28T20:30:52.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/08/cerberuz-lunarecycle-winners.jpg?w=2048",
+    "summary": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials, like fabrics, plastics, foam, and metals.  The Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek (CERBERUZ) team, comprised of undergraduate, graduate, and doctoral students at MIT, received a total of $775,000 in awards.   The technology grinds mixed trash into a fine powder, […]",
+    "content": "<h2>概要</h2><p>NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials, like fabrics, plastics, foam, and metals.  The Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek (CERBERUZ) team, comprised of undergraduate, graduate, and doctoral students at MIT, received a total of $775,000 in awards.   The technology grinds mixed trash into a fine powder, […]</p><p><a href=\"https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/"
+  },
+  {
+    "id": 59,
     "title": "How MIT Sandbox has turned student ideas into $8.7 billion in global impact",
     "category": "TECH",
     "date": "2026-08-28T20:15:00.000Z",
@@ -594,7 +649,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-mit-sandbox-turned-student-ideas-into-global-impact-0828"
   },
   {
-    "id": 55,
+    "id": 60,
     "title": "How MIT Sandbox has turned student ideas into $8.7 billion in global impact",
     "category": "TECH",
     "date": "2026-08-28T20:15:00.000Z",
@@ -605,7 +660,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-mit-sandbox-turned-student-ideas-into-global-impact-0828"
   },
   {
-    "id": 56,
+    "id": 61,
     "title": "This $14 retractable USB-C cable is my secret to surviving long car rides with my kids",
     "category": "TECH",
     "date": "2026-08-28T18:56:51.000Z",
@@ -616,18 +671,7 @@
     "sourceUrl": "https://www.zdnet.com/article/talix-retractable-usb-c-cable-deal/"
   },
   {
-    "id": 57,
-    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-    "category": "TECH",
-    "date": "2026-08-28T18:07:55.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-    "content": "<h2>概要</h2><p>Anthropic refused to support lethal autonomous warfare and mass surveillance.</p><p><a href=\"https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/"
-  },
-  {
-    "id": 58,
+    "id": 62,
     "title": "stillOS offers one of the best Linux onboarding experiences I've ever seen",
     "category": "TECH",
     "date": "2026-08-28T18:00:49.000Z",
@@ -638,7 +682,7 @@
     "sourceUrl": "https://www.zdnet.com/article/stillos-best-onboarding-experience-linux-distro/"
   },
   {
-    "id": 59,
+    "id": 63,
     "title": "Wife of man who died after turbulence sues airline",
     "category": "BUSINESS",
     "date": "2026-08-28T17:47:00.000Z",
@@ -649,7 +693,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 60,
+    "id": 64,
     "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
     "category": "SPACE",
     "date": "2026-08-28T17:37:01.000Z",
@@ -660,7 +704,18 @@
     "sourceUrl": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/"
   },
   {
-    "id": 61,
+    "id": 65,
+    "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+    "category": "SPACE",
+    "date": "2026-08-28T17:37:01.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/08/congressional-space-medal-of-honor-ceremony-1.jpg?w=2048",
+    "summary": "President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission. He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first […]",
+    "content": "<h2>概要</h2><p>President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission. He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first […]</p><p><a href=\"https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/"
+  },
+  {
+    "id": 66,
     "title": "SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas",
     "category": "SPACE",
     "date": "2026-08-28T17:34:56.000Z",
@@ -671,7 +726,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-spacex-recovers-starship-indian-ocean.html"
   },
   {
-    "id": 62,
+    "id": 67,
     "title": "President Trump Signs Executive Order to Create US Space Academy  ",
     "category": "SPACE",
     "date": "2026-08-28T17:21:04.000Z",
@@ -682,7 +737,18 @@
     "sourceUrl": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/"
   },
   {
-    "id": 63,
+    "id": 68,
+    "title": "President Trump Signs Executive Order to Create US Space Academy  ",
+    "category": "SPACE",
+    "date": "2026-08-28T17:21:04.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260828-admin-0022large.jpg?w=1919",
+    "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy […]",
+    "content": "<h2>概要</h2><p>To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy […]</p><p><a href=\"https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/"
+  },
+  {
+    "id": 69,
     "title": "How I sorted 22,000 digital photos without getting overwhelmed: 4 easy tricks",
     "category": "TECH",
     "date": "2026-08-28T17:08:00.000Z",
@@ -693,7 +759,7 @@
     "sourceUrl": "https://www.zdnet.com/article/i-sorted-22000-digital-photos-without-getting-overwhelmed/"
   },
   {
-    "id": 64,
+    "id": 70,
     "title": "Mercury's crust points to deeper, hotter volcanic origins than expected",
     "category": "SPACE",
     "date": "2026-08-28T16:40:01.000Z",
@@ -704,7 +770,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-mercury-crust-deeper-hotter-volcanic.html"
   },
   {
-    "id": 65,
+    "id": 71,
     "title": "Grants",
     "category": "SPACE",
     "date": "2026-08-28T15:45:43.000Z",
@@ -715,7 +781,18 @@
     "sourceUrl": "https://www.nasa.gov/centers-and-facilities/grants-2/"
   },
   {
-    "id": 66,
+    "id": 72,
+    "title": "Grants",
+    "category": "SPACE",
+    "date": "2026-08-28T15:45:43.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2020/08/NSSC-BLDG-2012-03.jpg?w=1536",
+    "summary": "*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with PMS to resolve the issue. Updates will be posted here. Grants Status Requests To submit a request, visit NASA General Information Request Form and complete the […]",
+    "content": "<h2>概要</h2><p>*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with PMS to resolve the issue. Updates will be posted here. Grants Status Requests To submit a request, visit NASA General Information Request Form and complete the […]</p><p><a href=\"https://www.nasa.gov/centers-and-facilities/grants-2/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/centers-and-facilities/grants-2/"
+  },
+  {
+    "id": 73,
     "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says ",
     "category": "BUSINESS",
     "date": "2026-08-28T15:15:26.000Z",
@@ -726,7 +803,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 67,
+    "id": 74,
     "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
     "category": "WORLD",
     "date": "2026-08-28T14:46:25.000Z",
@@ -737,7 +814,7 @@
     "sourceUrl": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid"
   },
   {
-    "id": 68,
+    "id": 75,
     "title": "Week in images: 24-28 August 2026",
     "category": "SPACE",
     "date": "2026-08-28T13:10:00.000Z",
@@ -748,7 +825,7 @@
     "sourceUrl": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_August_2026"
   },
   {
-    "id": 69,
+    "id": 76,
     "title": "NASA telescope honors Nancy Grace Roman, architect of space-based astronomy",
     "category": "SPACE",
     "date": "2026-08-28T13:00:01.000Z",
@@ -759,7 +836,7 @@
     "sourceUrl": "https://phys.org/news/2026-08-nasa-telescope-honors-nancy-grace.html"
   },
   {
-    "id": 70,
+    "id": 77,
     "title": "The Download: a secretive antiaging drug and joining virtual power plants",
     "category": "TECH",
     "date": "2026-08-28T12:35:27.000Z",
@@ -770,7 +847,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
   },
   {
-    "id": 71,
+    "id": 78,
     "title": "The Download: a secretive antiaging drug and joining virtual power plants",
     "category": "TECH",
     "date": "2026-08-28T12:35:27.000Z",
@@ -781,7 +858,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
   },
   {
-    "id": 72,
+    "id": 79,
     "title": "Ariane 6 launch with MTG-I2 – highlights",
     "category": "SPACE",
     "date": "2026-08-28T12:20:00.000Z",
@@ -792,18 +869,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Ariane_6_launch_with_MTG-I2_highlights"
   },
   {
-    "id": 73,
-    "title": "Will new telescope Roman help reveal long-kept secrets of the universe? Q&A with an expert",
-    "category": "SPACE",
-    "date": "2026-08-28T11:40:03.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "On Sunday, Aug. 30, the Nancy Grace Roman Space Telescope is expected to launch from NASA's Kennedy Space Center in Florida. The observatory will join the Hubble Space Telescope, launched in 1990, and the James Webb Space Telescope, launched in 2021, in scanning the vastness of space and potentially finding answers to longstanding mysteries of the universe.",
-    "content": "<h2>概要</h2><p>On Sunday, Aug. 30, the Nancy Grace Roman Space Telescope is expected to launch from NASA's Kennedy Space Center in Florida. The observatory will join the Hubble Space Telescope, launched in 1990, and the James Webb Space Telescope, launched in 2021, in scanning the vastness of space and potentially finding answers to longstanding mysteries of the universe.</p><p><a href=\"https://phys.org/news/2026-08-telescope-roman-reveal-secrets-universe.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-08-telescope-roman-reveal-secrets-universe.html"
-  },
-  {
-    "id": 74,
+    "id": 80,
     "title": "Observing Samba and Tango’s reentries",
     "category": "SPACE",
     "date": "2026-08-28T09:03:00.000Z",
@@ -814,7 +880,7 @@
     "sourceUrl": "https://www.esa.int/Space_Safety/Space_Debris/Observing_Samba_and_Tango_s_reentries"
   },
   {
-    "id": 75,
+    "id": 81,
     "title": "How to sign up for a virtual power plant—and decide whether you should",
     "category": "TECH",
     "date": "2026-08-28T09:00:00.000Z",
@@ -825,7 +891,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/"
   },
   {
-    "id": 76,
+    "id": 82,
     "title": "How to sign up for a virtual power plant—and decide whether you should",
     "category": "TECH",
     "date": "2026-08-28T09:00:00.000Z",
@@ -836,7 +902,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/"
   },
   {
-    "id": 77,
+    "id": 83,
     "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
     "category": "TECH",
     "date": "2026-08-28T05:11:16.000Z",
@@ -847,7 +913,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 78,
+    "id": 84,
     "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
     "category": "WORLD",
     "date": "2026-08-28T04:00:48.000Z",
@@ -858,7 +924,7 @@
     "sourceUrl": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact"
   },
   {
-    "id": 79,
+    "id": 85,
     "title": "Gage Coon: An Earth scientist exploring the power of microbes",
     "category": "TECH",
     "date": "2026-08-28T04:00:00.000Z",
@@ -869,7 +935,7 @@
     "sourceUrl": "https://news.mit.edu/2026/gage-coon-earth-scientist-exploring-power-microbes-0828"
   },
   {
-    "id": 80,
+    "id": 86,
     "title": "Gage Coon: An Earth scientist exploring the power of microbes",
     "category": "SCIENCE",
     "date": "2026-08-28T04:00:00.000Z",
@@ -880,7 +946,7 @@
     "sourceUrl": "https://news.mit.edu/2026/gage-coon-earth-scientist-exploring-power-microbes-0828"
   },
   {
-    "id": 81,
+    "id": 87,
     "title": "Trump administration illegally retaliated against Anthropic, judge rules",
     "category": "BUSINESS",
     "date": "2026-08-28T03:41:59.000Z",
@@ -891,7 +957,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 82,
+    "id": 88,
     "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
     "category": "BUSINESS",
     "date": "2026-08-27T23:04:21.000Z",
@@ -902,7 +968,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 83,
+    "id": 89,
     "title": "A startup claims it’s found a drug to make your blood young",
     "category": "TECH",
     "date": "2026-08-27T19:48:13.000Z",
@@ -913,7 +979,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
   },
   {
-    "id": 84,
+    "id": 90,
     "title": "A startup claims it’s found a drug to make your blood young",
     "category": "TECH",
     "date": "2026-08-27T19:48:13.000Z",
@@ -924,7 +990,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
   },
   {
-    "id": 85,
+    "id": 91,
     "title": "Time is running out for cyber security, warn top tech firms",
     "category": "TECH",
     "date": "2026-08-27T19:44:27.000Z",
@@ -935,7 +1001,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 86,
+    "id": 92,
     "title": "Reform of all social media should come with Meta changes, UN says ",
     "category": "TECH",
     "date": "2026-08-27T19:31:10.000Z",
@@ -946,7 +1012,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c17j00lnn41o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 87,
+    "id": 93,
     "title": "Looking beyond natural sequences",
     "category": "TECH",
     "date": "2026-08-27T19:20:00.000Z",
@@ -957,7 +1023,7 @@
     "sourceUrl": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827"
   },
   {
-    "id": 88,
+    "id": 94,
     "title": "Looking beyond natural sequences",
     "category": "TECH",
     "date": "2026-08-27T19:20:00.000Z",
@@ -968,7 +1034,7 @@
     "sourceUrl": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827"
   },
   {
-    "id": 89,
+    "id": 95,
     "title": "Looking beyond natural sequences",
     "category": "SCIENCE",
     "date": "2026-08-27T19:20:00.000Z",
@@ -979,7 +1045,7 @@
     "sourceUrl": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827"
   },
   {
-    "id": 90,
+    "id": 96,
     "title": "New type of attack can slip past the defenses in your computer’s processor",
     "category": "TECH",
     "date": "2026-08-27T15:40:00.000Z",
@@ -990,7 +1056,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-type-of-attack-can-slip-past-computer-processor-defenses-0827"
   },
   {
-    "id": 91,
+    "id": 97,
     "title": "New type of attack can slip past the defenses in your computer’s processor",
     "category": "TECH",
     "date": "2026-08-27T15:40:00.000Z",
@@ -1001,7 +1067,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-type-of-attack-can-slip-past-computer-processor-defenses-0827"
   },
   {
-    "id": 92,
+    "id": 98,
     "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
     "category": "AI",
     "date": "2026-08-27T14:01:00.000Z",
@@ -1012,7 +1078,7 @@
     "sourceUrl": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
   },
   {
-    "id": 93,
+    "id": 99,
     "title": "What the Meta settlement means for the UK, and other questions after the deal",
     "category": "TECH",
     "date": "2026-08-27T13:24:03.000Z",
@@ -1023,7 +1089,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 94,
+    "id": 100,
     "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
     "category": "TECH",
     "date": "2026-08-27T12:10:00.000Z",
@@ -1034,7 +1100,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
   },
   {
-    "id": 95,
+    "id": 101,
     "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
     "category": "TECH",
     "date": "2026-08-27T12:10:00.000Z",
@@ -1045,7 +1111,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
   },
   {
-    "id": 96,
+    "id": 102,
     "title": "When agents act on their own, governance has to live in the data layer",
     "category": "AI",
     "date": "2026-08-27T12:01:00.000Z",
@@ -1056,7 +1122,7 @@
     "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
   },
   {
-    "id": 97,
+    "id": 103,
     "title": "Is Slate Auto’s new electric truck the EV Americans need?",
     "category": "TECH",
     "date": "2026-08-27T10:00:00.000Z",
@@ -1067,7 +1133,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/"
   },
   {
-    "id": 98,
+    "id": 104,
     "title": "Is Slate Auto’s new electric truck the EV Americans need?",
     "category": "TECH",
     "date": "2026-08-27T10:00:00.000Z",
@@ -1078,7 +1144,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/"
   },
   {
-    "id": 99,
+    "id": 105,
     "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
     "category": "WORLD",
     "date": "2026-08-27T08:00:09.000Z",
@@ -1089,7 +1155,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism"
   },
   {
-    "id": 100,
+    "id": 106,
     "title": "Watch live: BepiColombo begins its arrival at Mercury",
     "category": "SPACE",
     "date": "2026-08-27T05:17:00.000Z",
@@ -1100,7 +1166,7 @@
     "sourceUrl": "https://www.esa.int/Enabling_Support/Operations/Watch_live_BepiColombo_begins_its_arrival_at_Mercury"
   },
   {
-    "id": 101,
+    "id": 107,
     "title": "MIT engineers create a system for building shape-changing smart devices ",
     "category": "TECH",
     "date": "2026-08-27T04:00:00.000Z",
@@ -1111,7 +1177,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-engineers-create-system-for-building-shape-changing-smart-devices-0827"
   },
   {
-    "id": 102,
+    "id": 108,
     "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
     "category": "WORLD",
     "date": "2026-08-26T15:09:58.000Z",
@@ -1122,7 +1188,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs"
   },
   {
-    "id": 103,
+    "id": 109,
     "title": "Orchestration is the new challenge for CX in the age of AI agents",
     "category": "AI",
     "date": "2026-08-26T14:30:00.000Z",
@@ -1133,18 +1199,7 @@
     "sourceUrl": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
   },
   {
-    "id": 104,
-    "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
-    "category": "WORLD",
-    "date": "2026-08-26T11:00:12.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected\nA fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly known as monkey pox is back in the headlines. So what has changed?\nSince 2022, there have been almost 190,000 lab-confirmed cases of mpox reported worldwide in 145 countries. Before then, outbreaks of mpox tended to be relatively small and in a handful of African countries, where the viral infection was known to be endemic.\n Continue reading...",
-    "content": "<h2>概要</h2><p>The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected\nA fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly known as monkey pox is back in the headlines. So what has changed?\nSince 2022, there have been almost 190,000 lab-confirmed cases of mpox reported worldwide in 145 countries. Before then, outbreaks of mpox tended to be relatively small and in a handful of African countries, where the viral infection was known to be endemic.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children"
-  },
-  {
-    "id": 105,
+    "id": 110,
     "title": "AI helps design new materials that work in the real world",
     "category": "TECH",
     "date": "2026-08-26T09:00:00.000Z",
@@ -1155,7 +1210,7 @@
     "sourceUrl": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826"
   },
   {
-    "id": 106,
+    "id": 111,
     "title": "AI helps design new materials that work in the real world",
     "category": "SCIENCE",
     "date": "2026-08-26T09:00:00.000Z",
@@ -1166,7 +1221,7 @@
     "sourceUrl": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826"
   },
   {
-    "id": 107,
+    "id": 112,
     "title": "Cells use a little-known molecule to protect themselves from iron overload",
     "category": "SCIENCE",
     "date": "2026-08-25T20:40:00.000Z",
@@ -1177,7 +1232,7 @@
     "sourceUrl": "https://news.mit.edu/2026/cells-use-little-known-molecule-protect-themselves-iron-overload-0825"
   },
   {
-    "id": 108,
+    "id": 113,
     "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
     "category": "AI",
     "date": "2026-08-19T14:18:12.000Z",
@@ -1188,7 +1243,7 @@
     "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
   },
   {
-    "id": 109,
+    "id": 114,
     "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
     "category": "AI",
     "date": "2026-05-19T17:45:00.000Z",
@@ -1199,7 +1254,7 @@
     "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
   },
   {
-    "id": 110,
+    "id": 115,
     "title": "εpsilon",
     "category": "SPACE",
     "date": "2026-01-21T12:54:00.000Z",
