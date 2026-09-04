@@ -1,9 +1,295 @@
 [
   {
     "id": 1,
-    "title": "Argentine leader says oil firms working off Falklands face sanctions",
+    "title": "Zero‑alcohol drinks are rising in popularity. What do young people think about them?",
+    "category": "SCIENCE",
+    "date": "2026-09-04T11:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Over the past decade, zero-alcohol drinks have gone from a relatively niche product to a staple in supermarket aisles, liquor stores and pubs.",
+    "content": "<h2>概要</h2><p>Over the past decade, zero-alcohol drinks have gone from a relatively niche product to a staple in supermarket aisles, liquor stores and pubs.</p><p><a href=\"https://phys.org/news/2026-09-zeroalcohol-popularity-young-people.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-zeroalcohol-popularity-young-people.html"
+  },
+  {
+    "id": 2,
+    "title": "Why AI food looks like that",
+    "category": "TECH",
+    "date": "2026-09-04T11:00:00.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading as brains, and other masonry-adjacent cuisine. I don't even know how to begin describing this monstrous attempt of a burger, and the less said about the trypophobic burrito from hell, grubs and all, the better. There are lumps. And holes. So many holes.\n\n\"Diffusion mo …\n\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading as brains, and other masonry-adjacent cuisine. I don't even know how to begin describing this monstrous attempt of a burger, and the less said about the trypophobic burrito from hell, grubs and all, the better. There are lumps. And holes. So many holes.\n\n\"Diffusion mo …\n\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that"
+  },
+  {
+    "id": 3,
+    "title": "How a Secret Orangutan Breeding Program Is Creating a Baby Boom",
+    "category": "TECH",
+    "date": "2026-09-04T11:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The success of a program linking zoos across the US has created social media stars and generated a wave of interest in how to protect the endangered great apes in the wild.",
+    "content": "<h2>概要</h2><p>The success of a program linking zoos across the US has created social media stars and generated a wave of interest in how to protect the endangered great apes in the wild.</p><p><a href=\"https://www.wired.com/story/secret-orangutan-breeding-program-creating-baby-boom/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/secret-orangutan-breeding-program-creating-baby-boom/"
+  },
+  {
+    "id": 4,
+    "title": "US diesel prices hit an all-time-high",
     "category": "WORLD",
-    "date": "2026-09-04T04:04:42.000Z",
+    "date": "2026-09-04T10:52:56.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+    "content": "<h2>概要</h2><p>Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 5,
+    "title": "US diesel prices hit an all-time-high",
+    "category": "BUSINESS",
+    "date": "2026-09-04T10:52:56.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+    "content": "<h2>概要</h2><p>Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 6,
+    "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+    "category": "TECH",
+    "date": "2026-09-04T10:44:15.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory.\n\"Project Zenith devices come with a preconfigured Windows setup for development and a set of tools curated for what developers reach for first,\" explains Logan Iyer, CVP of Windows platform and developer at Microsoft. \"On these devices, developers can run 30B+ parameter models locally and unmetered - accelerating experimentation while helping …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory.\n\"Project Zenith devices come with a preconfigured Windows setup for development and a set of tools curated for what developers reach for first,\" explains Logan Iyer, CVP of Windows platform and developer at Microsoft. \"On these devices, developers can run 30B+ parameter models locally and unmetered - accelerating experimentation while helping …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers"
+  },
+  {
+    "id": 7,
+    "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+    "category": "TECH",
+    "date": "2026-09-04T10:41:48.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.  \nThe company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly-defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand to include all Plus, Pro, Business, and Enter …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.  \nThe company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly-defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand to include all Plus, Pro, Business, and Enter …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout"
+  },
+  {
+    "id": 8,
+    "title": "Stock up on food to prepare for extreme weather, minister warns",
+    "category": "BUSINESS",
+    "date": "2026-09-04T10:40:23.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+    "content": "<h2>概要</h2><p>Dame Angela Eagle warns the weather event could lead to extreme storms this winter.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 9,
+    "title": "Volunteers fight uphill battle against Indonesian fires",
+    "category": "SCIENCE",
+    "date": "2026-09-04T10:40:02.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Twice already this week, Indonesian volunteer firefighter Kristoforus Sinyong worked throughout the night fighting some of the blazes that have consumed swaths of the island of Borneo.",
+    "content": "<h2>概要</h2><p>Twice already this week, Indonesian volunteer firefighter Kristoforus Sinyong worked throughout the night fighting some of the blazes that have consumed swaths of the island of Borneo.</p><p><a href=\"https://phys.org/news/2026-09-volunteers-uphill-indonesian.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-volunteers-uphill-indonesian.html"
+  },
+  {
+    "id": 10,
+    "title": "Measles Outbreaks Are Forcing Immunocompromised Kids to Make Impossible Choices",
+    "category": "TECH",
+    "date": "2026-09-04T10:30:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "With the risk of infection rising, parents and young adults are facing agonizing choices about being out in public as school starts back up.",
+    "content": "<h2>概要</h2><p>With the risk of infection rising, parents and young adults are facing agonizing choices about being out in public as school starts back up.</p><p><a href=\"https://www.wired.com/story/measles-outbreaks-immunocompromised-kids-schools/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/measles-outbreaks-immunocompromised-kids-schools/"
+  },
+  {
+    "id": 11,
+    "title": "The 6 Best Monitors That Actually Work Well With Macs",
+    "category": "TECH",
+    "date": "2026-09-04T10:30:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Macs are fantastic computers, but you’ll need one of these great displays to complete your work-from-home setup.",
+    "content": "<h2>概要</h2><p>Macs are fantastic computers, but you’ll need one of these great displays to complete your work-from-home setup.</p><p><a href=\"https://www.wired.com/gallery/best-monitors-for-mac/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/gallery/best-monitors-for-mac/"
+  },
+  {
+    "id": 12,
+    "title": "ICE Wants to Know Who Bought a Certain Green Beanie From REI in the Last 2 Years",
+    "category": "TECH",
+    "date": "2026-09-04T10:30:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Homeland Security Investigations agents hit the outdoor retailer with a controversial subpoena as part of a dragnet search for the identities of protesters who entered a Minnesota church in March.",
+    "content": "<h2>概要</h2><p>Homeland Security Investigations agents hit the outdoor retailer with a controversial subpoena as part of a dragnet search for the identities of protesters who entered a Minnesota church in March.</p><p><a href=\"https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/"
+  },
+  {
+    "id": 13,
+    "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+    "category": "WORLD",
+    "date": "2026-09-04T10:00:18.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+    "content": "<h2>概要</h2><p>Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 14,
+    "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+    "category": "TECH",
+    "date": "2026-09-04T10:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+    "content": "<h2>概要</h2><p>Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.</p><p><a href=\"https://www.wired.com/story/ai-job-market-infinite-doom-loop/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/"
+  },
+  {
+    "id": 15,
+    "title": " Scientists watch a comet being born 3 billion miles away ",
+    "category": "SPACE",
+    "date": "2026-09-04T10:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/Lxqc6XpPFgWG6QiwdmfA9N-1280-80.jpg",
+    "summary": "A rare look at a centaur transforming into a comet with coma is providing a missing link in the evolution of small, icy solar system bodies.",
+    "content": "<h2>概要</h2><p>A rare look at a centaur transforming into a comet with coma is providing a missing link in the evolution of small, icy solar system bodies.</p><p><a href=\"https://www.space.com/astronomy/comets/scientists-watch-a-comet-being-born-3-billion-miles-away\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/astronomy/comets/scientists-watch-a-comet-being-born-3-billion-miles-away"
+  },
+  {
+    "id": 16,
+    "title": "Germany's far-right poised for power in state election",
+    "category": "WORLD",
+    "date": "2026-09-04T10:00:00.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6836x4560+0+0/resize/6836x4560!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2F6e%2F17faf31e4c8fbf8be9941afc5607%2Fgettyimages-2292035279.jpg",
+    "summary": "Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II.",
+    "content": "<h2>概要</h2><p>Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II.</p><p><a href=\"https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election"
+  },
+  {
+    "id": 17,
+    "title": "This NAS company wants to run your local smart home",
+    "category": "TECH",
+    "date": "2026-09-04T09:41:44.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5640.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nUgreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice assistant called Uliya, with the promise that everything runs locally.  \nAt the core of Ugreen's HomeAgent system is a hub that acts as the brain of your smart home, running a local-first AI (with some caveats) that you can interact with using natural language via Uliya. There are three hub configurations to choose from, each …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nUgreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice assistant called Uliya, with the promise that everything runs locally.  \nAt the core of Ugreen's HomeAgent system is a hub that acts as the brain of your smart home, running a local-first AI (with some caveats) that you can interact with using natural language via Uliya. There are three hub configurations to choose from, each …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home"
+  },
+  {
+    "id": 18,
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "category": "TECH",
+    "date": "2026-09-04T09:25:19.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
+    "content": "<h2>概要</h2><p>Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…</p><p><a href=\"https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
+  },
+  {
+    "id": 19,
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "category": "TECH",
+    "date": "2026-09-04T09:25:19.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
+    "content": "<h2>概要</h2><p>Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…</p><p><a href=\"https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
+  },
+  {
+    "id": 20,
+    "title": "Molecular snapshots reveal how bacteria assemble outer membrane proteins",
+    "category": "SCIENCE",
+    "date": "2026-09-04T09:00:03.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Gram-negative bacteria are responsible for several infections that are hard to treat because of their high resistance to antibiotics. These bacteria possess an outermost layer called the outer membrane that acts as a protective barrier. Serving as the cell's interface with the outside world, the outer membrane contains specialized proteins that perform multiple functions, such as nutrient transport and environmental sensing. The localization of these outer membrane proteins is achieved through the combined action of several key players, including the SurA chaperone and the β-barrel assembly machinery (BAM) complex.",
+    "content": "<h2>概要</h2><p>Gram-negative bacteria are responsible for several infections that are hard to treat because of their high resistance to antibiotics. These bacteria possess an outermost layer called the outer membrane that acts as a protective barrier. Serving as the cell's interface with the outside world, the outer membrane contains specialized proteins that perform multiple functions, such as nutrient transport and environmental sensing. The localization of these outer membrane proteins is achieved through the combined action of several key players, including the SurA chaperone and the β-barrel assembly machinery (BAM) complex.</p><p><a href=\"https://phys.org/news/2026-09-molecular-snapshots-reveal-bacteria-outer.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-molecular-snapshots-reveal-bacteria-outer.html"
+  },
+  {
+    "id": 21,
+    "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+    "category": "WORLD",
+    "date": "2026-09-04T08:23:05.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+    "content": "<h2>概要</h2><p>From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 22,
+    "title": "Russia intensifies attacks on Ukraine's capital",
+    "category": "WORLD",
+    "date": "2026-09-04T08:00:24.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5955596",
+    "summary": "In Ukraine, a week of near-continuous Russian attacks is upending the lives of residents in Kyiv and its suburbs.",
+    "content": "<h2>概要</h2><p>In Ukraine, a week of near-continuous Russian attacks is upending the lives of residents in Kyiv and its suburbs.</p><p><a href=\"https://www.npr.org/2026/09/04/nx-s1-5955596/russia-intensifies-attacks-on-ukraines-capital\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/04/nx-s1-5955596/russia-intensifies-attacks-on-ukraines-capital"
+  },
+  {
+    "id": 23,
+    "title": "How Sentinel-3 tracks climate change ",
+    "category": "SPACE",
+    "date": "2026-09-04T08:00:00.000Z",
+    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/smoke_plume_from_greek_wildfires_seen_by_sentinel-3/27404001-1-eng-GB/Smoke_plume_from_Greek_wildfires_seen_by_Sentinel-3_card_full.jpg",
+    "summary": "Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over the past decade. The launch of the mission’s third satellite heralds the continuity of this vital source of knowledge.",
+    "content": "<h2>概要</h2><p>Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over the past decade. The launch of the mission’s third satellite heralds the continuity of this vital source of knowledge.</p><p><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ESA Top News",
+    "sourceUrl": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change"
+  },
+  {
+    "id": 24,
+    "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
+    "category": "BUSINESS",
+    "date": "2026-09-04T07:19:06.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
+    "content": "<h2>概要</h2><p>Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 25,
+    "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+    "category": "BUSINESS",
+    "date": "2026-09-04T07:00:10.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+    "content": "<h2>概要</h2><p>The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 26,
+    "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+    "category": "TECH",
+    "date": "2026-09-04T07:00:00.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lexarmuse1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware.\nWhen the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point in the middle it measures just 3.8mm, but that tapers to only 1mm at the edges thanks to high-density NAND stacking and a \"custom ultra-thin PCB architecture\" inside. But performance remains solid with read speeds up to 1,050MB/s and write speeds maxing out at 1,000MB/s. That's fast enough to record 4K Apple ProRes video at up to 120fps when conn …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware.\nWhen the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point in the middle it measures just 3.8mm, but that tapers to only 1mm at the edges thanks to high-density NAND stacking and a \"custom ultra-thin PCB architecture\" inside. But performance remains solid with read speeds up to 1,050MB/s and write speeds maxing out at 1,000MB/s. That's fast enough to record 4K Apple ProRes video at up to 120fps when conn …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable"
+  },
+  {
+    "id": 27,
+    "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+    "category": "WORLD",
+    "date": "2026-09-04T06:52:29.000Z",
     "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
     "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
     "content": "<h2>概要</h2><p>Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.</p><p><a href=\"https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
@@ -11,18 +297,73 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 2,
-    "title": "Argentine leader says oil firms working off Falklands face sanctions",
+    "id": 28,
+    "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
     "category": "BUSINESS",
-    "date": "2026-09-04T04:04:42.000Z",
+    "date": "2026-09-04T05:59:10.000Z",
     "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-    "content": "<h2>概要</h2><p>Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.</p><p><a href=\"https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+    "content": "<h2>概要</h2><p>The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss"
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 3,
+    "id": 29,
+    "title": "Argentina's Milei escalates Falklands dispute, seizing on Trump comments and oil tensions",
+    "category": "WORLD",
+    "date": "2026-09-04T05:30:29.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4824x3216+0+0/resize/4824x3216!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F97%2F684549aa4249b45bdc3cca08a379%2Fap26246770000815.jpg",
+    "summary": "Argentine President Javier Milei is escalating a dispute with Britain over the Falkland Islands with tougher sanctions targeting companies involved in a major offshore oil project",
+    "content": "<h2>概要</h2><p>Argentine President Javier Milei is escalating a dispute with Britain over the Falkland Islands with tougher sanctions targeting companies involved in a major offshore oil project</p><p><a href=\"https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute"
+  },
+  {
+    "id": 30,
+    "title": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal floods",
+    "category": "WORLD",
+    "date": "2026-09-04T05:22:53.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x853+0+0/resize/1280x853!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2Ff9%2F572c90dc4a64923cd608b31d0d5c%2Fap26247155624727.jpg",
+    "summary": "Officials say rescuers in Nepal have pulled two workers alive from a tunnel Friday during an ongoing operation. The rescues come nine days after the Aug. 26 floods.",
+    "content": "<h2>概要</h2><p>Officials say rescuers in Nepal have pulled two workers alive from a tunnel Friday during an ongoing operation. The rescues come nine days after the Aug. 26 floods.</p><p><a href=\"https://www.npr.org/2026/09/04/g-s1-141943/workers-rescued-nepal-tunnel\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/04/g-s1-141943/workers-rescued-nepal-tunnel"
+  },
+  {
+    "id": 31,
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "category": "TECH",
+    "date": "2026-09-04T04:21:03.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "content": "<h2>概要</h2><p>While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.</p><p><a href=\"https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
+  },
+  {
+    "id": 32,
+    "title": "A Trio of Tropical Cyclones in the Pacific",
+    "category": "SPACE",
+    "date": "2026-09-04T04:01:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg?w=1440&#038;h=1440&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
+    "content": "<h2>概要</h2><p>The Pacific was buzzing with storms while the Atlantic was notably quiet.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/"
+  },
+  {
+    "id": 33,
+    "title": "A Trio of Tropical Cyclones in the Pacific",
+    "category": "SPACE",
+    "date": "2026-09-04T04:01:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg?w=1440&#038;h=1440&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
+    "content": "<h2>概要</h2><p>The Pacific was buzzing with storms while the Atlantic was notably quiet.</p><p><a href=\"https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/"
+  },
+  {
+    "id": 34,
     "title": "New method allows scientists to follow gene activity over time in the same cells ",
     "category": "TECH",
     "date": "2026-09-04T04:00:00.000Z",
@@ -33,7 +374,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-method-allows-following-gene-activity-over-time-same-cells-0904"
   },
   {
-    "id": 4,
+    "id": 35,
     "title": "Stories from the steel mills: A model for sharing workers’ histories",
     "category": "TECH",
     "date": "2026-09-04T04:00:00.000Z",
@@ -44,7 +385,7 @@
     "sourceUrl": "https://news.mit.edu/2026/steel-mill-stories-sharing-workers-histories-model-0904"
   },
   {
-    "id": 5,
+    "id": 36,
     "title": "How architects turned a hulking brick box into MIT’s newest academic hub",
     "category": "TECH",
     "date": "2026-09-04T04:00:00.000Z",
@@ -55,7 +396,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-architects-turned-hulking-brick-box-newest-academic-hub-0904"
   },
   {
-    "id": 6,
+    "id": 37,
     "title": "New method allows scientists to follow gene activity over time in the same cells ",
     "category": "TECH",
     "date": "2026-09-04T04:00:00.000Z",
@@ -66,18 +407,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-method-allows-following-gene-activity-over-time-same-cells-0904"
   },
   {
-    "id": 7,
-    "title": "Tesla’s Make-or-Break Cybercab Had a Quiet Debut",
-    "category": "TECH",
-    "date": "2026-09-04T02:53:44.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "An invite-only event in Austin, Texas, kept online fans in the dark for hours.",
-    "content": "<h2>概要</h2><p>An invite-only event in Austin, Texas, kept online fans in the dark for hours.</p><p><a href=\"https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/"
-  },
-  {
-    "id": 8,
+    "id": 38,
     "title": "Your house may be a haven for wildlife. It's time we design homes with nature in mind",
     "category": "SCIENCE",
     "date": "2026-09-04T02:20:01.000Z",
@@ -88,7 +418,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-house-haven-wildlife-homes-nature.html"
   },
   {
-    "id": 9,
+    "id": 39,
     "title": "Could robots be the future of theme parks?",
     "category": "TECH",
     "date": "2026-09-04T02:02:02.000Z",
@@ -99,7 +429,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 10,
+    "id": 40,
     "title": "UN to vote on adopting new world map that shows Africa’s true scale",
     "category": "WORLD",
     "date": "2026-09-04T02:00:54.000Z",
@@ -110,40 +440,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa"
   },
   {
-    "id": 11,
-    "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
-    "category": "TECH",
-    "date": "2026-09-04T01:49:25.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision.\nBut unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything while cranking sliders to the max. Now, Nvidia is changing its plans. DLSS 5 is still launching first on RTX 50 GPUs, but it's officially coming to older RTX 40-series GPUs as well, Nvidia spokesperson Rajal Maharaj confirms to The Verge.\n\"Our current focus is on optimizing performance for the GeForce RTX 50 Series with model u …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision.\nBut unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything while cranking sliders to the max. Now, Nvidia is changing its plans. DLSS 5 is still launching first on RTX 50 GPUs, but it's officially coming to older RTX 40-series GPUs as well, Nvidia spokesperson Rajal Maharaj confirms to The Verge.\n\"Our current focus is on optimizing performance for the GeForce RTX 50 Series with model u …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40"
-  },
-  {
-    "id": 12,
-    "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-    "category": "WORLD",
-    "date": "2026-09-04T01:20:32.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-    "content": "<h2>概要</h2><p>The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 13,
-    "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-    "category": "BUSINESS",
-    "date": "2026-09-04T01:20:32.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-    "content": "<h2>概要</h2><p>The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 14,
+    "id": 41,
     "title": "France recorded 'hottest summer ever': Environment minister",
     "category": "SCIENCE",
     "date": "2026-09-04T01:00:03.000Z",
@@ -154,7 +451,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-france-hottest-summer-environment-minister.html"
   },
   {
-    "id": 15,
+    "id": 42,
     "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
     "category": "WORLD",
     "date": "2026-09-04T00:54:46.000Z",
@@ -165,7 +462,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 16,
+    "id": 43,
     "title": "Crusoe reportedly raises $3B at a  $30B valuation",
     "category": "TECH",
     "date": "2026-09-04T00:48:42.000Z",
@@ -176,117 +473,18 @@
     "sourceUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
   },
   {
-    "id": 17,
-    "title": "Wikipedia Workers Unionize for the First Time",
-    "category": "TECH",
-    "date": "2026-09-04T00:40:06.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communications Workers of America.",
-    "content": "<h2>概要</h2><p>More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communications Workers of America.</p><p><a href=\"https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/"
-  },
-  {
-    "id": 18,
-    "title": "The unusually muted Tesla Cybercab launch",
-    "category": "TECH",
-    "date": "2026-09-04T00:25:06.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots.\nIt was an unusually muted event, with no livestream, no journalists, and a very short invite list comprised mostly of pro-Tesla content creators. Tesla influencers planning live shows with the event stream were left streaming the webpage that tracks the number of Tesla robotaxis in Texas instead. \nBut if the goal was to blunt …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots.\nIt was an unusually muted event, with no livestream, no journalists, and a very short invite list comprised mostly of pro-Tesla content creators. Tesla influencers planning live shows with the event stream were left streaming the webpage that tracks the number of Tesla robotaxis in Texas instead. \nBut if the goal was to blunt …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk"
-  },
-  {
-    "id": 19,
-    "title": "How El Nino is choking the Panama Canal",
-    "category": "SCIENCE",
-    "date": "2026-09-04T00:20:05.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Panama Canal will restrict the number of vessels transiting the crucial waterway from Friday for only the second time because of drought caused by the El Niño climate phenomenon.",
-    "content": "<h2>概要</h2><p>The Panama Canal will restrict the number of vessels transiting the crucial waterway from Friday for only the second time because of drought caused by the El Niño climate phenomenon.</p><p><a href=\"https://phys.org/news/2026-09-el-nino-panama-canal.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-el-nino-panama-canal.html"
-  },
-  {
-    "id": 20,
+    "id": 44,
     "title": "'I lost my savings after a job interview scam'",
-    "category": "BUSINESS",
+    "category": "TECH",
     "date": "2026-09-03T23:41:49.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-    "content": "<h2>概要</h2><p>Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.</p><p><a href=\"https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+    "content": "<h2>概要</h2><p>Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.</p><p><a href=\"https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Technology",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 21,
-    "title": "Light-triggered interface lets adhesive peel cleanly and rebond through 15 cycles",
-    "category": "SCIENCE",
-    "date": "2026-09-03T23:40:03.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Adhesives are essential in electronics, vehicles and other products, but they can hinder repair and recycling when bonded parts are difficult to separate cleanly. A research team led by The University of Osaka has developed a prototype light-responsive adhesive that can be selectively detached from an illuminated surface without leaving observable residue. The adhesive film can then be rebonded by heating and reused after a second ultraviolet wavelength helps reset its molecular interactions.",
-    "content": "<h2>概要</h2><p>Adhesives are essential in electronics, vehicles and other products, but they can hinder repair and recycling when bonded parts are difficult to separate cleanly. A research team led by The University of Osaka has developed a prototype light-responsive adhesive that can be selectively detached from an illuminated surface without leaving observable residue. The adhesive film can then be rebonded by heating and reused after a second ultraviolet wavelength helps reset its molecular interactions.</p><p><a href=\"https://phys.org/news/2026-09-triggered-interface-adhesive-rebond.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-triggered-interface-adhesive-rebond.html"
-  },
-  {
-    "id": 22,
-    "title": "Soft nanoscale confinement prevents ice, exposing water's liquid-to-glass transition",
-    "category": "SCIENCE",
-    "date": "2026-09-03T23:40:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "An international collaboration of researchers has used ANSTO's facilities to uncover new properties of one of the most fundamental everyday materials, water, and answer an important scientific question. The findings, published in Nature Communications, have practical implications for understanding water at very low temperatures. The findings are relevant to cryopreservation of biological materials, food-freezing technologies and understanding water in living cells, where it is often confined at the nanoscale.",
-    "content": "<h2>概要</h2><p>An international collaboration of researchers has used ANSTO's facilities to uncover new properties of one of the most fundamental everyday materials, water, and answer an important scientific question. The findings, published in Nature Communications, have practical implications for understanding water at very low temperatures. The findings are relevant to cryopreservation of biological materials, food-freezing technologies and understanding water in living cells, where it is often confined at the nanoscale.</p><p><a href=\"https://phys.org/news/2026-09-soft-nanoscale-confinement-ice-exposing.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-soft-nanoscale-confinement-ice-exposing.html"
-  },
-  {
-    "id": 23,
-    "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-    "category": "TECH",
-    "date": "2026-09-03T23:37:37.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2166198274.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "A view of the Halo Board inside the Intuit Dome in 2024 | Icon Sportswire via Getty Images\t\n\nLast September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a year, while the league says his team will forfeit five future draft picks and pay a $30 million fine, among other penalties. \nA year later, an NBA-commissioned 35-page report by Wachtell, Lipton, Rosen & Katz is basically calling him a liar, saying those claims were \"inaccurate (at best) with respect to Mr. Ballmer\" and \"clearly false\" when it came to Clippers presi …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>A view of the Halo Board inside the Intuit Dome in 2024 | Icon Sportswire via Getty Images\t\n\nLast September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a year, while the league says his team will forfeit five future draft picks and pay a $30 million fine, among other penalties. \nA year later, an NBA-commissioned 35-page report by Wachtell, Lipton, Rosen & Katz is basically calling him a liar, saying those claims were \"inaccurate (at best) with respect to Mr. Ballmer\" and \"clearly false\" when it came to Clippers presi …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out"
-  },
-  {
-    "id": 24,
-    "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
-    "category": "BUSINESS",
-    "date": "2026-09-03T23:25:45.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-    "content": "<h2>概要</h2><p>Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 25,
-    "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-    "category": "BUSINESS",
-    "date": "2026-09-03T23:00:15.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-    "content": "<h2>概要</h2><p>The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 26,
-    "title": "5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More",
-    "category": "TECH",
-    "date": "2026-09-03T22:48:55.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Never miss a delivery. These WIRED-tested picks will help you keep tabs on your front door from anywhere.",
-    "content": "<h2>概要</h2><p>Never miss a delivery. These WIRED-tested picks will help you keep tabs on your front door from anywhere.</p><p><a href=\"https://www.wired.com/gallery/best-video-doorbells/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/gallery/best-video-doorbells/"
-  },
-  {
-    "id": 27,
+    "id": 45,
     "title": "Oura files to go public",
     "category": "TECH",
     "date": "2026-09-03T22:35:41.000Z",
@@ -297,29 +495,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/"
   },
   {
-    "id": 28,
-    "title": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
-    "category": "TECH",
-    "date": "2026-09-03T22:30:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.",
-    "content": "<h2>概要</h2><p>Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.</p><p><a href=\"https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/"
-  },
-  {
-    "id": 29,
-    "title": "US investigating if missile hit Iran wedding, Vance says",
-    "category": "WORLD",
-    "date": "2026-09-03T22:19:59.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
-    "content": "<h2>概要</h2><p>The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 30,
+    "id": 46,
     "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
     "category": "TECH",
     "date": "2026-09-03T22:18:30.000Z",
@@ -330,7 +506,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/"
   },
   {
-    "id": 31,
+    "id": 47,
     "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
     "category": "TECH",
     "date": "2026-09-03T22:13:50.000Z",
@@ -341,29 +517,7 @@
     "sourceUrl": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/"
   },
   {
-    "id": 32,
-    "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
-    "category": "TECH",
-    "date": "2026-09-03T22:00:00.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but those fancy-sounding features are part of what Ugreen is claiming to be the world's first liquid-cooling system on a power bank with wireless charging.\nInside the MagFlow Pro is a micro-pump that's used to circulate coolant and draw heat away from components including the power bank's Qi2.2-compatible wireless …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but those fancy-sounding features are part of what Ugreen is claiming to be the world's first liquid-cooling system on a power bank with wireless charging.\nInside the MagFlow Pro is a micro-pump that's used to circulate coolant and draw heat away from components including the power bank's Qi2.2-compatible wireless …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling"
-  },
-  {
-    "id": 33,
-    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-    "category": "TECH",
-    "date": "2026-09-03T21:56:21.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-    "content": "<h2>概要</h2><p>ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.</p><p><a href=\"https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/"
-  },
-  {
-    "id": 34,
+    "id": 48,
     "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
     "category": "TECH",
     "date": "2026-09-03T21:10:59.000Z",
@@ -374,7 +528,7 @@
     "sourceUrl": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/"
   },
   {
-    "id": 35,
+    "id": 49,
     "title": "Startup ARR is less secure than ever, new research shows",
     "category": "TECH",
     "date": "2026-09-03T20:59:23.000Z",
@@ -385,7 +539,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/"
   },
   {
-    "id": 36,
+    "id": 50,
     "title": "Faculty receive promotions in the School of Architecture and Planning for 2026",
     "category": "TECH",
     "date": "2026-09-03T20:50:00.000Z",
@@ -396,7 +550,7 @@
     "sourceUrl": "https://news.mit.edu/2026/faculty-receive-promotions-school-architecture-and-planning-0903"
   },
   {
-    "id": 37,
+    "id": 51,
     "title": "Faculty receive promotions in the School of Architecture and Planning for 2026",
     "category": "TECH",
     "date": "2026-09-03T20:50:00.000Z",
@@ -407,18 +561,7 @@
     "sourceUrl": "https://news.mit.edu/2026/faculty-receive-promotions-school-architecture-and-planning-0903"
   },
   {
-    "id": 38,
-    "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
-    "category": "TECH",
-    "date": "2026-09-03T20:48:05.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ravenloft-horrors-within-cover-strahd.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Strahd returned earlier this year in Ravenloft: The Horrors Within. | Image: Wizards of the Coast\t\n\nA Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign settings, which got an update earlier this year with Ravenloft: The Horrors Within. \nNetflix's Ravenloft series will reportedly center on the infamous Strahd, according to Deadline: \nAt its heart, the series follows the making of the vampire Darklord Strahd von Zarovich, whose story of power, love, obsession, and undead transformation charts his origins from tragic antihero to one of Dungeons & Dra …\n\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Strahd returned earlier this year in Ravenloft: The Horrors Within. | Image: Wizards of the Coast\t\n\nA Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign settings, which got an update earlier this year with Ravenloft: The Horrors Within. \nNetflix's Ravenloft series will reportedly center on the infamous Strahd, according to Deadline: \nAt its heart, the series follows the making of the vampire Darklord Strahd von Zarovich, whose story of power, love, obsession, and undead transformation charts his origins from tragic antihero to one of Dungeons & Dra …\n\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix"
-  },
-  {
-    "id": 39,
+    "id": 52,
     "title": "Hot subdwarfs come into focus as AI scans thousands of stars in Gaia data",
     "category": "SPACE",
     "date": "2026-09-03T20:40:05.000Z",
@@ -429,7 +572,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-hot-subdwarfs-focus-ai-scans.html"
   },
   {
-    "id": 40,
+    "id": 53,
     "title": "Perseverance rover watches Earth vanish behind Martian moon",
     "category": "SPACE",
     "date": "2026-09-03T20:40:03.000Z",
@@ -440,7 +583,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-perseverance-rover-earth-martian-moon.html"
   },
   {
-    "id": 41,
+    "id": 54,
     "title": "Nepali community in Texas grieves and prays for healing after flash floods",
     "category": "WORLD",
     "date": "2026-09-03T20:29:58.000Z",
@@ -451,7 +594,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/03/nx-s1-5954535/nepali-community-in-texas-grieves-and-prays-for-healing-after-flash-floods"
   },
   {
-    "id": 42,
+    "id": 55,
     "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
     "category": "TECH",
     "date": "2026-09-03T20:14:48.000Z",
@@ -462,7 +605,7 @@
     "sourceUrl": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/"
   },
   {
-    "id": 43,
+    "id": 56,
     "title": " 'Alien: Isolation 2': Facing a ruthless and evolved Xenomorph in our Gamescom hands-on preview ",
     "category": "SPACE",
     "date": "2026-09-03T20:00:00.000Z",
@@ -473,7 +616,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-games/alien-isolation-2-facing-a-ruthless-and-evolved-xenomorph-in-our-gamescom-hands-on-preview"
   },
   {
-    "id": 44,
+    "id": 57,
     "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
     "category": "TECH",
     "date": "2026-09-03T19:52:06.000Z",
@@ -484,18 +627,7 @@
     "sourceUrl": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/"
   },
   {
-    "id": 45,
-    "title": "The Cybercab is Tesla’s ‘fork in the road’ moment ",
-    "category": "TECH",
-    "date": "2026-09-03T19:42:48.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
-    "content": "<h2>概要</h2><p>The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.</p><p><a href=\"https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"
-  },
-  {
-    "id": 46,
+    "id": 58,
     "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
     "category": "TECH",
     "date": "2026-09-03T19:42:02.000Z",
@@ -506,7 +638,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/"
   },
   {
-    "id": 47,
+    "id": 59,
     "title": "Photo: NASA's Hubble spies superbubble scene",
     "category": "SPACE",
     "date": "2026-09-03T19:40:03.000Z",
@@ -517,7 +649,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-photo-nasa-hubble-spies-superbubble.html"
   },
   {
-    "id": 48,
+    "id": 60,
     "title": "Newly discovered 1666 manuscript may trace four-lens telescope experiments to Galileo",
     "category": "SPACE",
     "date": "2026-09-03T19:20:04.000Z",
@@ -528,7 +660,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-newly-manuscript-lens-telescope-galileo.html"
   },
   {
-    "id": 49,
+    "id": 61,
     "title": "3 Questions: The essential role of international engagement",
     "category": "TECH",
     "date": "2026-09-03T19:15:00.000Z",
@@ -539,7 +671,7 @@
     "sourceUrl": "https://news.mit.edu/2026/3-questions-essential-role-of-international-engagement-0903"
   },
   {
-    "id": 50,
+    "id": 62,
     "title": "AI data centres are booming in Australia - but at what cost?",
     "category": "TECH",
     "date": "2026-09-03T18:32:03.000Z",
@@ -550,7 +682,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 51,
+    "id": 63,
     "title": " 2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do ",
     "category": "SPACE",
     "date": "2026-09-03T18:00:00.000Z",
@@ -561,7 +693,7 @@
     "sourceUrl": "https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do"
   },
   {
-    "id": 52,
+    "id": 64,
     "title": "Conflict in the Final Frontier: The U.S. and China are Preparing for a New Era of Warfare in Space",
     "category": "MYSTERY",
     "date": "2026-09-03T17:14:45.000Z",
@@ -572,7 +704,7 @@
     "sourceUrl": "https://thedebrief.org/conflict-in-the-final-frontier-the-u-s-and-china-are-preparing-for-a-new-era-of-warfare-in-space/"
   },
   {
-    "id": 53,
+    "id": 65,
     "title": "Why doesn't Venus have a moon? A new study may have the answer",
     "category": "SPACE",
     "date": "2026-09-03T17:10:02.000Z",
@@ -583,7 +715,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-doesnt-venus-moon.html"
   },
   {
-    "id": 54,
+    "id": 66,
     "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
     "category": "SPACE",
     "date": "2026-09-03T17:06:00.000Z",
@@ -594,7 +726,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/"
   },
   {
-    "id": 55,
+    "id": 67,
     "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
     "category": "SPACE",
     "date": "2026-09-03T17:06:00.000Z",
@@ -605,7 +737,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/"
   },
   {
-    "id": 56,
+    "id": 68,
     "title": " 'Strange New Worlds'' latest episode is a soap opera spoof, but hasn't 'Star Trek' always been a soap opera in space? ",
     "category": "SPACE",
     "date": "2026-09-03T17:00:00.000Z",
@@ -616,7 +748,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-a-soap-opera-spoof-but-hasnt-star-trek-always-been-a-soap-opera-in-space-anyway"
   },
   {
-    "id": 57,
+    "id": 69,
     "title": "Assistant Professor Thomas Rose, an expert in archaeometallurgy, dies at 37",
     "category": "TECH",
     "date": "2026-09-03T17:00:00.000Z",
@@ -627,7 +759,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-assistant-professor-thomas-rose-archaeometallurgy-expert-dies-0903"
   },
   {
-    "id": 58,
+    "id": 70,
     "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
     "category": "TECH",
     "date": "2026-09-03T16:32:05.000Z",
@@ -638,7 +770,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 59,
+    "id": 71,
     "title": " 'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival ",
     "category": "SPACE",
     "date": "2026-09-03T16:25:20.000Z",
@@ -649,18 +781,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival"
   },
   {
-    "id": 60,
-    "title": " Comet McNaught put on a surprise show this summer: Here's how to spot it before it fades ",
-    "category": "SPACE",
-    "date": "2026-09-03T16:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/mHJjmyvJb6Bp9oeepCvT5m-1280-80.png",
-    "summary": "Comet McNaught brightened dramatically during two outbursts around perihelion as it made a close approach to the sun.",
-    "content": "<h2>概要</h2><p>Comet McNaught brightened dramatically during two outbursts around perihelion as it made a close approach to the sun.</p><p><a href=\"https://www.space.com/astronomy/comets/comet-mcnaught-put-on-a-surprise-show-this-summer-heres-how-to-spot-it-before-it-fades\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/astronomy/comets/comet-mcnaught-put-on-a-surprise-show-this-summer-heres-how-to-spot-it-before-it-fades"
-  },
-  {
-    "id": 61,
+    "id": 72,
     "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
     "category": "SPACE",
     "date": "2026-09-03T15:59:48.000Z",
@@ -671,7 +792,7 @@
     "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/"
   },
   {
-    "id": 62,
+    "id": 73,
     "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
     "category": "SPACE",
     "date": "2026-09-03T15:59:48.000Z",
@@ -682,7 +803,7 @@
     "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/"
   },
   {
-    "id": 63,
+    "id": 74,
     "title": "Fabrication platform could enable flexible, transparent next-generation photonic chips",
     "category": "TECH",
     "date": "2026-09-03T15:45:00.000Z",
@@ -693,7 +814,7 @@
     "sourceUrl": "https://news.mit.edu/2026/fabrication-platform-could-enable-flexible-transparent-next-generation-photonic-chips-0903"
   },
   {
-    "id": 64,
+    "id": 75,
     "title": "Igniting Roman’s Journey",
     "category": "SPACE",
     "date": "2026-09-03T14:24:23.000Z",
@@ -704,7 +825,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/igniting-romans-journey/"
   },
   {
-    "id": 65,
+    "id": 76,
     "title": "Igniting Roman’s Journey",
     "category": "SPACE",
     "date": "2026-09-03T14:24:23.000Z",
@@ -715,7 +836,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/igniting-romans-journey/"
   },
   {
-    "id": 66,
+    "id": 77,
     "title": "NASA’s Hubble Spies Superbubble Scene",
     "category": "SPACE",
     "date": "2026-09-03T13:16:02.000Z",
@@ -726,7 +847,7 @@
     "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/"
   },
   {
-    "id": 67,
+    "id": 78,
     "title": "NASA’s Hubble Spies Superbubble Scene",
     "category": "SPACE",
     "date": "2026-09-03T13:16:02.000Z",
@@ -737,7 +858,7 @@
     "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/"
   },
   {
-    "id": 68,
+    "id": 79,
     "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
     "category": "WORLD",
     "date": "2026-09-03T12:52:08.000Z",
@@ -748,7 +869,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach"
   },
   {
-    "id": 69,
+    "id": 80,
     "title": "First-of-a-Kind Experiments Demonstrate Effects of Einstein’s Gravity in the Quantum World",
     "category": "MYSTERY",
     "date": "2026-09-03T12:29:03.000Z",
@@ -759,7 +880,7 @@
     "sourceUrl": "https://thedebrief.org/first-of-a-kind-experiments-demonstrate-effects-of-einsteins-gravity-in-the-quantum-world/"
   },
   {
-    "id": 70,
+    "id": 81,
     "title": "World’s Most Sensitive Dark Matter Detector Just Found Something Scientists Can’t Easily Explain",
     "category": "MYSTERY",
     "date": "2026-09-03T12:16:20.000Z",
@@ -770,7 +891,7 @@
     "sourceUrl": "https://thedebrief.org/worlds-most-sensitive-dark-matter-detector-just-found-something-scientists-cant-easily-explain/"
   },
   {
-    "id": 71,
+    "id": 82,
     "title": "The Download: rethinking child safety and fossil-fueled farming",
     "category": "TECH",
     "date": "2026-09-03T12:10:00.000Z",
@@ -781,7 +902,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
   },
   {
-    "id": 72,
+    "id": 83,
     "title": "The Download: rethinking child safety and fossil-fueled farming",
     "category": "TECH",
     "date": "2026-09-03T12:10:00.000Z",
@@ -792,7 +913,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
   },
   {
-    "id": 73,
+    "id": 84,
     "title": "Residents Near Former California Nuclear Site Report More Chronic Illness, New Study Finds",
     "category": "MYSTERY",
     "date": "2026-09-03T11:59:27.000Z",
@@ -803,18 +924,7 @@
     "sourceUrl": "https://thedebrief.org/residents-near-former-california-nuclear-site-report-more-chronic-illness-new-study-finds/"
   },
   {
-    "id": 74,
-    "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
-    "category": "WORLD",
-    "date": "2026-09-03T11:17:01.000Z",
-    "image": "undefined",
-    "summary": "Two Democrats are demanding that Homeland Security officials fund election security ahead of the midterms. And, trail-blazing journalist Gloria Steinem has died.",
-    "content": "<h2>概要</h2><p>Two Democrats are demanding that Homeland Security officials fund election security ahead of the midterms. And, trail-blazing journalist Gloria Steinem has died.</p><p><a href=\"https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem"
-  },
-  {
-    "id": 75,
+    "id": 85,
     "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
     "category": "WORLD",
     "date": "2026-09-03T10:11:37.000Z",
@@ -825,7 +935,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid"
   },
   {
-    "id": 76,
+    "id": 86,
     "title": "Latest updates: BepiColombo's arrival at Mercury",
     "category": "SPACE",
     "date": "2026-09-03T10:00:00.000Z",
@@ -836,7 +946,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
   },
   {
-    "id": 77,
+    "id": 87,
     "title": "Agriculture relies on fossil fuels. It’s costing us.",
     "category": "TECH",
     "date": "2026-09-03T10:00:00.000Z",
@@ -847,7 +957,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/"
   },
   {
-    "id": 78,
+    "id": 88,
     "title": "Agriculture relies on fossil fuels. It’s costing us.",
     "category": "TECH",
     "date": "2026-09-03T10:00:00.000Z",
@@ -858,7 +968,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/"
   },
   {
-    "id": 79,
+    "id": 89,
     "title": "Scaling agentic AI pilots across the enterprise",
     "category": "TECH",
     "date": "2026-09-03T09:30:32.000Z",
@@ -869,7 +979,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/"
   },
   {
-    "id": 80,
+    "id": 90,
     "title": "Scaling agentic AI pilots across the enterprise",
     "category": "TECH",
     "date": "2026-09-03T09:30:32.000Z",
@@ -880,40 +990,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/"
   },
   {
-    "id": 81,
-    "title": "Families of the missing in Nepal's flash floods perform symbolic cremations",
-    "category": "WORLD",
-    "date": "2026-09-03T08:11:30.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5954190",
-    "summary": "Eight days after Nepal's flash floods, families who can't find loved ones perform symbolic cremations.",
-    "content": "<h2>概要</h2><p>Eight days after Nepal's flash floods, families who can't find loved ones perform symbolic cremations.</p><p><a href=\"https://www.npr.org/2026/09/03/nx-s1-5954190/families-of-the-missing-in-nepals-flash-floods-perform-symbolic-cremations\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/03/nx-s1-5954190/families-of-the-missing-in-nepals-flash-floods-perform-symbolic-cremations"
-  },
-  {
-    "id": 82,
-    "title": "China's Xi visits Egypt for the first time in a decade",
-    "category": "WORLD",
-    "date": "2026-09-03T08:08:39.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5954184",
-    "summary": "Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.",
-    "content": "<h2>概要</h2><p>Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.</p><p><a href=\"https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade"
-  },
-  {
-    "id": 83,
-    "title": "Critics question legality of Venezuela oil deals",
-    "category": "WORLD",
-    "date": "2026-09-03T08:07:44.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5954176",
-    "summary": "Chevron's $7 billion Venezuela bet deepens U.S. ties to the country's oil industry. Critics say the deal poses risks to democracy and could fuel discontent over Washington's embrace of the government.",
-    "content": "<h2>概要</h2><p>Chevron's $7 billion Venezuela bet deepens U.S. ties to the country's oil industry. Critics say the deal poses risks to democracy and could fuel discontent over Washington's embrace of the government.</p><p><a href=\"https://www.npr.org/2026/09/03/nx-s1-5954176/critics-question-legality-of-venezuela-oil-deals\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/03/nx-s1-5954176/critics-question-legality-of-venezuela-oil-deals"
-  },
-  {
-    "id": 84,
+    "id": 91,
     "title": "Watch: BBC travels in self-driving Uber around London",
     "category": "TECH",
     "date": "2026-09-03T07:20:23.000Z",
@@ -924,40 +1001,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 85,
-    "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-    "category": "WORLD",
-    "date": "2026-09-03T06:01:54.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
-    "content": "<h2>概要</h2><p>The WMO has warned that the natural weather phenomenon could bring disruption to global economies.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 86,
-    "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
-    "category": "SPACE",
-    "date": "2026-09-03T04:05:00.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/eclipse_stork.jpg?w=1638&#038;h=2048&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Eclipse […]",
-    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Eclipse […]</p><p><a href=\"https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/"
-  },
-  {
-    "id": 87,
-    "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
-    "category": "SPACE",
-    "date": "2026-09-03T04:05:00.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/eclipse_stork.jpg?w=1638&#038;h=2048&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Eclipse […]",
-    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Eclipse […]</p><p><a href=\"https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/"
-  },
-  {
-    "id": 88,
+    "id": 92,
     "title": "New qubit architecture enables faster, more accurate operations",
     "category": "TECH",
     "date": "2026-09-03T04:00:00.000Z",
@@ -968,18 +1012,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-qubit-architecture-enables-faster-more-accurate-operations-0903"
   },
   {
-    "id": 89,
-    "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-    "category": "TECH",
-    "date": "2026-09-02T23:36:49.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
-    "content": "<h2>概要</h2><p>The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.</p><p><a href=\"https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Technology",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 90,
+    "id": 93,
     "title": "FLEX and Sentinel-3C sealed within Vega-C fairing",
     "category": "SPACE",
     "date": "2026-09-02T16:08:00.000Z",
@@ -990,7 +1023,7 @@
     "sourceUrl": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_sealed_within_Vega-C_fairing"
   },
   {
-    "id": 91,
+    "id": 94,
     "title": "New research shows a neutrino laser is impossible",
     "category": "SCIENCE",
     "date": "2026-09-02T14:00:00.000Z",
@@ -1001,7 +1034,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902"
   },
   {
-    "id": 92,
+    "id": 95,
     "title": "Facilitating AI integration with simplicity at scale",
     "category": "TECH",
     "date": "2026-09-02T14:00:00.000Z",
@@ -1012,7 +1045,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
   },
   {
-    "id": 93,
+    "id": 96,
     "title": "Facilitating AI integration with simplicity at scale",
     "category": "TECH",
     "date": "2026-09-02T14:00:00.000Z",
@@ -1023,7 +1056,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
   },
   {
-    "id": 94,
+    "id": 97,
     "title": "11,000-Year-Old Stone Sculpture Unearthed at Göbekli Tepe’s Mysterious Sister Site Was Carved Millennia Before the First Human Societies",
     "category": "MYSTERY",
     "date": "2026-09-02T12:55:58.000Z",
@@ -1034,29 +1067,7 @@
     "sourceUrl": "https://thedebrief.org/11000-year-old-stone-sculpture-unearthed-at-gobekli-tepes-mysterious-sister-site-was-carved-millennia-before-the-first-human-societies/"
   },
   {
-    "id": 95,
-    "title": "The Download: AI puzzles and a path to our nearest star system",
-    "category": "TECH",
-    "date": "2026-09-02T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/HyIron-Feb-2025-dji-3.edit_.jpg?w=840",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…</p><p><a href=\"https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/"
-  },
-  {
-    "id": 96,
-    "title": "The Download: AI puzzles and a path to our nearest star system",
-    "category": "TECH",
-    "date": "2026-09-02T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/HyIron-Feb-2025-dji-3.edit_.jpg?w=840",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…</p><p><a href=\"https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/"
-  },
-  {
-    "id": 97,
+    "id": 98,
     "title": "Third spacewalk completed for Sophie Adenot ",
     "category": "SPACE",
     "date": "2026-09-02T11:00:00.000Z",
@@ -1065,17 +1076,6 @@
     "content": "<h2>概要</h2><p>ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21:29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut.</p><p><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "ESA Top News",
     "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot"
-  },
-  {
-    "id": 98,
-    "title": "Cluster’s encore for reentry science a success",
-    "category": "SPACE",
-    "date": "2026-09-02T10:20:00.000Z",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/tango_s_reentry_recorded/27446747-1-eng-GB/Tango_s_reentry_recorded_card_full.png",
-    "summary": "The Cluster mission danced its final dance as Tango reentered the atmosphere on 1 September, at 23:30:31 CEST. The end of the Cluster mission in 2024 turned into the start of the reentry data collection campaign. After four ‘targeted’ reentries, this is now a proven method of safe end-of-life disposal. It also enabled the repeated observation of the reentries by a plane full of scientists, creating a unique reentry data set that will improve our understanding of the destructive process and can inform the design of safer and more sustainable satellites in the future.",
-    "content": "<h2>概要</h2><p>The Cluster mission danced its final dance as Tango reentered the atmosphere on 1 September, at 23:30:31 CEST. The end of the Cluster mission in 2024 turned into the start of the reentry data collection campaign. After four ‘targeted’ reentries, this is now a proven method of safe end-of-life disposal. It also enabled the repeated observation of the reentries by a plane full of scientists, creating a unique reentry data set that will improve our understanding of the destructive process and can inform the design of safer and more sustainable satellites in the future.</p><p><a href=\"https://www.esa.int/Space_Safety/Space_Debris/Cluster_s_encore_for_reentry_science_a_success\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ESA Top News",
-    "sourceUrl": "https://www.esa.int/Space_Safety/Space_Debris/Cluster_s_encore_for_reentry_science_a_success"
   },
   {
     "id": 99,
