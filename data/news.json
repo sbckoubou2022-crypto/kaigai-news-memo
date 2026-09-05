@@ -1,28 +1,248 @@
 [
   {
     "id": 1,
-    "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "category": "TECH",
+    "date": "2026-09-05T19:35:24.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "content": "<h2>概要</h2><p>The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"</p><p><a href=\"https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+  },
+  {
+    "id": 2,
+    "title": "US envoys meet Putin in Moscow for Ukraine talks",
     "category": "WORLD",
-    "date": "2026-09-05T14:44:35.000Z",
+    "date": "2026-09-05T19:01:31.000Z",
     "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-    "content": "<h2>概要</h2><p>Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+    "content": "<h2>概要</h2><p>Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC World",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "US hits three Iranian oil tankers after saying its warships were targeted",
     "category": "WORLD",
-    "date": "2026-09-05T14:40:53.000Z",
+    "date": "2026-09-05T18:48:37.000Z",
     "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
-    "content": "<h2>概要</h2><p>US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+    "content": "<h2>概要</h2><p>The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC World",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 3,
+    "id": 4,
+    "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
+    "category": "SCIENCE",
+    "date": "2026-09-05T18:40:02.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that appear to contain almost no stars. The clouds, discovered with China's FAST radio telescope, each contain roughly 3 million times the mass of the sun in hydrogen but have no detectable optical counterpart. Their properties are outlined in a new paper published in the Astronomy & Astrophysics  journal on Aug. 4.",
+    "content": "<h2>概要</h2><p>Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that appear to contain almost no stars. The clouds, discovered with China's FAST radio telescope, each contain roughly 3 million times the mass of the sun in hydrogen but have no detectable optical counterpart. Their properties are outlined in a new paper published in the Astronomy & Astrophysics  journal on Aug. 4.</p><p><a href=\"https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html"
+  },
+  {
+    "id": 5,
+    "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
+    "category": "SPACE",
+    "date": "2026-09-05T18:40:02.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that appear to contain almost no stars. The clouds, discovered with China's FAST radio telescope, each contain roughly 3 million times the mass of the sun in hydrogen but have no detectable optical counterpart. Their properties are outlined in a new paper published in the Astronomy & Astrophysics  journal on Aug. 4.",
+    "content": "<h2>概要</h2><p>Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that appear to contain almost no stars. The clouds, discovered with China's FAST radio telescope, each contain roughly 3 million times the mass of the sun in hydrogen but have no detectable optical counterpart. Their properties are outlined in a new paper published in the Astronomy & Astrophysics  journal on Aug. 4.</p><p><a href=\"https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html"
+  },
+  {
+    "id": 6,
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "category": "TECH",
+    "date": "2026-09-05T18:05:27.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "content": "<h2>概要</h2><p>OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.</p><p><a href=\"https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+  },
+  {
+    "id": 7,
+    "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+    "category": "WORLD",
+    "date": "2026-09-05T18:00:15.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffick drugs\nAn Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drug case, official media reported on Saturday.\nThe presenter, Sarah Khalifa, 39, is best known for her programme Mission Impossible, which dealt with issues concerning security and crime.\n Continue reading...",
+    "content": "<h2>概要</h2><p>Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffick drugs\nAn Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drug case, official media reported on Saturday.\nThe presenter, Sarah Khalifa, 39, is best known for her programme Mission Impossible, which dealt with issues concerning security and crime.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug"
+  },
+  {
+    "id": 8,
+    "title": "Views from a physician and veterinarian: How to improve barriers to pet care when owners are hospitalized",
+    "category": "SCIENCE",
+    "date": "2026-09-05T18:00:04.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The human-animal bond is often so strong that pet owners may delay or forgo medical treatment or leave a health care facility against medical advice if they have no one to care for their pet at home. A perspective paper published in the New England Journal of Medicine explains why pet owners may need different approaches to care when hospitalized, according to an Emory University physician and an Ohio State University veterinarian.",
+    "content": "<h2>概要</h2><p>The human-animal bond is often so strong that pet owners may delay or forgo medical treatment or leave a health care facility against medical advice if they have no one to care for their pet at home. A perspective paper published in the New England Journal of Medicine explains why pet owners may need different approaches to care when hospitalized, according to an Emory University physician and an Ohio State University veterinarian.</p><p><a href=\"https://phys.org/news/2026-09-views-physician-veterinarian-barriers-pet.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-views-physician-veterinarian-barriers-pet.html"
+  },
+  {
+    "id": 9,
+    "title": "US study tests psilocybin to fight cancer side effects",
+    "category": "SCIENCE",
+    "date": "2026-09-05T17:30:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Here's a novel idea for countering the painful side effects of chemotherapy: Beforehand, take the hallucinogenic drug found in magic mushrooms.",
+    "content": "<h2>概要</h2><p>Here's a novel idea for countering the painful side effects of chemotherapy: Beforehand, take the hallucinogenic drug found in magic mushrooms.</p><p><a href=\"https://phys.org/news/2026-09-psilocybin-cancer-side-effects.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-psilocybin-cancer-side-effects.html"
+  },
+  {
+    "id": 10,
+    "title": "A black hole as light as 40 tons can exist inside a star if dark matter helps",
+    "category": "SCIENCE",
+    "date": "2026-09-05T17:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "In 1974, Stephen Hawking made a prediction that transformed our understanding of black holes. Black holes, he showed, are not truly black: They slowly lose energy through a quantum process now known as Hawking radiation. The lighter the black hole, the faster it evaporates.",
+    "content": "<h2>概要</h2><p>In 1974, Stephen Hawking made a prediction that transformed our understanding of black holes. Black holes, he showed, are not truly black: They slowly lose energy through a quantum process now known as Hawking radiation. The lighter the black hole, the faster it evaporates.</p><p><a href=\"https://phys.org/news/2026-09-black-hole-tons-star-dark.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-black-hole-tons-star-dark.html"
+  },
+  {
+    "id": 11,
+    "title": "A black hole as light as 40 tons can exist inside a star if dark matter helps",
+    "category": "SPACE",
+    "date": "2026-09-05T17:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "In 1974, Stephen Hawking made a prediction that transformed our understanding of black holes. Black holes, he showed, are not truly black: They slowly lose energy through a quantum process now known as Hawking radiation. The lighter the black hole, the faster it evaporates.",
+    "content": "<h2>概要</h2><p>In 1974, Stephen Hawking made a prediction that transformed our understanding of black holes. Black holes, he showed, are not truly black: They slowly lose energy through a quantum process now known as Hawking radiation. The lighter the black hole, the faster it evaporates.</p><p><a href=\"https://phys.org/news/2026-09-black-hole-tons-star-dark.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-09-black-hole-tons-star-dark.html"
+  },
+  {
+    "id": 12,
+    "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+    "category": "TECH",
+    "date": "2026-09-05T17:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+    "content": "<h2>概要</h2><p>Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.</p><p><a href=\"https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/"
+  },
+  {
+    "id": 13,
+    "title": "CD sales are booming as physical media continues its resurgence",
+    "category": "TECH",
+    "date": "2026-09-05T16:49:33.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSCF1155-EDIT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "There’s some real gems in there. | Photo: Terrence O’Brien / The Verge\t\n\nAccording to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 percent, and 58.6 percent in dollars, which reached $171.1 million. What makes this all the more shocking is that CD sales actually shrank 22 percent from 2024 to 2025. \nThe RIAA isn't the only one to notice the boom in CD sales. In July, research firm Luminate released a report saying that 16.3 million units were sold in the first half of 2026. It sug …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>There’s some real gems in there. | Photo: Terrence O’Brien / The Verge\t\n\nAccording to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 percent, and 58.6 percent in dollars, which reached $171.1 million. What makes this all the more shocking is that CD sales actually shrank 22 percent from 2024 to 2025. \nThe RIAA isn't the only one to notice the boom in CD sales. In July, research firm Luminate released a report saying that 16.3 million units were sold in the first half of 2026. It sug …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence"
+  },
+  {
+    "id": 14,
+    "title": "Hidden in a Museum Collection for More Than a Century, Researchers Have Just Made a Bizarre New Discovery",
+    "category": "MYSTERY",
+    "date": "2026-09-05T16:25:35.000Z",
+    "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/09/sponge.jpg",
+    "summary": "Researchers reveal several new species of a bizarre ocean creature that were uncovered after being hidden for decades in museum collections.",
+    "content": "<h2>概要</h2><p>Researchers reveal several new species of a bizarre ocean creature that were uncovered after being hidden for decades in museum collections.</p><p><a href=\"https://thedebrief.org/hidden-in-a-museum-collection-for-more-than-a-century-researchers-have-just-made-a-bizarre-new-discovery/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Debrief",
+    "sourceUrl": "https://thedebrief.org/hidden-in-a-museum-collection-for-more-than-a-century-researchers-have-just-made-a-bizarre-new-discovery/"
+  },
+  {
+    "id": 15,
+    "title": "What different world maps get right - and what they get wrong",
+    "category": "WORLD",
+    "date": "2026-09-05T16:14:24.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+    "content": "<h2>概要</h2><p>As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 16,
+    "title": "Tree species diversity protects forests from climate extremes, study finds",
+    "category": "SCIENCE",
+    "date": "2026-09-05T16:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "New research has found that tree species diversity can play a crucial role in protecting forests from the growing threat of extreme climate events. The study analyzed data from 88,116 separate forest plots across the United States to investigate the impact of \"compound climate extremes,\" when events such as drought and extreme heat occur at the same time.",
+    "content": "<h2>概要</h2><p>New research has found that tree species diversity can play a crucial role in protecting forests from the growing threat of extreme climate events. The study analyzed data from 88,116 separate forest plots across the United States to investigate the impact of \"compound climate extremes,\" when events such as drought and extreme heat occur at the same time.</p><p><a href=\"https://phys.org/news/2026-09-tree-species-diversity-forests-climate.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-tree-species-diversity-forests-climate.html"
+  },
+  {
+    "id": 17,
+    "title": "At least two dead in blast at Bolivia military barracks",
+    "category": "WORLD",
+    "date": "2026-09-05T15:22:41.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+    "content": "<h2>概要</h2><p>Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 18,
+    "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+    "category": "TECH",
+    "date": "2026-09-05T15:17:36.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+    "content": "<h2>概要</h2><p>The US government is investigating whether the Cybercab meets vehicle safety standards.</p><p><a href=\"https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/"
+  },
+  {
+    "id": 19,
+    "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+    "category": "WORLD",
+    "date": "2026-09-05T15:05:08.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2Fec%2F64938f1741d199aebbc31393fde3%2Fap26247569143031.jpg",
+    "summary": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.",
+    "content": "<h2>概要</h2><p>The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.</p><p><a href=\"https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted"
+  },
+  {
+    "id": 20,
+    "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
+    "category": "TECH",
+    "date": "2026-09-05T15:00:00.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/andy.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in a row.\nHolloway's goal has always been about bringing fantasy football to a wider audience, not just hardcore nerds. With the NFL season starting next week and fantasy drafts in full swing, now seemed like a great time to see how Holloway stays focused during what is probably the busiest part of the year for a serious fantasy …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in a row.\nHolloway's goal has always been about bringing fantasy football to a wider audience, not just hardcore nerds. With the NFL season starting next week and fantasy drafts in full swing, now seemed like a great time to see how Holloway stays focused during what is probably the busiest part of the year for a serious fantasy …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview"
+  },
+  {
+    "id": 21,
+    "title": "Oura is going public, but these smart ring companies are coming for its crown",
+    "category": "TECH",
+    "date": "2026-09-05T15:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+    "content": "<h2>概要</h2><p>While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.</p><p><a href=\"https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/"
+  },
+  {
+    "id": 22,
+    "title": " Venus is disappearing from the evening sky — here's how to see it while you can ",
+    "category": "SPACE",
+    "date": "2026-09-05T15:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/vPbaLVEwoguZCZxaukJ6hk-1280-80.jpg",
+    "summary": "Venus is sinking lower into the sunset this September, but the brilliant Evening Star won't be gone for long.",
+    "content": "<h2>概要</h2><p>Venus is sinking lower into the sunset this September, but the brilliant Evening Star won't be gone for long.</p><p><a href=\"https://www.space.com/stargazing/venus-is-disappearing-from-the-evening-sky-heres-how-to-see-it-while-you-can\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/stargazing/venus-is-disappearing-from-the-evening-sky-heres-how-to-see-it-while-you-can"
+  },
+  {
+    "id": 23,
     "title": "No Longer Science Fiction, the U.S. Army is Moving a High-Energy Laser Weapon Into Production for the First Time",
     "category": "MYSTERY",
     "date": "2026-09-05T14:04:07.000Z",
@@ -33,7 +253,7 @@
     "sourceUrl": "https://thedebrief.org/no-longer-science-fiction-the-u-s-army-is-moving-a-high-energy-laser-weapon-into-production-for-the-first-time/"
   },
   {
-    "id": 4,
+    "id": 24,
     "title": "Content creators drop the ball",
     "category": "TECH",
     "date": "2026-09-05T14:00:16.000Z",
@@ -44,18 +264,7 @@
     "sourceUrl": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad"
   },
   {
-    "id": 5,
-    "title": "Some disagreement makes groups more trustworthy, mathematical framework finds",
-    "category": "SCIENCE",
-    "date": "2026-09-05T14:00:04.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "When humans are making decisions, they are known not to rely solely on their own considerations and the evidence available to them. Past behavioral science and psychology studies have shown that people are often also influenced by the choices and opinions of others.",
-    "content": "<h2>概要</h2><p>When humans are making decisions, they are known not to rely solely on their own considerations and the evidence available to them. Past behavioral science and psychology studies have shown that people are often also influenced by the choices and opinions of others.</p><p><a href=\"https://phys.org/news/2026-09-disagreement-groups-trustworthy-mathematical-framework.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-disagreement-groups-trustworthy-mathematical-framework.html"
-  },
-  {
-    "id": 6,
+    "id": 25,
     "title": " This Lego Star Wars UCS AT-ST set is cheaper than ever — I'll always love this chicken walker ",
     "category": "SPACE",
     "date": "2026-09-05T14:00:00.000Z",
@@ -66,7 +275,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-toys-lego/this-lego-star-wars-ucs-at-st-set-is-cheaper-than-ever-and-ill-always-love-this-chicken-walker"
   },
   {
-    "id": 7,
+    "id": 26,
     "title": " Watch Isar Aerospace try to make history today with launch from Norway ",
     "category": "SPACE",
     "date": "2026-09-05T14:00:00.000Z",
@@ -77,7 +286,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"
   },
   {
-    "id": 8,
+    "id": 27,
     "title": "What If Consciousness Exists Beyond the Brain? Some Researchers Say This “Hard Problem” Requires a Radical New Approach",
     "category": "MYSTERY",
     "date": "2026-09-05T13:53:16.000Z",
@@ -88,18 +297,7 @@
     "sourceUrl": "https://thedebrief.org/what-if-consciousness-exists-beyond-the-brain-some-researchers-say-this-hard-problem-requires-a-radical-new-approach/"
   },
   {
-    "id": 9,
-    "title": "What different world maps get right - and what they get wrong",
-    "category": "WORLD",
-    "date": "2026-09-05T13:46:02.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-    "content": "<h2>概要</h2><p>As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 10,
+    "id": 28,
     "title": " This Week In Space podcast: Episode 226 — Who Owns The Moon? ",
     "category": "SPACE",
     "date": "2026-09-05T13:30:52.000Z",
@@ -110,7 +308,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-226-who-owns-the-moon"
   },
   {
-    "id": 11,
+    "id": 29,
     "title": "Inside the Mind of a Billionaire Cheater: “At His Level of Wealth, Societal Ethics No Longer Register”",
     "category": "MYSTERY",
     "date": "2026-09-05T13:26:03.000Z",
@@ -121,7 +319,7 @@
     "sourceUrl": "https://thedebrief.org/inside-the-mind-of-a-billionaire-cheater-at-his-level-of-wealth-societal-ethics-no-longer-register/"
   },
   {
-    "id": 12,
+    "id": 30,
     "title": "The weird and wonderful headphones of CanJam 2026",
     "category": "TECH",
     "date": "2026-09-05T13:00:00.000Z",
@@ -132,7 +330,7 @@
     "sourceUrl": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026"
   },
   {
-    "id": 13,
+    "id": 31,
     "title": " On this day in space! Sept. 5, 1977: NASA launches Voyager 1 on epic journey across the solar system ",
     "category": "SPACE",
     "date": "2026-09-05T13:00:00.000Z",
@@ -143,18 +341,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/on-this-day-in-space-sept-5-1977-nasa-launches-voyager-1-on-epic-journey-across-the-solar-system"
   },
   {
-    "id": 14,
-    "title": "Lakes aren't just storing water—they're changing the carbon cycle",
-    "category": "SCIENCE",
-    "date": "2026-09-05T12:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Lakes may look like picturesque stopping points along a river or stream, but they can have a big influence on what happens to carbon as it moves through a landscape. New research suggests that the more lake-rich a network of streams is, the more carbon is released into the atmosphere rather than carried downstream.",
-    "content": "<h2>概要</h2><p>Lakes may look like picturesque stopping points along a river or stream, but they can have a big influence on what happens to carbon as it moves through a landscape. New research suggests that the more lake-rich a network of streams is, the more carbon is released into the atmosphere rather than carried downstream.</p><p><a href=\"https://phys.org/news/2026-08-lakes-theyre-carbon.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-08-lakes-theyre-carbon.html"
-  },
-  {
-    "id": 15,
+    "id": 32,
     "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
     "category": "WORLD",
     "date": "2026-09-05T11:43:20.000Z",
@@ -165,29 +352,18 @@
     "sourceUrl": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin"
   },
   {
-    "id": 16,
-    "title": "Ocean indicators NOAA scientists are tracking for El Niño's arrival on the West Coast",
-    "category": "SCIENCE",
-    "date": "2026-09-05T11:40:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Has El Niño reached the West Coast? You might think it has. After all, the ocean off Southern and Central California is unusually warm. But that warmth is from a recent marine heat wave that predates the current El Niño. Much of the Pacific Coast is experiencing relatively normal conditions while still awaiting the impacts of what could be a very strong El Niño.",
-    "content": "<h2>概要</h2><p>Has El Niño reached the West Coast? You might think it has. After all, the ocean off Southern and Central California is unusually warm. But that warmth is from a recent marine heat wave that predates the current El Niño. Much of the Pacific Coast is experiencing relatively normal conditions while still awaiting the impacts of what could be a very strong El Niño.</p><p><a href=\"https://phys.org/news/2026-09-ocean-indicators-noaa-scientists-tracking.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-ocean-indicators-noaa-scientists-tracking.html"
+    "id": 33,
+    "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
+    "category": "WORLD",
+    "date": "2026-09-05T11:43:14.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5954177",
+    "summary": "Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress.",
+    "content": "<h2>概要</h2><p>Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress.</p><p><a href=\"https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy"
   },
   {
-    "id": 17,
-    "title": "Late Roman decrees uncover military system behind amphitheater animal spectacles",
-    "category": "SCIENCE",
-    "date": "2026-09-05T11:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A study on Roman law by the Carlos III University of Madrid analyzes the regulations and complex imperial logistics governing the capture, transport and safety of animals used in spectacles in the Roman Empire—which were far more popular than gladiatorial combat.",
-    "content": "<h2>概要</h2><p>A study on Roman law by the Carlos III University of Madrid analyzes the regulations and complex imperial logistics governing the capture, transport and safety of animals used in spectacles in the Roman Empire—which were far more popular than gladiatorial combat.</p><p><a href=\"https://phys.org/news/2026-09-late-roman-decrees-uncover-military.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-late-roman-decrees-uncover-military.html"
-  },
-  {
-    "id": 18,
+    "id": 34,
     "title": "OpenAI admits to German wiki ‘incident’",
     "category": "TECH",
     "date": "2026-09-05T11:15:55.000Z",
@@ -198,7 +374,7 @@
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
   },
   {
-    "id": 19,
+    "id": 35,
     "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
     "category": "WORLD",
     "date": "2026-09-05T11:08:57.000Z",
@@ -209,7 +385,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace"
   },
   {
-    "id": 20,
+    "id": 36,
     "title": "4 Best Alexa Speakers I’ve Tested (2026)",
     "category": "TECH",
     "date": "2026-09-05T11:01:00.000Z",
@@ -220,29 +396,7 @@
     "sourceUrl": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/"
   },
   {
-    "id": 21,
-    "title": "New method predicts where massive earthquakes will strike",
-    "category": "SCIENCE",
-    "date": "2026-09-05T11:00:04.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "UC Riverside scientists have developed a way to identify where Earth's biggest earthquakes are most likely to occur, offering a powerful new tool for improving disaster preparation in some of the most dangerous seismic regions.",
-    "content": "<h2>概要</h2><p>UC Riverside scientists have developed a way to identify where Earth's biggest earthquakes are most likely to occur, offering a powerful new tool for improving disaster preparation in some of the most dangerous seismic regions.</p><p><a href=\"https://phys.org/news/2026-09-method-massive-earthquakes.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-method-massive-earthquakes.html"
-  },
-  {
-    "id": 22,
-    "title": "Robotaxis enter their villain era ",
-    "category": "TECH",
-    "date": "2026-09-05T11:00:00.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "It's Bullitt meets Christine meets Waymo.\nA new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars have gone from sci-fi curiosities to fixtures in some American cities, where they've become stand-ins for anxieties about AI job displacement, Big Tech surveillance, and machines making decisions once left to humans.\nRoad Rage, the planned short film awaiting $40,000 on Kickstarter to fund production, leans into all of it. The film pits Joa, a  …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>It's Bullitt meets Christine meets Waymo.\nA new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars have gone from sci-fi curiosities to fixtures in some American cities, where they've become stand-ins for anxieties about AI job displacement, Big Tech surveillance, and machines making decisions once left to humans.\nRoad Rage, the planned short film awaiting $40,000 on Kickstarter to fund production, leans into all of it. The film pits Joa, a  …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai"
-  },
-  {
-    "id": 23,
+    "id": 37,
     "title": "There May Not Be an iPhone 18 This Year",
     "category": "TECH",
     "date": "2026-09-05T10:30:00.000Z",
@@ -253,7 +407,7 @@
     "sourceUrl": "https://www.wired.com/story/there-may-not-be-an-iphone-18-this-year/"
   },
   {
-    "id": 24,
+    "id": 38,
     "title": "OpenAI Agents Hacked Another Website",
     "category": "TECH",
     "date": "2026-09-05T10:30:00.000Z",
@@ -264,7 +418,7 @@
     "sourceUrl": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/"
   },
   {
-    "id": 25,
+    "id": 39,
     "title": "Spacecraft bound for Mercury begins 'tricky' arrival",
     "category": "SPACE",
     "date": "2026-09-05T10:20:01.000Z",
@@ -275,7 +429,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-spacecraft-bound-mercury-tricky.html"
   },
   {
-    "id": 26,
+    "id": 40,
     "title": "Scientists Put Caterpillars in an Ultraquiet Chamber to Learn How They Hear Without Ears",
     "category": "TECH",
     "date": "2026-09-05T10:00:00.000Z",
@@ -286,18 +440,7 @@
     "sourceUrl": "https://www.wired.com/story/how-do-caterpillars-hear-without-ears/"
   },
   {
-    "id": 27,
-    "title": " This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system ",
-    "category": "SPACE",
-    "date": "2026-09-05T10:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/3TwTbHZRq4Xz6w3gkn2stn-1280-80.jpg",
-    "summary": "NASA funded an early-stage concept aiming to show new techniques for mapping minerals on the moon, asteroids or Martian moons.",
-    "content": "<h2>概要</h2><p>NASA funded an early-stage concept aiming to show new techniques for mapping minerals on the moon, asteroids or Martian moons.</p><p><a href=\"https://www.space.com/technology/nasa-funds-spacecraft-concept-that-aims-to-map-minerals-on-solar-system-planets-and-moons\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/technology/nasa-funds-spacecraft-concept-that-aims-to-map-minerals-on-solar-system-planets-and-moons"
-  },
-  {
-    "id": 28,
+    "id": 41,
     "title": "The Watch World Went Crazy This Week. Here Are the 10 You Need to See",
     "category": "TECH",
     "date": "2026-09-05T09:45:00.000Z",
@@ -308,18 +451,7 @@
     "sourceUrl": "https://www.wired.com/story/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see/"
   },
   {
-    "id": 29,
-    "title": "At least two dead in blast at Bolivia military barracks",
-    "category": "WORLD",
-    "date": "2026-09-05T08:41:38.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-    "content": "<h2>概要</h2><p>Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 30,
+    "id": 42,
     "title": "Philippines Vice President Sara Duterte posts bail after arrest",
     "category": "WORLD",
     "date": "2026-09-05T07:21:10.000Z",
@@ -330,7 +462,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail"
   },
   {
-    "id": 31,
+    "id": 43,
     "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
     "category": "SPACE",
     "date": "2026-09-05T04:05:00.000Z",
@@ -341,7 +473,7 @@
     "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/"
   },
   {
-    "id": 32,
+    "id": 44,
     "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "category": "TECH",
     "date": "2026-09-04T23:36:14.000Z",
@@ -352,18 +484,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
   },
   {
-    "id": 33,
-    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-    "category": "TECH",
-    "date": "2026-09-04T23:15:11.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-    "content": "<h2>概要</h2><p>OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.</p><p><a href=\"https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
-  },
-  {
-    "id": 34,
+    "id": 45,
     "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
     "category": "TECH",
     "date": "2026-09-04T22:49:17.000Z",
@@ -374,7 +495,7 @@
     "sourceUrl": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/"
   },
   {
-    "id": 35,
+    "id": 46,
     "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks ",
     "category": "WORLD",
     "date": "2026-09-04T22:48:38.000Z",
@@ -385,18 +506,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 36,
-    "title": "The U.N. backs a new world map showing Africa in its true relative size",
-    "category": "WORLD",
-    "date": "2026-09-04T22:26:35.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+0/resize/2000x1125!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2F1e%2F90993b39444aa5b7aac3e30c0871%2Fworld-map-animation-cropped.gif",
-    "summary": "The U.N. has backed a new map showing Africa in its true relative size, with the U.S. standing alone in opposition.",
-    "content": "<h2>概要</h2><p>The U.N. has backed a new map showing Africa in its true relative size, with the U.S. standing alone in opposition.</p><p><a href=\"https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote"
-  },
-  {
-    "id": 37,
+    "id": 47,
     "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
     "category": "TECH",
     "date": "2026-09-04T22:17:36.000Z",
@@ -407,29 +517,7 @@
     "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
   },
   {
-    "id": 38,
-    "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-    "category": "TECH",
-    "date": "2026-09-04T21:23:50.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Audacity-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to the self-proclaimed \"world's most popular audio editing and recording app\" are here, turning Audacity from a free and capable but extremely clunky audio editor into a powerful modern tool. \nThe biggest change is the move to a non-destructive editing workflow. That means you can trim a clip down, then recover the audio simply  …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to the self-proclaimed \"world's most popular audio editing and recording app\" are here, turning Audacity from a free and capable but extremely clunky audio editor into a powerful modern tool. \nThe biggest change is the move to a non-destructive editing workflow. That means you can trim a clip down, then recover the audio simply  …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/990658/audacity-4-update-audio-editing\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing"
-  },
-  {
-    "id": 39,
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "category": "TECH",
-    "date": "2026-09-04T21:12:11.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-    "content": "<h2>概要</h2><p>Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.</p><p><a href=\"https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
-  },
-  {
-    "id": 40,
+    "id": 48,
     "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
     "category": "TECH",
     "date": "2026-09-04T20:22:41.000Z",
@@ -440,7 +528,7 @@
     "sourceUrl": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/"
   },
   {
-    "id": 41,
+    "id": 49,
     "title": "How Mercury formed its graphite crust and core",
     "category": "SPACE",
     "date": "2026-09-04T20:00:01.000Z",
@@ -451,7 +539,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-mercury-graphite-crust-core.html"
   },
   {
-    "id": 42,
+    "id": 50,
     "title": "NASA Ames Fire Department Aircraft Firefighting Training",
     "category": "SPACE",
     "date": "2026-09-04T19:51:56.000Z",
@@ -462,7 +550,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/"
   },
   {
-    "id": 43,
+    "id": 51,
     "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
     "category": "TECH",
     "date": "2026-09-04T19:46:34.000Z",
@@ -473,29 +561,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/"
   },
   {
-    "id": 44,
-    "title": "Anthropic’s Claude Can Now Autonomously Run Science Experiments With Lab Equipment",
-    "category": "MYSTERY",
-    "date": "2026-09-04T19:08:33.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new system allows agents to orchestrate complex experimental processes and extends Anthropic's reach into the physical world.\nThe post Anthropic’s Claude Can Now Autonomously Run Science Experiments With Lab Equipment appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>A new system allows agents to orchestrate complex experimental processes and extends Anthropic's reach into the physical world.\nThe post Anthropic’s Claude Can Now Autonomously Run Science Experiments With Lab Equipment appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/09/04/anthropics-claude-can-now-autonomously-run-science-experiments-with-lab-equipment/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/09/04/anthropics-claude-can-now-autonomously-run-science-experiments-with-lab-equipment/"
-  },
-  {
-    "id": 45,
-    "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-    "category": "TECH",
-    "date": "2026-09-04T19:01:02.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
-    "content": "<h2>概要</h2><p>Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.</p><p><a href=\"https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/"
-  },
-  {
-    "id": 46,
+    "id": 52,
     "title": "Architecting memory and storage in the AI era",
     "category": "TECH",
     "date": "2026-09-04T18:39:19.000Z",
@@ -506,7 +572,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   },
   {
-    "id": 47,
+    "id": 53,
     "title": "Architecting memory and storage in the AI era",
     "category": "TECH",
     "date": "2026-09-04T18:39:19.000Z",
@@ -517,7 +583,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   },
   {
-    "id": 48,
+    "id": 54,
     "title": "Particle shape and size predict asteroid strength, revealing Bennu's surface is 50 times weaker than ground coffee",
     "category": "SPACE",
     "date": "2026-09-04T18:20:06.000Z",
@@ -528,29 +594,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-particle-size-asteroid-strength-revealing.html"
   },
   {
-    "id": 49,
-    "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-    "category": "TECH",
-    "date": "2026-09-04T17:52:05.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
-    "content": "<h2>概要</h2><p>A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.</p><p><a href=\"https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/"
-  },
-  {
-    "id": 50,
-    "title": "Turbulent times for star formation in Stephan's Quintet",
-    "category": "SPACE",
-    "date": "2026-09-04T17:40:04.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Star formation in galaxies is closely linked to molecular gas. In the distant past, when galaxy interactions were more common, these encounters compressed molecular gas, causing dense clouds to collapse under their own gravity and form new stars.",
-    "content": "<h2>概要</h2><p>Star formation in galaxies is closely linked to molecular gas. In the distant past, when galaxy interactions were more common, these encounters compressed molecular gas, causing dense clouds to collapse under their own gravity and form new stars.</p><p><a href=\"https://phys.org/news/2026-09-turbulent-star-formation-stephan-quintet.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-09-turbulent-star-formation-stephan-quintet.html"
-  },
-  {
-    "id": 51,
+    "id": 55,
     "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
     "category": "BUSINESS",
     "date": "2026-09-04T17:23:13.000Z",
@@ -561,18 +605,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 52,
-    "title": "What will Apple’s John Ternus era look like?",
-    "category": "TECH",
-    "date": "2026-09-04T17:18:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
-    "content": "<h2>概要</h2><p>It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]</p><p><a href=\"https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
-  },
-  {
-    "id": 53,
+    "id": 56,
     "title": "UN votes to adopt new world map that shows Africa’s true scale",
     "category": "WORLD",
     "date": "2026-09-04T16:49:29.000Z",
@@ -583,7 +616,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa"
   },
   {
-    "id": 54,
+    "id": 57,
     "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
     "category": "SPACE",
     "date": "2026-09-04T16:48:59.000Z",
@@ -594,7 +627,7 @@
     "sourceUrl": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/"
   },
   {
-    "id": 55,
+    "id": 58,
     "title": "What Caused Antarctica to Freeze Millions of Years Ago? New Clues Could Finally Solve This Longstanding Climate Mystery",
     "category": "MYSTERY",
     "date": "2026-09-04T16:32:24.000Z",
@@ -605,7 +638,7 @@
     "sourceUrl": "https://thedebrief.org/what-caused-antarctica-to-freeze-millions-of-years-ago-new-clues-could-finally-solve-this-longstanding-climate-mystery/"
   },
   {
-    "id": 56,
+    "id": 59,
     "title": "Researchers tune into Arctic under-ice sounds and test through-ice communication",
     "category": "TECH",
     "date": "2026-09-04T16:25:00.000Z",
@@ -616,18 +649,7 @@
     "sourceUrl": "https://news.mit.edu/2026/researchers-tune-into-arctic-under-ice-sounds-test-through-ice-communication-0904"
   },
   {
-    "id": 57,
-    "title": "Betelgeuse's atmosphere is becoming spotty and asymmetric—and a nearby companion could be shaping the pattern",
-    "category": "SPACE",
-    "date": "2026-09-04T16:20:03.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "For the first time since its dramatic dimming in 2020, a team of astronomers has observed the inner atmosphere of Betelgeuse using the Atacama Large Millimeter Array (ALMA). Led by Bill Dent at the University of Manchester, the team found that the giant star's inner atmosphere has become increasingly uneven and asymmetric, in a way that could be connected to a far smaller companion star.",
-    "content": "<h2>概要</h2><p>For the first time since its dramatic dimming in 2020, a team of astronomers has observed the inner atmosphere of Betelgeuse using the Atacama Large Millimeter Array (ALMA). Led by Bill Dent at the University of Manchester, the team found that the giant star's inner atmosphere has become increasingly uneven and asymmetric, in a way that could be connected to a far smaller companion star.</p><p><a href=\"https://phys.org/news/2026-09-betelgeuse-atmosphere-spotty-asymmetric-nearby.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-09-betelgeuse-atmosphere-spotty-asymmetric-nearby.html"
-  },
-  {
-    "id": 58,
+    "id": 60,
     "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
     "category": "TECH",
     "date": "2026-09-04T14:59:13.000Z",
@@ -638,7 +660,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 59,
+    "id": 61,
     "title": "Lunar Occultation of Venus",
     "category": "SPACE",
     "date": "2026-09-04T14:14:57.000Z",
@@ -647,28 +669,6 @@
     "content": "<h2>概要</h2><p>On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]</p><p><a href=\"https://www.nasa.gov/image-article/lunar-occultation-of-venus/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "NASA",
     "sourceUrl": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/"
-  },
-  {
-    "id": 60,
-    "title": "Philippine vice president is ordered arrested for threats against the president",
-    "category": "WORLD",
-    "date": "2026-09-04T13:42:10.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4001+0+0/resize/6000x4001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8e%2F33%2Ff3b5ca3a49c180b0c6bb4485946f%2Fap26247299450568.jpg",
-    "summary": "It's part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028.",
-    "content": "<h2>概要</h2><p>It's part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028.</p><p><a href=\"https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president"
-  },
-  {
-    "id": 61,
-    "title": "“We’ve Never Seen Anything Quite Like This”: A Strange Ten-Sided “Structure” Has Been Spotted on Saturn’s North Pole",
-    "category": "MYSTERY",
-    "date": "2026-09-04T13:41:39.000Z",
-    "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/09/Saturn-two-views-300x150.jpg",
-    "summary": "NASA’s Hubble Space Telescope has glimpsed a ten-sided atmospheric wave at Saturn’s south pole, the first such jet pattern observed there.",
-    "content": "<h2>概要</h2><p>NASA’s Hubble Space Telescope has glimpsed a ten-sided atmospheric wave at Saturn’s south pole, the first such jet pattern observed there.</p><p><a href=\"https://thedebrief.org/weve-never-seen-anything-quite-like-this-a-strange-ten-sided-structure-has-been-spotted-on-saturns-north-pole/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Debrief",
-    "sourceUrl": "https://thedebrief.org/weve-never-seen-anything-quite-like-this-a-strange-ten-sided-structure-has-been-spotted-on-saturns-north-pole/"
   },
   {
     "id": 62,
@@ -1046,28 +1046,6 @@
   },
   {
     "id": 96,
-    "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-    "category": "WORLD",
-    "date": "2026-09-02T06:00:25.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities\nAlmost half of the world’s farmers are poisoned by pesticides every single year, a study has found.\nUsing publicly available data from 2006-2023, the study, which was commissioned by Pesticide Action Network, found there to be an estimated 402-433m cases of unintentional acute pesticide poisoning of farmers and farm workers every year.\n Continue reading...",
-    "content": "<h2>概要</h2><p>Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities\nAlmost half of the world’s farmers are poisoned by pesticides every single year, a study has found.\nUsing publicly available data from 2006-2023, the study, which was commissioned by Pesticide Action Network, found there to be an estimated 402-433m cases of unintentional acute pesticide poisoning of farmers and farm workers every year.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts"
-  },
-  {
-    "id": 97,
-    "title": "Content for Clicks: AI Is Tearing Up the Web’s Social Contract",
-    "category": "MYSTERY",
-    "date": "2026-09-01T23:37:23.000Z",
-    "image": "https://counter.theconversation.com/content/289817/count.gif?distributor=republish-lightbox-advanced",
-    "summary": "As AI eats traffic, the best sites are locking it out, making reliable information harder to find.\nThe post Content for Clicks: AI Is Tearing Up the Web’s Social Contract appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>As AI eats traffic, the best sites are locking it out, making reliable information harder to find.\nThe post Content for Clicks: AI Is Tearing Up the Web’s Social Contract appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/09/01/content-for-clicks-ai-is-tearing-up-the-webs-social-contract/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/09/01/content-for-clicks-ai-is-tearing-up-the-webs-social-contract/"
-  },
-  {
-    "id": 98,
     "title": "Cognition and consciousness arise from analog computations, says new theory",
     "category": "SCIENCE",
     "date": "2026-09-01T20:35:00.000Z",
@@ -1078,7 +1056,7 @@
     "sourceUrl": "https://news.mit.edu/2026/cognition-consciousness-arise-from-analog-computations-says-new-theory-0901"
   },
   {
-    "id": 99,
+    "id": 97,
     "title": "Atlas of the brain’s striatum could guide researchers to new drug treatments",
     "category": "SCIENCE",
     "date": "2026-09-01T15:00:00.000Z",
@@ -1089,18 +1067,7 @@
     "sourceUrl": "https://news.mit.edu/2026/brains-striatum-atlas-could-guide-researchers-new-drug-treatments-0901"
   },
   {
-    "id": 100,
-    "title": "This Drug Makes New Neurons in the Brain. Scientists Say It Reversed Alzheimer’s Symptoms in Mice.",
-    "category": "MYSTERY",
-    "date": "2026-08-31T21:33:36.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Delivered by injection, the drug transforms astrocytes into neurons. In an early study, mice modeling Alzheimer's showed marked improvement compared to untreated peers.\nThe post This Drug Makes New Neurons in the Brain. Scientists Say It Reversed Alzheimer’s Symptoms in Mice. appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>Delivered by injection, the drug transforms astrocytes into neurons. In an early study, mice modeling Alzheimer's showed marked improvement compared to untreated peers.\nThe post This Drug Makes New Neurons in the Brain. Scientists Say It Reversed Alzheimer’s Symptoms in Mice. appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/08/31/this-drug-makes-new-neurons-in-the-brain-scientists-say-it-reversed-alzheimers-symptoms-in-mice/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/08/31/this-drug-makes-new-neurons-in-the-brain-scientists-say-it-reversed-alzheimers-symptoms-in-mice/"
-  },
-  {
-    "id": 101,
+    "id": 98,
     "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
     "category": "SCIENCE",
     "date": "2026-08-31T19:30:00.000Z",
@@ -1111,7 +1078,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831"
   },
   {
-    "id": 102,
+    "id": 99,
     "title": "Study: Peptides can form well-defined structures in harsh, Venus-like conditions",
     "category": "SCIENCE",
     "date": "2026-08-31T19:00:00.000Z",
@@ -1122,29 +1089,7 @@
     "sourceUrl": "https://news.mit.edu/2026/study-peptides-can-form-well-defined-structures-harsh-venus-conditions-0831"
   },
   {
-    "id": 103,
-    "title": "This Week’s Awesome Tech Stories From Around the Web (Through August 29)",
-    "category": "MYSTERY",
-    "date": "2026-08-29T14:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Every week, we scour the web for important, insightful, and fascinating stories in science and technology.\nThe post This Week’s Awesome Tech Stories From Around the Web (Through August 29) appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>Every week, we scour the web for important, insightful, and fascinating stories in science and technology.\nThe post This Week’s Awesome Tech Stories From Around the Web (Through August 29) appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/08/29/this-weeks-awesome-tech-stories-from-around-the-web-through-august-29-2/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/08/29/this-weeks-awesome-tech-stories-from-around-the-web-through-august-29-2/"
-  },
-  {
-    "id": 104,
-    "title": "Are We on the Verge of an Intelligence Explosion? Maybe Not.",
-    "category": "MYSTERY",
-    "date": "2026-08-28T16:45:11.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Recursive self-improvement, where AI continuously builds better versions of itself, might be harder than some hope.\nThe post Are We on the Verge of an Intelligence Explosion? Maybe Not. appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>Recursive self-improvement, where AI continuously builds better versions of itself, might be harder than some hope.\nThe post Are We on the Verge of an Intelligence Explosion? Maybe Not. appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/08/28/are-we-on-the-verge-of-an-intelligence-explosion-maybe-not/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/08/28/are-we-on-the-verge-of-an-intelligence-explosion-maybe-not/"
-  },
-  {
-    "id": 105,
+    "id": 100,
     "title": "εpsilon",
     "category": "SPACE",
     "date": "2026-01-21T12:54:00.000Z",
