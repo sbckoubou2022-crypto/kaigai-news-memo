@@ -1,28 +1,204 @@
 [
   {
     "id": 1,
-    "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-    "category": "WORLD",
-    "date": "2026-09-06T20:10:02.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-    "content": "<h2>概要</h2><p>Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
+    "title": "China to pump $54bn into state banks and insurers to boost economy",
+    "category": "BUSINESS",
+    "date": "2026-09-07T02:26:12.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+    "content": "<h2>概要</h2><p>It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": 2,
-    "title": "German far-right set for big win in eastern state, projections show",
+    "title": "Five dead after Amazon cargo plane crashes at Miami airport",
     "category": "WORLD",
-    "date": "2026-09-06T19:30:14.000Z",
+    "date": "2026-09-07T00:57:38.000Z",
     "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-    "content": "<h2>概要</h2><p>Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+    "content": "<h2>概要</h2><p>Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 3,
+    "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+    "category": "BUSINESS",
+    "date": "2026-09-07T00:57:38.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+    "content": "<h2>概要</h2><p>Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 4,
+    "title": "Growing up socially isolated linked to young people becoming NEET",
+    "category": "SCIENCE",
+    "date": "2026-09-07T00:30:02.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "About 1 million young people in the UK are not in education, employment or training (NEET). The consequences for their health and income can be significant and long-lasting, with costs to the economy as well.",
+    "content": "<h2>概要</h2><p>About 1 million young people in the UK are not in education, employment or training (NEET). The consequences for their health and income can be significant and long-lasting, with costs to the economy as well.</p><p><a href=\"https://phys.org/news/2026-09-socially-isolated-linked-young-people.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-socially-isolated-linked-young-people.html"
+  },
+  {
+    "id": 5,
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "category": "TECH",
+    "date": "2026-09-06T23:36:04.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images\t\n\nThe Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by The New York Times, Ziff Davis, Merriam-Webster, and Encyclopedia Britannica against OpenAI.\nThe Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI's technology. The publishers join a list of nearly 400 local newspapers that recently sued the two  …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images\t\n\nThe Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by The New York Times, Ziff Davis, Merriam-Webster, and Encyclopedia Britannica against OpenAI.\nThe Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI's technology. The publishers join a list of nearly 400 local newspapers that recently sued the two  …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
+  },
+  {
+    "id": 6,
+    "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns ",
+    "category": "BUSINESS",
+    "date": "2026-09-06T23:34:18.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+    "content": "<h2>概要</h2><p>John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 7,
+    "title": "The £70 refund letter that isn't a scam",
+    "category": "BUSINESS",
+    "date": "2026-09-06T23:16:05.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+    "content": "<h2>概要</h2><p>About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 8,
+    "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+    "category": "WORLD",
+    "date": "2026-09-06T23:02:45.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
+    "content": "<h2>概要</h2><p>Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC World",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 3,
+    "id": 9,
+    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+    "category": "TECH",
+    "date": "2026-09-06T21:41:06.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+    "content": "<h2>概要</h2><p>Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.</p><p><a href=\"https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/"
+  },
+  {
+    "id": 10,
+    "title": "Advanced optical imaging reveals hidden activity in blood immune cells",
+    "category": "SCIENCE",
+    "date": "2026-09-06T21:30:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A routine blood sample contains a diverse collection of immune cells that can reveal important clues about health and disease. These cells, known as peripheral blood mononuclear cells (PBMCs), are widely used to study infections, autoimmune disorders, cancer and the immune system's response to treatment. Scientists typically identify these cells using fluorescent labels that attach to specific surface markers. While effective, those methods provide limited information about how the cells are functioning and can alter the cells during preparation. As reported in Biophotonics Discovery, a recent study shows how advanced optical imaging can reveal a previously inaccessible layer of information: the metabolic activity of individual immune cells within a complex blood sample.",
+    "content": "<h2>概要</h2><p>A routine blood sample contains a diverse collection of immune cells that can reveal important clues about health and disease. These cells, known as peripheral blood mononuclear cells (PBMCs), are widely used to study infections, autoimmune disorders, cancer and the immune system's response to treatment. Scientists typically identify these cells using fluorescent labels that attach to specific surface markers. While effective, those methods provide limited information about how the cells are functioning and can alter the cells during preparation. As reported in Biophotonics Discovery, a recent study shows how advanced optical imaging can reveal a previously inaccessible layer of information: the metabolic activity of individual immune cells within a complex blood sample.</p><p><a href=\"https://phys.org/news/2026-09-advanced-optical-imaging-reveals-hidden.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-advanced-optical-imaging-reveals-hidden.html"
+  },
+  {
+    "id": 11,
+    "title": "U.S. envoys visit Kyiv for first time after meeting Putin in Moscow",
+    "category": "WORLD",
+    "date": "2026-09-06T21:06:49.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5959728",
+    "summary": "US envoys Jared Kushner and Steve Witkoff made their first trip to Kyiv, one day after meeting Vladimir Putin in Moscow.",
+    "content": "<h2>概要</h2><p>US envoys Jared Kushner and Steve Witkoff made their first trip to Kyiv, one day after meeting Vladimir Putin in Moscow.</p><p><a href=\"https://www.npr.org/2026/09/06/nx-s1-5959728/u-s-envoys-visit-kyiv-for-first-time-after-meeting-putin-in-moscow\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/06/nx-s1-5959728/u-s-envoys-visit-kyiv-for-first-time-after-meeting-putin-in-moscow"
+  },
+  {
+    "id": 12,
+    "title": "Shipping companies are putting sails back on cargo ships",
+    "category": "WORLD",
+    "date": "2026-09-06T21:06:46.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5955419",
+    "summary": "One of the world's largest logistics companies plans to fit one of its ships with a strange type of sail, the latest in a small but growing number of cleaner sailing shipping vessels.",
+    "content": "<h2>概要</h2><p>One of the world's largest logistics companies plans to fit one of its ships with a strange type of sail, the latest in a small but growing number of cleaner sailing shipping vessels.</p><p><a href=\"https://www.npr.org/2026/09/06/nx-s1-5955419/shipping-companies-are-putting-sails-back-on-cargo-ships\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/06/nx-s1-5955419/shipping-companies-are-putting-sails-back-on-cargo-ships"
+  },
+  {
+    "id": 13,
+    "title": "What Russia and China learned from America after 9/11",
+    "category": "WORLD",
+    "date": "2026-09-06T21:06:41.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5938065",
+    "summary": "Journalists Mikhail Zygar and Cindy Yu explain how the wars in Iraq and Afghanistan helped reshape Russia and China's ambitions.",
+    "content": "<h2>概要</h2><p>Journalists Mikhail Zygar and Cindy Yu explain how the wars in Iraq and Afghanistan helped reshape Russia and China's ambitions.</p><p><a href=\"https://www.npr.org/2026/09/06/nx-s1-5938065/what-russia-and-china-learned-from-america-after-9-11\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/06/nx-s1-5938065/what-russia-and-china-learned-from-america-after-9-11"
+  },
+  {
+    "id": 14,
+    "title": "How bird movements are helping researchers track a global virus",
+    "category": "SCIENCE",
+    "date": "2026-09-06T21:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "While the highly virulent avian influenza strain has only recently been discovered on Australian shores, researchers at Deakin University have been working behind the scenes for years, anticipating what an outbreak might look like.",
+    "content": "<h2>概要</h2><p>While the highly virulent avian influenza strain has only recently been discovered on Australian shores, researchers at Deakin University have been working behind the scenes for years, anticipating what an outbreak might look like.</p><p><a href=\"https://phys.org/news/2026-08-bird-movements-track-global-virus.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-08-bird-movements-track-global-virus.html"
+  },
+  {
+    "id": 15,
+    "title": "An Amazon cargo plane crashed at Miami International Airport",
+    "category": "TECH",
+    "date": "2026-09-06T20:56:38.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "An Amazon cargo plane crashed at Miami International Airport on September 06, 2026. | Photo: Joe Raedle / Getty Images\t\n\nA plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. \nIn the aftermath of the incident, the FAA released a statement saying:\n21 Air Flight 7598 overran the runway after landing at Miami International Airport around 2 p.m. local time on Sunday, Sept. 6. The Boeing 767-300 cargo aircraft departed from Luis Muñoz Marín International Airport in San Juan, Puerto Rico.\nAs a result, flights at the airport were grounded and over 60 M …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>An Amazon cargo plane crashed at Miami International Airport on September 06, 2026. | Photo: Joe Raedle / Getty Images\t\n\nA plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. \nIn the aftermath of the incident, the FAA released a statement saying:\n21 Air Flight 7598 overran the runway after landing at Miami International Airport around 2 p.m. local time on Sunday, Sept. 6. The Boeing 767-300 cargo aircraft departed from Luis Muñoz Marín International Airport in San Juan, Puerto Rico.\nAs a result, flights at the airport were grounded and over 60 M …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami"
+  },
+  {
+    "id": 16,
+    "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+    "category": "WORLD",
+    "date": "2026-09-06T20:52:12.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+    "content": "<h2>概要</h2><p>Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 17,
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "category": "TECH",
+    "date": "2026-09-06T20:47:37.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "content": "<h2>概要</h2><p>Authors say publishers seem to be claiming more than their fair share of settlement payments.</p><p><a href=\"https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+  },
+  {
+    "id": 18,
+    "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+    "category": "WORLD",
+    "date": "2026-09-06T20:41:58.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+    "content": "<h2>概要</h2><p>There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 19,
     "title": "Europe has its first commercial orbital rocket",
     "category": "TECH",
     "date": "2026-09-06T19:04:22.000Z",
@@ -33,7 +209,7 @@
     "sourceUrl": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch"
   },
   {
-    "id": 4,
+    "id": 20,
     "title": "Small molecular substitutions reshape energy pathways behind aggregation-induced emission",
     "category": "SCIENCE",
     "date": "2026-09-06T18:30:01.000Z",
@@ -44,7 +220,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-small-molecular-substitutions-reshape-energy.html"
   },
   {
-    "id": 5,
+    "id": 21,
     "title": "Six unusual structures identified at Earth's core-mantle boundary with the help of deep learning",
     "category": "SCIENCE",
     "date": "2026-09-06T17:00:01.000Z",
@@ -55,18 +231,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-unusual-earth-core-mantle-boundary.html"
   },
   {
-    "id": 6,
-    "title": "Dozens feared trapped in collapsed building in Delhi",
-    "category": "WORLD",
-    "date": "2026-09-06T16:54:34.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
-    "content": "<h2>概要</h2><p>As many as 50 people are thought to have been inside the five-storey hostel when it came down.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 7,
+    "id": 22,
     "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
     "category": "TECH",
     "date": "2026-09-06T16:45:00.000Z",
@@ -77,7 +242,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
   },
   {
-    "id": 8,
+    "id": 23,
     "title": "German exit polls suggest far-right party has big lead in regional election",
     "category": "WORLD",
     "date": "2026-09-06T16:36:48.000Z",
@@ -88,18 +253,18 @@
     "sourceUrl": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit"
   },
   {
-    "id": 9,
+    "id": 24,
     "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
     "category": "BUSINESS",
     "date": "2026-09-06T16:32:59.000Z",
     "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
-    "content": "<h2>概要</h2><p>The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.</p><p><a href=\"https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out a bailout for the company.",
+    "content": "<h2>概要</h2><p>Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out a bailout for the company.</p><p><a href=\"https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC Business",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 10,
+    "id": 25,
     "title": "Boox’s tiny Picco e-reader should land in November",
     "category": "TECH",
     "date": "2026-09-06T16:28:58.000Z",
@@ -110,7 +275,7 @@
     "sourceUrl": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa"
   },
   {
-    "id": 11,
+    "id": 26,
     "title": " On this day in space! Sept. 6, 1947: The US Navy launches 1st V-2 rocket at sea in ballistic missile test ",
     "category": "SPACE",
     "date": "2026-09-06T16:23:04.000Z",
@@ -121,7 +286,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026"
   },
   {
-    "id": 12,
+    "id": 27,
     "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
     "category": "TECH",
     "date": "2026-09-06T16:08:00.000Z",
@@ -132,7 +297,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/"
   },
   {
-    "id": 13,
+    "id": 28,
     "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
     "category": "WORLD",
     "date": "2026-09-06T16:00:21.000Z",
@@ -143,7 +308,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 14,
+    "id": 29,
     "title": " SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video) ",
     "category": "SPACE",
     "date": "2026-09-06T15:54:11.000Z",
@@ -154,18 +319,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly"
   },
   {
-    "id": 15,
-    "title": "The extinct American 'cheetah' was not a cheetah after all",
-    "category": "SCIENCE",
-    "date": "2026-09-06T15:00:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "With their slender bodies and long front legs, Miracinonyx trumani—often nicknamed the \"American cheetah\"—was long thought to be a North American analog of the African big cat. But in a new study published in the journal Current Biology, researchers reveal that the extinct cat was more closely related to pumas. Some populations living near the Arctic preyed almost exclusively on fish, challenging the long-held assumption that these \"cheetahs\" chased fast-running prey, such as pronghorns.",
-    "content": "<h2>概要</h2><p>With their slender bodies and long front legs, Miracinonyx trumani—often nicknamed the \"American cheetah\"—was long thought to be a North American analog of the African big cat. But in a new study published in the journal Current Biology, researchers reveal that the extinct cat was more closely related to pumas. Some populations living near the Arctic preyed almost exclusively on fish, challenging the long-held assumption that these \"cheetahs\" chased fast-running prey, such as pronghorns.</p><p><a href=\"https://phys.org/news/2026-09-extinct-american-cheetah.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-extinct-american-cheetah.html"
-  },
-  {
-    "id": 16,
+    "id": 30,
     "title": " Feel the Force with these 10 out-of-this-world Lego Star Wars starships ",
     "category": "SPACE",
     "date": "2026-09-06T15:00:00.000Z",
@@ -176,7 +330,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-these-ten-out-of-this-world-lego-star-wars-starships"
   },
   {
-    "id": 17,
+    "id": 31,
     "title": "15,000-Year-Old Cave Discovery in Ireland Could Push Back Earliest Evidence of Humans on the Island by 5,000 Years",
     "category": "MYSTERY",
     "date": "2026-09-06T14:28:54.000Z",
@@ -187,29 +341,7 @@
     "sourceUrl": "https://thedebrief.org/15000-year-old-cave-discovery-in-ireland-could-push-back-earliest-evidence-of-humans-on-the-island-by-5000-years/"
   },
   {
-    "id": 18,
-    "title": "Extreme pressure turns blue pigment into record-long single-atom copper chains",
-    "category": "SCIENCE",
-    "date": "2026-09-06T14:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "As the electronics in our technology keep shrinking, traditional silicon-based chips are approaching their fundamental physical limits. Yet the wires connecting them might be able to shrink beyond conventional dimensions, as scientists have created one of the longest single-atom copper chains to date that could serve as molecular wires.",
-    "content": "<h2>概要</h2><p>As the electronics in our technology keep shrinking, traditional silicon-based chips are approaching their fundamental physical limits. Yet the wires connecting them might be able to shrink beyond conventional dimensions, as scientists have created one of the longest single-atom copper chains to date that could serve as molecular wires.</p><p><a href=\"https://phys.org/news/2026-09-extreme-pressure-blue-pigment-atom.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-extreme-pressure-blue-pigment-atom.html"
-  },
-  {
-    "id": 19,
-    "title": "How algorithms are making our environments bland",
-    "category": "SCIENCE",
-    "date": "2026-09-06T13:00:02.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Pantone color of the year for 2026 is white. It's called Cloud Dancer, which is described as a \"lofty white.\" This choice reflects a growing trend away from color in our visual world.",
-    "content": "<h2>概要</h2><p>The Pantone color of the year for 2026 is white. It's called Cloud Dancer, which is described as a \"lofty white.\" This choice reflects a growing trend away from color in our visual world.</p><p><a href=\"https://phys.org/news/2026-09-algorithms-environments-bland.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-algorithms-environments-bland.html"
-  },
-  {
-    "id": 20,
+    "id": 32,
     "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
     "category": "TECH",
     "date": "2026-09-06T13:00:00.000Z",
@@ -220,18 +352,7 @@
     "sourceUrl": "https://www.theverge.com/tech/990436/fairphone-6-plus-review"
   },
   {
-    "id": 21,
-    "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
-    "category": "TECH",
-    "date": "2026-09-06T13:00:00.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4405_91ad42.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why.\nBattle simulator Pokémon Champions originally launched on the Switch and Switch 2 in April, with the mobile version following in June. The experience is nearly identical across the game's versions; since it's cross-platform, the choice really comes down to what devices you own and whether you prefer tapping or using a controller. I find myself playing Champions on my phone more often just because it's always in …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why.\nBattle simulator Pokémon Champions originally launched on the Switch and Switch 2 in April, with the mobile version following in June. The experience is nearly identical across the game's versions; since it's cross-platform, the choice really comes down to what devices you own and whether you prefer tapping or using a controller. I find myself playing Champions on my phone more often just because it's always in …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility"
-  },
-  {
-    "id": 22,
+    "id": 33,
     "title": "'Quiet' pulsar suddenly reveals three glitches in 15 years of observations",
     "category": "SPACE",
     "date": "2026-09-06T12:40:03.000Z",
@@ -242,18 +363,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-quiet-pulsar-suddenly-reveals-glitches.html"
   },
   {
-    "id": 23,
-    "title": "DIY plug-in solar gains momentum in the US",
-    "category": "TECH",
-    "date": "2026-09-06T12:00:00.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/banner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "EcoFlow’s high-end, weatherproof, plug-in solar kit with integrated battery. | Image: EcoFlow\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nWith a deep breath, I took the cable seething with 800W of solar power and plugged it directly into a standard wall jack in my home. Nothing sparked, nothing smoked, and by the end of that sunny summer day, my electricity bill had dropped to nearly $0.\nAs unnerving as it sounds to treat a common household power outlet as a power input, these DIY plug-in sol …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>EcoFlow’s high-end, weatherproof, plug-in solar kit with integrated battery. | Image: EcoFlow\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nWith a deep breath, I took the cable seething with 800W of solar power and plugged it directly into a standard wall jack in my home. Nothing sparked, nothing smoked, and by the end of that sunny summer day, my electricity bill had dropped to nearly $0.\nAs unnerving as it sounds to treat a common household power outlet as a power input, these DIY plug-in sol …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/column/990183/diy-plug-in-solar-us\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/column/990183/diy-plug-in-solar-us"
-  },
-  {
-    "id": 24,
+    "id": 34,
     "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
     "category": "TECH",
     "date": "2026-09-06T11:55:26.000Z",
@@ -264,7 +374,7 @@
     "sourceUrl": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/"
   },
   {
-    "id": 25,
+    "id": 35,
     "title": "The Best Laptop Backpacks for Work, Travel, and Everything Between (2026)",
     "category": "TECH",
     "date": "2026-09-06T11:30:00.000Z",
@@ -275,7 +385,7 @@
     "sourceUrl": "https://www.wired.com/story/best-laptop-backpacks/"
   },
   {
-    "id": 26,
+    "id": 36,
     "title": "Create Custom Windows 11 Notifications to Remind Yourself of Anything",
     "category": "TECH",
     "date": "2026-09-06T11:00:00.000Z",
@@ -286,7 +396,7 @@
     "sourceUrl": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything/"
   },
   {
-    "id": 27,
+    "id": 37,
     "title": "These Cyborg Cockroaches Could Save Your Life",
     "category": "TECH",
     "date": "2026-09-06T10:30:00.000Z",
@@ -297,7 +407,7 @@
     "sourceUrl": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/"
   },
   {
-    "id": 28,
+    "id": 38,
     "title": "My Brief Summer Fling With Siri AI",
     "category": "TECH",
     "date": "2026-09-06T10:30:00.000Z",
@@ -308,7 +418,7 @@
     "sourceUrl": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/"
   },
   {
-    "id": 29,
+    "id": 39,
     "title": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link",
     "category": "TECH",
     "date": "2026-09-06T10:09:00.000Z",
@@ -319,7 +429,7 @@
     "sourceUrl": "https://www.wired.com/gallery/best-water-leak-detector/"
   },
   {
-    "id": 30,
+    "id": 40,
     "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
     "category": "TECH",
     "date": "2026-09-06T10:00:35.000Z",
@@ -330,7 +440,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/"
   },
   {
-    "id": 31,
+    "id": 41,
     "title": " NASA expands Deep Space Network with giant new dish in California desert ",
     "category": "SPACE",
     "date": "2026-09-06T10:00:00.000Z",
@@ -341,7 +451,7 @@
     "sourceUrl": "https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert"
   },
   {
-    "id": 32,
+    "id": 42,
     "title": "Witkoff and Kushner call Kyiv talks 'substantive' after Moscow Putin meeting",
     "category": "WORLD",
     "date": "2026-09-06T09:51:04.000Z",
@@ -352,18 +462,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow"
   },
   {
-    "id": 33,
-    "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-    "category": "WORLD",
-    "date": "2026-09-06T08:05:22.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-    "content": "<h2>概要</h2><p>Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 34,
+    "id": 43,
     "title": "Germany's Isar Aerospace launches rocket into orbit from Norway",
     "category": "SPACE",
     "date": "2026-09-06T08:00:01.000Z",
@@ -374,18 +473,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-germany-isar-aerospace-rocket-orbit.html"
   },
   {
-    "id": 35,
-    "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-    "category": "BUSINESS",
-    "date": "2026-09-05T23:20:00.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-    "content": "<h2>概要</h2><p>Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?</p><p><a href=\"https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 36,
+    "id": 44,
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "category": "TECH",
     "date": "2026-09-05T22:49:55.000Z",
@@ -396,29 +484,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
   },
   {
-    "id": 37,
-    "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
-    "category": "WORLD",
-    "date": "2026-09-05T21:01:12.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5959181",
-    "summary": "The U.S. strikes three Iranian oil tankers after Iran targets two American warships, in the latest exchange over shipping and the Strait of Hormuz.",
-    "content": "<h2>概要</h2><p>The U.S. strikes three Iranian oil tankers after Iran targets two American warships, in the latest exchange over shipping and the Strait of Hormuz.</p><p><a href=\"https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities"
-  },
-  {
-    "id": 38,
-    "title": "This is the work of our lifetime: Ayana Elizabeth Johnson urges action after new UN climate report",
-    "category": "WORLD",
-    "date": "2026-09-05T21:01:08.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5954264",
-    "summary": "A United Nations report has found that the world will warm to 1.5 degrees Celsius above pre-industrial levels. Climate solutions advocate Ayana Elizabeth Johnson urges a quicker implementation of known strategies - and determination rather than despair.",
-    "content": "<h2>概要</h2><p>A United Nations report has found that the world will warm to 1.5 degrees Celsius above pre-industrial levels. Climate solutions advocate Ayana Elizabeth Johnson urges a quicker implementation of known strategies - and determination rather than despair.</p><p><a href=\"https://www.npr.org/2026/09/05/nx-s1-5954264/this-is-the-work-of-our-lifetime-ayana-elizabeth-johnson-urges-action-after-new-un-climate-report\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/05/nx-s1-5954264/this-is-the-work-of-our-lifetime-ayana-elizabeth-johnson-urges-action-after-new-un-climate-report"
-  },
-  {
-    "id": 39,
+    "id": 45,
     "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
     "category": "SPACE",
     "date": "2026-09-05T20:24:00.000Z",
@@ -429,18 +495,7 @@
     "sourceUrl": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe"
   },
   {
-    "id": 40,
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "category": "TECH",
-    "date": "2026-09-05T19:35:24.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-    "content": "<h2>概要</h2><p>The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"</p><p><a href=\"https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
-  },
-  {
-    "id": 41,
+    "id": 46,
     "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
     "category": "SPACE",
     "date": "2026-09-05T18:40:02.000Z",
@@ -451,7 +506,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html"
   },
   {
-    "id": 42,
+    "id": 47,
     "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 5)",
     "category": "MYSTERY",
     "date": "2026-09-05T18:27:05.000Z",
@@ -462,18 +517,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/05/this-weeks-awesome-tech-stories-from-around-the-web-through-september-5-2/"
   },
   {
-    "id": 43,
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "category": "TECH",
-    "date": "2026-09-05T18:05:27.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-    "content": "<h2>概要</h2><p>OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.</p><p><a href=\"https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
-  },
-  {
-    "id": 44,
+    "id": 48,
     "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
     "category": "WORLD",
     "date": "2026-09-05T18:00:15.000Z",
@@ -484,7 +528,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug"
   },
   {
-    "id": 45,
+    "id": 49,
     "title": "A black hole as light as 40 tons can exist inside a star if dark matter helps",
     "category": "SPACE",
     "date": "2026-09-05T17:00:01.000Z",
@@ -495,7 +539,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-black-hole-tons-star-dark.html"
   },
   {
-    "id": 46,
+    "id": 50,
     "title": "Hidden in a Museum Collection for More Than a Century, Researchers Have Just Made a Bizarre New Discovery",
     "category": "MYSTERY",
     "date": "2026-09-05T16:25:35.000Z",
@@ -506,7 +550,7 @@
     "sourceUrl": "https://thedebrief.org/hidden-in-a-museum-collection-for-more-than-a-century-researchers-have-just-made-a-bizarre-new-discovery/"
   },
   {
-    "id": 47,
+    "id": 51,
     "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
     "category": "TECH",
     "date": "2026-09-05T15:17:36.000Z",
@@ -517,18 +561,7 @@
     "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/"
   },
   {
-    "id": 48,
-    "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
-    "category": "WORLD",
-    "date": "2026-09-05T15:05:08.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2Fec%2F64938f1741d199aebbc31393fde3%2Fap26247569143031.jpg",
-    "summary": "",
-    "content": "<h2>概要</h2><p></p><p><a href=\"https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted"
-  },
-  {
-    "id": 49,
+    "id": 52,
     "title": " Venus is disappearing from the evening sky — here's how to see it while you can ",
     "category": "SPACE",
     "date": "2026-09-05T15:00:00.000Z",
@@ -539,7 +572,7 @@
     "sourceUrl": "https://www.space.com/stargazing/venus-is-disappearing-from-the-evening-sky-heres-how-to-see-it-while-you-can"
   },
   {
-    "id": 50,
+    "id": 53,
     "title": "No Longer Science Fiction, the U.S. Army is Moving a High-Energy Laser Weapon Into Production for the First Time",
     "category": "MYSTERY",
     "date": "2026-09-05T14:04:07.000Z",
@@ -550,7 +583,7 @@
     "sourceUrl": "https://thedebrief.org/no-longer-science-fiction-the-u-s-army-is-moving-a-high-energy-laser-weapon-into-production-for-the-first-time/"
   },
   {
-    "id": 51,
+    "id": 54,
     "title": "What If Consciousness Exists Beyond the Brain? Some Researchers Say This “Hard Problem” Requires a Radical New Approach",
     "category": "MYSTERY",
     "date": "2026-09-05T13:53:16.000Z",
@@ -561,7 +594,7 @@
     "sourceUrl": "https://thedebrief.org/what-if-consciousness-exists-beyond-the-brain-some-researchers-say-this-hard-problem-requires-a-radical-new-approach/"
   },
   {
-    "id": 52,
+    "id": 55,
     "title": "Inside the Mind of a Billionaire Cheater: “At His Level of Wealth, Societal Ethics No Longer Register”",
     "category": "MYSTERY",
     "date": "2026-09-05T13:26:03.000Z",
@@ -572,7 +605,7 @@
     "sourceUrl": "https://thedebrief.org/inside-the-mind-of-a-billionaire-cheater-at-his-level-of-wealth-societal-ethics-no-longer-register/"
   },
   {
-    "id": 53,
+    "id": 56,
     "title": "Spacecraft bound for Mercury begins 'tricky' arrival",
     "category": "SPACE",
     "date": "2026-09-05T10:20:01.000Z",
@@ -583,7 +616,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-spacecraft-bound-mercury-tricky.html"
   },
   {
-    "id": 54,
+    "id": 57,
     "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
     "category": "SPACE",
     "date": "2026-09-05T04:05:00.000Z",
@@ -594,18 +627,7 @@
     "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/"
   },
   {
-    "id": 55,
-    "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
-    "category": "SPACE",
-    "date": "2026-09-05T04:05:00.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg?w=3840&#038;h=2160&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
-    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]</p><p><a href=\"https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/"
-  },
-  {
-    "id": 56,
+    "id": 58,
     "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
     "category": "TECH",
     "date": "2026-09-04T22:49:17.000Z",
@@ -616,7 +638,7 @@
     "sourceUrl": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/"
   },
   {
-    "id": 57,
+    "id": 59,
     "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
     "category": "TECH",
     "date": "2026-09-04T22:17:36.000Z",
@@ -627,7 +649,7 @@
     "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
   },
   {
-    "id": 58,
+    "id": 60,
     "title": "NASA Ames Fire Department Aircraft Firefighting Training",
     "category": "SPACE",
     "date": "2026-09-04T19:51:56.000Z",
@@ -638,18 +660,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/"
   },
   {
-    "id": 59,
-    "title": "NASA Ames Fire Department Aircraft Firefighting Training",
-    "category": "SPACE",
-    "date": "2026-09-04T19:51:56.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […]",
-    "content": "<h2>概要</h2><p>The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […]</p><p><a href=\"https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/"
-  },
-  {
-    "id": 60,
+    "id": 61,
     "title": "Anthropic’s Claude Can Now Autonomously Run Science Experiments With Lab Equipment",
     "category": "MYSTERY",
     "date": "2026-09-04T19:08:33.000Z",
@@ -658,17 +669,6 @@
     "content": "<h2>概要</h2><p>A new system allows agents to orchestrate complex experimental processes and extends Anthropic's reach into the physical world.\nThe post Anthropic’s Claude Can Now Autonomously Run Science Experiments With Lab Equipment appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/09/04/anthropics-claude-can-now-autonomously-run-science-experiments-with-lab-equipment/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "Singularity Hub",
     "sourceUrl": "https://singularityhub.com/2026/09/04/anthropics-claude-can-now-autonomously-run-science-experiments-with-lab-equipment/"
-  },
-  {
-    "id": 61,
-    "title": "Architecting memory and storage in the AI era",
-    "category": "TECH",
-    "date": "2026-09-04T18:39:19.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?w=840",
-    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
-    "content": "<h2>概要</h2><p>The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…</p><p><a href=\"https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   },
   {
     "id": 62,
@@ -683,14 +683,14 @@
   },
   {
     "id": 63,
-    "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-    "category": "BUSINESS",
-    "date": "2026-09-04T17:23:13.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
-    "content": "<h2>概要</h2><p>The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss"
+    "title": "Architecting memory and storage in the AI era",
+    "category": "TECH",
+    "date": "2026-09-04T18:39:19.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?w=840",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+    "content": "<h2>概要</h2><p>The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…</p><p><a href=\"https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   },
   {
     "id": 64,
@@ -716,17 +716,6 @@
   },
   {
     "id": 66,
-    "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
-    "category": "SPACE",
-    "date": "2026-09-04T16:48:59.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/blindlowvision.jpg?w=2048",
-    "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and […]",
-    "content": "<h2>概要</h2><p>NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and […]</p><p><a href=\"https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/"
-  },
-  {
-    "id": 67,
     "title": "Researchers tune into Arctic under-ice sounds and test through-ice communication",
     "category": "TECH",
     "date": "2026-09-04T16:25:00.000Z",
@@ -737,7 +726,7 @@
     "sourceUrl": "https://news.mit.edu/2026/researchers-tune-into-arctic-under-ice-sounds-test-through-ice-communication-0904"
   },
   {
-    "id": 68,
+    "id": 67,
     "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
     "category": "TECH",
     "date": "2026-09-04T14:59:13.000Z",
@@ -748,7 +737,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 69,
+    "id": 68,
     "title": "Lunar Occultation of Venus",
     "category": "SPACE",
     "date": "2026-09-04T14:14:57.000Z",
@@ -759,18 +748,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/"
   },
   {
-    "id": 70,
-    "title": "Lunar Occultation of Venus",
-    "category": "SPACE",
-    "date": "2026-09-04T14:14:57.000Z",
-    "image": "https://images-assets.nasa.gov/image/NHQ202606170001/NHQ202606170001~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-    "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]",
-    "content": "<h2>概要</h2><p>On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]</p><p><a href=\"https://www.nasa.gov/image-article/lunar-occultation-of-venus/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/"
-  },
-  {
-    "id": 71,
+    "id": 69,
     "title": "Week in images: 31 Aug - 04 Sep 2026",
     "category": "SPACE",
     "date": "2026-09-04T13:10:00.000Z",
@@ -781,29 +759,29 @@
     "sourceUrl": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_Aug_-_04_Sep_2026"
   },
   {
+    "id": 70,
+    "title": "The Download: selling battlefield drone data and AI reshaping language",
+    "category": "TECH",
+    "date": "2026-09-04T12:10:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?fit=2128,1196",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…</p><p><a href=\"https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
+  },
+  {
+    "id": 71,
+    "title": "The Download: selling battlefield drone data and AI reshaping language",
+    "category": "TECH",
+    "date": "2026-09-04T12:10:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?fit=2128,1196",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…</p><p><a href=\"https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
+  },
+  {
     "id": 72,
-    "title": "The Download: selling battlefield drone data and AI reshaping language",
-    "category": "TECH",
-    "date": "2026-09-04T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?fit=2128,1196",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…</p><p><a href=\"https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
-  },
-  {
-    "id": 73,
-    "title": "The Download: selling battlefield drone data and AI reshaping language",
-    "category": "TECH",
-    "date": "2026-09-04T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?fit=2128,1196",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…</p><p><a href=\"https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
-  },
-  {
-    "id": 74,
     "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
     "category": "TECH",
     "date": "2026-09-04T11:48:24.000Z",
@@ -814,40 +792,29 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": 73,
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "category": "TECH",
+    "date": "2026-09-04T09:25:19.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
+    "content": "<h2>概要</h2><p>Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…</p><p><a href=\"https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
+  },
+  {
+    "id": 74,
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "category": "TECH",
+    "date": "2026-09-04T09:25:19.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
+    "content": "<h2>概要</h2><p>Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…</p><p><a href=\"https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
+  },
+  {
     "id": 75,
-    "title": "Stock up on food to prepare for extreme weather, minister says",
-    "category": "BUSINESS",
-    "date": "2026-09-04T10:40:23.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
-    "content": "<h2>概要</h2><p>Dame Angela Eagle warns the weather event could lead to extreme storms this winter.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 76,
-    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "category": "TECH",
-    "date": "2026-09-04T09:25:19.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
-    "content": "<h2>概要</h2><p>Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…</p><p><a href=\"https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
-  },
-  {
-    "id": 77,
-    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "category": "TECH",
-    "date": "2026-09-04T09:25:19.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
-    "content": "<h2>概要</h2><p>Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…</p><p><a href=\"https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
-  },
-  {
-    "id": 78,
     "title": "How Sentinel-3 tracks climate change ",
     "category": "SPACE",
     "date": "2026-09-04T08:00:00.000Z",
@@ -858,18 +825,7 @@
     "sourceUrl": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change"
   },
   {
-    "id": 79,
-    "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-    "category": "BUSINESS",
-    "date": "2026-09-04T05:59:10.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-    "content": "<h2>概要</h2><p>The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 80,
+    "id": 76,
     "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
     "category": "SPACE",
     "date": "2026-09-04T04:05:00.000Z",
@@ -880,18 +836,7 @@
     "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/"
   },
   {
-    "id": 81,
-    "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
-    "category": "SPACE",
-    "date": "2026-09-04T04:05:00.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/noirlab2621a.jpg?w=1280&#038;h=1037&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane […]",
-    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane […]</p><p><a href=\"https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/"
-  },
-  {
-    "id": 82,
+    "id": 77,
     "title": "Governor Healey, MIT President Kornbluth to Kick Off Festivities at MIT Future Fest  ",
     "category": "TECH",
     "date": "2026-09-04T04:00:00.000Z",
@@ -902,7 +847,7 @@
     "sourceUrl": "https://news.mit.edu/2026/governor-healey-mit-president-kornbluth-kick-festivities-mit-future-fest"
   },
   {
-    "id": 83,
+    "id": 78,
     "title": "New method allows scientists to follow gene activity over time in the same cells ",
     "category": "TECH",
     "date": "2026-09-04T04:00:00.000Z",
@@ -913,7 +858,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-method-allows-following-gene-activity-over-time-same-cells-0904"
   },
   {
-    "id": 84,
+    "id": 79,
     "title": "Stories from the steel mills: A model for sharing workers’ histories",
     "category": "TECH",
     "date": "2026-09-04T04:00:00.000Z",
@@ -924,7 +869,7 @@
     "sourceUrl": "https://news.mit.edu/2026/steel-mill-stories-sharing-workers-histories-model-0904"
   },
   {
-    "id": 85,
+    "id": 80,
     "title": "How architects turned a hulking brick box into MIT’s newest academic hub",
     "category": "TECH",
     "date": "2026-09-04T04:00:00.000Z",
@@ -935,7 +880,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-architects-turned-hulking-brick-box-newest-academic-hub-0904"
   },
   {
-    "id": 86,
+    "id": 81,
     "title": "New method allows scientists to follow gene activity over time in the same cells ",
     "category": "TECH",
     "date": "2026-09-04T04:00:00.000Z",
@@ -946,7 +891,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-method-allows-following-gene-activity-over-time-same-cells-0904"
   },
   {
-    "id": 87,
+    "id": 82,
     "title": "Could robots be the future of theme parks?",
     "category": "TECH",
     "date": "2026-09-04T02:02:02.000Z",
@@ -957,7 +902,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 88,
+    "id": 83,
     "title": "'I lost my savings after a job interview scam'",
     "category": "TECH",
     "date": "2026-09-03T23:41:49.000Z",
@@ -968,7 +913,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 89,
+    "id": 84,
     "title": "Faculty receive promotions in the School of Architecture and Planning for 2026",
     "category": "TECH",
     "date": "2026-09-03T20:50:00.000Z",
@@ -979,7 +924,7 @@
     "sourceUrl": "https://news.mit.edu/2026/faculty-receive-promotions-school-architecture-and-planning-0903"
   },
   {
-    "id": 90,
+    "id": 85,
     "title": "AI data centres are booming in Australia - but at what cost?",
     "category": "TECH",
     "date": "2026-09-03T18:32:03.000Z",
@@ -990,7 +935,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 91,
+    "id": 86,
     "title": "Assistant Professor Thomas Rose, an expert in archaeometallurgy, dies at 37",
     "category": "TECH",
     "date": "2026-09-03T17:00:00.000Z",
@@ -1001,7 +946,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-assistant-professor-thomas-rose-archaeometallurgy-expert-dies-0903"
   },
   {
-    "id": 92,
+    "id": 87,
     "title": "Fabrication platform could enable flexible, transparent next-generation photonic chips",
     "category": "TECH",
     "date": "2026-09-03T15:45:00.000Z",
@@ -1012,7 +957,7 @@
     "sourceUrl": "https://news.mit.edu/2026/fabrication-platform-could-enable-flexible-transparent-next-generation-photonic-chips-0903"
   },
   {
-    "id": 93,
+    "id": 88,
     "title": "BepiColombo’s Mercury arrival begins - full replay",
     "category": "SPACE",
     "date": "2026-09-03T15:00:00.000Z",
@@ -1023,7 +968,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay"
   },
   {
-    "id": 94,
+    "id": 89,
     "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
     "category": "WORLD",
     "date": "2026-09-03T12:52:08.000Z",
@@ -1034,7 +979,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach"
   },
   {
-    "id": 95,
+    "id": 90,
     "title": "The Download: rethinking child safety and fossil-fueled farming",
     "category": "TECH",
     "date": "2026-09-03T12:10:00.000Z",
@@ -1045,7 +990,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
   },
   {
-    "id": 96,
+    "id": 91,
     "title": "The Download: rethinking child safety and fossil-fueled farming",
     "category": "TECH",
     "date": "2026-09-03T12:10:00.000Z",
@@ -1056,7 +1001,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
   },
   {
-    "id": 97,
+    "id": 92,
     "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
     "category": "WORLD",
     "date": "2026-09-03T10:11:37.000Z",
@@ -1067,7 +1012,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid"
   },
   {
-    "id": 98,
+    "id": 93,
     "title": "Agriculture relies on fossil fuels. It’s costing us.",
     "category": "TECH",
     "date": "2026-09-03T10:00:00.000Z",
@@ -1078,7 +1023,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/"
   },
   {
-    "id": 99,
+    "id": 94,
     "title": "Agriculture relies on fossil fuels. It’s costing us.",
     "category": "TECH",
     "date": "2026-09-03T10:00:00.000Z",
@@ -1089,7 +1034,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/"
   },
   {
-    "id": 100,
+    "id": 95,
     "title": "New qubit architecture enables faster, more accurate operations",
     "category": "TECH",
     "date": "2026-09-03T04:00:00.000Z",
@@ -1100,7 +1045,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-qubit-architecture-enables-faster-more-accurate-operations-0903"
   },
   {
-    "id": 101,
+    "id": 96,
     "title": "New research shows a neutrino laser is impossible",
     "category": "SCIENCE",
     "date": "2026-09-02T14:00:00.000Z",
@@ -1111,7 +1056,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902"
   },
   {
-    "id": 102,
+    "id": 97,
     "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
     "category": "WORLD",
     "date": "2026-09-02T09:20:55.000Z",
@@ -1122,7 +1067,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections"
   },
   {
-    "id": 103,
+    "id": 98,
     "title": "Content for Clicks: AI Is Tearing Up the Web’s Social Contract",
     "category": "MYSTERY",
     "date": "2026-09-01T23:37:23.000Z",
@@ -1133,7 +1078,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/01/content-for-clicks-ai-is-tearing-up-the-webs-social-contract/"
   },
   {
-    "id": 104,
+    "id": 99,
     "title": "Cognition and consciousness arise from analog computations, says new theory",
     "category": "SCIENCE",
     "date": "2026-09-01T20:35:00.000Z",
@@ -1144,7 +1089,7 @@
     "sourceUrl": "https://news.mit.edu/2026/cognition-consciousness-arise-from-analog-computations-says-new-theory-0901"
   },
   {
-    "id": 105,
+    "id": 100,
     "title": "Atlas of the brain’s striatum could guide researchers to new drug treatments",
     "category": "SCIENCE",
     "date": "2026-09-01T15:00:00.000Z",
@@ -1155,7 +1100,7 @@
     "sourceUrl": "https://news.mit.edu/2026/brains-striatum-atlas-could-guide-researchers-new-drug-treatments-0901"
   },
   {
-    "id": 106,
+    "id": 101,
     "title": "This Drug Makes New Neurons in the Brain. Scientists Say It Reversed Alzheimer’s Symptoms in Mice.",
     "category": "MYSTERY",
     "date": "2026-08-31T21:33:36.000Z",
@@ -1166,7 +1111,7 @@
     "sourceUrl": "https://singularityhub.com/2026/08/31/this-drug-makes-new-neurons-in-the-brain-scientists-say-it-reversed-alzheimers-symptoms-in-mice/"
   },
   {
-    "id": 107,
+    "id": 102,
     "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
     "category": "SCIENCE",
     "date": "2026-08-31T19:30:00.000Z",
@@ -1177,7 +1122,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831"
   },
   {
-    "id": 108,
+    "id": 103,
     "title": "Study: Peptides can form well-defined structures in harsh, Venus-like conditions",
     "category": "SCIENCE",
     "date": "2026-08-31T19:00:00.000Z",
@@ -1188,7 +1133,7 @@
     "sourceUrl": "https://news.mit.edu/2026/study-peptides-can-form-well-defined-structures-harsh-venus-conditions-0831"
   },
   {
-    "id": 109,
+    "id": 104,
     "title": "This Week’s Awesome Tech Stories From Around the Web (Through August 29)",
     "category": "MYSTERY",
     "date": "2026-08-29T14:00:00.000Z",
@@ -1199,7 +1144,7 @@
     "sourceUrl": "https://singularityhub.com/2026/08/29/this-weeks-awesome-tech-stories-from-around-the-web-through-august-29-2/"
   },
   {
-    "id": 110,
+    "id": 105,
     "title": "εpsilon",
     "category": "SPACE",
     "date": "2026-01-21T12:54:00.000Z",
