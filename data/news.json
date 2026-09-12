@@ -1,6 +1,105 @@
 [
   {
     "id": 1,
+    "title": "US and Ireland's relationship 'stronger than ever'",
+    "category": "WORLD",
+    "date": "2026-09-12T10:02:45.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+    "content": "<h2>概要</h2><p>Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 2,
+    "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
+    "category": "TECH",
+    "date": "2026-09-12T10:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
+    "content": "<h2>概要</h2><p>Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.</p><p><a href=\"https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/"
+  },
+  {
+    "id": 3,
+    "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
+    "category": "TECH",
+    "date": "2026-09-12T10:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
+    "content": "<h2>概要</h2><p>Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.</p><p><a href=\"https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/"
+  },
+  {
+    "id": 4,
+    "title": " NASA, IBM launch new AI model for studying the moon ",
+    "category": "SPACE",
+    "date": "2026-09-12T10:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/87Rn3PeiFZcAVm73TeQ25n-1280-80.jpg",
+    "summary": "NASA and IBM have developed an AI model to help sift through the mountains of data the agency has gathered about the moon.",
+    "content": "<h2>概要</h2><p>NASA and IBM have developed an AI model to help sift through the mountains of data the agency has gathered about the moon.</p><p><a href=\"https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon"
+  },
+  {
+    "id": 5,
+    "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
+    "category": "WORLD",
+    "date": "2026-09-12T10:00:00.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/3840x2160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Fed%2F67dc55c34bc4922aa2c467bf9e69%2F009rajashehadeh.jpg",
+    "summary": "Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland",
+    "content": "<h2>概要</h2><p>Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland</p><p><a href=\"https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh"
+  },
+  {
+    "id": 6,
+    "title": "You Don’t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules",
+    "category": "TECH",
+    "date": "2026-09-12T09:30:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "And if your tap water is undrinkable, you have no “constitutional right to truthful information” about it.",
+    "content": "<h2>概要</h2><p>And if your tap water is undrinkable, you have no “constitutional right to truthful information” about it.</p><p><a href=\"https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/"
+  },
+  {
+    "id": 7,
+    "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
+    "category": "WORLD",
+    "date": "2026-09-12T07:18:55.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4878x3156+0+0/resize/4878x3156!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2Fc9%2F5351d0454768a98200435fec42c0%2Fap26254344695170.jpg",
+    "summary": "Indian Prime Minister Narendra Modi hosts Russian President Vladimir Putin, Chinese President Xi Jinping and other leaders of the BRICS nations for a summit on trade, investment, and global conflicts.",
+    "content": "<h2>概要</h2><p>Indian Prime Minister Narendra Modi hosts Russian President Vladimir Putin, Chinese President Xi Jinping and other leaders of the BRICS nations for a summit on trade, investment, and global conflicts.</p><p><a href=\"https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india"
+  },
+  {
+    "id": 8,
+    "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
+    "category": "WORLD",
+    "date": "2026-09-12T05:57:08.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3156x2104+0+0/resize/3156x2104!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2Fc8%2Fe9490d254a34bb6bd250e9b4d8f9%2Fap26253315512845.jpg",
+    "summary": "Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut down a major oil pipeline as a precaution after it came under attack.",
+    "content": "<h2>概要</h2><p>Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut down a major oil pipeline as a precaution after it came under attack.</p><p><a href=\"https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island"
+  },
+  {
+    "id": 9,
+    "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+    "category": "WORLD",
+    "date": "2026-09-12T04:43:10.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+    "content": "<h2>概要</h2><p>Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 10,
     "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
     "category": "WORLD",
     "date": "2026-09-12T03:02:28.000Z",
@@ -11,7 +110,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 2,
+    "id": 11,
     "title": "As antibiotic resistance grows, researchers turn to copper to fight infections",
     "category": "SCIENCE",
     "date": "2026-09-12T02:40:02.000Z",
@@ -22,18 +121,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html"
   },
   {
-    "id": 3,
-    "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-    "category": "WORLD",
-    "date": "2026-09-12T02:29:49.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
-    "content": "<h2>概要</h2><p>Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 4,
+    "id": 12,
     "title": "Nepal flood disaster exposes cascading threats in Himalayas",
     "category": "SCIENCE",
     "date": "2026-09-12T02:00:05.000Z",
@@ -44,7 +132,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-nepal-disaster-exposes-cascading-threats.html"
   },
   {
-    "id": 5,
+    "id": 13,
     "title": "Q&A: The origin of 'OnlyMarms' and what made it a roaring success",
     "category": "SCIENCE",
     "date": "2026-09-12T01:00:02.000Z",
@@ -55,7 +143,18 @@
     "sourceUrl": "https://phys.org/news/2026-09-qa-onlymarms-roaring-success.html"
   },
   {
-    "id": 6,
+    "id": 14,
+    "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+    "category": "WORLD",
+    "date": "2026-09-12T00:43:00.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+    "content": "<h2>概要</h2><p>In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.</p><p><a href=\"https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 15,
     "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
     "category": "TECH",
     "date": "2026-09-12T00:35:50.000Z",
@@ -66,7 +165,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 7,
+    "id": 16,
     "title": "Bridging interfacial water structure and reactivity in photocatalytic hydrogen evolution at TiO₂ interfaces",
     "category": "SCIENCE",
     "date": "2026-09-12T00:20:01.000Z",
@@ -77,7 +176,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-bridging-interfacial-reactivity-photocatalytic-hydrogen.html"
   },
   {
-    "id": 8,
+    "id": 17,
     "title": "How one RNA nucleotide switch activates fluorescent dyes",
     "category": "SCIENCE",
     "date": "2026-09-12T00:00:04.000Z",
@@ -88,7 +187,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-rna-nucleotide-fluorescent-dyes.html"
   },
   {
-    "id": 9,
+    "id": 18,
     "title": "Some satellite companies still have an appetite for boutique launch services",
     "category": "TECH",
     "date": "2026-09-11T23:34:45.000Z",
@@ -99,7 +198,7 @@
     "sourceUrl": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/"
   },
   {
-    "id": 10,
+    "id": 19,
     "title": "How big can the universe's first starbursts get?",
     "category": "SPACE",
     "date": "2026-09-11T23:20:01.000Z",
@@ -110,7 +209,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-big-universe-starbursts.html"
   },
   {
-    "id": 11,
+    "id": 20,
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "category": "TECH",
     "date": "2026-09-11T22:58:17.000Z",
@@ -121,18 +220,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
   },
   {
-    "id": 12,
-    "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-    "category": "WORLD",
-    "date": "2026-09-11T22:17:45.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-    "content": "<h2>概要</h2><p>The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 13,
+    "id": 21,
     "title": " Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract ",
     "category": "SPACE",
     "date": "2026-09-11T22:06:42.000Z",
@@ -143,7 +231,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract"
   },
   {
-    "id": 14,
+    "id": 22,
     "title": "Random rewards enrich classic game-theory insights",
     "category": "TECH",
     "date": "2026-09-11T21:41:16.000Z",
@@ -154,7 +242,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"
   },
   {
-    "id": 15,
+    "id": 23,
     "title": "The other side of 9/11: Afghans reckon with America's long shadow",
     "category": "WORLD",
     "date": "2026-09-11T21:36:20.000Z",
@@ -165,18 +253,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/11/nx-s1-5949270/the-other-side-of-9-11-afghans-reckon-with-americas-long-shadow"
   },
   {
-    "id": 16,
-    "title": "Passenger train derails in France leaving at least 44 injured",
-    "category": "WORLD",
-    "date": "2026-09-11T21:25:32.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-    "content": "<h2>概要</h2><p>France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 17,
+    "id": 24,
     "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
     "category": "TECH",
     "date": "2026-09-11T21:19:05.000Z",
@@ -187,7 +264,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/"
   },
   {
-    "id": 18,
+    "id": 25,
     "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
     "category": "TECH",
     "date": "2026-09-11T21:14:26.000Z",
@@ -198,7 +275,7 @@
     "sourceUrl": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/"
   },
   {
-    "id": 19,
+    "id": 26,
     "title": " I've chased the 'false dawn' for years — this is the week to find and photograph it ",
     "category": "SPACE",
     "date": "2026-09-11T21:00:00.000Z",
@@ -209,7 +286,7 @@
     "sourceUrl": "https://www.space.com/stargazing/ive-chased-the-false-dawn-for-years-this-is-the-week-to-find-and-photograph-it"
   },
   {
-    "id": 20,
+    "id": 27,
     "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
     "category": "TECH",
     "date": "2026-09-11T20:59:47.000Z",
@@ -220,7 +297,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
   },
   {
-    "id": 21,
+    "id": 28,
     "title": "OpenAI’s feud with mathematicians is only escalating",
     "category": "TECH",
     "date": "2026-09-11T20:57:36.000Z",
@@ -231,7 +308,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
   },
   {
-    "id": 22,
+    "id": 29,
     "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
     "category": "TECH",
     "date": "2026-09-11T20:44:02.000Z",
@@ -242,7 +319,7 @@
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
   },
   {
-    "id": 23,
+    "id": 30,
     "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
     "category": "WORLD",
     "date": "2026-09-11T20:34:29.000Z",
@@ -253,7 +330,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 24,
+    "id": 31,
     "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
     "category": "TECH",
     "date": "2026-09-11T20:33:18.000Z",
@@ -264,7 +341,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
   },
   {
-    "id": 25,
+    "id": 32,
     "title": "Trump's forced coal plant extensions thrown out by judge",
     "category": "TECH",
     "date": "2026-09-11T20:32:59.000Z",
@@ -275,7 +352,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/"
   },
   {
-    "id": 26,
+    "id": 33,
     "title": "Roundtables: AI’s apocalypse crisis",
     "category": "TECH",
     "date": "2026-09-11T20:05:06.000Z",
@@ -286,7 +363,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
   },
   {
-    "id": 27,
+    "id": 34,
     "title": "Roundtables: AI’s apocalypse crisis",
     "category": "TECH",
     "date": "2026-09-11T20:05:06.000Z",
@@ -297,7 +374,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
   },
   {
-    "id": 28,
+    "id": 35,
     "title": " A star is exploding 45 million light-years away — here's how you can see it ",
     "category": "SPACE",
     "date": "2026-09-11T20:00:00.000Z",
@@ -308,7 +385,7 @@
     "sourceUrl": "https://www.space.com/stargazing/a-star-is-exploding-45-million-light-years-away-heres-how-you-can-see-it"
   },
   {
-    "id": 29,
+    "id": 36,
     "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
     "category": "SPACE",
     "date": "2026-09-11T19:48:09.000Z",
@@ -319,7 +396,7 @@
     "sourceUrl": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/"
   },
   {
-    "id": 30,
+    "id": 37,
     "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
     "category": "SPACE",
     "date": "2026-09-11T19:48:09.000Z",
@@ -330,7 +407,7 @@
     "sourceUrl": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/"
   },
   {
-    "id": 31,
+    "id": 38,
     "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
     "category": "WORLD",
     "date": "2026-09-11T19:39:35.000Z",
@@ -341,7 +418,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy"
   },
   {
-    "id": 32,
+    "id": 39,
     "title": "The 9 Best TV Shows to Stream This Month (September 2026)",
     "category": "TECH",
     "date": "2026-09-11T19:36:43.000Z",
@@ -352,7 +429,7 @@
     "sourceUrl": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/"
   },
   {
-    "id": 33,
+    "id": 40,
     "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
     "category": "TECH",
     "date": "2026-09-11T19:34:09.000Z",
@@ -363,7 +440,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/"
   },
   {
-    "id": 34,
+    "id": 41,
     "title": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades",
     "category": "TECH",
     "date": "2026-09-11T19:21:34.000Z",
@@ -374,7 +451,7 @@
     "sourceUrl": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/"
   },
   {
-    "id": 35,
+    "id": 42,
     "title": " Rocket Lab launches mystery satellite to orbit for secret customer (photo) ",
     "category": "SPACE",
     "date": "2026-09-11T19:00:00.000Z",
@@ -385,18 +462,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo"
   },
   {
-    "id": 36,
-    "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-    "category": "TECH",
-    "date": "2026-09-11T18:59:25.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
-    "content": "<h2>概要</h2><p>The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.</p><p><a href=\"https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/"
-  },
-  {
-    "id": 37,
+    "id": 43,
     "title": "Scientists discover a strange new form of ice that could help explain the interiors of Neptune and Uranus",
     "category": "SPACE",
     "date": "2026-09-11T18:40:08.000Z",
@@ -407,18 +473,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-scientists-strange-ice-interiors-neptune.html"
   },
   {
-    "id": 38,
-    "title": " Stream every single Star Trek show from anywhere, and save up to 75% with this VPN deal ",
-    "category": "SPACE",
-    "date": "2026-09-11T18:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/rixtntQwePZcN5CpmJkrnE-1280-80.jpg",
-    "summary": "NordVPN is recommended as one of the best VPN services, offering online security and convenience, and is now up to $370 cheaper.",
-    "content": "<h2>概要</h2><p>NordVPN is recommended as one of the best VPN services, offering online security and convenience, and is now up to $370 cheaper.</p><p><a href=\"https://www.space.com/entertainment/space-movies-shows/stream-every-single-star-trek-show-from-anywhere-and-save-up-to-75-percent-with-this-vpn-deal\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/stream-every-single-star-trek-show-from-anywhere-and-save-up-to-75-percent-with-this-vpn-deal"
-  },
-  {
-    "id": 39,
+    "id": 44,
     "title": "NASA’s Chandra Spots Galactic Gem",
     "category": "SPACE",
     "date": "2026-09-11T17:19:47.000Z",
@@ -429,7 +484,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/"
   },
   {
-    "id": 40,
+    "id": 45,
     "title": "NASA’s Chandra Spots Galactic Gem",
     "category": "SPACE",
     "date": "2026-09-11T17:19:47.000Z",
@@ -440,7 +495,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/"
   },
   {
-    "id": 41,
+    "id": 46,
     "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
     "category": "TECH",
     "date": "2026-09-11T17:16:59.000Z",
@@ -451,7 +506,7 @@
     "sourceUrl": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return"
   },
   {
-    "id": 42,
+    "id": 47,
     "title": "We unfolded the iPhone Duo",
     "category": "TECH",
     "date": "2026-09-11T16:22:24.000Z",
@@ -462,7 +517,7 @@
     "sourceUrl": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms"
   },
   {
-    "id": 43,
+    "id": 48,
     "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
     "category": "TECH",
     "date": "2026-09-11T16:21:19.000Z",
@@ -473,7 +528,7 @@
     "sourceUrl": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful"
   },
   {
-    "id": 44,
+    "id": 49,
     "title": "What's carving active gullies on Mars? It's not water",
     "category": "SPACE",
     "date": "2026-09-11T16:20:12.000Z",
@@ -484,18 +539,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-gullies-mars.html"
   },
   {
-    "id": 45,
-    "title": "Petlibro Offers: 30% Off in September 2026",
-    "category": "TECH",
-    "date": "2026-09-11T16:19:49.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
-    "content": "<h2>概要</h2><p>Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.</p><p><a href=\"https://www.wired.com/story/petlibro-discount-code/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/petlibro-discount-code/"
-  },
-  {
-    "id": 46,
+    "id": 50,
     "title": "Anthropic spent this week in hot water over cybersecurity",
     "category": "TECH",
     "date": "2026-09-11T16:09:14.000Z",
@@ -506,7 +550,7 @@
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"
   },
   {
-    "id": 47,
+    "id": 51,
     "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
     "category": "BUSINESS",
     "date": "2026-09-11T15:37:25.000Z",
@@ -517,7 +561,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 48,
+    "id": 52,
     "title": "UK government rejects 'kill switch' idea for dangerous AI",
     "category": "TECH",
     "date": "2026-09-11T15:07:07.000Z",
@@ -528,62 +572,51 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 49,
-    "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-    "category": "SPACE",
-    "date": "2026-09-11T15:05:20.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg?w=1920",
-    "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
-    "content": "<h2>概要</h2><p>Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]</p><p><a href=\"https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/"
-  },
-  {
-    "id": 50,
-    "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-    "category": "SPACE",
-    "date": "2026-09-11T15:05:20.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg?w=1920",
-    "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
-    "content": "<h2>概要</h2><p>Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]</p><p><a href=\"https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/"
-  },
-  {
-    "id": 51,
-    "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-    "category": "TECH",
-    "date": "2026-09-11T15:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
-    "content": "<h2>概要</h2><p>Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.</p><p><a href=\"https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/"
-  },
-  {
-    "id": 52,
-    "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-    "category": "SPACE",
-    "date": "2026-09-11T14:56:25.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/art002e012702large.jpg?w=1920",
-    "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
-    "content": "<h2>概要</h2><p>The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]</p><p><a href=\"https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/"
-  },
-  {
     "id": 53,
-    "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+    "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
     "category": "SPACE",
-    "date": "2026-09-11T14:56:25.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/art002e012702large.jpg?w=1920",
-    "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
-    "content": "<h2>概要</h2><p>The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]</p><p><a href=\"https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/"
+    "date": "2026-09-11T15:05:20.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg?w=1920",
+    "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
+    "content": "<h2>概要</h2><p>Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]</p><p><a href=\"https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/"
   },
   {
     "id": 54,
+    "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+    "category": "SPACE",
+    "date": "2026-09-11T15:05:20.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg?w=1920",
+    "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
+    "content": "<h2>概要</h2><p>Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]</p><p><a href=\"https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/"
+  },
+  {
+    "id": 55,
+    "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+    "category": "SPACE",
+    "date": "2026-09-11T14:56:25.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/art002e012702large.jpg?w=1920",
+    "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
+    "content": "<h2>概要</h2><p>The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]</p><p><a href=\"https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/"
+  },
+  {
+    "id": 56,
+    "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+    "category": "SPACE",
+    "date": "2026-09-11T14:56:25.000Z",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/art002e012702large.jpg?w=1920",
+    "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
+    "content": "<h2>概要</h2><p>The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]</p><p><a href=\"https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA Image of the Day",
+    "sourceUrl": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/"
+  },
+  {
+    "id": 57,
     "title": "Release of open AI model trained on 17 years of lunar data maps ice, craters and volcanoes",
     "category": "SPACE",
     "date": "2026-09-11T14:40:09.000Z",
@@ -594,7 +627,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-ai-years-lunar-ice-craters.html"
   },
   {
-    "id": 55,
+    "id": 58,
     "title": "US prices remain high as fuel costs squeeze household budgets",
     "category": "BUSINESS",
     "date": "2026-09-11T14:22:42.000Z",
@@ -605,7 +638,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 56,
+    "id": 59,
     "title": "25,000 Years Ago, the Earliest Human Drug Use May Have Occurred on This Small Island",
     "category": "MYSTERY",
     "date": "2026-09-11T13:49:49.000Z",
@@ -616,7 +649,7 @@
     "sourceUrl": "https://thedebrief.org/25000-years-ago-the-earliest-human-drug-use-may-have-occurred-on-this-small-island/"
   },
   {
-    "id": 57,
+    "id": 60,
     "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
     "category": "TECH",
     "date": "2026-09-11T13:45:00.000Z",
@@ -627,7 +660,7 @@
     "sourceUrl": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911"
   },
   {
-    "id": 58,
+    "id": 61,
     "title": "Interest rates could rise again across the world – here's why ",
     "category": "BUSINESS",
     "date": "2026-09-11T13:35:29.000Z",
@@ -638,7 +671,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 59,
+    "id": 62,
     "title": "Defense Aviation Company Hermeus Unveils New “High Mach Speed” Prototype",
     "category": "MYSTERY",
     "date": "2026-09-11T13:32:36.000Z",
@@ -649,7 +682,7 @@
     "sourceUrl": "https://thedebrief.org/defense-aviation-company-hermeus-unveils-new-high-mach-speed-prototype/"
   },
   {
-    "id": 60,
+    "id": 63,
     "title": "A 560-Million-Year-Old Animal Survived in 3D, Hinting at an Entire Lost Ancient Ecosystem",
     "category": "MYSTERY",
     "date": "2026-09-11T13:28:04.000Z",
@@ -660,7 +693,7 @@
     "sourceUrl": "https://thedebrief.org/a-560-million-year-old-animal-survived-in-3d-hinting-at-an-entire-lost-ancient-ecosystem/"
   },
   {
-    "id": 61,
+    "id": 64,
     "title": "A new surface atlas of Phobos will help MMX mission collect its samples",
     "category": "SPACE",
     "date": "2026-09-11T13:20:04.000Z",
@@ -671,7 +704,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-surface-atlas-phobos-mmx-mission.html"
   },
   {
-    "id": 62,
+    "id": 65,
     "title": "Week in images: 07-11 Sep 2026",
     "category": "SPACE",
     "date": "2026-09-11T13:00:00.000Z",
@@ -682,7 +715,7 @@
     "sourceUrl": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026"
   },
   {
-    "id": 63,
+    "id": 66,
     "title": "Does this AI comic make you laugh?",
     "category": "TECH",
     "date": "2026-09-11T12:49:30.000Z",
@@ -693,7 +726,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 64,
+    "id": 67,
     "title": "The Download: biotech’s future and cheaper, cleaner steel",
     "category": "TECH",
     "date": "2026-09-11T12:10:00.000Z",
@@ -704,7 +737,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
   },
   {
-    "id": 65,
+    "id": 68,
     "title": "The Download: biotech’s future and cheaper, cleaner steel",
     "category": "TECH",
     "date": "2026-09-11T12:10:00.000Z",
@@ -715,7 +748,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
   },
   {
-    "id": 66,
+    "id": 69,
     "title": "AI boom helps drive surprise UK growth in July",
     "category": "BUSINESS",
     "date": "2026-09-11T10:17:28.000Z",
@@ -726,40 +759,29 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 67,
-    "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
-    "category": "WORLD",
-    "date": "2026-09-11T09:00:00.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3746x2498+0+0/resize/3746x2498!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5d%2F4f%2Ff5ecab764bd3ba1267b758e5492d%2Fus-canada-bridge.jpg",
-    "summary": "For decades, the U.S. and Canadian auto supply chains have been tightly woven together. The trade war is threatening to unravel a complex system.",
-    "content": "<h2>概要</h2><p>For decades, the U.S. and Canadian auto supply chains have been tightly woven together. The trade war is threatening to unravel a complex system.</p><p><a href=\"https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain"
-  },
-  {
-    "id": 68,
-    "title": "Meet the under-35s shaping the future of biotech",
-    "category": "TECH",
-    "date": "2026-09-11T09:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are…",
-    "content": "<h2>概要</h2><p>Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are…</p><p><a href=\"https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/"
-  },
-  {
-    "id": 69,
-    "title": "Meet the under-35s shaping the future of biotech",
-    "category": "TECH",
-    "date": "2026-09-11T09:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are…",
-    "content": "<h2>概要</h2><p>Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are…</p><p><a href=\"https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/"
-  },
-  {
     "id": 70,
+    "title": "Meet the under-35s shaping the future of biotech",
+    "category": "TECH",
+    "date": "2026-09-11T09:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are…",
+    "content": "<h2>概要</h2><p>Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are…</p><p><a href=\"https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/"
+  },
+  {
+    "id": 71,
+    "title": "Meet the under-35s shaping the future of biotech",
+    "category": "TECH",
+    "date": "2026-09-11T09:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are…",
+    "content": "<h2>概要</h2><p>Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are…</p><p><a href=\"https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/"
+  },
+  {
+    "id": 72,
     "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
     "category": "TECH",
     "date": "2026-09-11T08:15:25.000Z",
@@ -770,7 +792,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 71,
+    "id": 73,
     "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
     "category": "SPACE",
     "date": "2026-09-11T08:00:00.000Z",
@@ -779,28 +801,6 @@
     "content": "<h2>概要</h2><p>On 15 September, two spacecraft will leave Earth together aboard the same launcher from Europe’s spaceport in Kourou: FLEX, ESA’s photosynthesis mission, and Sentinel-3C, Copernicus’ newest satellite monitoring Earth’s oceans, land, ice and atmosphere.\nAt ESA’s European Space Operations Centre (ESOC), two independent mission teams are preparing to operate the spacecraft in parallel in a closely coordinated effort. As launch approaches, they are rehearsing side by side to prepare not only for their own missions, but also for the moments when the two operations intersect.</p><p><a href=\"https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "ESA Top News",
     "sourceUrl": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control"
-  },
-  {
-    "id": 72,
-    "title": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
-    "category": "WORLD",
-    "date": "2026-09-11T07:32:27.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6720x4480+0+0/resize/6720x4480!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2F0a%2Ffdf525e34ee2bf4d5e8bddc334ba%2Fap26253328596062.jpg",
-    "summary": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
-    "content": "<h2>概要</h2><p>A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.</p><p><a href=\"https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices"
-  },
-  {
-    "id": 73,
-    "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison",
-    "category": "WORLD",
-    "date": "2026-09-11T06:42:04.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2633x1754+0+0/resize/2633x1754!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2F6a%2F1b8ccfd64b849f692d3cbfa2aa34%2Fap26253456206334.jpg",
-    "summary": "The activists were sentenced to about 5 to 7 years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.",
-    "content": "<h2>概要</h2><p>The activists were sentenced to about 5 to 7 years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.</p><p><a href=\"https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers"
   },
   {
     "id": 74,
