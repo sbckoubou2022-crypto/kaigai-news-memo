@@ -1,17 +1,413 @@
 [
   {
     "id": 1,
-    "title": "Chimpanzees give youngsters the tools to learn tricky techniques",
+    "title": "Weeping whales: Stillborn humpback whale grieving documented",
     "category": "SCIENCE",
-    "date": "2026-09-16T04:00:02.000Z",
+    "date": "2026-09-16T11:10:01.000Z",
     "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Two-thirds of a century after Jane Goodall observed \"David Greybeard\" break off a twig to fashion a fishing rod for termites, researchers following in her footsteps have found that adult chimpanzees in Senegal literally hand youngsters the tools for learning.",
-    "content": "<h2>概要</h2><p>Two-thirds of a century after Jane Goodall observed \"David Greybeard\" break off a twig to fashion a fishing rod for termites, researchers following in her footsteps have found that adult chimpanzees in Senegal literally hand youngsters the tools for learning.</p><p><a href=\"https://phys.org/news/2026-09-chimpanzees-youngsters-tools-tricky-techniques.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Humpback whale mothers may experience grief when their calves die, a rare research observation led by Griffith University and Sea World Foundation has found.",
+    "content": "<h2>概要</h2><p>Humpback whale mothers may experience grief when their calves die, a rare research observation led by Griffith University and Sea World Foundation has found.</p><p><a href=\"https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-chimpanzees-youngsters-tools-tricky-techniques.html"
+    "sourceUrl": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html"
   },
   {
     "id": 2,
+    "title": "Nine in 10 UK gambling websites breach data privacy law, study finds",
+    "category": "SCIENCE",
+    "date": "2026-09-16T11:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Nearly nine in 10 (86%) UK-licensed online gambling websites are operating in breach of the General Data Protection Regulation, according to new research from the Gambling Research, Education and Treatment (GREAT) Center at Swansea University published in the journal Computers in Human Behavior Reports.",
+    "content": "<h2>概要</h2><p>Nearly nine in 10 (86%) UK-licensed online gambling websites are operating in breach of the General Data Protection Regulation, according to new research from the Gambling Research, Education and Treatment (GREAT) Center at Swansea University published in the journal Computers in Human Behavior Reports.</p><p><a href=\"https://phys.org/news/2026-09-uk-gambling-websites-breach-privacy.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-uk-gambling-websites-breach-privacy.html"
+  },
+  {
+    "id": 3,
+    "title": "EU chief backs plan for Canada to become 'associate member'",
+    "category": "WORLD",
+    "date": "2026-09-16T10:59:53.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+    "content": "<h2>概要</h2><p>Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 4,
+    "title": "US to bar some South Africans over claims of anti-white discrimination",
+    "category": "WORLD",
+    "date": "2026-09-16T10:56:45.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Announcement of visa restrictions comes after Trump alleges ‘white genocide’ taking place in South Africa\nThe US has announced visa restrictions on some South Africans as Donald Trump’s administration continues to claim that South Africa’s government racially discriminates against white minority Afrikaners.\nThe announcement did not specify individuals who were barred from the US. Trump has spent his second term falsely claiming there is a “white genocide” in South Africa and railing against its affirmative action policies.\n Continue reading...",
+    "content": "<h2>概要</h2><p>Announcement of visa restrictions comes after Trump alleges ‘white genocide’ taking place in South Africa\nThe US has announced visa restrictions on some South Africans as Donald Trump’s administration continues to claim that South Africa’s government racially discriminates against white minority Afrikaners.\nThe announcement did not specify individuals who were barred from the US. Trump has spent his second term falsely claiming there is a “white genocide” in South Africa and railing against its affirmative action policies.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination"
+  },
+  {
+    "id": 5,
+    "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
+    "category": "WORLD",
+    "date": "2026-09-16T10:48:22.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4173x2782+0+0/resize/4173x2782!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2F61%2F45056a3842fe9f46214cf12059e2%2Fap26259317162978.jpg",
+    "summary": "European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Trump's tariffs drive Ottawa closer to Europe.",
+    "content": "<h2>概要</h2><p>European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Trump's tariffs drive Ottawa closer to Europe.</p><p><a href=\"https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member"
+  },
+  {
+    "id": 6,
+    "title": "At least 20 killed after war-damaged Gaza building collapses",
+    "category": "WORLD",
+    "date": "2026-09-16T10:40:36.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.",
+    "content": "<h2>概要</h2><p>Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 7,
+    "title": "Amazon launches Alexa+ in India with Hindi support",
+    "category": "TECH",
+    "date": "2026-09-16T10:34:47.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
+    "content": "<h2>概要</h2><p>Amazon is letting all customers use Alexa+ assistant in early access period</p><p><a href=\"https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/"
+  },
+  {
+    "id": 8,
+    "title": "Petrol and diesel price rises push UK inflation higher ",
+    "category": "BUSINESS",
+    "date": "2026-09-16T10:33:42.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+    "content": "<h2>概要</h2><p>Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 9,
+    "title": "Introducing the WIRED App",
+    "category": "TECH",
+    "date": "2026-09-16T10:30:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The app is the best way to read, watch, and listen to WIRED’s journalism.",
+    "content": "<h2>概要</h2><p>The app is the best way to read, watch, and listen to WIRED’s journalism.</p><p><a href=\"https://www.wired.com/story/introducing-the-wired-app/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/introducing-the-wired-app/"
+  },
+  {
+    "id": 10,
+    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
+    "category": "TECH",
+    "date": "2026-09-16T10:30:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1.6 million images of 50,000 vehicles in 21 days.",
+    "content": "<h2>概要</h2><p>A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1.6 million images of 50,000 vehicles in 21 days.</p><p><a href=\"https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/"
+  },
+  {
+    "id": 11,
+    "title": "The EU Bans Social Media For Under-13s",
+    "category": "TECH",
+    "date": "2026-09-16T10:19:46.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The bloc wants to curb Big Tech’s grip on children with its new EU KIDS ACTS, but age checks, parental oversight, and privacy concerns could make its plan difficult to implement.",
+    "content": "<h2>概要</h2><p>The bloc wants to curb Big Tech’s grip on children with its new EU KIDS ACTS, but age checks, parental oversight, and privacy concerns could make its plan difficult to implement.</p><p><a href=\"https://www.wired.com/story/the-eu-bans-social-media-for-under-13s/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/the-eu-bans-social-media-for-under-13s/"
+  },
+  {
+    "id": 12,
+    "title": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
+    "category": "TECH",
+    "date": "2026-09-16T10:06:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "My hands-on tests reveal which models can scrub stains, reach difficult corners, and navigate a chaotic home.",
+    "content": "<h2>概要</h2><p>My hands-on tests reveal which models can scrub stains, reach difficult corners, and navigate a chaotic home.</p><p><a href=\"https://www.wired.com/story/best-robot-vacuum/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/best-robot-vacuum/"
+  },
+  {
+    "id": 13,
+    "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+    "category": "WORLD",
+    "date": "2026-09-16T10:02:05.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+    "content": "<h2>概要</h2><p>Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 14,
+    "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+    "category": "TECH",
+    "date": "2026-09-16T10:02:05.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+    "content": "<h2>概要</h2><p>Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Technology",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 15,
+    "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+    "category": "BUSINESS",
+    "date": "2026-09-16T10:02:05.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+    "content": "<h2>概要</h2><p>Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 16,
+    "title": "How Self-Driving Cars Might Change Crash Testing Forever",
+    "category": "TECH",
+    "date": "2026-09-16T10:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Lie down in a car, and you’re more likely to get seriously hurt in a crash. But a driverless future is forcing governments to revisit long-standing safety issues.",
+    "content": "<h2>概要</h2><p>Lie down in a car, and you’re more likely to get seriously hurt in a crash. But a driverless future is forcing governments to revisit long-standing safety issues.</p><p><a href=\"https://www.wired.com/story/how-self-driving-cars-might-change-crash-testing-forever/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/how-self-driving-cars-might-change-crash-testing-forever/"
+  },
+  {
+    "id": 17,
+    "title": " Russia launching 3 tons of cargo to the space station today: Watch it live ",
+    "category": "SPACE",
+    "date": "2026-09-16T10:00:00.000Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/dDde5FYNDkvxt7gU9oRoJc-1280-80.jpg",
+    "summary": "Russia plans to launch the Progress 96 cargo mission to the International Space Station today (Sept. 16), and you can watch the action live.",
+    "content": "<h2>概要</h2><p>Russia plans to launch the Progress 96 cargo mission to the International Space Station today (Sept. 16), and you can watch the action live.</p><p><a href=\"https://www.space.com/space-exploration/international-space-station/russia-progress-96-cargo-launch-international-space-station\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Space.com",
+    "sourceUrl": "https://www.space.com/space-exploration/international-space-station/russia-progress-96-cargo-launch-international-space-station"
+  },
+  {
+    "id": 18,
+    "title": "Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison",
+    "category": "WORLD",
+    "date": "2026-09-16T09:57:03.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3407+0+0/resize/5000x3407!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2F1e%2Fa8a05440450690bdca01f44b5ddc%2Fap26258396368489.jpg",
+    "summary": "A European Union-backed court convicted former Kosovo President Hashim Thaci of war crimes committed during his country's war for independence from Serbia and sentenced him to 25 years in prison.",
+    "content": "<h2>概要</h2><p>A European Union-backed court convicted former Kosovo President Hashim Thaci of war crimes committed during his country's war for independence from Serbia and sentenced him to 25 years in prison.</p><p><a href=\"https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes"
+  },
+  {
+    "id": 19,
+    "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+    "category": "WORLD",
+    "date": "2026-09-16T09:36:54.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+    "content": "<h2>概要</h2><p>The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 20,
+    "title": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
+    "category": "WORLD",
+    "date": "2026-09-16T09:04:27.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4464x2976+0+0/resize/4464x2976!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2F13%2F6d763a4e4dc3872a8feebcd1882d%2Fap26258687161521.jpg",
+    "summary": "Saudi Arabia accused Yemen's Iran-backed Houthi rebels overnight of trying to attack Islam's holiest city, prompting condemnation from countries in the region but no sign of military support.",
+    "content": "<h2>概要</h2><p>Saudi Arabia accused Yemen's Iran-backed Houthi rebels overnight of trying to attack Islam's holiest city, prompting condemnation from countries in the region but no sign of military support.</p><p><a href=\"https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack"
+  },
+  {
+    "id": 21,
+    "title": "Windows 11 out-of-band update fixes audio glitch and other bugs – grab it now",
+    "category": "TECH",
+    "date": "2026-09-16T09:04:02.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "",
+    "content": "<h2>概要</h2><p></p><p><a href=\"https://www.zdnet.com/business/windows-11-out-of-band-update-fixes-audio-glitch/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/business/windows-11-out-of-band-update-fixes-audio-glitch/"
+  },
+  {
+    "id": 22,
+    "title": "First-of-its-kind preventive phage therapy provides promising results against Salmonella",
+    "category": "SCIENCE",
+    "date": "2026-09-16T09:00:13.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The mammalian gut microbiome teems with a delicate balance of bacteria and the viruses that keep them in check, called bacteriophages, or phages. Each bacterial species usually has its own set of phage partners.",
+    "content": "<h2>概要</h2><p>The mammalian gut microbiome teems with a delicate balance of bacteria and the viruses that keep them in check, called bacteriophages, or phages. Each bacterial species usually has its own set of phage partners.</p><p><a href=\"https://phys.org/news/2026-09-kind-phage-therapy-results-salmonella.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-kind-phage-therapy-results-salmonella.html"
+  },
+  {
+    "id": 23,
+    "title": "New simulations link unusual particle diffusion to yielding in soft jammed matter",
+    "category": "SCIENCE",
+    "date": "2026-09-16T09:00:11.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Soft materials such as colloidal suspensions, emulsions, foams and gels often display complex and unusual behaviors compared with ordinary solids or liquids. From a mechanical point of view, for instance, they can resist deformation like solids, but they can also start to flow like liquids when a sufficiently strong external drive is applied. This transition from solid-like to liquid-like behavior, known as \"yielding,\" is central to the physics of soft amorphous materials and to many industrial and biological processes.",
+    "content": "<h2>概要</h2><p>Soft materials such as colloidal suspensions, emulsions, foams and gels often display complex and unusual behaviors compared with ordinary solids or liquids. From a mechanical point of view, for instance, they can resist deformation like solids, but they can also start to flow like liquids when a sufficiently strong external drive is applied. This transition from solid-like to liquid-like behavior, known as \"yielding,\" is central to the physics of soft amorphous materials and to many industrial and biological processes.</p><p><a href=\"https://phys.org/news/2026-09-simulations-link-unusual-particle-diffusion.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-simulations-link-unusual-particle-diffusion.html"
+  },
+  {
+    "id": 24,
+    "title": "'Born-again' star offers rare chance to watch stellar evolution in real time",
+    "category": "SCIENCE",
+    "date": "2026-09-16T09:00:09.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Astronomers have confirmed that one of the fastest-changing stars ever observed has entered a new stage of its evolution, offering a rare opportunity to watch a star's life unfold on human timescales.",
+    "content": "<h2>概要</h2><p>Astronomers have confirmed that one of the fastest-changing stars ever observed has entered a new stage of its evolution, offering a rare opportunity to watch a star's life unfold on human timescales.</p><p><a href=\"https://phys.org/news/2026-09-born-star-rare-chance-stellar.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-born-star-rare-chance-stellar.html"
+  },
+  {
+    "id": 25,
+    "title": "'Born-again' star offers rare chance to watch stellar evolution in real time",
+    "category": "SPACE",
+    "date": "2026-09-16T09:00:09.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Astronomers have confirmed that one of the fastest-changing stars ever observed has entered a new stage of its evolution, offering a rare opportunity to watch a star's life unfold on human timescales.",
+    "content": "<h2>概要</h2><p>Astronomers have confirmed that one of the fastest-changing stars ever observed has entered a new stage of its evolution, offering a rare opportunity to watch a star's life unfold on human timescales.</p><p><a href=\"https://phys.org/news/2026-09-born-star-rare-chance-stellar.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-09-born-star-rare-chance-stellar.html"
+  },
+  {
+    "id": 26,
+    "title": "Purple swirls on the Red Planet",
+    "category": "SPACE",
+    "date": "2026-09-16T09:00:00.000Z",
+    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/raspberry_ripples_near_mars_s_south_pole/27522585-1-eng-GB/Raspberry_ripples_near_Mars_s_south_pole_card_full.jpg",
+    "summary": "This image shows a prominent ice cliff near Mars’s south pole. With striking swirls of purple, pink and red, it’s a far cry from the colour palette we usually associate with the Red Planet.",
+    "content": "<h2>概要</h2><p>This image shows a prominent ice cliff near Mars’s south pole. With striking swirls of purple, pink and red, it’s a far cry from the colour palette we usually associate with the Red Planet.</p><p><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "ESA Top News",
+    "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet"
+  },
+  {
+    "id": 27,
+    "title": "Meta is reportedly ready to launch less pervy smart glasses",
+    "category": "TECH",
+    "date": "2026-09-16T08:54:46.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257966_ethics_of_recording_people_with_smart_glasses__CVirginia3-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta Connect event next week.\nInstead of a camera, the Luna glasses will reportedly include six microphones that allow users to chat to Meta AI and the new Muse AI agent, along with speakers for audio playback. Stripping the camera out has apparently made it possible to make the glasses' arms smaller, and closer to ordinary frames. Meta is repor …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta Connect event next week.\nInstead of a camera, the Luna glasses will reportedly include six microphones that allow users to chat to Meta AI and the new Muse AI agent, along with speakers for audio playback. Stripping the camera out has apparently made it possible to make the glasses' arms smaller, and closer to ordinary frames. Meta is repor …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect"
+  },
+  {
+    "id": 28,
+    "title": "We managed to get jobs after uni - here's how we're keeping them",
+    "category": "BUSINESS",
+    "date": "2026-09-16T08:36:37.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+    "content": "<h2>概要</h2><p>Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 29,
+    "title": "SpaceX prepares for first orbital flight of Starship rocket",
+    "category": "SPACE",
+    "date": "2026-09-16T08:17:52.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "SpaceX announced Tuesday that it was planning to send its flagship rocket, Starship, into orbit, a key step in its project to one day reach the moon or Mars.",
+    "content": "<h2>概要</h2><p>SpaceX announced Tuesday that it was planning to send its flagship rocket, Starship, into orbit, a key step in its project to one day reach the moon or Mars.</p><p><a href=\"https://phys.org/news/2026-09-spacex-orbital-flight-starship-rocket.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-09-spacex-orbital-flight-starship-rocket.html"
+  },
+  {
+    "id": 30,
+    "title": "US acknowledges for the first time that it has deployed weapons in space",
+    "category": "SPACE",
+    "date": "2026-09-16T08:08:20.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The United States has confirmed for the first time that it has deployed weapons in space, a remarkable revelation after previous warnings about countries such as Russia possibly weaponizing a global frontier long agreed in treaties to be used for only peaceful purposes.",
+    "content": "<h2>概要</h2><p>The United States has confirmed for the first time that it has deployed weapons in space, a remarkable revelation after previous warnings about countries such as Russia possibly weaponizing a global frontier long agreed in treaties to be used for only peaceful purposes.</p><p><a href=\"https://phys.org/news/2026-09-acknowledges-deployed-weapons-space.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-09-acknowledges-deployed-weapons-space.html"
+  },
+  {
+    "id": 31,
+    "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
+    "category": "WORLD",
+    "date": "2026-09-16T07:00:14.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "String of female murder victims found near Johannesburg’s international airport, including five in the past week\nThe discovery of the bodies of seven women around Johannesburg’s international airport, including five in the past week, has prompted an outpouring of fear, grief and anger over a lack of progress in tackling femicide.\nWhen Elizabeth “Tsontso” Moselakgomo did not return after going for a run on 9 September, her eight-year-old daughter alerted relatives, who contacted police. The 38-year-old’s body was found on Saturday and identified by relatives on Monday. The news of her disappearance had gone viral.\n Continue reading...",
+    "content": "<h2>概要</h2><p>String of female murder victims found near Johannesburg’s international airport, including five in the past week\nThe discovery of the bodies of seven women around Johannesburg’s international airport, including five in the past week, has prompted an outpouring of fear, grief and anger over a lack of progress in tackling femicide.\nWhen Elizabeth “Tsontso” Moselakgomo did not return after going for a run on 9 September, her eight-year-old daughter alerted relatives, who contacted police. The 38-year-old’s body was found on Saturday and identified by relatives on Monday. The news of her disappearance had gone viral.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa"
+  },
+  {
+    "id": 32,
+    "title": "A world 20 light-years away reveals surprisingly organized, Jupiter-like weather",
+    "category": "SPACE",
+    "date": "2026-09-16T07:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Scientists from Trinity College Dublin have developed a way to unravel changing weather patterns on distant worlds. Using this approach, they discovered that the weather on a well-studied brown dwarf, SIMP 0136, previously linked to northern lights-like phenomena, is largely shaped by just two dominant processes: changes in temperature and the vertical structure of its clouds.",
+    "content": "<h2>概要</h2><p>Scientists from Trinity College Dublin have developed a way to unravel changing weather patterns on distant worlds. Using this approach, they discovered that the weather on a well-studied brown dwarf, SIMP 0136, previously linked to northern lights-like phenomena, is largely shaped by just two dominant processes: changes in temperature and the vertical structure of its clouds.</p><p><a href=\"https://phys.org/news/2026-09-world-years-reveals-jupiter-weather.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-09-world-years-reveals-jupiter-weather.html"
+  },
+  {
+    "id": 33,
+    "title": "Complaints to watchdog about water firms soar",
+    "category": "BUSINESS",
+    "date": "2026-09-16T06:59:41.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Many complaints were about affordability, after customers saw steep hikes to bills.",
+    "content": "<h2>概要</h2><p>Many complaints were about affordability, after customers saw steep hikes to bills.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 34,
+    "title": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
+    "category": "WORLD",
+    "date": "2026-09-16T06:00:12.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Twenty-five years after 9/11, figures compiled by conflict monitor underline how Sahel region has become centre of Islamist terror\nIslamist extremist violence in Africa’s Sahel region is set to reach historic highs after a series of sweeping offensives by groups linked to al-Qaida and Islamic State, according to new figures compiled by the conflict monitor Acled.\nAs the US marks the 25th anniversary of the 9/11 attacks launched by al-Qaida against targets in Washington and New York, the statistics underline the continued expansion of the veteran organisation in parts of Africa – in stark contrast with its relative weakness elsewhere.\n Continue reading...",
+    "content": "<h2>概要</h2><p>Twenty-five years after 9/11, figures compiled by conflict monitor underline how Sahel region has become centre of Islamist terror\nIslamist extremist violence in Africa’s Sahel region is set to reach historic highs after a series of sweeping offensives by groups linked to al-Qaida and Islamic State, according to new figures compiled by the conflict monitor Acled.\nAs the US marks the 25th anniversary of the 9/11 attacks launched by al-Qaida against targets in Washington and New York, the statistics underline the continued expansion of the veteran organisation in parts of Africa – in stark contrast with its relative weakness elsewhere.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year"
+  },
+  {
+    "id": 35,
+    "title": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
+    "category": "WORLD",
+    "date": "2026-09-16T05:00:12.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Dozens of Bank of England directors and founding subscribers invested in trafficking of enslaved Africans\nThe Bank of England and the British financial system were for centuries deeply involved in the enslavement and transatlantic trafficking of millions of African people, according to new research on Britain’s slavery history.\nResearch by historians compiling the Register of British Slave Traders has found that the scale of the financial system’s involvement in enslavement is greater than previously known or acknowledged. The Bank of England, the central bank owned by the government since nationalisation by Clement Attlee’s Labour administration in 1946, had dozens of financiers involved in its foundation who were also significant investors in the transatlantic trafficking of enslaved Africans.\n Continue reading...",
+    "content": "<h2>概要</h2><p>Dozens of Bank of England directors and founding subscribers invested in trafficking of enslaved Africans\nThe Bank of England and the British financial system were for centuries deeply involved in the enslavement and transatlantic trafficking of millions of African people, according to new research on Britain’s slavery history.\nResearch by historians compiling the Register of British Slave Traders has found that the scale of the financial system’s involvement in enslavement is greater than previously known or acknowledged. The Bank of England, the central bank owned by the government since nationalisation by Clement Attlee’s Labour administration in 1946, had dozens of financiers involved in its foundation who were also significant investors in the transatlantic trafficking of enslaved Africans.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans"
+  },
+  {
+    "id": 36,
+    "title": "APOD: 2026 September 16 – Webb’s View of M64",
+    "category": "SPACE",
+    "date": "2026-09-16T04:05:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg?w=3853&#038;h=4070&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "APOD Science APOD APOD: 2026 September 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble + WebbHubble […]",
+    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 September 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble + WebbHubble […]</p><p><a href=\"https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/"
+  },
+  {
+    "id": 37,
+    "title": "How chimps teach their kids tool tricks",
+    "category": "TECH",
+    "date": "2026-09-16T04:00:39.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
+    "content": "<h2>概要</h2><p>Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.</p><p><a href=\"https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/"
+  },
+  {
+    "id": 38,
     "title": "MIT startups inspire with impressive presentations at Demo Day 2026",
     "category": "TECH",
     "date": "2026-09-16T04:00:00.000Z",
@@ -22,7 +418,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-startups-inspire-with-impressive-presentations-demo-day-0916"
   },
   {
-    "id": 3,
+    "id": 39,
     "title": "Measure by measure, studying society accurately",
     "category": "TECH",
     "date": "2026-09-16T04:00:00.000Z",
@@ -33,7 +429,7 @@
     "sourceUrl": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916"
   },
   {
-    "id": 4,
+    "id": 40,
     "title": "MIT startups inspire with impressive presentations at Demo Day 2026",
     "category": "TECH",
     "date": "2026-09-16T04:00:00.000Z",
@@ -44,51 +440,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-startups-inspire-with-impressive-presentations-demo-day-0916"
   },
   {
-    "id": 5,
-    "title": "How rising bond yields impact American consumers",
-    "category": "BUSINESS",
-    "date": "2026-09-16T03:58:32.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
-    "content": "<h2>概要</h2><p>The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.</p><p><a href=\"https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 6,
-    "title": "Transparency and trust are the foundations of every successful research partnership, report suggests",
-    "category": "SCIENCE",
-    "date": "2026-09-16T03:40:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "According to research by the IfM Bonn, strengthening research collaboration between universities and businesses requires regional technology transfer networks in which technology transfer offices at universities and research institutions, as well as chambers of commerce and industry, trade associations, chambers of crafts, business-related networks and financial intermediaries, all play an active role. In this way, networking opportunities could be pooled and examples of good practice highlighted.",
-    "content": "<h2>概要</h2><p>According to research by the IfM Bonn, strengthening research collaboration between universities and businesses requires regional technology transfer networks in which technology transfer offices at universities and research institutions, as well as chambers of commerce and industry, trade associations, chambers of crafts, business-related networks and financial intermediaries, all play an active role. In this way, networking opportunities could be pooled and examples of good practice highlighted.</p><p><a href=\"https://phys.org/news/2026-09-transparency-foundations-successful-partnership.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-transparency-foundations-successful-partnership.html"
-  },
-  {
-    "id": 7,
-    "title": "How high turnover rates in Tanzania's agro-dealer sector affect farmer fertilizer adoption",
-    "category": "SCIENCE",
-    "date": "2026-09-16T02:40:04.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Smallholder farmers in sub-Saharan Africa adopt agricultural inputs, including fertilizer, at low rates, contributing to low agricultural productivity. Previous research has shown that insufficient information and distrust in the quality of products for sale in local markets are among the reasons for low rates of fertilizer adoption and application. In a new study published in the American Journal of Agricultural Economics, University of Illinois Urbana-Champaign researchers examined the agricultural marketplace in Tanzania, finding that frequent turnover among local agro-dealers affects farmer perceptions of product quality and has implications for broader market functioning.",
-    "content": "<h2>概要</h2><p>Smallholder farmers in sub-Saharan Africa adopt agricultural inputs, including fertilizer, at low rates, contributing to low agricultural productivity. Previous research has shown that insufficient information and distrust in the quality of products for sale in local markets are among the reasons for low rates of fertilizer adoption and application. In a new study published in the American Journal of Agricultural Economics, University of Illinois Urbana-Champaign researchers examined the agricultural marketplace in Tanzania, finding that frequent turnover among local agro-dealers affects farmer perceptions of product quality and has implications for broader market functioning.</p><p><a href=\"https://phys.org/news/2026-09-high-turnover-tanzania-agro-dealer.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-high-turnover-tanzania-agro-dealer.html"
-  },
-  {
-    "id": 8,
-    "title": "A new mechanism for reading extra-long genes in neurons",
-    "category": "SCIENCE",
-    "date": "2026-09-16T02:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Neurons in humans and other mammals express many exceptionally long genes, ranging from more than 100 kbp to more than 2 Mbp, that are important for forming synapses and neural circuits. In general, genetic information is read from DNA into RNA. This process is called transcription. The longer a gene is, the more time it takes to read from beginning to end. In addition, gene expression must be regulated at several steps. Neurons are therefore thought to require special mechanisms to read long genes accurately and stably, but the details of these mechanisms have remained unclear.",
-    "content": "<h2>概要</h2><p>Neurons in humans and other mammals express many exceptionally long genes, ranging from more than 100 kbp to more than 2 Mbp, that are important for forming synapses and neural circuits. In general, genetic information is read from DNA into RNA. This process is called transcription. The longer a gene is, the more time it takes to read from beginning to end. In addition, gene expression must be regulated at several steps. Neurons are therefore thought to require special mechanisms to read long genes accurately and stably, but the details of these mechanisms have remained unclear.</p><p><a href=\"https://phys.org/news/2026-09-mechanism-extra-genes-neurons.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-mechanism-extra-genes-neurons.html"
-  },
-  {
-    "id": 9,
+    "id": 41,
     "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
     "category": "TECH",
     "date": "2026-09-16T02:00:00.000Z",
@@ -99,29 +451,7 @@
     "sourceUrl": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16"
   },
   {
-    "id": 10,
-    "title": "Study explores new photonics advance: Topology imprinting in nonlinear metasurfaces",
-    "category": "SCIENCE",
-    "date": "2026-09-16T01:40:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Light is traditionally described by properties such as wavelength, amplitude, phase and polarization. Advances in optics have shown that light can also be shaped into complex spatial patterns known as structured light, enabling new ways to carry information and interact with matter for applications in imaging, optical communications and information processing.",
-    "content": "<h2>概要</h2><p>Light is traditionally described by properties such as wavelength, amplitude, phase and polarization. Advances in optics have shown that light can also be shaped into complex spatial patterns known as structured light, enabling new ways to carry information and interact with matter for applications in imaging, optical communications and information processing.</p><p><a href=\"https://phys.org/news/2026-09-explores-photonics-advance-topology-imprinting.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-explores-photonics-advance-topology-imprinting.html"
-  },
-  {
-    "id": 11,
-    "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-    "category": "WORLD",
-    "date": "2026-09-16T01:29:20.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-    "content": "<h2>概要</h2><p>The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 12,
+    "id": 42,
     "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
     "category": "TECH",
     "date": "2026-09-16T01:00:00.000Z",
@@ -132,29 +462,7 @@
     "sourceUrl": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability"
   },
   {
-    "id": 13,
-    "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-    "category": "TECH",
-    "date": "2026-09-16T00:59:20.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-    "content": "<h2>概要</h2><p>Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Technology",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 14,
-    "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-    "category": "BUSINESS",
-    "date": "2026-09-16T00:59:20.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-    "content": "<h2>概要</h2><p>Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 15,
+    "id": 43,
     "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
     "category": "WORLD",
     "date": "2026-09-16T00:55:41.000Z",
@@ -165,7 +473,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy"
   },
   {
-    "id": 16,
+    "id": 44,
     "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
     "category": "TECH",
     "date": "2026-09-16T00:20:39.000Z",
@@ -176,7 +484,18 @@
     "sourceUrl": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
   },
   {
-    "id": 17,
+    "id": 45,
+    "title": "UK in talks about joining global defence bank led by Canada",
+    "category": "BUSINESS",
+    "date": "2026-09-15T23:50:55.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
+    "content": "<h2>概要</h2><p>Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 46,
     "title": "NASA Ames Stars of the Month: September 2026",
     "category": "SPACE",
     "date": "2026-09-15T23:46:11.000Z",
@@ -187,29 +506,7 @@
     "sourceUrl": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/"
   },
   {
-    "id": 18,
-    "title": "NASA Ames Stars of the Month: September 2026",
-    "category": "SPACE",
-    "date": "2026-09-15T23:46:11.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/nasa-arc-s-stars-of-the-mont-sep-2026.jpg?w=1920",
-    "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Steve […]",
-    "content": "<h2>概要</h2><p>The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Steve […]</p><p><a href=\"https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/"
-  },
-  {
-    "id": 19,
-    "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
-    "category": "BUSINESS",
-    "date": "2026-09-15T23:39:55.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The global AI race is being hit by very localised political and environmental concerns",
-    "content": "<h2>概要</h2><p>The global AI race is being hit by very localised political and environmental concerns</p><p><a href=\"https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 20,
+    "id": 47,
     "title": "AI and data centers are incredibly unpopular in every poll",
     "category": "TECH",
     "date": "2026-09-15T23:34:25.000Z",
@@ -220,7 +517,7 @@
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
   },
   {
-    "id": 21,
+    "id": 48,
     "title": "AI app ads promoting 'objectification of women' banned by watchdog",
     "category": "TECH",
     "date": "2026-09-15T23:27:17.000Z",
@@ -231,29 +528,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 22,
-    "title": "The extreme engineering of aircraft windows",
-    "category": "BUSINESS",
-    "date": "2026-09-15T23:19:38.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Few companies have the technology to make aircraft windows which are getting harder to make.",
-    "content": "<h2>概要</h2><p>Few companies have the technology to make aircraft windows which are getting harder to make.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 23,
-    "title": "Complaints to watchdog about water firms jump 84%",
-    "category": "BUSINESS",
-    "date": "2026-09-15T23:14:08.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Many complaints were about affordability, after customers saw steep hikes to bills.",
-    "content": "<h2>概要</h2><p>Many complaints were about affordability, after customers saw steep hikes to bills.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 24,
+    "id": 49,
     "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
     "category": "TECH",
     "date": "2026-09-15T22:26:32.000Z",
@@ -264,7 +539,7 @@
     "sourceUrl": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/"
   },
   {
-    "id": 25,
+    "id": 50,
     "title": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey's future",
     "category": "WORLD",
     "date": "2026-09-15T22:26:14.000Z",
@@ -275,7 +550,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/15/nx-s1-5949212/turks-often-keep-gold-as-a-hedge-against-inflation-it-may-be-hurting-turkeys-future"
   },
   {
-    "id": 26,
+    "id": 51,
     "title": "The AI data center boom is colliding with cities scarred by big industry ",
     "category": "TECH",
     "date": "2026-09-15T21:47:38.000Z",
@@ -286,7 +561,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
   },
   {
-    "id": 27,
+    "id": 52,
     "title": " 22 years of science! NASA's Roman Space Telescope doubles its lifetime with super-precise engine burn ",
     "category": "SPACE",
     "date": "2026-09-15T21:24:37.000Z",
@@ -297,7 +572,7 @@
     "sourceUrl": "https://www.space.com/astronomy/22-years-of-science-nasas-roman-space-telescope-doubles-its-lifetime-with-super-precise-engine-burn"
   },
   {
-    "id": 28,
+    "id": 53,
     "title": "Webb reveals dynamic panorama of star formation, including smallest known brown dwarfs",
     "category": "SPACE",
     "date": "2026-09-15T21:20:01.000Z",
@@ -308,7 +583,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-webb-reveals-dynamic-panorama-star.html"
   },
   {
-    "id": 29,
+    "id": 54,
     "title": "How MIT student communities help develop lifelong skills and connections",
     "category": "TECH",
     "date": "2026-09-15T20:40:00.000Z",
@@ -319,7 +594,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-mit-student-communities-help-develop-lifelong-skills-connections-0915"
   },
   {
-    "id": 30,
+    "id": 55,
     "title": "Microsoft announces Windows and Surface event for October 7th",
     "category": "TECH",
     "date": "2026-09-15T20:36:59.000Z",
@@ -330,7 +605,18 @@
     "sourceUrl": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco"
   },
   {
-    "id": 31,
+    "id": 56,
+    "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+    "category": "WORLD",
+    "date": "2026-09-15T20:34:12.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+    "content": "<h2>概要</h2><p>The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".</p><p><a href=\"https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 57,
     "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
     "category": "TECH",
     "date": "2026-09-15T20:19:17.000Z",
@@ -341,18 +627,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/"
   },
   {
-    "id": 32,
-    "title": "What if social media isn’t hurting kids?",
-    "category": "TECH",
-    "date": "2026-09-15T20:13:30.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health since 2010. It quickly became a central rallying cry of the social media backlash. Haidt has been credited with helping inspire Australia's nationwide teen social media ban. He has joined forces with bereaved parents who are fighting tech companies in court. His name comes up unprompted in conversations with people in power who say his book opened their eyes to an online crisis. \nHaidt's theory has  …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health since 2010. It quickly became a central rallying cry of the social media backlash. Haidt has been credited with helping inspire Australia's nationwide teen social media ban. He has joined forces with bereaved parents who are fighting tech companies in court. His name comes up unprompted in conversations with people in power who say his book opened their eyes to an online crisis. \nHaidt's theory has  …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt"
-  },
-  {
-    "id": 33,
+    "id": 58,
     "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
     "category": "TECH",
     "date": "2026-09-15T20:12:53.000Z",
@@ -363,7 +638,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
   },
   {
-    "id": 34,
+    "id": 59,
     "title": " New 'StarCraft' game announced, but it's a grim open-world shooter and it's not coming until 2030 ",
     "category": "SPACE",
     "date": "2026-09-15T20:00:00.000Z",
@@ -374,7 +649,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-games/new-starcraft-game-announced-but-its-a-grim-open-world-shooter-and-its-not-coming-until-2030"
   },
   {
-    "id": 35,
+    "id": 60,
     "title": "MIT makes progress on campus climate goals",
     "category": "TECH",
     "date": "2026-09-15T19:55:00.000Z",
@@ -385,7 +660,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-makes-progress-campus-climate-goals-0915"
   },
   {
-    "id": 36,
+    "id": 61,
     "title": "MIT makes progress on campus climate goals",
     "category": "SCIENCE",
     "date": "2026-09-15T19:55:00.000Z",
@@ -396,7 +671,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-makes-progress-campus-climate-goals-0915"
   },
   {
-    "id": 37,
+    "id": 62,
     "title": " US Space Force says it operates weapons in orbit: 'Our aim is deterrence' ",
     "category": "SPACE",
     "date": "2026-09-15T19:54:56.000Z",
@@ -407,7 +682,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/satellites/us-space-force-says-it-operates-weapons-in-orbit-our-aim-is-deterrence"
   },
   {
-    "id": 38,
+    "id": 63,
     "title": "3 Questions: Putting nuclear waste into perspective",
     "category": "TECH",
     "date": "2026-09-15T19:30:00.000Z",
@@ -418,7 +693,7 @@
     "sourceUrl": "https://news.mit.edu/2026/3-questions-putting-nuclear-waste-into-perspective-0915"
   },
   {
-    "id": 39,
+    "id": 64,
     "title": "3 Questions: Putting nuclear waste into perspective",
     "category": "TECH",
     "date": "2026-09-15T19:30:00.000Z",
@@ -429,7 +704,7 @@
     "sourceUrl": "https://news.mit.edu/2026/3-questions-putting-nuclear-waste-into-perspective-0915"
   },
   {
-    "id": 40,
+    "id": 65,
     "title": "A Volcanic Seafloor Collapse Released a Massive Tsunami, and Scientists Got an Extremely Rare Look at the Submarine Devastation",
     "category": "MYSTERY",
     "date": "2026-09-15T19:07:11.000Z",
@@ -440,7 +715,7 @@
     "sourceUrl": "https://thedebrief.org/a-volcanic-seafloor-collapse-released-a-massive-tsunami-and-scientists-got-an-extremely-rare-look-at-the-submarine-devastation/"
   },
   {
-    "id": 41,
+    "id": 66,
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "category": "TECH",
     "date": "2026-09-15T19:00:00.000Z",
@@ -451,7 +726,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
   },
   {
-    "id": 42,
+    "id": 67,
     "title": "18-year-old dies of measles in PA from severe neurological complication",
     "category": "TECH",
     "date": "2026-09-15T18:58:09.000Z",
@@ -462,18 +737,7 @@
     "sourceUrl": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/"
   },
   {
-    "id": 43,
-    "title": "State of U.S. democracy reaches new low, report finds",
-    "category": "WORLD",
-    "date": "2026-09-15T18:57:42.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4676x3117+0+0/resize/4676x3117!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F44%2F28086f6c47458b8103606b7d9102%2Fap26257499640719.jpg",
-    "summary": "A new global democracy report finds the U.S. at its lowest level of democratic performance in the 50 years it has been measured.",
-    "content": "<h2>概要</h2><p>A new global democracy report finds the U.S. at its lowest level of democratic performance in the 50 years it has been measured.</p><p><a href=\"https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds"
-  },
-  {
-    "id": 44,
+    "id": 68,
     "title": "NASA Invites Media to International Observe the Moon Night",
     "category": "SPACE",
     "date": "2026-09-15T18:55:33.000Z",
@@ -484,18 +748,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/"
   },
   {
-    "id": 45,
-    "title": "NASA Invites Media to International Observe the Moon Night",
-    "category": "SPACE",
-    "date": "2026-09-15T18:55:33.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behind it, and its connection […]",
-    "content": "<h2>概要</h2><p>NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behind it, and its connection […]</p><p><a href=\"https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/"
-  },
-  {
-    "id": 46,
+    "id": 69,
     "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
     "category": "TECH",
     "date": "2026-09-15T18:48:08.000Z",
@@ -506,7 +759,7 @@
     "sourceUrl": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/"
   },
   {
-    "id": 47,
+    "id": 70,
     "title": " SpaceX's next Starship launch will lift off on Sept. 22 and aim to reach orbit for 1st time ",
     "category": "SPACE",
     "date": "2026-09-15T18:33:25.000Z",
@@ -517,73 +770,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-launch-will-lift-off-on-sept-22-and-aim-to-reach-orbit-for-1st-time"
   },
   {
-    "id": 48,
-    "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-    "category": "TECH",
-    "date": "2026-09-15T18:33:02.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Robots can start working outside physical cages and without safety barriers.",
-    "content": "<h2>概要</h2><p>Robots can start working outside physical cages and without safety barriers.</p><p><a href=\"https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/"
-  },
-  {
-    "id": 49,
-    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "category": "TECH",
-    "date": "2026-09-15T18:29:20.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-    "content": "<h2>概要</h2><p>The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.</p><p><a href=\"https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
-  },
-  {
-    "id": 50,
-    "title": "South African president vows justice as more women's bodies found near Johannesburg",
-    "category": "WORLD",
-    "date": "2026-09-15T18:01:51.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
-    "content": "<h2>概要</h2><p>Police have not linked the deaths to a serial killer but are investigating this possibility.</p><p><a href=\"https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 51,
-    "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-    "category": "TECH",
-    "date": "2026-09-15T18:00:09.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
-    "content": "<h2>概要</h2><p>The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.</p><p><a href=\"https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/"
-  },
-  {
-    "id": 52,
-    "title": " Microscopic alien technology may be hidden in moon dust, scientists say ",
-    "category": "SPACE",
-    "date": "2026-09-15T18:00:00.000Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/f8VoQswJXVLEHQbXBsp5mB-1280-80.jpg",
-    "summary": "Could we find alien technology embedded in moon dust?",
-    "content": "<h2>概要</h2><p>Could we find alien technology embedded in moon dust?</p><p><a href=\"https://www.space.com/space-exploration/search-for-life/microscopic-alien-technology-may-be-hidden-in-moon-dust-scientists-say\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Space.com",
-    "sourceUrl": "https://www.space.com/space-exploration/search-for-life/microscopic-alien-technology-may-be-hidden-in-moon-dust-scientists-say"
-  },
-  {
-    "id": 53,
-    "title": "The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards",
-    "category": "TECH",
-    "date": "2026-09-15T17:50:40.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "FBI director Kash Patel claimed to US senators that the removal of a bar on hiring people who had engaged in bestiality was aimed at protecting sexual assault survivors.",
-    "content": "<h2>概要</h2><p>FBI director Kash Patel claimed to US senators that the removal of a bar on hiring people who had engaged in bestiality was aimed at protecting sexual assault survivors.</p><p><a href=\"https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/"
-  },
-  {
-    "id": 54,
+    "id": 71,
     "title": "Roundtables: Could AI really kill us all?",
     "category": "TECH",
     "date": "2026-09-15T17:47:51.000Z",
@@ -594,7 +781,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
   },
   {
-    "id": 55,
+    "id": 72,
     "title": "Roundtables: Could AI really kill us all?",
     "category": "TECH",
     "date": "2026-09-15T17:47:51.000Z",
@@ -605,29 +792,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
   },
   {
-    "id": 56,
-    "title": "CubeSat instrument extends solar storm warnings 10x",
-    "category": "SPACE",
-    "date": "2026-09-15T17:20:13.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The sun is the reason life exists on our small, blue planet. It provides solar radiation that warms the planet and ignites intricate biochemical processes like photosynthesis, producing oxygen for life to breathe. However, while the sun is known for giving life, it can also take it away with solar flares, geomagnetic storms and solar radiation storms, collectively referred to as space weather.",
-    "content": "<h2>概要</h2><p>The sun is the reason life exists on our small, blue planet. It provides solar radiation that warms the planet and ignites intricate biochemical processes like photosynthesis, producing oxygen for life to breathe. However, while the sun is known for giving life, it can also take it away with solar flares, geomagnetic storms and solar radiation storms, collectively referred to as space weather.</p><p><a href=\"https://phys.org/news/2026-09-cubesat-instrument-solar-storm-10x.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-09-cubesat-instrument-solar-storm-10x.html"
-  },
-  {
-    "id": 57,
-    "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-    "category": "TECH",
-    "date": "2026-09-15T17:16:01.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "You can’t always tell if someone is recording you with their smart glasses, but your phone can help.",
-    "content": "<h2>概要</h2><p>You can’t always tell if someone is recording you with their smart glasses, but your phone can help.</p><p><a href=\"https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/"
-  },
-  {
-    "id": 58,
+    "id": 73,
     "title": "Celebrate International Observe the Moon Night with NASA",
     "category": "SPACE",
     "date": "2026-09-15T16:15:12.000Z",
@@ -638,18 +803,7 @@
     "sourceUrl": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/"
   },
   {
-    "id": 59,
-    "title": "Celebrate International Observe the Moon Night with NASA",
-    "category": "SPACE",
-    "date": "2026-09-15T16:15:12.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55314049769-13385da00b-k.jpg?w=1920",
-    "summary": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission. On Saturday, Sept. 19, the public is invited to look up again with NASA events across the country, including the International Observe the Moon Night celebration held at NASA’s Goddard Space […]",
-    "content": "<h2>概要</h2><p>In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission. On Saturday, Sept. 19, the public is invited to look up again with NASA events across the country, including the International Observe the Moon Night celebration held at NASA’s Goddard Space […]</p><p><a href=\"https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/"
-  },
-  {
-    "id": 60,
+    "id": 74,
     "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
     "category": "SPACE",
     "date": "2026-09-15T16:14:24.000Z",
@@ -660,62 +814,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/"
   },
   {
-    "id": 61,
-    "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
-    "category": "SPACE",
-    "date": "2026-09-15T16:14:24.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg?w=1366",
-    "summary": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made […]",
-    "content": "<h2>概要</h2><p>NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made […]</p><p><a href=\"https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/"
-  },
-  {
-    "id": 62,
-    "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-    "category": "WORLD",
-    "date": "2026-09-15T16:13:41.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
-    "content": "<h2>概要</h2><p>Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 63,
-    "title": "Join WIRED@Night for an Uncanny Valley Live Recording on Women, Tech, and Power",
-    "category": "TECH",
-    "date": "2026-09-15T16:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "An evening of podcasting in San Francisco (with a discount for WIRED readers).",
-    "content": "<h2>概要</h2><p>An evening of podcasting in San Francisco (with a discount for WIRED readers).</p><p><a href=\"https://www.wired.com/story/come-see-uncanny-valley-live/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/come-see-uncanny-valley-live/"
-  },
-  {
-    "id": 64,
-    "title": "Laser altimeter BELA ready to explore Mercury's surface",
-    "category": "SPACE",
-    "date": "2026-09-15T15:00:01.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Launched on Oct. 20, 2018, the joint ESA/JAXA BepiColombo mission has traveled for almost eight years, using a carefully planned but eventful sequence of planetary flybys and solar-electric propulsion to gradually approach its destination, Mercury. The mission is now entering the final stage of its journey to the smallest and innermost planet of our solar system.",
-    "content": "<h2>概要</h2><p>Launched on Oct. 20, 2018, the joint ESA/JAXA BepiColombo mission has traveled for almost eight years, using a carefully planned but eventful sequence of planetary flybys and solar-electric propulsion to gradually approach its destination, Mercury. The mission is now entering the final stage of its journey to the smallest and innermost planet of our solar system.</p><p><a href=\"https://phys.org/news/2026-09-laser-altimeter-bela-ready-explore.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-09-laser-altimeter-bela-ready-explore.html"
-  },
-  {
-    "id": 65,
-    "title": "What weapon could the US have put into space?",
-    "category": "WORLD",
-    "date": "2026-09-15T14:23:14.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
-    "content": "<h2>概要</h2><p>The announcement by the US points to a developing field of modern warfare in the Earth's orbit.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 66,
+    "id": 75,
     "title": "Webb reveals stunning panorama of star formation",
     "category": "SPACE",
     "date": "2026-09-15T14:00:00.000Z",
@@ -726,29 +825,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation"
   },
   {
-    "id": 67,
-    "title": "Travel",
-    "category": "SPACE",
-    "date": "2026-09-15T13:38:56.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2020/08/NSSC-BLDG-2012-03.jpg?w=1536",
-    "summary": "The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his […]",
-    "content": "<h2>概要</h2><p>The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his […]</p><p><a href=\"https://www.nasa.gov/centers-and-facilities/nssc/travel/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://www.nasa.gov/centers-and-facilities/nssc/travel/"
-  },
-  {
-    "id": 68,
-    "title": "Travel",
-    "category": "SPACE",
-    "date": "2026-09-15T13:38:56.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2020/08/NSSC-BLDG-2012-03.jpg?w=1536",
-    "summary": "The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his […]",
-    "content": "<h2>概要</h2><p>The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his […]</p><p><a href=\"https://www.nasa.gov/centers-and-facilities/nssc/travel/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/centers-and-facilities/nssc/travel/"
-  },
-  {
-    "id": 69,
+    "id": 76,
     "title": "NASA’s Chandra Discovers a Mysterious New Class of Cosmic Objects That Could Solve Two Longstanding Mysteries",
     "category": "MYSTERY",
     "date": "2026-09-15T13:27:41.000Z",
@@ -759,7 +836,7 @@
     "sourceUrl": "https://thedebrief.org/nasas-chandra-discovers-a-mysterious-new-class-of-cosmic-objects-that-could-solve-two-longstanding-mysteries/"
   },
   {
-    "id": 70,
+    "id": 77,
     "title": "iOS 27 is finally here, with the new Siri AI beta – and 120 security patches",
     "category": "TECH",
     "date": "2026-09-15T13:13:10.000Z",
@@ -770,18 +847,7 @@
     "sourceUrl": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/"
   },
   {
-    "id": 71,
-    "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
-    "category": "TECH",
-    "date": "2026-09-15T13:06:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Here are the best delivery services and meal kits in 2026, including the Martha Stewart meal service, a GLP-1–supportive plan, and a budget-friendly option.",
-    "content": "<h2>概要</h2><p>Here are the best delivery services and meal kits in 2026, including the Martha Stewart meal service, a GLP-1–supportive plan, and a budget-friendly option.</p><p><a href=\"https://www.wired.com/gallery/best-meal-kit-services-1/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/gallery/best-meal-kit-services-1/"
-  },
-  {
-    "id": 72,
+    "id": 78,
     "title": "15,000-Year-Old Stone Tool Experiments Shed Light on Mysterious Ancient Technological Transition",
     "category": "MYSTERY",
     "date": "2026-09-15T12:55:12.000Z",
@@ -792,7 +858,7 @@
     "sourceUrl": "https://thedebrief.org/15000-year-old-stone-tool-experiments-shed-light-on-mysterious-ancient-technological-transition/"
   },
   {
-    "id": 73,
+    "id": 79,
     "title": "Nature’s First Kiln May Have Been a Wildfire, New Research Reveals",
     "category": "MYSTERY",
     "date": "2026-09-15T12:50:51.000Z",
@@ -803,114 +869,48 @@
     "sourceUrl": "https://thedebrief.org/natures-first-kiln-may-have-been-a-wildfire-new-research-reveals/"
   },
   {
-    "id": 74,
-    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "category": "TECH",
-    "date": "2026-09-15T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/skin.spread.jpg?w=840",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…</p><p><a href=\"https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
-  },
-  {
-    "id": 75,
-    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "category": "TECH",
-    "date": "2026-09-15T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/skin.spread.jpg?w=840",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…</p><p><a href=\"https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
-  },
-  {
-    "id": 76,
-    "title": "AI models need more data about biology, and OpenAI is paying to create it",
-    "category": "TECH",
-    "date": "2026-09-15T12:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
-    "content": "<h2>概要</h2><p>Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…</p><p><a href=\"https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
-  },
-  {
-    "id": 77,
-    "title": "AI models need more data about biology, and OpenAI is paying to create it",
-    "category": "TECH",
-    "date": "2026-09-15T12:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
-    "content": "<h2>概要</h2><p>Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…</p><p><a href=\"https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
-  },
-  {
-    "id": 78,
-    "title": "Denmark says Russian warship fired flares at military helicopter",
-    "category": "WORLD",
-    "date": "2026-09-15T11:40:00.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-    "content": "<h2>概要</h2><p>The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 79,
-    "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
-    "category": "WORLD",
-    "date": "2026-09-15T11:35:49.000Z",
-    "image": "undefined",
-    "summary": "The Supreme Court has rejected Trump's mail-in voting restrictions ahead of the midterm elections. And, the Kennedy Center says it is on the brink of bankruptcy and could close soon.",
-    "content": "<h2>概要</h2><p>The Supreme Court has rejected Trump's mail-in voting restrictions ahead of the midterm elections. And, the Kennedy Center says it is on the brink of bankruptcy and could close soon.</p><p><a href=\"https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys"
-  },
-  {
     "id": 80,
-    "title": "A famous galaxy's black hole has been hiding its most violent behavior",
-    "category": "SPACE",
-    "date": "2026-09-15T11:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Astronomers have found that a nearby galaxy's black hole is blasting out a far more powerful and hidden gas outflow than previously realized. Studying NGC 1068, a well-known galaxy with an actively feeding black hole at its center, researchers combined new infrared observations with existing data to map how the black hole's energy is reshaping the surrounding gas. The results are reported in a paper published Aug. 6 in Astronomy & Astrophysics.",
-    "content": "<h2>概要</h2><p>Astronomers have found that a nearby galaxy's black hole is blasting out a far more powerful and hidden gas outflow than previously realized. Studying NGC 1068, a well-known galaxy with an actively feeding black hole at its center, researchers combined new infrared observations with existing data to map how the black hole's energy is reshaping the surrounding gas. The results are reported in a paper published Aug. 6 in Astronomy & Astrophysics.</p><p><a href=\"https://phys.org/news/2026-09-famous-galaxy-black-hole-violent.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-09-famous-galaxy-black-hole-violent.html"
+    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "category": "TECH",
+    "date": "2026-09-15T12:10:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/skin.spread.jpg?w=840",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…</p><p><a href=\"https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
   },
   {
     "id": 81,
-    "title": "Trump says Ukraine and Russia agreed to stop attacks on energy sites",
-    "category": "WORLD",
-    "date": "2026-09-15T10:42:10.000Z",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5968728",
-    "summary": "In the face of soaring diesel prices, President Trump claims Ukraine and Russia have agreed to halt strikes on each other's energy sites.",
-    "content": "<h2>概要</h2><p>In the face of soaring diesel prices, President Trump claims Ukraine and Russia have agreed to halt strikes on each other's energy sites.</p><p><a href=\"https://www.npr.org/2026/09/15/nx-s1-5968728/trump-says-ukraine-and-russia-agreed-to-stop-attacks-on-energy-sites\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/15/nx-s1-5968728/trump-says-ukraine-and-russia-agreed-to-stop-attacks-on-energy-sites"
+    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "category": "TECH",
+    "date": "2026-09-15T12:10:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/skin.spread.jpg?w=840",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…</p><p><a href=\"https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
   },
   {
     "id": 82,
-    "title": "Could the clues to ancient alien civilizations be hiding in moon dust?",
-    "category": "SPACE",
-    "date": "2026-09-15T10:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Most of our experience with the Search for Extraterrestrial Intelligence (SETI) has focused on capturing radio signals that alien species have sent out, whether intentionally or unintentionally. That creates a huge \"synchronicity\" problem—what if there aren't any alien civilizations broadcasting radio signals now, but there were a billion years ago? The Milky Way is around 13 billion years old—hoping that we exist at the same time as an alien civilization that happens to be actively messaging is a huge leap of faith.",
-    "content": "<h2>概要</h2><p>Most of our experience with the Search for Extraterrestrial Intelligence (SETI) has focused on capturing radio signals that alien species have sent out, whether intentionally or unintentionally. That creates a huge \"synchronicity\" problem—what if there aren't any alien civilizations broadcasting radio signals now, but there were a billion years ago? The Milky Way is around 13 billion years old—hoping that we exist at the same time as an alien civilization that happens to be actively messaging is a huge leap of faith.</p><p><a href=\"https://phys.org/news/2026-09-clues-ancient-alien-civilizations-moon.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-09-clues-ancient-alien-civilizations-moon.html"
+    "title": "AI models need more data about biology, and OpenAI is paying to create it",
+    "category": "TECH",
+    "date": "2026-09-15T12:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
+    "content": "<h2>概要</h2><p>Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…</p><p><a href=\"https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
   },
   {
     "id": 83,
-    "title": "What’s at stake in AI’s trillion-dollar gamble",
+    "title": "AI models need more data about biology, and OpenAI is paying to create it",
     "category": "TECH",
-    "date": "2026-09-15T10:00:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/h_16492684.jpg?w=840",
-    "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…",
-    "content": "<h2>概要</h2><p>When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…</p><p><a href=\"https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/\" target=\"_blank\">出典記事を読む</a></p>",
+    "date": "2026-09-15T12:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
+    "content": "<h2>概要</h2><p>Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…</p><p><a href=\"https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
+    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
   },
   {
     "id": 84,
@@ -925,6 +925,17 @@
   },
   {
     "id": 85,
+    "title": "What’s at stake in AI’s trillion-dollar gamble",
+    "category": "TECH",
+    "date": "2026-09-15T10:00:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/h_16492684.jpg?w=840",
+    "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…",
+    "content": "<h2>概要</h2><p>When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…</p><p><a href=\"https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
+  },
+  {
+    "id": 86,
     "title": "FLEX and Sentinel-3C launch highlights ",
     "category": "SPACE",
     "date": "2026-09-15T07:00:00.000Z",
@@ -935,7 +946,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights"
   },
   {
-    "id": 86,
+    "id": 87,
     "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
     "category": "WORLD",
     "date": "2026-09-15T04:00:27.000Z",
@@ -944,17 +955,6 @@
     "content": "<h2>概要</h2><p>Drive to save thousands of Afrikaners from false claims of ‘white genocide’ appears to show signs of slowing\nWhen Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees, many white South Africans who believed that they were victims of racism in their country thought that their prayers had been answered.\nHowever, in the past few months, dozens of applicants to the refugee programme have been rejected, with many left dismayed and confused as to why they would be left to face what Trump has falsely claimed is a “white genocide” in South Africa.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "The Guardian World",
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us"
-  },
-  {
-    "id": 87,
-    "title": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
-    "category": "WORLD",
-    "date": "2026-09-15T04:00:26.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under control\nAuthorities in the Democratic Republic of the Congo have announced that the Ebola outbreak ravaging parts of the country has reached its peak.\nFor the first time since the epidemic was declared in May, the numbers of people becoming infected is slowing down, according to officials.\n Continue reading...",
-    "content": "<h2>概要</h2><p>Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under control\nAuthorities in the Democratic Republic of the Congo have announced that the Ebola outbreak ravaging parts of the country has reached its peak.\nFor the first time since the epidemic was declared in May, the numbers of people becoming infected is slowing down, according to officials.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow"
   },
   {
     "id": 88,
@@ -1046,17 +1046,6 @@
   },
   {
     "id": 96,
-    "title": "Questions? Ask our Hera Space Companion!",
-    "category": "SPACE",
-    "date": "2026-09-14T14:00:00.000Z",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/hera_space_companion_front_page/27518928-2-eng-GB/Hera_Space_Companion_front_page_card_full.jpg",
-    "summary": "Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication platform, designed to make the European Space Agency’s first planetary defence mission accessible to everyone!",
-    "content": "<h2>概要</h2><p>Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication platform, designed to make the European Space Agency’s first planetary defence mission accessible to everyone!</p><p><a href=\"https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ESA Top News",
-    "sourceUrl": "https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion"
-  },
-  {
-    "id": 97,
     "title": "Mathematician Says Relationships Have a Critical Threshold—and Crossing It Can Predict When Love Falls Apart",
     "category": "MYSTERY",
     "date": "2026-09-14T13:05:48.000Z",
@@ -1067,29 +1056,7 @@
     "sourceUrl": "https://thedebrief.org/mathematician-says-relationships-have-a-critical-threshold-and-crossing-it-can-predict-when-love-falls-apart/"
   },
   {
-    "id": 98,
-    "title": "The London hospital funded by donors who invested in the slave trade",
-    "category": "WORLD",
-    "date": "2026-09-14T13:00:58.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved Africans\nInside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.\nThe Great Hall was a grand, formal space where governors weighed their philanthropic donations and drafted their wills, many while investing in the stock of companies built on the trafficking of enslaved Africans. Today, many of those donors are commemorated in acrylic gold paint on the boards.\n Continue reading...",
-    "content": "<h2>概要</h2><p>Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved Africans\nInside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.\nThe Great Hall was a grand, formal space where governors weighed their philanthropic donations and drafted their wills, many while investing in the stock of companies built on the trafficking of enslaved Africans. Today, many of those donors are commemorated in acrylic gold paint on the boards.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade"
-  },
-  {
-    "id": 99,
-    "title": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
-    "category": "WORLD",
-    "date": "2026-09-14T12:38:51.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Public offering of Aliko Dangote’s Nigerian oil refinery business could swell his net wealth by two-thirds\nThe fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in Nigeria listed publicly in the continent’s biggest-ever initial public offering.\nIf Monday’s flotation of Dangote Petroleum Refinery and Petrochemicals on the Nigerian exchange goes to plan, then Aliko Dangote will add a further $23bn (£17bn) to his $35bn net worth.\n Continue reading...",
-    "content": "<h2>概要</h2><p>Public offering of Aliko Dangote’s Nigerian oil refinery business could swell his net wealth by two-thirds\nThe fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in Nigeria listed publicly in the continent’s biggest-ever initial public offering.\nIf Monday’s flotation of Dangote Petroleum Refinery and Petrochemicals on the Nigerian exchange goes to plan, then Aliko Dangote will add a further $23bn (£17bn) to his $35bn net worth.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo"
-  },
-  {
-    "id": 100,
+    "id": 97,
     "title": "New method enables AI for safety-critical situations",
     "category": "TECH",
     "date": "2026-09-14T04:00:00.000Z",
@@ -1100,7 +1067,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914"
   },
   {
-    "id": 101,
+    "id": 98,
     "title": "MIT spinout turns plastic waste into resilient building materials",
     "category": "TECH",
     "date": "2026-09-14T04:00:00.000Z",
@@ -1111,18 +1078,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914"
   },
   {
-    "id": 102,
-    "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
-    "category": "WORLD",
-    "date": "2026-09-12T15:09:05.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi Kijanangoma\nUganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal forebears as ⁠his Tooro kingdom looked to put ⁠a bitter succession battle behind ​it.\nOyo’s appointed successor, the news anchor Edward Rukidi Kijanangoma, cast nine coffee berries into the grave at the Karambi Royal Tombs, marking the formal handover of power in the western Ugandan kingdom.\n Continue reading...",
-    "content": "<h2>概要</h2><p>Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi Kijanangoma\nUganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal forebears as ⁠his Tooro kingdom looked to put ⁠a bitter succession battle behind ​it.\nOyo’s appointed successor, the news anchor Edward Rukidi Kijanangoma, cast nine coffee berries into the grave at the Karambi Royal Tombs, marking the formal handover of power in the western Ugandan kingdom.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda"
-  },
-  {
-    "id": 103,
+    "id": 99,
     "title": "Switzerland takes a Swiss Army knife to Microsoft 365",
     "category": "TECH",
     "date": "2026-09-11T18:57:47.000Z",
@@ -1133,18 +1089,7 @@
     "sourceUrl": "https://www.zdnet.com/business/switzerland-replaces-microsoft-365-open-source-opendesk/"
   },
   {
-    "id": 104,
-    "title": "Your older iPhone just got free satellite service for another year – here’s why",
-    "category": "TECH",
-    "date": "2026-09-11T16:35:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "",
-    "content": "<h2>概要</h2><p></p><p><a href=\"https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "ZDNet",
-    "sourceUrl": "https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/"
-  },
-  {
-    "id": 105,
+    "id": 100,
     "title": "An electrochemical approach turns ammonia into pure hydrogen",
     "category": "SCIENCE",
     "date": "2026-09-09T15:00:00.000Z",
@@ -1155,7 +1100,7 @@
     "sourceUrl": "https://news.mit.edu/2026/electrochemical-approach-turns-ammonia-into-pure-hydrogen-0909"
   },
   {
-    "id": 106,
+    "id": 101,
     "title": "New research shows a neutrino laser is impossible",
     "category": "SCIENCE",
     "date": "2026-09-02T14:00:00.000Z",
@@ -1166,7 +1111,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902"
   },
   {
-    "id": 107,
+    "id": 102,
     "title": "Cognition and consciousness arise from analog computations, says new theory",
     "category": "SCIENCE",
     "date": "2026-09-01T20:35:00.000Z",
@@ -1177,7 +1122,7 @@
     "sourceUrl": "https://news.mit.edu/2026/cognition-consciousness-arise-from-analog-computations-says-new-theory-0901"
   },
   {
-    "id": 108,
+    "id": 103,
     "title": "Atlas of the brain’s striatum could guide researchers to new drug treatments",
     "category": "SCIENCE",
     "date": "2026-09-01T15:00:00.000Z",
@@ -1188,7 +1133,7 @@
     "sourceUrl": "https://news.mit.edu/2026/brains-striatum-atlas-could-guide-researchers-new-drug-treatments-0901"
   },
   {
-    "id": 109,
+    "id": 104,
     "title": "How Cisco is confronting the security crisis of agentic AI",
     "category": "TECH",
     "date": "2026-08-22T00:13:27.000Z",
@@ -1199,7 +1144,7 @@
     "sourceUrl": "https://www.zdnet.com/paid-content/article/how-cisco-is-confronting-the-security-crisis-of-agentic-ai/"
   },
   {
-    "id": 110,
+    "id": 105,
     "title": "εpsilon",
     "category": "SPACE",
     "date": "2026-01-21T12:54:00.000Z",
