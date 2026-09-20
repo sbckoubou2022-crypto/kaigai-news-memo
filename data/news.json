@@ -1,6 +1,138 @@
 [
   {
     "id": 1,
+    "title": "Welcome to Dogs Anonymous, the Online Support Group for People With Difficult Dogs",
+    "category": "TECH",
+    "date": "2026-09-20T11:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "“This is a place where you can come and say, I fucking hate my dog today,” a Dogs Anonymous cofounder tells WIRED. “And there are people who are going to be like, yeah, that was me last Tuesday.”",
+    "content": "<h2>概要</h2><p>“This is a place where you can come and say, I fucking hate my dog today,” a Dogs Anonymous cofounder tells WIRED. “And there are people who are going to be like, yeah, that was me last Tuesday.”</p><p><a href=\"https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/"
+  },
+  {
+    "id": 2,
+    "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
+    "category": "WORLD",
+    "date": "2026-09-20T10:45:39.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Moscow's mayor says 450 drones were downed during the \"unprecedented attack\", in which two people died.",
+    "content": "<h2>概要</h2><p>Moscow's mayor says 450 drones were downed during the \"unprecedented attack\", in which two people died.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 3,
+    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+    "category": "TECH",
+    "date": "2026-09-20T10:30:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+    "content": "<h2>概要</h2><p>The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.</p><p><a href=\"https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/"
+  },
+  {
+    "id": 4,
+    "title": "It’s Donald Trump Versus MAGA on Data Centers",
+    "category": "TECH",
+    "date": "2026-09-20T10:30:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+    "content": "<h2>概要</h2><p>The president has doubled down on data centers and AI. His base is running in the opposite direction.</p><p><a href=\"https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/"
+  },
+  {
+    "id": 5,
+    "title": "Meet the Academics Trying to Stop You From Having Sex in Robotaxis",
+    "category": "TECH",
+    "date": "2026-09-20T10:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "“You know ‘Bang Bus’? We don’t want that.”",
+    "content": "<h2>概要</h2><p>“You know ‘Bang Bus’? We don’t want that.”</p><p><a href=\"https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/"
+  },
+  {
+    "id": 6,
+    "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
+    "category": "TECH",
+    "date": "2026-09-20T10:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
+    "content": "<h2>概要</h2><p>The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.</p><p><a href=\"https://www.wired.com/story/us-government-foreign-made-router-ban-explained/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/"
+  },
+  {
+    "id": 7,
+    "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+    "category": "BUSINESS",
+    "date": "2026-09-20T09:32:50.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+    "content": "<h2>概要</h2><p>Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 8,
+    "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+    "category": "WORLD",
+    "date": "2026-09-20T09:16:42.000Z",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5440x3627+0+0/resize/5440x3627!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff7%2Fe7%2F30ae5c6649fcaa1d8badb854e7e1%2Fap26262779814089.jpg",
+    "summary": "Moscow's mayor described the wave of drones as the \"largest ever\" attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building.",
+    "content": "<h2>概要</h2><p>Moscow's mayor described the wave of drones as the \"largest ever\" attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building.</p><p><a href=\"https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow"
+  },
+  {
+    "id": 9,
+    "title": "T. rex teeth indicate it ran as warm as an elephant",
+    "category": "TECH",
+    "date": "2026-09-20T09:00:11.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+    "content": "<h2>概要</h2><p>Isotope ratios provide a hint that the giants were actively managing temperatures.</p><p><a href=\"https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/"
+  },
+  {
+    "id": 10,
+    "title": "German elections under way which could decide fate of Chancellor Merz",
+    "category": "WORLD",
+    "date": "2026-09-20T07:57:32.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
+    "content": "<h2>概要</h2><p>The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 11,
+    "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+    "category": "WORLD",
+    "date": "2026-09-20T04:49:11.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+    "content": "<h2>概要</h2><p>The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 12,
+    "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+    "category": "SPACE",
+    "date": "2026-09-20T04:05:00.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg?w=1280&#038;h=1477&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the […]",
+    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the […]</p><p><a href=\"https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/"
+  },
+  {
+    "id": 13,
     "title": "Saudi Arabia says Houthis tried to attack its capital",
     "category": "WORLD",
     "date": "2026-09-20T03:57:23.000Z",
@@ -11,18 +143,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital"
   },
   {
-    "id": 2,
-    "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-    "category": "WORLD",
-    "date": "2026-09-20T01:38:30.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
-    "content": "<h2>概要</h2><p>The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 3,
+    "id": 14,
     "title": "Houthis say they targeted Saudi capital with ballistic missiles",
     "category": "WORLD",
     "date": "2026-09-19T23:49:26.000Z",
@@ -33,7 +154,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 4,
+    "id": 15,
     "title": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
     "category": "SCIENCE",
     "date": "2026-09-19T23:30:01.000Z",
@@ -44,7 +165,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html"
   },
   {
-    "id": 5,
+    "id": 16,
     "title": "Not all AI workers think the tech could kill everyone",
     "category": "TECH",
     "date": "2026-09-19T23:01:57.000Z",
@@ -55,18 +176,18 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 6,
-    "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-    "category": "WORLD",
-    "date": "2026-09-19T23:01:38.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
-    "content": "<h2>概要</h2><p>Students spent years collecting evidence against their Indonesian principal, before falling in love.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss"
+    "id": 17,
+    "title": "Not all AI workers think the tech could kill everyone",
+    "category": "BUSINESS",
+    "date": "2026-09-19T23:01:57.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+    "content": "<h2>概要</h2><p>In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 7,
+    "id": 18,
     "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
     "category": "WORLD",
     "date": "2026-09-19T23:00:27.000Z",
@@ -77,7 +198,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 8,
+    "id": 19,
     "title": "How the malaria parasite boosts its transmission potential under stress conditions",
     "category": "SCIENCE",
     "date": "2026-09-19T21:00:05.000Z",
@@ -88,7 +209,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html"
   },
   {
-    "id": 9,
+    "id": 20,
     "title": "Sacred springs of South Africa—pure waters or polluted? We found tiny bits of plastic in the samples we tested",
     "category": "SCIENCE",
     "date": "2026-09-19T21:00:01.000Z",
@@ -99,7 +220,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-sacred-south-africa-pure-polluted.html"
   },
   {
-    "id": 10,
+    "id": 21,
     "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
     "category": "TECH",
     "date": "2026-09-19T20:44:40.000Z",
@@ -110,7 +231,7 @@
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy"
   },
   {
-    "id": 11,
+    "id": 22,
     "title": "Flock reportedly tries to shrink workforce with employee buyouts",
     "category": "TECH",
     "date": "2026-09-19T20:39:13.000Z",
@@ -121,7 +242,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
   },
   {
-    "id": 12,
+    "id": 23,
     "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
     "category": "TECH",
     "date": "2026-09-19T19:57:47.000Z",
@@ -132,7 +253,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
   },
   {
-    "id": 13,
+    "id": 24,
     "title": "Reconstructing the Great Miami Hurricane of 1926",
     "category": "SCIENCE",
     "date": "2026-09-19T19:30:01.000Z",
@@ -143,7 +264,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-reconstructing-great-miami-hurricane.html"
   },
   {
-    "id": 14,
+    "id": 25,
     "title": "Two-color light steers electrons through graphene's transient topological state",
     "category": "SCIENCE",
     "date": "2026-09-19T19:20:01.000Z",
@@ -154,18 +275,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-electrons-graphene-transient-topological-state.html"
   },
   {
-    "id": 15,
-    "title": "Journalists denied White House access after Trump banned some media outlets",
-    "category": "WORLD",
-    "date": "2026-09-19T19:13:49.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-    "content": "<h2>概要</h2><p>CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 16,
+    "id": 26,
     "title": "The new lines of southern Lebanon",
     "category": "WORLD",
     "date": "2026-09-19T19:00:24.000Z",
@@ -176,7 +286,7 @@
     "sourceUrl": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon"
   },
   {
-    "id": 17,
+    "id": 27,
     "title": "Google’s Gemini is the latest AI model to hack other companies",
     "category": "TECH",
     "date": "2026-09-19T17:30:00.000Z",
@@ -187,7 +297,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
   },
   {
-    "id": 18,
+    "id": 28,
     "title": "Trump treads further on free speech with new journalist bans",
     "category": "TECH",
     "date": "2026-09-19T17:10:21.000Z",
@@ -198,7 +308,7 @@
     "sourceUrl": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban"
   },
   {
-    "id": 19,
+    "id": 29,
     "title": "The US Navy just told us what’s on its tech wish list for the next several years",
     "category": "TECH",
     "date": "2026-09-19T17:00:00.000Z",
@@ -209,7 +319,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/"
   },
   {
-    "id": 20,
+    "id": 30,
     "title": "AI Keeps Getting Smarter—And Now Scientists Want to Know If It Can Build Robots",
     "category": "MYSTERY",
     "date": "2026-09-19T15:54:58.000Z",
@@ -220,7 +330,7 @@
     "sourceUrl": "https://thedebrief.org/ai-keeps-getting-smarter-and-now-scientists-want-to-know-if-it-can-build-robots/"
   },
   {
-    "id": 21,
+    "id": 31,
     "title": "This Breakthrough Computer Has No Chips—and Uses Trillions of DNA Strands to Do Math",
     "category": "MYSTERY",
     "date": "2026-09-19T15:45:30.000Z",
@@ -231,7 +341,7 @@
     "sourceUrl": "https://thedebrief.org/this-breakthrough-computer-has-no-chips-and-uses-trillions-of-dna-strands-to-do-math/"
   },
   {
-    "id": 22,
+    "id": 32,
     "title": "Gemini went rogue, hacked three companies, and Google hid it",
     "category": "TECH",
     "date": "2026-09-19T15:25:03.000Z",
@@ -242,7 +352,7 @@
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
   },
   {
-    "id": 23,
+    "id": 33,
     "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
     "category": "TECH",
     "date": "2026-09-19T15:00:00.000Z",
@@ -253,7 +363,7 @@
     "sourceUrl": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music"
   },
   {
-    "id": 24,
+    "id": 34,
     "title": "The colorful, unique Hyte X50 PC case is $50 off",
     "category": "TECH",
     "date": "2026-09-19T15:00:00.000Z",
@@ -264,7 +374,7 @@
     "sourceUrl": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale"
   },
   {
-    "id": 25,
+    "id": 35,
     "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
     "category": "TECH",
     "date": "2026-09-19T15:00:00.000Z",
@@ -275,7 +385,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
   },
   {
-    "id": 26,
+    "id": 36,
     "title": "What Separates Human Intelligence From AI? Scientists Say the Answer May Be Chemistry",
     "category": "MYSTERY",
     "date": "2026-09-19T14:11:44.000Z",
@@ -286,7 +396,7 @@
     "sourceUrl": "https://thedebrief.org/what-separates-human-intelligence-from-ai-scientists-say-the-answer-may-be-chemistry/"
   },
   {
-    "id": 27,
+    "id": 37,
     "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 19)",
     "category": "MYSTERY",
     "date": "2026-09-19T14:00:00.000Z",
@@ -297,7 +407,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/19/this-weeks-awesome-tech-stories-from-around-the-web-through-september-19-2/"
   },
   {
-    "id": 28,
+    "id": 38,
     "title": "Scientists Took a Tyrannosaurus Rex’s Temperature for the First Time, and It was Almost Like that of a Human",
     "category": "MYSTERY",
     "date": "2026-09-19T13:49:07.000Z",
@@ -308,7 +418,7 @@
     "sourceUrl": "https://thedebrief.org/scientists-took-a-tyrannosaurus-rexs-temperature-for-the-first-time-and-it-was-almost-like-that-of-a-human/"
   },
   {
-    "id": 29,
+    "id": 39,
     "title": "Google's Gemini AI hacked three companies in security test",
     "category": "TECH",
     "date": "2026-09-19T13:39:32.000Z",
@@ -319,7 +429,18 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 30,
+    "id": 40,
+    "title": "Google's Gemini AI hacked three companies in security test",
+    "category": "BUSINESS",
+    "date": "2026-09-19T13:39:32.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+    "content": "<h2>概要</h2><p>The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 41,
     "title": "Venus May Have Destroyed Its Own Moon, New Research Suggests",
     "category": "MYSTERY",
     "date": "2026-09-19T13:31:37.000Z",
@@ -330,7 +451,7 @@
     "sourceUrl": "https://thedebrief.org/venus-may-have-destroyed-its-own-moon-new-research-suggests/"
   },
   {
-    "id": 31,
+    "id": 42,
     "title": "France, Poland and European allies warn of escalating Russian 'hybrid' attacks",
     "category": "WORLD",
     "date": "2026-09-19T11:40:48.000Z",
@@ -341,7 +462,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks"
   },
   {
-    "id": 32,
+    "id": 43,
     "title": "Life in Kabul 5 years after the Taliban's return",
     "category": "WORLD",
     "date": "2026-09-19T11:40:40.000Z",
@@ -352,7 +473,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return"
   },
   {
-    "id": 33,
+    "id": 44,
     "title": "Learning another language may be one of the best ways to keep your brain healthy",
     "category": "TECH",
     "date": "2026-09-19T11:10:43.000Z",
@@ -363,7 +484,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/"
   },
   {
-    "id": 34,
+    "id": 45,
     "title": "Scientists simulate cosmic crashes to test whether icy moons gain or lose their ability to sustain life",
     "category": "SPACE",
     "date": "2026-09-19T11:00:06.000Z",
@@ -374,40 +495,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-scientists-simulate-cosmic-icy-moons.html"
   },
   {
-    "id": 35,
-    "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-    "category": "TECH",
-    "date": "2026-09-19T11:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-    "content": "<h2>概要</h2><p>AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.</p><p><a href=\"https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/"
-  },
-  {
-    "id": 36,
-    "title": "Tired of Cluttered Productivity Apps? This One’s Just a Text Document",
-    "category": "TECH",
-    "date": "2026-09-19T10:30:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The totally free macOS app Tasks.txt makes up for missing features with sheer elegance.",
-    "content": "<h2>概要</h2><p>The totally free macOS app Tasks.txt makes up for missing features with sheer elegance.</p><p><a href=\"https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/"
-  },
-  {
-    "id": 37,
-    "title": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score",
-    "category": "TECH",
-    "date": "2026-09-19T10:08:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Samsung’s latest smartwatch offers useful health tracking alongside a growing pile of metrics you may never use.",
-    "content": "<h2>概要</h2><p>Samsung’s latest smartwatch offers useful health tracking alongside a growing pile of metrics you may never use.</p><p><a href=\"https://www.wired.com/review/samsung-galaxy-watch9/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/review/samsung-galaxy-watch9/"
-  },
-  {
-    "id": 38,
+    "id": 46,
     "title": "Rings around a tiny body have changed over the past decade",
     "category": "TECH",
     "date": "2026-09-19T10:00:06.000Z",
@@ -418,40 +506,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/"
   },
   {
-    "id": 39,
-    "title": "An Editor’s Picks: The Best Gifts for Bird Lovers",
-    "category": "TECH",
-    "date": "2026-09-19T10:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Whether they’re into feeders, field guides, or games, these tried-and-tested picks are sure to land perfectly.",
-    "content": "<h2>概要</h2><p>Whether they’re into feeders, field guides, or games, these tried-and-tested picks are sure to land perfectly.</p><p><a href=\"https://www.wired.com/story/best-gifts-for-bird-lovers-2026/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/best-gifts-for-bird-lovers-2026/"
-  },
-  {
-    "id": 40,
-    "title": "Mathematicians Hate AI. They Can’t Quit It",
-    "category": "TECH",
-    "date": "2026-09-19T10:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-    "content": "<h2>概要</h2><p>Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.</p><p><a href=\"https://www.wired.com/story/mathematicians-cant-quit-ai/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/mathematicians-cant-quit-ai/"
-  },
-  {
-    "id": 41,
-    "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-    "category": "WORLD",
-    "date": "2026-09-19T06:39:57.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2F92%2F50b7814848f28cedf0096302919a%2Fap26261355186932.jpg",
-    "summary": "Russia's parliamentary election for the first time is being held in Ukraine's regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago.",
-    "content": "<h2>概要</h2><p>Russia's parliamentary election for the first time is being held in Ukraine's regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago.</p><p><a href=\"https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine"
-  },
-  {
-    "id": 42,
+    "id": 47,
     "title": "APOD: 2026 September 19 – A Zodiacal Night",
     "category": "SPACE",
     "date": "2026-09-19T04:05:00.000Z",
@@ -462,18 +517,7 @@
     "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/"
   },
   {
-    "id": 43,
-    "title": "APOD: 2026 September 19 – A Zodiacal Night",
-    "category": "SPACE",
-    "date": "2026-09-19T04:05:00.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=2060&#038;h=1393&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night SkyAnnotation A […]",
-    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night SkyAnnotation A […]</p><p><a href=\"https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/"
-  },
-  {
-    "id": 44,
+    "id": 48,
     "title": "Would Australians support a smart glasses ban?",
     "category": "TECH",
     "date": "2026-09-18T23:15:10.000Z",
@@ -484,7 +528,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 45,
+    "id": 49,
     "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
     "category": "WORLD",
     "date": "2026-09-18T23:08:49.000Z",
@@ -495,7 +539,18 @@
     "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea"
   },
   {
-    "id": 46,
+    "id": 50,
+    "title": "Billionaire Man United owner says he has lost confidence in the UK",
+    "category": "BUSINESS",
+    "date": "2026-09-18T23:06:16.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
+    "content": "<h2>概要</h2><p>Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 51,
     "title": "Virtual Biotech Company Puts 37,000 AI Agents to Work on Drug Discovery",
     "category": "MYSTERY",
     "date": "2026-09-18T22:11:54.000Z",
@@ -506,7 +561,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/18/virtual-biotech-company-puts-37000-ai-agents-to-work-on-drug-discovery/"
   },
   {
-    "id": 47,
+    "id": 52,
     "title": " ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience ",
     "category": "SPACE",
     "date": "2026-09-18T22:01:00.000Z",
@@ -517,7 +572,7 @@
     "sourceUrl": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience"
   },
   {
-    "id": 48,
+    "id": 53,
     "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
     "category": "TECH",
     "date": "2026-09-18T20:26:33.000Z",
@@ -528,7 +583,7 @@
     "sourceUrl": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
   },
   {
-    "id": 49,
+    "id": 54,
     "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
     "category": "SPACE",
     "date": "2026-09-18T19:56:08.000Z",
@@ -539,18 +594,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/"
   },
   {
-    "id": 50,
-    "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
-    "category": "SPACE",
-    "date": "2026-09-18T19:56:08.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg?w=1080",
-    "summary": "The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt Anderson will host Albania’s Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador of the Republic of Albania to the […]",
-    "content": "<h2>概要</h2><p>The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt Anderson will host Albania’s Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador of the Republic of Albania to the […]</p><p><a href=\"https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/"
-  },
-  {
-    "id": 51,
+    "id": 55,
     "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
     "category": "TECH",
     "date": "2026-09-18T19:20:50.000Z",
@@ -561,7 +605,7 @@
     "sourceUrl": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
   },
   {
-    "id": 52,
+    "id": 56,
     "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
     "category": "SPACE",
     "date": "2026-09-18T18:02:53.000Z",
@@ -572,29 +616,7 @@
     "sourceUrl": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/"
   },
   {
-    "id": 53,
-    "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
-    "category": "SPACE",
-    "date": "2026-09-18T18:02:53.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2026/wind-accreting-pulsar/GX_301-2_spectrum_med.jpg?w=2020&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the […]",
-    "content": "<h2>概要</h2><p>Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the […]</p><p><a href=\"https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/"
-  },
-  {
-    "id": 54,
-    "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
-    "category": "TECH",
-    "date": "2026-09-18T17:57:41.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
-    "content": "<h2>概要</h2><p>FCC rejects concerns about repressive governments buying influence over CBS owner.</p><p><a href=\"https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/"
-  },
-  {
-    "id": 55,
+    "id": 57,
     "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
     "category": "BUSINESS",
     "date": "2026-09-18T17:57:30.000Z",
@@ -605,7 +627,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 56,
+    "id": 58,
     "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
     "category": "WORLD",
     "date": "2026-09-18T17:27:39.000Z",
@@ -614,28 +636,6 @@
     "content": "<h2>概要</h2><p>Police fire teargas as protests break out in city of Minna after deaths of suspected illegal goldminers, many of whom were children\nSurvivors from a prison cell in Nigeria where 37 suspected illegal goldminers died while in the custody of a paramilitary group this week have recounted their panic and struggle for breath, as police on Friday fired teargas at people protesting against the deaths and imposed an overnight curfew in the city of Minna.\nThe victims – many of whom were children – were found dead on Thursday in the cells of the Nigeria Security and Civil Defence Corps (NSCDC), which had raided suspected illegal goldmines and ⁠locked up dozens of miners in the city, the state capital of the mineral-rich state of Niger.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "The Guardian World",
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna"
-  },
-  {
-    "id": 57,
-    "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins' ",
-    "category": "BUSINESS",
-    "date": "2026-09-18T17:15:02.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
-    "content": "<h2>概要</h2><p>Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 58,
-    "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-    "category": "BUSINESS",
-    "date": "2026-09-18T17:10:58.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
-    "content": "<h2>概要</h2><p>O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".</p><p><a href=\"https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": 59,
@@ -727,50 +727,6 @@
   },
   {
     "id": 67,
-    "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
-    "category": "SPACE",
-    "date": "2026-09-18T16:02:31.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/01/54387592956-0d0c5c9258-o.jpg?w=2048",
-    "summary": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
-    "content": "<h2>概要</h2><p>To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.</p><p><a href=\"https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/"
-  },
-  {
-    "id": 68,
-    "title": "Flight chaos caused by 'millisecond' software defect, report says",
-    "category": "BUSINESS",
-    "date": "2026-09-18T15:48:58.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
-    "content": "<h2>概要</h2><p>The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 69,
-    "title": "COSI Telescope Comes Together",
-    "category": "SPACE",
-    "date": "2026-09-18T15:45:03.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg?w=2048",
-    "summary": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the detector box cover the flex circuits, which carry signals from the detectors to the readout electronics. COSI […]",
-    "content": "<h2>概要</h2><p>UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the detector box cover the flex circuits, which carry signals from the detectors to the readout electronics. COSI […]</p><p><a href=\"https://www.nasa.gov/image-article/cosi-telescope-comes-together/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://www.nasa.gov/image-article/cosi-telescope-comes-together/"
-  },
-  {
-    "id": 70,
-    "title": "COSI Telescope Comes Together",
-    "category": "SPACE",
-    "date": "2026-09-18T15:45:03.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg?w=2048",
-    "summary": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the detector box cover the flex circuits, which carry signals from the detectors to the readout electronics. COSI […]",
-    "content": "<h2>概要</h2><p>UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the detector box cover the flex circuits, which carry signals from the detectors to the readout electronics. COSI […]</p><p><a href=\"https://www.nasa.gov/image-article/cosi-telescope-comes-together/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/image-article/cosi-telescope-comes-together/"
-  },
-  {
-    "id": 71,
     "title": "From the start, the solar system chose fire over ice to build its first bodies",
     "category": "SPACE",
     "date": "2026-09-18T15:40:09.000Z",
@@ -781,7 +737,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-solar-chose-ice-bodies.html"
   },
   {
-    "id": 72,
+    "id": 68,
     "title": "Time is running out to catch a giant planet's strange orbit",
     "category": "SPACE",
     "date": "2026-09-18T15:20:12.000Z",
@@ -792,7 +748,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-giant-planet-strange-orbit.html"
   },
   {
-    "id": 73,
+    "id": 69,
     "title": "Businesses finally seeing AI ROI, but 62% can’t handle the storage demands",
     "category": "TECH",
     "date": "2026-09-18T15:09:13.000Z",
@@ -803,7 +759,7 @@
     "sourceUrl": "https://www.zdnet.com/business/ai-storage-demand-seagate-study/"
   },
   {
-    "id": 74,
+    "id": 70,
     "title": "Fake calendar invites can infect your system, and they’re surging – how to protect yourself",
     "category": "TECH",
     "date": "2026-09-18T14:57:25.000Z",
@@ -814,7 +770,7 @@
     "sourceUrl": "https://www.zdnet.com/tech/fake-calendar-invites-malware/"
   },
   {
-    "id": 75,
+    "id": 71,
     "title": "Closing the space gap: A more precise way to measure distance between quasar pairs",
     "category": "SPACE",
     "date": "2026-09-18T14:20:01.000Z",
@@ -825,7 +781,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-space-gap-precise-distance-quasar.html"
   },
   {
-    "id": 76,
+    "id": 72,
     "title": "Week in images: 14-18 Sep 2026",
     "category": "SPACE",
     "date": "2026-09-18T13:05:00.000Z",
@@ -836,51 +792,51 @@
     "sourceUrl": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_14-18_Sep_2026"
   },
   {
+    "id": 73,
+    "title": "The Download: AI’s extinction risk and bioweapons threat",
+    "category": "TECH",
+    "date": "2026-09-18T12:10:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2024/12/MM10211_240711_05211.jpg?w=840",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…</p><p><a href=\"https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
+  },
+  {
+    "id": 74,
+    "title": "The Download: AI’s extinction risk and bioweapons threat",
+    "category": "TECH",
+    "date": "2026-09-18T12:10:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2024/12/MM10211_240711_05211.jpg?w=840",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…</p><p><a href=\"https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
+  },
+  {
+    "id": 75,
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "category": "TECH",
+    "date": "2026-09-18T11:29:22.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
+    "content": "<h2>概要</h2><p>On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…</p><p><a href=\"https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
+  },
+  {
+    "id": 76,
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "category": "TECH",
+    "date": "2026-09-18T11:29:22.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
+    "content": "<h2>概要</h2><p>On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…</p><p><a href=\"https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
+  },
+  {
     "id": 77,
-    "title": "The Download: AI’s extinction risk and bioweapons threat",
-    "category": "TECH",
-    "date": "2026-09-18T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2024/12/MM10211_240711_05211.jpg?w=840",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…</p><p><a href=\"https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
-  },
-  {
-    "id": 78,
-    "title": "The Download: AI’s extinction risk and bioweapons threat",
-    "category": "TECH",
-    "date": "2026-09-18T12:10:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2024/12/MM10211_240711_05211.jpg?w=840",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…</p><p><a href=\"https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
-  },
-  {
-    "id": 79,
-    "title": "Could AI really kill us all? Your questions, answered.",
-    "category": "TECH",
-    "date": "2026-09-18T11:29:22.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
-    "content": "<h2>概要</h2><p>On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…</p><p><a href=\"https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
-  },
-  {
-    "id": 80,
-    "title": "Could AI really kill us all? Your questions, answered.",
-    "category": "TECH",
-    "date": "2026-09-18T11:29:22.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
-    "content": "<h2>概要</h2><p>On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…</p><p><a href=\"https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
-  },
-  {
-    "id": 81,
     "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
     "category": "WORLD",
     "date": "2026-09-18T11:21:36.000Z",
@@ -891,18 +847,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout"
   },
   {
-    "id": 82,
-    "title": "We bought our £242,000 home without a deposit - here's how",
-    "category": "BUSINESS",
-    "date": "2026-09-18T10:43:03.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
-    "content": "<h2>概要</h2><p>The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 83,
+    "id": 78,
     "title": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
     "category": "WORLD",
     "date": "2026-09-18T10:00:15.000Z",
@@ -913,7 +858,7 @@
     "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline"
   },
   {
-    "id": 84,
+    "id": 79,
     "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
     "category": "TECH",
     "date": "2026-09-18T09:00:00.000Z",
@@ -924,7 +869,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
   },
   {
-    "id": 85,
+    "id": 80,
     "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
     "category": "TECH",
     "date": "2026-09-18T09:00:00.000Z",
@@ -935,7 +880,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
   },
   {
-    "id": 86,
+    "id": 81,
     "title": "‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers",
     "category": "WORLD",
     "date": "2026-09-18T08:30:12.000Z",
@@ -946,7 +891,7 @@
     "sourceUrl": "https://www.theguardian.com/books/2026/sep/18/olga-tokarczuk-j-m-coetzee-lead-calls-for-release-of-disappeared-eritrean-writers"
   },
   {
-    "id": 87,
+    "id": 82,
     "title": "A galaxy spinning out of sync",
     "category": "SPACE",
     "date": "2026-09-18T08:00:00.000Z",
@@ -957,7 +902,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync"
   },
   {
-    "id": 88,
+    "id": 83,
     "title": "Earth from Space: Laguna Colorada",
     "category": "SPACE",
     "date": "2026-09-18T08:00:00.000Z",
@@ -968,7 +913,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada"
   },
   {
-    "id": 89,
+    "id": 84,
     "title": "Fueling a return journey from Mars",
     "category": "TECH",
     "date": "2026-09-18T04:00:00.000Z",
@@ -979,7 +924,7 @@
     "sourceUrl": "https://news.mit.edu/2026/fueling-return-journey-from-mars-lanie-mckinney-0918"
   },
   {
-    "id": 90,
+    "id": 85,
     "title": "Fueling a return journey from Mars",
     "category": "TECH",
     "date": "2026-09-18T04:00:00.000Z",
@@ -990,7 +935,7 @@
     "sourceUrl": "https://news.mit.edu/2026/fueling-return-journey-from-mars-lanie-mckinney-0918"
   },
   {
-    "id": 91,
+    "id": 86,
     "title": "The virtual worlds where robots are trained",
     "category": "TECH",
     "date": "2026-09-17T23:00:47.000Z",
@@ -1001,7 +946,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 92,
+    "id": 87,
     "title": "The Next Frontier Is Not Artificial Intelligence—It’s Artificial Societies",
     "category": "MYSTERY",
     "date": "2026-09-17T22:01:12.000Z",
@@ -1012,7 +957,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/17/the-next-frontier-is-not-artificial-intelligence-its-artificial-societies/"
   },
   {
-    "id": 93,
+    "id": 88,
     "title": "Meet the 2026 tenured professors in the School of Humanities, Arts, and Social Sciences",
     "category": "TECH",
     "date": "2026-09-17T20:50:00.000Z",
@@ -1023,7 +968,7 @@
     "sourceUrl": "https://news.mit.edu/2026/tenured-professors-school-humanities-arts-social-sciences-0917"
   },
   {
-    "id": 94,
+    "id": 89,
     "title": "MIT School of Engineering faculty and staff receive awards in spring 2026",
     "category": "TECH",
     "date": "2026-09-17T20:20:00.000Z",
@@ -1034,7 +979,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-engineering-faculty-staff-receive-awards-0917"
   },
   {
-    "id": 95,
+    "id": 90,
     "title": "Roku rolls out over 30 subscription bundles for up to 30% off, plus a new Labs feature",
     "category": "TECH",
     "date": "2026-09-17T19:17:20.000Z",
@@ -1045,7 +990,7 @@
     "sourceUrl": "https://www.zdnet.com/home-and-office/roku-streaming-premium-bundles-labs-feature/"
   },
   {
-    "id": 96,
+    "id": 91,
     "title": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
     "category": "TECH",
     "date": "2026-09-17T17:00:00.000Z",
@@ -1056,7 +1001,7 @@
     "sourceUrl": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/"
   },
   {
-    "id": 97,
+    "id": 92,
     "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
     "category": "TECH",
     "date": "2026-09-17T14:33:12.000Z",
@@ -1067,7 +1012,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 98,
+    "id": 93,
     "title": "Bose returns with new open earbuds (and a refreshed favorite)",
     "category": "TECH",
     "date": "2026-09-17T13:00:19.000Z",
@@ -1078,7 +1023,7 @@
     "sourceUrl": "https://www.zdnet.com/tech/bose-ultra-earbuds-sport-open-earbuds/"
   },
   {
-    "id": 99,
+    "id": 94,
     "title": "The Download: mice with part-human brains and climate tech innovators",
     "category": "TECH",
     "date": "2026-09-17T12:10:00.000Z",
@@ -1089,7 +1034,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
   },
   {
-    "id": 100,
+    "id": 95,
     "title": "The Download: mice with part-human brains and climate tech innovators",
     "category": "TECH",
     "date": "2026-09-17T12:10:00.000Z",
@@ -1100,7 +1045,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
   },
   {
-    "id": 101,
+    "id": 96,
     "title": "Meet the innovators under 35 shaping climate tech",
     "category": "TECH",
     "date": "2026-09-17T10:00:00.000Z",
@@ -1111,7 +1056,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
   },
   {
-    "id": 102,
+    "id": 97,
     "title": "Meet the innovators under 35 shaping climate tech",
     "category": "TECH",
     "date": "2026-09-17T10:00:00.000Z",
@@ -1122,7 +1067,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
   },
   {
-    "id": 103,
+    "id": 98,
     "title": "Robotic lab sets up and runs optics experiments on demand",
     "category": "SCIENCE",
     "date": "2026-09-17T04:00:00.000Z",
@@ -1133,7 +1078,7 @@
     "sourceUrl": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917"
   },
   {
-    "id": 104,
+    "id": 99,
     "title": "New artist residency program at MIT expands views of the cosmos",
     "category": "SCIENCE",
     "date": "2026-09-16T18:30:00.000Z",
@@ -1144,7 +1089,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916"
   },
   {
-    "id": 105,
+    "id": 100,
     "title": "Nanoscale mechanics could enable brain-inspired computing",
     "category": "TECH",
     "date": "2026-09-16T18:00:00.000Z",
@@ -1155,7 +1100,7 @@
     "sourceUrl": "https://news.mit.edu/2026/nanoscale-mechanics-could-enable-brain-inspired-computing-0916"
   },
   {
-    "id": 106,
+    "id": 101,
     "title": "Nanoscale mechanics could enable brain-inspired computing",
     "category": "SCIENCE",
     "date": "2026-09-16T18:00:00.000Z",
@@ -1166,7 +1111,7 @@
     "sourceUrl": "https://news.mit.edu/2026/nanoscale-mechanics-could-enable-brain-inspired-computing-0916"
   },
   {
-    "id": 107,
+    "id": 102,
     "title": "MIT makes progress on campus climate goals",
     "category": "SCIENCE",
     "date": "2026-09-15T19:55:00.000Z",
@@ -1177,7 +1122,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-makes-progress-campus-climate-goals-0915"
   },
   {
-    "id": 108,
+    "id": 103,
     "title": "Single CAR T Injection Eases Multiple Sclerosis Symptoms in Small Trial",
     "category": "MYSTERY",
     "date": "2026-09-15T19:45:41.000Z",
@@ -1188,7 +1133,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/15/single-car-t-injection-eases-multiple-sclerosis-symptoms-in-small-trial/"
   },
   {
-    "id": 109,
+    "id": 104,
     "title": "Google’s Genome Atlas Predicts the Effect of Every Possible DNA Mutation",
     "category": "MYSTERY",
     "date": "2026-09-14T14:01:00.000Z",
@@ -1199,7 +1144,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/14/googles-genome-atlas-predicts-the-effect-of-every-possible-dna-mutation/"
   },
   {
-    "id": 110,
+    "id": 105,
     "title": "εpsilon",
     "category": "SPACE",
     "date": "2026-01-21T12:54:00.000Z",
