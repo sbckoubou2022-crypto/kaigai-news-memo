@@ -1,39 +1,226 @@
 [
   {
     "id": 1,
+    "title": "MIT named the nation’s top university by U.S. News for 2026-27",
+    "category": "TECH",
+    "date": "2026-09-22T04:01:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The Institute’s undergraduate engineering, computer science, and economics programs are No. 1; its business program is No. 2.",
+    "content": "<h2>概要</h2><p>The Institute’s undergraduate engineering, computer science, and economics programs are No. 1; its business program is No. 2.</p><p><a href=\"https://news.mit.edu/2026/mit-named-nations-top-university-us-news-0922\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/mit-named-nations-top-university-us-news-0922"
+  },
+  {
+    "id": 2,
+    "title": "MIT named the nation’s top university by U.S. News for 2026-27",
+    "category": "TECH",
+    "date": "2026-09-22T04:01:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The Institute’s undergraduate engineering, computer science, and economics programs are No. 1; its business program is No. 2.",
+    "content": "<h2>概要</h2><p>The Institute’s undergraduate engineering, computer science, and economics programs are No. 1; its business program is No. 2.</p><p><a href=\"https://news.mit.edu/2026/mit-named-nations-top-university-us-news-0922\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News Engineering",
+    "sourceUrl": "https://news.mit.edu/2026/mit-named-nations-top-university-us-news-0922"
+  },
+  {
+    "id": 3,
+    "title": "Films written by women make studios the most money, but budgets go to male filmmakers: Study",
+    "category": "SCIENCE",
+    "date": "2026-09-22T04:00:02.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "When the lights come back on and credits start rolling, it's easy to see that some of the most successful movies of the past few years—from \"Avatar: The Way of Water\" and \"Jurassic World\" to \"Barbie\"—were co-directed or co-written by women. These films are among those that bring in the most money for studios, a new Frontiers in Communication study notes.",
+    "content": "<h2>概要</h2><p>When the lights come back on and credits start rolling, it's easy to see that some of the most successful movies of the past few years—from \"Avatar: The Way of Water\" and \"Jurassic World\" to \"Barbie\"—were co-directed or co-written by women. These films are among those that bring in the most money for studios, a new Frontiers in Communication study notes.</p><p><a href=\"https://phys.org/news/2026-09-written-women-studios-money-male.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-written-women-studios-money-male.html"
+  },
+  {
+    "id": 4,
+    "title": "Podcast: SHASS’s special sauce",
+    "category": "TECH",
+    "date": "2026-09-22T04:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Established after World War II, the School of the Humanities, Arts, and Sciences is an integral part of the MIT experience. Three faculty reflect on the school’s ongoing impact.",
+    "content": "<h2>概要</h2><p>Established after World War II, the School of the Humanities, Arts, and Sciences is an integral part of the MIT experience. Three faculty reflect on the school’s ongoing impact.</p><p><a href=\"https://news.mit.edu/2026/podcast-shass-special-sauce-0922\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/podcast-shass-special-sauce-0922"
+  },
+  {
+    "id": 5,
+    "title": "Climate change also poses a threat to cultural heritage",
+    "category": "SCIENCE",
+    "date": "2026-09-22T03:40:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "When we talk about climate change, the debate usually centers on energy, biodiversity, carbon emissions or the economic costs of the transition. But another aspect of the problem remains largely underestimated: the impact of climate change on our cultural heritage.",
+    "content": "<h2>概要</h2><p>When we talk about climate change, the debate usually centers on energy, biodiversity, carbon emissions or the economic costs of the transition. But another aspect of the problem remains largely underestimated: the impact of climate change on our cultural heritage.</p><p><a href=\"https://phys.org/news/2026-09-climate-poses-threat-cultural-heritage.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-climate-poses-threat-cultural-heritage.html"
+  },
+  {
+    "id": 6,
+    "title": "Fast-food brands may build loyalty through emotional experiences, not service alone",
+    "category": "SCIENCE",
+    "date": "2026-09-22T02:40:04.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A study of more than 800 fast-food customers suggests that loyalty to a brand is shaped not only by satisfaction with the product or service but also by customers' emotional experiences. The study, published in the International Journal of Internet Marketing and Advertising, focused on fast-food consumers in Peru but could have implications for fast-food brands in other emerging markets.",
+    "content": "<h2>概要</h2><p>A study of more than 800 fast-food customers suggests that loyalty to a brand is shaped not only by satisfaction with the product or service but also by customers' emotional experiences. The study, published in the International Journal of Internet Marketing and Advertising, focused on fast-food consumers in Peru but could have implications for fast-food brands in other emerging markets.</p><p><a href=\"https://phys.org/news/2026-09-fast-food-brands-loyalty-emotional.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-fast-food-brands-loyalty-emotional.html"
+  },
+  {
+    "id": 7,
+    "title": "Young users ditch Google for AI, with unknown consequences",
+    "category": "SCIENCE",
+    "date": "2026-09-22T01:40:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Researchers have found that we know very little about how artificial intelligence use impacts younger school children's ability to learn and think.",
+    "content": "<h2>概要</h2><p>Researchers have found that we know very little about how artificial intelligence use impacts younger school children's ability to learn and think.</p><p><a href=\"https://phys.org/news/2026-09-young-users-ditch-google-ai.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-young-users-ditch-google-ai.html"
+  },
+  {
+    "id": 8,
+    "title": "Flights at major US airports delayed after cable cut by construction workers",
+    "category": "BUSINESS",
+    "date": "2026-09-22T01:36:54.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+    "content": "<h2>概要</h2><p>The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.</p><p><a href=\"https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 9,
+    "title": "Researcher studies mystical gemstones with a future in space exploration",
+    "category": "SCIENCE",
+    "date": "2026-09-22T00:40:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Ph.D. candidate Natalia Seliutina has followed gemstones from the -30° temperatures of Siberia to the carving studios of Ōtepoti and the particle accelerators of Taiwan in her quest to discover why pounamu is one of the toughest natural materials on Earth. Fresh from the publication of Natalia's paper in the New Zealand Journal of Geology and Geophysics, Kathryn van Beek catches up with her to find out how understanding the properties of pounamu might one day help us explore space.",
+    "content": "<h2>概要</h2><p>Ph.D. candidate Natalia Seliutina has followed gemstones from the -30° temperatures of Siberia to the carving studios of Ōtepoti and the particle accelerators of Taiwan in her quest to discover why pounamu is one of the toughest natural materials on Earth. Fresh from the publication of Natalia's paper in the New Zealand Journal of Geology and Geophysics, Kathryn van Beek catches up with her to find out how understanding the properties of pounamu might one day help us explore space.</p><p><a href=\"https://phys.org/news/2026-09-mystical-gemstones-future-space-exploration.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-mystical-gemstones-future-space-exploration.html"
+  },
+  {
+    "id": 10,
     "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
     "category": "WORLD",
-    "date": "2026-09-21T21:52:32.000Z",
+    "date": "2026-09-22T00:16:06.000Z",
     "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-    "content": "<h2>概要</h2><p>Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
+    "content": "<h2>概要</h2><p>Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC World",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 2,
-    "title": "New study reveals gaps in bison parasite management",
-    "category": "SCIENCE",
-    "date": "2026-09-21T21:40:06.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Gastrointestinal parasites can cause serious health problems in North American bison, but the drugs producers rely on to control them can become less effective when used too frequently or without knowing which animals actually need treatment.",
-    "content": "<h2>概要</h2><p>Gastrointestinal parasites can cause serious health problems in North American bison, but the drugs producers rely on to control them can become less effective when used too frequently or without knowing which animals actually need treatment.</p><p><a href=\"https://phys.org/news/2026-09-reveals-gaps-bison-parasite.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-reveals-gaps-bison-parasite.html"
+    "id": 11,
+    "title": "A cut cable disrupted hundreds of flights across the US",
+    "category": "TECH",
+    "date": "2026-09-21T23:48:56.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2242804026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "A JetBlue airplane past an FAA air traffic control tower at Philadelphia International Airport (PHL) in Philadelphia, Pennsylvania, US, on Friday, Oct. 24, 2025. JetBlue Airways Corp. is expected to release earnings figures on October 28. Photographer: Ryan Collerd/Bloomberg via Getty Images | Bloomberg via Getty Images\t\n\nHundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. \nFAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outage hammered airports across the Northeast, causing ground stops at all three major New York City airports.\nIn a statement to CNBC, Verizon said that it bore \"no responsibility for this incident,\" putting the blame on \"construction contractors working in the area\" that \"dug up and cut our cable.\" \nIronically, it looks like trains make have taken …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>A JetBlue airplane past an FAA air traffic control tower at Philadelphia International Airport (PHL) in Philadelphia, Pennsylvania, US, on Friday, Oct. 24, 2025. JetBlue Airways Corp. is expected to release earnings figures on October 28. Photographer: Ryan Collerd/Bloomberg via Getty Images | Bloomberg via Getty Images\t\n\nHundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. \nFAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outage hammered airports across the Northeast, causing ground stops at all three major New York City airports.\nIn a statement to CNBC, Verizon said that it bore \"no responsibility for this incident,\" putting the blame on \"construction contractors working in the area\" that \"dug up and cut our cable.\" \nIronically, it looks like trains make have taken …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us"
   },
   {
-    "id": 3,
-    "title": "Two new large stick insect species discovered in Australia's backyards and rainforests",
-    "category": "SCIENCE",
-    "date": "2026-09-21T21:40:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Insect \"detectives\" have discovered two new types of large stick insects, showing scientists are still uncovering new species in some of Australia's most well-studied landscapes. Researchers at the University of Sydney have revised the Australian representatives of the stick insect genus Anchiale, identifying two new species, one with unique \"lidded\" eggs. They also reinstated a third species that had been hidden in plain sight for decades.",
-    "content": "<h2>概要</h2><p>Insect \"detectives\" have discovered two new types of large stick insects, showing scientists are still uncovering new species in some of Australia's most well-studied landscapes. Researchers at the University of Sydney have revised the Australian representatives of the stick insect genus Anchiale, identifying two new species, one with unique \"lidded\" eggs. They also reinstated a third species that had been hidden in plain sight for decades.</p><p><a href=\"https://phys.org/news/2026-09-large-insect-species-australia-backyards.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-large-insect-species-australia-backyards.html"
+    "id": 12,
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "category": "TECH",
+    "date": "2026-09-21T23:44:28.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+    "content": "<h2>概要</h2><p>Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.</p><p><a href=\"https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
   },
   {
-    "id": 4,
+    "id": 13,
+    "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses ",
+    "category": "TECH",
+    "date": "2026-09-21T23:15:32.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13443464/acastro_181114_1777_amazon_hq2_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. \nThe initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon has a goal of becoming water positive - replenishing more water than it uses - by the end of the decade. It recently disclosed some information about its water use, but we still have an incomplete picture of the company's impact as a whole.\nAmazon announced the launch of a Colorado River Basin Collaborative today, with a mission to \"create one o …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. \nThe initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon has a goal of becoming water positive - replenishing more water than it uses - by the end of the decade. It recently disclosed some information about its water use, but we still have an incomplete picture of the company's impact as a whole.\nAmazon announced the launch of a Colorado River Basin Collaborative today, with a mission to \"create one o …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"
+  },
+  {
+    "id": 14,
+    "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+    "category": "BUSINESS",
+    "date": "2026-09-21T23:01:26.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+    "content": "<h2>概要</h2><p>The phenomenon sees retirees spend all their money on enjoying life to the full.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 15,
+    "title": "Vet prescription fees capped under rule changes",
+    "category": "BUSINESS",
+    "date": "2026-09-21T23:01:18.000Z",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+    "content": "<h2>概要</h2><p>Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Business",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 16,
+    "title": "Soaring living costs have many Nigerian couples rethinking the lavish wedding tradition",
+    "category": "WORLD",
+    "date": "2026-09-21T22:44:05.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5909146",
+    "summary": "Nigeria's lavish wedding tradition is colliding with a cost-of-living crisis, forcing young couples to rethink how they say \"I do.\"",
+    "content": "<h2>概要</h2><p>Nigeria's lavish wedding tradition is colliding with a cost-of-living crisis, forcing young couples to rethink how they say \"I do.\"</p><p><a href=\"https://www.npr.org/2026/09/21/nx-s1-5909146/soaring-living-costs-have-many-nigerian-couples-rethinking-the-lavish-wedding-tradition\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/09/21/nx-s1-5909146/soaring-living-costs-have-many-nigerian-couples-rethinking-the-lavish-wedding-tradition"
+  },
+  {
+    "id": 17,
+    "title": "Jupiter uses a surprisingly complex system to fend off particles from the sun",
+    "category": "SPACE",
+    "date": "2026-09-21T22:40:05.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A University of Iowa-led research team has reported in a new study the most detailed observations to date of the bow shock at Jupiter, our solar system's gas giant. The findings from NASA's Juno mission reveal key differences between Jupiter's bow shock and Earth's. They also may lead to a better understanding of the physics of how shocks function in even more powerful energy releases, such as those from dying stars. The research is published in Nature Communications.",
+    "content": "<h2>概要</h2><p>A University of Iowa-led research team has reported in a new study the most detailed observations to date of the bow shock at Jupiter, our solar system's gas giant. The findings from NASA's Juno mission reveal key differences between Jupiter's bow shock and Earth's. They also may lead to a better understanding of the physics of how shocks function in even more powerful energy releases, such as those from dying stars. The research is published in Nature Communications.</p><p><a href=\"https://phys.org/news/2026-09-jupiter-complex-fend-particles-sun.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-09-jupiter-complex-fend-particles-sun.html"
+  },
+  {
+    "id": 18,
+    "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+    "category": "WORLD",
+    "date": "2026-09-21T22:33:40.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle\nThe United States’ withdrawal from key aid programs has put has put healthcare in Africa and the Global South “under growing strain” a new report warns.\nThe report says the Trump administration’s cuts to programs such as US Agency for International Development (USAID), as well as the Covid-19 pandemic and rising costs of living globally have brought “new urgency” for the need to reform healthcare in the region.\n Continue reading...",
+    "content": "<h2>概要</h2><p>Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle\nThe United States’ withdrawal from key aid programs has put has put healthcare in Africa and the Global South “under growing strain” a new report warns.\nThe report says the Trump administration’s cuts to programs such as US Agency for International Development (USAID), as well as the Covid-19 pandemic and rising costs of living globally have brought “new urgency” for the need to reform healthcare in the region.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Guardian World",
+    "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl"
+  },
+  {
+    "id": 19,
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "category": "TECH",
+    "date": "2026-09-21T22:24:38.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+    "content": "<h2>概要</h2><p>A simple ClickFix attack is only one way to completely hijack the new agent.</p><p><a href=\"https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+  },
+  {
+    "id": 20,
+    "title": "Embracing the Equinox",
+    "category": "SPACE",
+    "date": "2026-09-21T21:55:40.000Z",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/5677/Equinox-1.jpeg?w=1920&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+    "summary": "Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and predicting equinoxes is one of the earliest skills in humanity’s astronomical toolkit. Many ancient observatories around the world observed equinoxes along with the more pronounced solstices. These days, […]",
+    "content": "<h2>概要</h2><p>Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and predicting equinoxes is one of the earliest skills in humanity’s astronomical toolkit. Many ancient observatories around the world observed equinoxes along with the more pronounced solstices. These days, […]</p><p><a href=\"https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NASA",
+    "sourceUrl": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/"
+  },
+  {
+    "id": 21,
     "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
     "category": "BUSINESS",
     "date": "2026-09-21T21:34:32.000Z",
@@ -44,18 +231,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 5,
-    "title": "Flights at major US airports delayed after cable cut by construction workers",
-    "category": "BUSINESS",
-    "date": "2026-09-21T21:31:42.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Verizon, which owns the cable, says it is working to repair it \"as quickly as possible\".",
-    "content": "<h2>概要</h2><p>Verizon, which owns the cable, says it is working to repair it \"as quickly as possible\".</p><p><a href=\"https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 6,
+    "id": 22,
     "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory  ",
     "category": "SPACE",
     "date": "2026-09-21T21:21:32.000Z",
@@ -66,40 +242,7 @@
     "sourceUrl": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/"
   },
   {
-    "id": 7,
-    "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory  ",
-    "category": "SPACE",
-    "date": "2026-09-21T21:21:32.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55541281672-5c736ba51b-k.jpg?w=2047",
-    "summary": "The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coalition of like‑minded nations committed to the responsible and transparent exploration of space. “It is my privilege to welcome the Republic of Albania as the 73rd signatory of the Artemis Accords,” said […]",
-    "content": "<h2>概要</h2><p>The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coalition of like‑minded nations committed to the responsible and transparent exploration of space. “It is my privilege to welcome the Republic of Albania as the 73rd signatory of the Artemis Accords,” said […]</p><p><a href=\"https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/"
-  },
-  {
-    "id": 8,
-    "title": "Sequencing genomes from museum collections could transform scientific inquiry",
-    "category": "SCIENCE",
-    "date": "2026-09-21T21:20:04.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Natural history collections around the world collectively hold more than 1 billion specimens, spanning a wide variety of times and places. These include species that are extinct or come from areas now transformed beyond recognition, providing data that cannot be found anywhere else.",
-    "content": "<h2>概要</h2><p>Natural history collections around the world collectively hold more than 1 billion specimens, spanning a wide variety of times and places. These include species that are extinct or come from areas now transformed beyond recognition, providing data that cannot be found anywhere else.</p><p><a href=\"https://phys.org/news/2026-09-sequencing-genomes-museum-scientific-inquiry.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-sequencing-genomes-museum-scientific-inquiry.html"
-  },
-  {
-    "id": 9,
-    "title": "New screening method finds rare DNA gyrase poison for future antibiotics",
-    "category": "SCIENCE",
-    "date": "2026-09-21T21:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The goal was to build a faster way to search for new antibiotics. The search turned up something unexpected. FIU biochemistry professor Fenfei Leng and a group of researchers set out to develop the first high-throughput screening method specifically designed to identify compounds that can poison bacterial DNA gyrase, an enzyme that bacteria need to survive.",
-    "content": "<h2>概要</h2><p>The goal was to build a faster way to search for new antibiotics. The search turned up something unexpected. FIU biochemistry professor Fenfei Leng and a group of researchers set out to develop the first high-throughput screening method specifically designed to identify compounds that can poison bacterial DNA gyrase, an enzyme that bacteria need to survive.</p><p><a href=\"https://phys.org/news/2026-09-screening-method-rare-dna-gyrase.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-screening-method-rare-dna-gyrase.html"
-  },
-  {
-    "id": 10,
+    "id": 23,
     "title": "AI and autonomous weapons are high on the agenda at the UN General Assembly",
     "category": "WORLD",
     "date": "2026-09-21T21:18:10.000Z",
@@ -110,18 +253,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/21/nx-s1-5974200/ai-and-autonomous-weapons-are-high-on-the-agenda-at-the-un-general-assembly"
   },
   {
-    "id": 11,
-    "title": "Student-led missions deploy free-flying light sails from CubeSats in low Earth orbit",
-    "category": "SCIENCE",
-    "date": "2026-09-21T21:10:02.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Students in Cornell's Space Systems Design Studio (SSDS) have released mission results for two unique light-sail experiments. These sails are slightly larger than a pizza box and harness momentum from photons to accelerate to high velocities. With ChipSats onboard—gram-scale spacecraft that fit in the palm of your hand—the sails can become free-flyers. They origami-fold into CubeSats for launch and completely separate when deployed, allowing them to be far smaller and lighter than traditional solar sails. The ChipSats provide all ground communications and steering capabilities for a fraction of the mass and cost.",
-    "content": "<h2>概要</h2><p>Students in Cornell's Space Systems Design Studio (SSDS) have released mission results for two unique light-sail experiments. These sails are slightly larger than a pizza box and harness momentum from photons to accelerate to high velocities. With ChipSats onboard—gram-scale spacecraft that fit in the palm of your hand—the sails can become free-flyers. They origami-fold into CubeSats for launch and completely separate when deployed, allowing them to be far smaller and lighter than traditional solar sails. The ChipSats provide all ground communications and steering capabilities for a fraction of the mass and cost.</p><p><a href=\"https://phys.org/news/2026-09-student-missions-deploy-free-flying.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-student-missions-deploy-free-flying.html"
-  },
-  {
-    "id": 12,
+    "id": 24,
     "title": "Student-led missions deploy free-flying light sails from CubeSats in low Earth orbit",
     "category": "SPACE",
     "date": "2026-09-21T21:10:02.000Z",
@@ -132,7 +264,18 @@
     "sourceUrl": "https://phys.org/news/2026-09-student-missions-deploy-free-flying.html"
   },
   {
-    "id": 13,
+    "id": 25,
+    "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+    "category": "TECH",
+    "date": "2026-09-21T21:07:05.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
+    "content": "<h2>概要</h2><p>Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.</p><p><a href=\"https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/"
+  },
+  {
+    "id": 26,
     "title": "NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce",
     "category": "SPACE",
     "date": "2026-09-21T21:03:04.000Z",
@@ -143,18 +286,18 @@
     "sourceUrl": "https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/"
   },
   {
-    "id": 14,
-    "title": "NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce",
-    "category": "SPACE",
-    "date": "2026-09-21T21:03:04.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/state-hubs-kickoff2-jpg.jpeg?w=2048",
-    "summary": "NASA kicked off its State Hubs for Skilled Technical Workforce initiative Sept. 15, 2026 with awardees at Space Center Houston. Agency leadership convened State Hub partners to align strategy and build momentum while focusing on partnerships, small business engagement, and next steps. “The NASA State Hubs initiative is a top priority for the agency, because […]",
-    "content": "<h2>概要</h2><p>NASA kicked off its State Hubs for Skilled Technical Workforce initiative Sept. 15, 2026 with awardees at Space Center Houston. Agency leadership convened State Hub partners to align strategy and build momentum while focusing on partnerships, small business engagement, and next steps. “The NASA State Hubs initiative is a top priority for the agency, because […]</p><p><a href=\"https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/"
+    "id": 27,
+    "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+    "category": "TECH",
+    "date": "2026-09-21T20:55:36.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The new carmaker is a joint venture between the Saudi PIF and Foxconn.",
+    "content": "<h2>概要</h2><p>The new carmaker is a joint venture between the Saudi PIF and Foxconn.</p><p><a href=\"https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/"
   },
   {
-    "id": 15,
+    "id": 28,
     "title": "Finding purpose through research",
     "category": "TECH",
     "date": "2026-09-21T20:35:00.000Z",
@@ -165,7 +308,7 @@
     "sourceUrl": "https://news.mit.edu/2026/finding-purpose-through-research-0921"
   },
   {
-    "id": 16,
+    "id": 29,
     "title": "Finding purpose through research",
     "category": "SCIENCE",
     "date": "2026-09-21T20:35:00.000Z",
@@ -176,7 +319,7 @@
     "sourceUrl": "https://news.mit.edu/2026/finding-purpose-through-research-0921"
   },
   {
-    "id": 17,
+    "id": 30,
     "title": "Early Mars rocks reveal at least three separate water episodes",
     "category": "SPACE",
     "date": "2026-09-21T20:30:01.000Z",
@@ -187,18 +330,18 @@
     "sourceUrl": "https://phys.org/news/2026-09-early-mars-reveal-episodes.html"
   },
   {
-    "id": 18,
+    "id": 31,
     "title": "California tightens rules on AI data center energy and water use",
     "category": "TECH",
     "date": "2026-09-21T20:29:45.000Z",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to local power grids and water systems.\nOther bills included in the package will require proposed data centers to disclose their estimated water use to local governments, along with information about energy efficiency and drought planning. They must also meet certain energy, water, and fuel consumption …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to local power grids and water systems.\nOther bills included in the package will require proposed data centers to disclose their estimated water use to local governments, along with information about energy efficiency and drought planning. They must also meet certain energy, water, and fuel consumption …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to local power grids and water systems.\nOther bills included in the package will require proposed data centers to disclose their estimated water use to local governments, along with information about energy efficiency and drought planning. They must also meet certain energy, water, and fuel consumption  …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to local power grids and water systems.\nOther bills included in the package will require proposed data centers to disclose their estimated water use to local governments, along with information about energy efficiency and drought planning. They must also meet certain energy, water, and fuel consumption  …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "The Verge",
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
   },
   {
-    "id": 19,
+    "id": 32,
     "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan ",
     "category": "WORLD",
     "date": "2026-09-21T20:26:41.000Z",
@@ -209,18 +352,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 20,
-    "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-    "category": "BUSINESS",
-    "date": "2026-09-21T20:21:18.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-    "content": "<h2>概要</h2><p>Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 21,
+    "id": 33,
     "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
     "category": "TECH",
     "date": "2026-09-21T20:15:58.000Z",
@@ -231,7 +363,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
   },
   {
-    "id": 22,
+    "id": 34,
     "title": "Earth's center of mass drifts less than we thought",
     "category": "SPACE",
     "date": "2026-09-21T19:40:06.000Z",
@@ -242,7 +374,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-earth-center-mass-drifts-thought.html"
   },
   {
-    "id": 23,
+    "id": 35,
     "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
     "category": "TECH",
     "date": "2026-09-21T19:25:00.000Z",
@@ -253,7 +385,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/"
   },
   {
-    "id": 24,
+    "id": 36,
     "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
     "category": "TECH",
     "date": "2026-09-21T19:19:21.000Z",
@@ -264,7 +396,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
   },
   {
-    "id": 25,
+    "id": 37,
     "title": "Perseverance’s View of ‘Turquoise Bay’",
     "category": "SPACE",
     "date": "2026-09-21T19:17:59.000Z",
@@ -275,18 +407,7 @@
     "sourceUrl": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/"
   },
   {
-    "id": 26,
-    "title": "Perseverance’s View of ‘Turquoise Bay’",
-    "category": "SPACE",
-    "date": "2026-09-21T19:17:59.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26815/PIA26815.jpg?w=11750&#038;h=2448&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of interest in the “Margin Unit.” The 818 images used to create the natural-color panorama were captured between Oct. 5 and Oct. 16, 2023, the 933rd to 944th Martian days, or sols, of the mission. […]",
-    "content": "<h2>概要</h2><p>Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of interest in the “Margin Unit.” The 818 images used to create the natural-color panorama were captured between Oct. 5 and Oct. 16, 2023, the 933rd to 944th Martian days, or sols, of the mission. […]</p><p><a href=\"https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/"
-  },
-  {
-    "id": 27,
+    "id": 38,
     "title": "Solar Orbiter catches the sun's missing high-speed vibrations",
     "category": "SPACE",
     "date": "2026-09-21T19:00:04.000Z",
@@ -297,7 +418,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-solar-orbiter-sun-high-vibrations.html"
   },
   {
-    "id": 28,
+    "id": 39,
     "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
     "category": "SPACE",
     "date": "2026-09-21T18:43:13.000Z",
@@ -308,18 +429,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/"
   },
   {
-    "id": 29,
-    "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
-    "category": "SPACE",
-    "date": "2026-09-21T18:43:13.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55540215826-eb77fe7409-o.jpg?w=2048",
-    "summary": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&T Bank Stadium, Sunday, Sept. 20, 2026, in Baltimore. NASA’s engagement at NFL games is part of the agency’s Inspiration Tour, […]",
-    "content": "<h2>概要</h2><p>NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&T Bank Stadium, Sunday, Sept. 20, 2026, in Baltimore. NASA’s engagement at NFL games is part of the agency’s Inspiration Tour, […]</p><p><a href=\"https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/"
-  },
-  {
-    "id": 30,
+    "id": 40,
     "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
     "category": "TECH",
     "date": "2026-09-21T18:33:02.000Z",
@@ -330,7 +440,7 @@
     "sourceUrl": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/"
   },
   {
-    "id": 31,
+    "id": 41,
     "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
     "category": "TECH",
     "date": "2026-09-21T18:23:05.000Z",
@@ -341,18 +451,7 @@
     "sourceUrl": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/"
   },
   {
-    "id": 32,
-    "title": "Meta’s AI agent has been blocked from using Amazon.com",
-    "category": "TECH",
-    "date": "2026-09-21T17:55:18.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-    "content": "<h2>概要</h2><p>Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?</p><p><a href=\"https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
-  },
-  {
-    "id": 33,
+    "id": 42,
     "title": "First UK charges brought over 1994 Rwanda genocide",
     "category": "WORLD",
     "date": "2026-09-21T17:48:23.000Z",
@@ -363,7 +462,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 34,
+    "id": 43,
     "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
     "category": "TECH",
     "date": "2026-09-21T17:47:54.000Z",
@@ -374,18 +473,18 @@
     "sourceUrl": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google"
   },
   {
-    "id": 35,
+    "id": 44,
     "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
     "category": "TECH",
     "date": "2026-09-21T17:42:15.000Z",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger.\nAccording to the proposed consent decree filed with the court, it includes requirements like minimum numbers of theatrical film releases over the next five years, starting with 30 in year one and two, and 32 in the following years, and a commitment to spend at least $300 million more on production in the US compared to what the companies spent in 2025. At least four of the films produced must be i …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger.\nAccording to the proposed consent decree filed with the court, it includes requirements like minimum numbers of theatrical film releases over the next five years, starting with 30 in year one and two, and 32 in the following years, and a commitment to spend at least $300 million more on production in the US compared to what the companies spent in 2025. At least four of the films produced must be i …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger.\nAccording to the proposed consent decree filed with the court, it includes requirements like minimum numbers of theatrical film releases over the next five years, starting with 30 in years one and two and 32 in the following years, and a commitment to spend at least $300 million more on production in the US compared to what the companies spent in 2025. At least four of the films produced must be i …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger.\nAccording to the proposed consent decree filed with the court, it includes requirements like minimum numbers of theatrical film releases over the next five years, starting with 30 in years one and two and 32 in the following years, and a commitment to spend at least $300 million more on production in the US compared to what the companies spent in 2025. At least four of the films produced must be i …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "The Verge",
     "sourceUrl": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement"
   },
   {
-    "id": 36,
+    "id": 45,
     "title": "Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush",
     "category": "TECH",
     "date": "2026-09-21T17:22:19.000Z",
@@ -396,7 +495,7 @@
     "sourceUrl": "https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/"
   },
   {
-    "id": 37,
+    "id": 46,
     "title": "Carter Stubbs named Institute auditor",
     "category": "TECH",
     "date": "2026-09-21T17:00:00.000Z",
@@ -407,7 +506,7 @@
     "sourceUrl": "https://news.mit.edu/2026/carter-stubbs-named-institute-auditor-0921"
   },
   {
-    "id": 38,
+    "id": 47,
     "title": "Google confirms Gemini models hacked three companies in May 2026",
     "category": "TECH",
     "date": "2026-09-21T16:57:26.000Z",
@@ -418,7 +517,7 @@
     "sourceUrl": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
   },
   {
-    "id": 39,
+    "id": 48,
     "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
     "category": "WORLD",
     "date": "2026-09-21T16:54:56.000Z",
@@ -429,29 +528,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 40,
-    "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
-    "category": "SPACE",
-    "date": "2026-09-21T16:54:43.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/1-pia26815-mastcam-z-360-turquoise-bay-sols933-944-l0-natural-copy.jpg?w=2048",
-    "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top […]",
-    "content": "<h2>概要</h2><p>When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top […]</p><p><a href=\"https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA",
-    "sourceUrl": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
-  },
-  {
-    "id": 41,
-    "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
-    "category": "SPACE",
-    "date": "2026-09-21T16:54:43.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/1-pia26815-mastcam-z-360-turquoise-bay-sols933-944-l0-natural-copy.jpg?w=2048",
-    "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top […]",
-    "content": "<h2>概要</h2><p>When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top […]</p><p><a href=\"https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
-  },
-  {
-    "id": 42,
+    "id": 49,
     "title": "Russel Vought will reportedly be given veto power over all NIH grants",
     "category": "TECH",
     "date": "2026-09-21T16:40:26.000Z",
@@ -462,7 +539,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/"
   },
   {
-    "id": 43,
+    "id": 50,
     "title": "Repeated air traffic control failures leave us in worrying territory",
     "category": "BUSINESS",
     "date": "2026-09-21T16:39:01.000Z",
@@ -473,40 +550,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 44,
-    "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
-    "category": "TECH",
-    "date": "2026-09-21T16:35:59.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ghaul_08cropped.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, controversially removing older content from Destiny 2 that players had paid to access.\n\"We understand that removing these experiences had a lasting impact on player trust and enjoyment of Destiny,\" admits Bungie. \"We cannot change the decision we made, but we can acknowledge its impact and do the work to make it right by restoring these important parts of Destiny's history.\"\nAll Destiny 2 players will ge …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, controversially removing older content from Destiny 2 that players had paid to access.\n\"We understand that removing these experiences had a lasting impact on player trust and enjoyment of Destiny,\" admits Bungie. \"We cannot change the decision we made, but we can acknowledge its impact and do the work to make it right by restoring these important parts of Destiny's history.\"\nAll Destiny 2 players will ge …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations"
-  },
-  {
-    "id": 45,
-    "title": "Superdense neutron star caught feeding on a blue hypergiant's stellar wind",
-    "category": "SPACE",
-    "date": "2026-09-21T16:20:01.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Using data from the Japan–led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star's outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA's exploration of the extreme universe to better understand how the cosmos works.",
-    "content": "<h2>概要</h2><p>Using data from the Japan–led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star's outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA's exploration of the extreme universe to better understand how the cosmos works.</p><p><a href=\"https://phys.org/news/2026-09-superdense-neutron-star-caught-blue.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-09-superdense-neutron-star-caught-blue.html"
-  },
-  {
-    "id": 46,
-    "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
-    "category": "TECH",
-    "date": "2026-09-21T16:15:26.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
-    "content": "<h2>概要</h2><p>State AGs had \"very strong\" case that merger is illegal, Lina Khan says.</p><p><a href=\"https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/"
-  },
-  {
-    "id": 47,
+    "id": 51,
     "title": "1,000-Year-Old Artifact Bearing Unusual 11th Century “Medusa” Unearthed by Russian Archaeologists",
     "category": "MYSTERY",
     "date": "2026-09-21T16:11:45.000Z",
@@ -517,7 +561,7 @@
     "sourceUrl": "https://thedebrief.org/1000-year-old-artifact-bearing-unusual-11th-century-medusa-unearthed-by-russian-archaeologists/"
   },
   {
-    "id": 48,
+    "id": 52,
     "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
     "category": "TECH",
     "date": "2026-09-21T16:07:21.000Z",
@@ -528,29 +572,7 @@
     "sourceUrl": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/"
   },
   {
-    "id": 49,
-    "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-    "category": "TECH",
-    "date": "2026-09-21T15:37:56.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The president offered few details on what his proposed new AI Force would do.",
-    "content": "<h2>概要</h2><p>The president offered few details on what his proposed new AI Force would do.</p><p><a href=\"https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/"
-  },
-  {
-    "id": 50,
-    "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-    "category": "TECH",
-    "date": "2026-09-21T15:13:32.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xboxcontroller.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since it essentially knocks its price down to $30. Another way of thinking about it is you’re paying full price for the controller, but getting a big discount on the gift card.\nXbox Wireless Controller\n\nWhere to Buy:\n\n $80 at Newegg (with $50 gift card)\n\nThe controller included is a great option for Xbox or for PC. It supports Bluetooth connectivity, and it’s also a solid wireless gamepad to connect to a Steam Deck or any other gaming handheld that can be docked to a TV. While it lacks Hall effect sticks, it’s the best midrange controller from Microsoft yet, with a premium-feeling, comfortable design, a headphone jack, and good battery life (it supports swappable AA batteries).\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Corsair_Vanguard_96_Hype_Desk_1600x900.jpg\",\n    productImageAlt: \"VANGUARD 96 Mechanical Gaming Keyboard\",\n    productTitle: \"VANGUARD 96 Mechanical Gaming Keyboard\",\n    shortDescription: \"Refresh your setup with the CORSAIR VANGUARD 96 Mechanical Gaming Keyboard, featuring Pacific Blue keycaps, an included Matcha Green keycap set, and a space-saving 96% layout.\",\n    longDescription:\n      \"Give your desk a fresh look with the CORSAIR VANGUARD 96 Mechanical Gaming Keyboard. It comes with Pacific Blue keycaps pre-installed plus a complete Matcha Green keycap set, making it easy to switch up your setup. Its compact 96% design keeps the number pad and arrow keys while packing in CORSAIR MLX Plasma mechanical switches, an integrated color LCD screen, a multifunction rotary dial, hot-swappable switch support, 8,000Hz hyper-polling, and Stream Deck integration. From September 21 through September 27, the complete bundle is available for $129.99, down from $189.99 — a savings of $60.\",\n    purchaseUrl: \"https://go.corsair.com/c/482924/490888/8513?subId1=VergeHypeDesk&subId2=CorsairArticle92126&u=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fbundles%2Fvanguard96-pacificblue-matchagreen-keyboard-keycap-bundle-na%2Fvanguard96-pacificblue-matchagreen-keyboard-keycap-bundle-na&partnerpropertyid=7032191\",\n    purchaseLinkText: \"SHOP AT CORSAIR\"\n  };\n\n\n\nOther great Verge-approved deals\nThe Aurzen tri-fold mini projector is an awesome gadget. We said as much in our review, wherein Verge deputy editor Thomas Ricker used it in all sorts of scenarios to put it to the test. Normally $299, the USB-C chargeable projector is $249.99 at Best Buy for the rest of the day. Despite its small size, it’s surprisingly bright, and it easily connect to Android or iPhone so you can get to mirroring your games and other locally-stored content (or stuff that’s streamed via Plex or a similar service). Though, if it’s DRM-protected shows or movies you want to beam on your wall or makeshift surface, you’ll unfortunately need Aurzen’s pricey CastPlay Pro dongle that’s currently $105.\nI don’t want to jinx our good fortune, but I’ve been finding some appealing laptop deals recently. The latest is Acer’s Chromebook Plus Spin 514, which is one of the best, most well-rounded models available. Sure, it’s no high-end Googlebook, but it’s a pretty solid laptop for $499 at Best Buy (originally $749, the discount expires later today). It has a 14-inch 1200p touchscreen with a foldable 2-in-1 design, and its specs include the MediaTek Kompanio Ultra processor, 12GB RAM, 256GB of SSD storage, Wi-Fi 7 support. Given its Chromebook Plus designation, it includes one year of free access to Google AI Pro, which grants 5TB of cloud storage, YouTube Premium Lite, Google Home Premium, and other perks.\nThe price keeps falling at Amazon on Ugreen’s Nexode Pro multi-port wall charger. Originally $89.99, it has almost never sold for that amount. In fact, it dropped to $49.99 briefly following its debut, and has only dropped to $59.99 — its current price — once before. This is the kind of gadget that anyone who owns multiple USB-C chargeable tech products should have. It tops out at 140W speed when you use just one of its USB-C ports, and it can divvy up 160W of total power across five gadgets that are plugged in at once.",
-    "content": "<h2>概要</h2><p>Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since it essentially knocks its price down to $30. Another way of thinking about it is you’re paying full price for the controller, but getting a big discount on the gift card.\nXbox Wireless Controller\n\nWhere to Buy:\n\n $80 at Newegg (with $50 gift card)\n\nThe controller included is a great option for Xbox or for PC. It supports Bluetooth connectivity, and it’s also a solid wireless gamepad to connect to a Steam Deck or any other gaming handheld that can be docked to a TV. While it lacks Hall effect sticks, it’s the best midrange controller from Microsoft yet, with a premium-feeling, comfortable design, a headphone jack, and good battery life (it supports swappable AA batteries).\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Corsair_Vanguard_96_Hype_Desk_1600x900.jpg\",\n    productImageAlt: \"VANGUARD 96 Mechanical Gaming Keyboard\",\n    productTitle: \"VANGUARD 96 Mechanical Gaming Keyboard\",\n    shortDescription: \"Refresh your setup with the CORSAIR VANGUARD 96 Mechanical Gaming Keyboard, featuring Pacific Blue keycaps, an included Matcha Green keycap set, and a space-saving 96% layout.\",\n    longDescription:\n      \"Give your desk a fresh look with the CORSAIR VANGUARD 96 Mechanical Gaming Keyboard. It comes with Pacific Blue keycaps pre-installed plus a complete Matcha Green keycap set, making it easy to switch up your setup. Its compact 96% design keeps the number pad and arrow keys while packing in CORSAIR MLX Plasma mechanical switches, an integrated color LCD screen, a multifunction rotary dial, hot-swappable switch support, 8,000Hz hyper-polling, and Stream Deck integration. From September 21 through September 27, the complete bundle is available for $129.99, down from $189.99 — a savings of $60.\",\n    purchaseUrl: \"https://go.corsair.com/c/482924/490888/8513?subId1=VergeHypeDesk&subId2=CorsairArticle92126&u=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fbundles%2Fvanguard96-pacificblue-matchagreen-keyboard-keycap-bundle-na%2Fvanguard96-pacificblue-matchagreen-keyboard-keycap-bundle-na&partnerpropertyid=7032191\",\n    purchaseLinkText: \"SHOP AT CORSAIR\"\n  };\n\n\n\nOther great Verge-approved deals\nThe Aurzen tri-fold mini projector is an awesome gadget. We said as much in our review, wherein Verge deputy editor Thomas Ricker used it in all sorts of scenarios to put it to the test. Normally $299, the USB-C chargeable projector is $249.99 at Best Buy for the rest of the day. Despite its small size, it’s surprisingly bright, and it easily connect to Android or iPhone so you can get to mirroring your games and other locally-stored content (or stuff that’s streamed via Plex or a similar service). Though, if it’s DRM-protected shows or movies you want to beam on your wall or makeshift surface, you’ll unfortunately need Aurzen’s pricey CastPlay Pro dongle that’s currently $105.\nI don’t want to jinx our good fortune, but I’ve been finding some appealing laptop deals recently. The latest is Acer’s Chromebook Plus Spin 514, which is one of the best, most well-rounded models available. Sure, it’s no high-end Googlebook, but it’s a pretty solid laptop for $499 at Best Buy (originally $749, the discount expires later today). It has a 14-inch 1200p touchscreen with a foldable 2-in-1 design, and its specs include the MediaTek Kompanio Ultra processor, 12GB RAM, 256GB of SSD storage, Wi-Fi 7 support. Given its Chromebook Plus designation, it includes one year of free access to Google AI Pro, which grants 5TB of cloud storage, YouTube Premium Lite, Google Home Premium, and other perks.\nThe price keeps falling at Amazon on Ugreen’s Nexode Pro multi-port wall charger. Originally $89.99, it has almost never sold for that amount. In fact, it dropped to $49.99 briefly following its debut, and has only dropped to $59.99 — its current price — once before. This is the kind of gadget that anyone who owns multiple USB-C chargeable tech products should have. It tops out at 140W speed when you use just one of its USB-C ports, and it can divvy up 160W of total power across five gadgets that are plugged in at once.</p><p><a href=\"https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale"
-  },
-  {
-    "id": 51,
+    "id": 53,
     "title": "Batteries that safely break down in the GI tract could improve ingestible devices ",
     "category": "TECH",
     "date": "2026-09-21T15:00:00.000Z",
@@ -561,7 +583,7 @@
     "sourceUrl": "https://news.mit.edu/2026/batteries-safely-break-down-in-gi-tract-could-improve-ingestible-devices-0921"
   },
   {
-    "id": 52,
+    "id": 54,
     "title": "Batteries that safely break down in the GI tract could improve ingestible devices ",
     "category": "TECH",
     "date": "2026-09-21T15:00:00.000Z",
@@ -572,7 +594,7 @@
     "sourceUrl": "https://news.mit.edu/2026/batteries-safely-break-down-in-gi-tract-could-improve-ingestible-devices-0921"
   },
   {
-    "id": 53,
+    "id": 55,
     "title": "Here’s the iFixit Repairability Rating for the iPhone 18 Pro",
     "category": "TECH",
     "date": "2026-09-21T14:15:09.000Z",
@@ -583,7 +605,7 @@
     "sourceUrl": "https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability/"
   },
   {
-    "id": 54,
+    "id": 56,
     "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
     "category": "WORLD",
     "date": "2026-09-21T14:14:16.000Z",
@@ -594,7 +616,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 55,
+    "id": 57,
     "title": "James Webb Space Telescope Reveals an Unexpected Discovery About the Rings of a Strange Celestial Centaur",
     "category": "MYSTERY",
     "date": "2026-09-21T14:08:03.000Z",
@@ -605,7 +627,7 @@
     "sourceUrl": "https://thedebrief.org/james-webb-space-telescope-reveals-an-unexpected-discovery-about-the-rings-of-a-strange-celestial-centaur/"
   },
   {
-    "id": 56,
+    "id": 58,
     "title": "Juice to fly past Earth for third gravity assist",
     "category": "SPACE",
     "date": "2026-09-21T14:00:00.000Z",
@@ -616,18 +638,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
   },
   {
-    "id": 57,
-    "title": "Review: Neagley is a worthy spinoff to megahit Reacher",
-    "category": "TECH",
-    "date": "2026-09-21T13:53:46.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "It's a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.",
-    "content": "<h2>概要</h2><p>It's a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.</p><p><a href=\"https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Ars Technica",
-    "sourceUrl": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/"
-  },
-  {
-    "id": 58,
+    "id": 59,
     "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
     "category": "TECH",
     "date": "2026-09-21T13:00:00.000Z",
@@ -638,7 +649,7 @@
     "sourceUrl": "https://www.wired.com/story/google-launches-googlebook-laptops/"
   },
   {
-    "id": 59,
+    "id": 60,
     "title": "Apple Mac Mini (M6) Review: For the AI Curious",
     "category": "TECH",
     "date": "2026-09-21T13:00:00.000Z",
@@ -647,17 +658,6 @@
     "content": "<h2>概要</h2><p>Apple has refreshed the Mac Mini with a brand-new chip, the M6. And this time, it’s more focused on AI than ever.</p><p><a href=\"https://www.wired.com/review/apple-mac-mini-m6/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "Wired",
     "sourceUrl": "https://www.wired.com/review/apple-mac-mini-m6/"
-  },
-  {
-    "id": 60,
-    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-    "category": "TECH",
-    "date": "2026-09-21T12:20:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/Duks-Koschitz-and-Robert-Brackett-III.jpg?fit=2128,1196",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before…",
-    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before…</p><p><a href=\"https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
   },
   {
     "id": 61,
@@ -672,6 +672,17 @@
   },
   {
     "id": 62,
+    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+    "category": "TECH",
+    "date": "2026-09-21T12:20:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/Duks-Koschitz-and-Robert-Brackett-III.jpg?fit=2128,1196",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before…",
+    "content": "<h2>概要</h2><p>This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before…</p><p><a href=\"https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
+  },
+  {
+    "id": 63,
     "title": "Astronomers Find the Youngest Planet Ever Seen and Scientists Aren’t Sure How It Formed So Fast",
     "category": "MYSTERY",
     "date": "2026-09-21T12:14:19.000Z",
@@ -682,7 +693,7 @@
     "sourceUrl": "https://thedebrief.org/astronomers-find-the-youngest-planet-ever-seen-and-scientists-arent-sure-how-it-formed-so-fast/"
   },
   {
-    "id": 63,
+    "id": 64,
     "title": "Underground Nuclear Explosions in North Korea Caused a Serious Problem, and New Research Suggests It’s Getting Worse",
     "category": "MYSTERY",
     "date": "2026-09-21T12:11:56.000Z",
@@ -693,7 +704,7 @@
     "sourceUrl": "https://thedebrief.org/underground-nuclear-explosions-in-north-korea-caused-a-serious-problem-and-new-research-suggests-its-getting-worse/"
   },
   {
-    "id": 64,
+    "id": 65,
     "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
     "category": "TECH",
     "date": "2026-09-21T12:00:00.000Z",
@@ -702,53 +713,9 @@
     "content": "<h2>概要</h2><p>Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…</p><p><a href=\"https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "MIT Technology Review",
     "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
-  },
-  {
-    "id": 65,
-    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-    "category": "TECH",
-    "date": "2026-09-21T12:00:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP21194653997791.jpg?w=840",
-    "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
-    "content": "<h2>概要</h2><p>MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…</p><p><a href=\"https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
   },
   {
     "id": 66,
-    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-    "category": "TECH",
-    "date": "2026-09-21T12:00:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/site-bernal-death.jpg",
-    "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
-    "content": "<h2>概要</h2><p>When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…</p><p><a href=\"https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
-  },
-  {
-    "id": 67,
-    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-    "category": "TECH",
-    "date": "2026-09-21T12:00:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Embed_9-15-26_Border_470.jpg?w=840",
-    "summary": "She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.  This story is part of Dying…",
-    "content": "<h2>概要</h2><p>She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.  This story is part of Dying…</p><p><a href=\"https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
-  },
-  {
-    "id": 68,
-    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-    "category": "TECH",
-    "date": "2026-09-21T12:00:00.000Z",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Map-thumbnail-16_9-2.png",
-    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…",
-    "content": "<h2>概要</h2><p>Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…</p><p><a href=\"https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
-  },
-  {
-    "id": 69,
     "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
     "category": "TECH",
     "date": "2026-09-21T12:00:00.000Z",
@@ -759,7 +726,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
   },
   {
-    "id": 70,
+    "id": 67,
     "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
     "category": "TECH",
     "date": "2026-09-21T12:00:00.000Z",
@@ -770,7 +737,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
   },
   {
-    "id": 71,
+    "id": 68,
     "title": "She died at the San Diego border. A surveillance camera was in plain sight",
     "category": "TECH",
     "date": "2026-09-21T12:00:00.000Z",
@@ -781,7 +748,51 @@
     "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
   },
   {
+    "id": 69,
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "category": "TECH",
+    "date": "2026-09-21T12:00:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Map-thumbnail-16_9-2.png",
+    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…",
+    "content": "<h2>概要</h2><p>Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…</p><p><a href=\"https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+  },
+  {
+    "id": 70,
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "category": "TECH",
+    "date": "2026-09-21T12:00:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP21194653997791.jpg?w=840",
+    "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
+    "content": "<h2>概要</h2><p>MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…</p><p><a href=\"https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
+  },
+  {
+    "id": 71,
+    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+    "category": "TECH",
+    "date": "2026-09-21T12:00:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/site-bernal-death.jpg",
+    "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
+    "content": "<h2>概要</h2><p>When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…</p><p><a href=\"https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
+  },
+  {
     "id": 72,
+    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+    "category": "TECH",
+    "date": "2026-09-21T12:00:00.000Z",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Embed_9-15-26_Border_470.jpg?w=840",
+    "summary": "She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.  This story is part of Dying…",
+    "content": "<h2>概要</h2><p>She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.  This story is part of Dying…</p><p><a href=\"https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
+  },
+  {
+    "id": 73,
     "title": "The AI models that cheat the most, according to new CAIS benchmark",
     "category": "TECH",
     "date": "2026-09-21T11:53:04.000Z",
@@ -792,7 +803,7 @@
     "sourceUrl": "https://www.zdnet.com/innovation/ai-model-cheating-benchmark-cheatbench/"
   },
   {
-    "id": 73,
+    "id": 74,
     "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
     "category": "WORLD",
     "date": "2026-09-21T11:24:27.000Z",
@@ -803,7 +814,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting"
   },
   {
-    "id": 74,
+    "id": 75,
     "title": "Former UN Deputy Secretary General on the role of the UN in today's biggest conflicts",
     "category": "WORLD",
     "date": "2026-09-21T10:44:02.000Z",
@@ -812,17 +823,6 @@
     "content": "<h2>概要</h2><p>NPR's Michel Martin speaks with former United Nations Deputy Secretary General Mark Malloch-Brown about the relevance of the U.N.</p><p><a href=\"https://www.npr.org/2026/09/21/nx-s1-5974141/former-un-deputy-secretary-general-on-the-role-of-the-un-in-todays-biggest-conflicts\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "NPR World",
     "sourceUrl": "https://www.npr.org/2026/09/21/nx-s1-5974141/former-un-deputy-secretary-general-on-the-role-of-the-un-in-todays-biggest-conflicts"
-  },
-  {
-    "id": 75,
-    "title": "What are my rights if my flight is cancelled or delayed?",
-    "category": "BUSINESS",
-    "date": "2026-09-21T10:28:17.000Z",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
-    "content": "<h2>概要</h2><p>Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?</p><p><a href=\"https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Business",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": 76,
@@ -843,22 +843,11 @@
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "summary": "Tracking down senescent cells, which accumulate as we age, could help diagnose age-related disorders and guide researchers working on new treatments.",
     "content": "<h2>概要</h2><p>Tracking down senescent cells, which accumulate as we age, could help diagnose age-related disorders and guide researchers working on new treatments.</p><p><a href=\"https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News",
-    "sourceUrl": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921"
-  },
-  {
-    "id": 78,
-    "title": "Unmasking “zombie cells” in aging tissue with an AI-powered barcode",
-    "category": "TECH",
-    "date": "2026-09-21T09:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Tracking down senescent cells, which accumulate as we age, could help diagnose age-related disorders and guide researchers working on new treatments.",
-    "content": "<h2>概要</h2><p>Tracking down senescent cells, which accumulate as we age, could help diagnose age-related disorders and guide researchers working on new treatments.</p><p><a href=\"https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "MIT News Engineering",
     "sourceUrl": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921"
   },
   {
-    "id": 79,
+    "id": 78,
     "title": "Germany's leader stands his ground after his party loses in state elections",
     "category": "WORLD",
     "date": "2026-09-21T09:00:00.000Z",
@@ -869,18 +858,7 @@
     "sourceUrl": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz"
   },
   {
-    "id": 80,
-    "title": "What to know as world leaders converge at the United Nations this week",
-    "category": "WORLD",
-    "date": "2026-09-21T09:00:00.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4853x3313+0+0/resize/4853x3313!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2Fa2%2Fb8513b0c4408b983f61eee13d8e9%2Fgettyimages-2293714469.jpg",
-    "summary": "United Nations head António Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions.",
-    "content": "<h2>概要</h2><p>United Nations head António Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions.</p><p><a href=\"https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly"
-  },
-  {
-    "id": 81,
+    "id": 79,
     "title": "ESA and ISRO extend and broaden cooperation agreement",
     "category": "SPACE",
     "date": "2026-09-21T08:44:00.000Z",
@@ -891,7 +869,7 @@
     "sourceUrl": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement"
   },
   {
-    "id": 82,
+    "id": 80,
     "title": "Banished to alien lands: Trump’s secret deportation deals",
     "category": "WORLD",
     "date": "2026-09-21T05:00:38.000Z",
@@ -902,7 +880,7 @@
     "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals"
   },
   {
-    "id": 83,
+    "id": 81,
     "title": "Striking New Evidence of Hidden Chambers Near Tutankhamun’s Tomb Could Help Solve a Longstanding Archaeological Mystery",
     "category": "MYSTERY",
     "date": "2026-09-20T15:34:53.000Z",
@@ -913,7 +891,7 @@
     "sourceUrl": "https://thedebrief.org/striking-new-evidence-of-hidden-chambers-near-tutankhamuns-tomb-could-help-solve-a-longstanding-archaeological-mystery/"
   },
   {
-    "id": 84,
+    "id": 82,
     "title": "Not all AI workers think the tech could kill everyone",
     "category": "TECH",
     "date": "2026-09-19T23:01:57.000Z",
@@ -924,7 +902,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 85,
+    "id": 83,
     "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 19)",
     "category": "MYSTERY",
     "date": "2026-09-19T14:00:00.000Z",
@@ -935,7 +913,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/19/this-weeks-awesome-tech-stories-from-around-the-web-through-september-19-2/"
   },
   {
-    "id": 86,
+    "id": 84,
     "title": "Google's Gemini AI hacked three companies in security test",
     "category": "TECH",
     "date": "2026-09-19T13:39:32.000Z",
@@ -946,7 +924,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 87,
+    "id": 85,
     "title": "Would Australians support a smart glasses ban?",
     "category": "TECH",
     "date": "2026-09-18T23:15:10.000Z",
@@ -957,7 +935,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 88,
+    "id": 86,
     "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
     "category": "WORLD",
     "date": "2026-09-18T23:08:49.000Z",
@@ -968,7 +946,7 @@
     "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea"
   },
   {
-    "id": 89,
+    "id": 87,
     "title": "Virtual Biotech Company Puts 37,000 AI Agents to Work on Drug Discovery",
     "category": "MYSTERY",
     "date": "2026-09-18T22:11:54.000Z",
@@ -979,7 +957,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/18/virtual-biotech-company-puts-37000-ai-agents-to-work-on-drug-discovery/"
   },
   {
-    "id": 90,
+    "id": 88,
     "title": " ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience ",
     "category": "SPACE",
     "date": "2026-09-18T22:01:00.000Z",
@@ -990,7 +968,7 @@
     "sourceUrl": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience"
   },
   {
-    "id": 91,
+    "id": 89,
     "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
     "category": "WORLD",
     "date": "2026-09-18T17:27:39.000Z",
@@ -1001,18 +979,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna"
   },
   {
-    "id": 92,
-    "title": "MIT researchers are mapping extreme weather risks — and building tools to act on them",
-    "category": "TECH",
-    "date": "2026-09-18T16:55:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Climate Grand Challenges “New World of Weather” project shows how modeling, planning tools, and infrastructure analysis are translating research into real-world resilience.",
-    "content": "<h2>概要</h2><p>The Climate Grand Challenges “New World of Weather” project shows how modeling, planning tools, and infrastructure analysis are translating research into real-world resilience.</p><p><a href=\"https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News",
-    "sourceUrl": "https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918"
-  },
-  {
-    "id": 93,
+    "id": 90,
     "title": "MIT researchers are mapping extreme weather risks — and building tools to act on them",
     "category": "TECH",
     "date": "2026-09-18T16:55:00.000Z",
@@ -1023,7 +990,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918"
   },
   {
-    "id": 94,
+    "id": 91,
     "title": "MIT researchers are mapping extreme weather risks — and building tools to act on them",
     "category": "SCIENCE",
     "date": "2026-09-18T16:55:00.000Z",
@@ -1034,7 +1001,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918"
   },
   {
-    "id": 95,
+    "id": 92,
     "title": "A new understanding of how enzymes influence bacterial protein production",
     "category": "TECH",
     "date": "2026-09-18T16:20:00.000Z",
@@ -1045,7 +1012,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-enzymes-influence-bacterial-protein-production-0918"
   },
   {
-    "id": 96,
+    "id": 93,
     "title": "Businesses finally seeing AI ROI, but 62% can’t handle the storage demands",
     "category": "TECH",
     "date": "2026-09-18T15:09:13.000Z",
@@ -1056,7 +1023,7 @@
     "sourceUrl": "https://www.zdnet.com/business/ai-storage-demand-seagate-study/"
   },
   {
-    "id": 97,
+    "id": 94,
     "title": "Fake calendar invites can infect your system, and they’re surging – how to protect yourself",
     "category": "TECH",
     "date": "2026-09-18T14:57:25.000Z",
@@ -1067,7 +1034,7 @@
     "sourceUrl": "https://www.zdnet.com/tech/fake-calendar-invites-malware/"
   },
   {
-    "id": 98,
+    "id": 95,
     "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
     "category": "WORLD",
     "date": "2026-09-18T11:21:36.000Z",
@@ -1078,29 +1045,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout"
   },
   {
-    "id": 99,
-    "title": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
-    "category": "WORLD",
-    "date": "2026-09-18T10:00:15.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The African serval, illegally enclosed in the back yard, was subdued and transferred to an animal welfare facility \nLouisiana firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa illegally enclosed in the back yard, prompting an animal welfare agency to seek placing the creature in an appropriate environment, according to officials.\nFirefighters investigating a report of a minor fire at a home in the suburban New Orleans community of Marrero on Tuesday spotted the cat in question – an African serval – behind the residence in a chain-linked enclosure resembling a cramped baseball batting cage, a spokesperson for the local animal protection services said.\n Continue reading...",
-    "content": "<h2>概要</h2><p>The African serval, illegally enclosed in the back yard, was subdued and transferred to an animal welfare facility \nLouisiana firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa illegally enclosed in the back yard, prompting an animal welfare agency to seek placing the creature in an appropriate environment, according to officials.\nFirefighters investigating a report of a minor fire at a home in the suburban New Orleans community of Marrero on Tuesday spotted the cat in question – an African serval – behind the residence in a chain-linked enclosure resembling a cramped baseball batting cage, a spokesperson for the local animal protection services said.\n Continue reading...</p><p><a href=\"https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Guardian World",
-    "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline"
-  },
-  {
-    "id": 100,
-    "title": "Fueling a return journey from Mars",
-    "category": "TECH",
-    "date": "2026-09-18T04:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "PhD candidate Lanie McKinney is building technology to convert the Red Planet’s atmosphere into propellant for bringing astronauts home.",
-    "content": "<h2>概要</h2><p>PhD candidate Lanie McKinney is building technology to convert the Red Planet’s atmosphere into propellant for bringing astronauts home.</p><p><a href=\"https://news.mit.edu/2026/fueling-return-journey-from-mars-lanie-mckinney-0918\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News Engineering",
-    "sourceUrl": "https://news.mit.edu/2026/fueling-return-journey-from-mars-lanie-mckinney-0918"
-  },
-  {
-    "id": 101,
+    "id": 96,
     "title": "The virtual worlds where robots are trained",
     "category": "TECH",
     "date": "2026-09-17T23:00:47.000Z",
@@ -1111,7 +1056,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 102,
+    "id": 97,
     "title": "The Next Frontier Is Not Artificial Intelligence—It’s Artificial Societies",
     "category": "MYSTERY",
     "date": "2026-09-17T22:01:12.000Z",
@@ -1122,7 +1067,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/17/the-next-frontier-is-not-artificial-intelligence-its-artificial-societies/"
   },
   {
-    "id": 103,
+    "id": 98,
     "title": "Roku rolls out over 30 subscription bundles for up to 30% off, plus a new Labs feature",
     "category": "TECH",
     "date": "2026-09-17T19:17:20.000Z",
@@ -1133,7 +1078,7 @@
     "sourceUrl": "https://www.zdnet.com/home-and-office/roku-streaming-premium-bundles-labs-feature/"
   },
   {
-    "id": 104,
+    "id": 99,
     "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
     "category": "TECH",
     "date": "2026-09-17T14:33:12.000Z",
@@ -1144,7 +1089,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 105,
+    "id": 100,
     "title": "Robotic lab sets up and runs optics experiments on demand",
     "category": "SCIENCE",
     "date": "2026-09-17T04:00:00.000Z",
@@ -1155,7 +1100,7 @@
     "sourceUrl": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917"
   },
   {
-    "id": 106,
+    "id": 101,
     "title": "New artist residency program at MIT expands views of the cosmos",
     "category": "SCIENCE",
     "date": "2026-09-16T18:30:00.000Z",
@@ -1166,7 +1111,7 @@
     "sourceUrl": "https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916"
   },
   {
-    "id": 107,
+    "id": 102,
     "title": "Nanoscale mechanics could enable brain-inspired computing",
     "category": "SCIENCE",
     "date": "2026-09-16T18:00:00.000Z",
@@ -1177,7 +1122,7 @@
     "sourceUrl": "https://news.mit.edu/2026/nanoscale-mechanics-could-enable-brain-inspired-computing-0916"
   },
   {
-    "id": 108,
+    "id": 103,
     "title": "Single CAR T Injection Eases Multiple Sclerosis Symptoms in Small Trial",
     "category": "MYSTERY",
     "date": "2026-09-15T19:45:41.000Z",
@@ -1188,7 +1133,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/15/single-car-t-injection-eases-multiple-sclerosis-symptoms-in-small-trial/"
   },
   {
-    "id": 109,
+    "id": 104,
     "title": "Google’s Genome Atlas Predicts the Effect of Every Possible DNA Mutation",
     "category": "MYSTERY",
     "date": "2026-09-14T14:01:00.000Z",
@@ -1199,7 +1144,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/14/googles-genome-atlas-predicts-the-effect-of-every-possible-dna-mutation/"
   },
   {
-    "id": 110,
+    "id": 105,
     "title": "εpsilon",
     "category": "SPACE",
     "date": "2026-01-21T12:54:00.000Z",
