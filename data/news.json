@@ -1,28 +1,160 @@
 [
   {
     "id": 1,
-    "title": "New imaging technologies offer a clearer view of coral reef change",
+    "title": "Today's emissions choices could limit Antarctic ice loss and sea-level rise for coastal communities",
     "category": "SCIENCE",
-    "date": "2026-10-03T16:00:01.000Z",
+    "date": "2026-10-03T20:00:01.000Z",
     "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "From a drone flying above the waves to a camera just inches from the seafloor, University of Miami researchers are transforming how scientists observe coral reefs and measure changes that were once difficult, costly or time-consuming to document.",
-    "content": "<h2>概要</h2><p>From a drone flying above the waves to a camera just inches from the seafloor, University of Miami researchers are transforming how scientists observe coral reefs and measure changes that were once difficult, costly or time-consuming to document.</p><p><a href=\"https://phys.org/news/2026-09-imaging-technologies-clearer-view-coral.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "summary": "Cutting greenhouse gas emissions now may limit how much ice Antarctica loses this century and reduce the sea-level rise facing coastal communities, according to findings from a new study.",
+    "content": "<h2>概要</h2><p>Cutting greenhouse gas emissions now may limit how much ice Antarctica loses this century and reduce the sea-level rise facing coastal communities, according to findings from a new study.</p><p><a href=\"https://phys.org/news/2026-10-today-emissions-choices-limit-antarctic.html\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-imaging-technologies-clearer-view-coral.html"
+    "sourceUrl": "https://phys.org/news/2026-10-today-emissions-choices-limit-antarctic.html"
   },
   {
     "id": 2,
-    "title": "Medical plane with 6 on board missing off Massachusetts coast",
-    "category": "WORLD",
-    "date": "2026-10-03T15:56:14.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-    "content": "<h2>概要</h2><p>The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss"
+    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "category": "TECH",
+    "date": "2026-10-03T19:33:15.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+    "content": "<h2>概要</h2><p>A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.</p><p><a href=\"https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
   },
   {
     "id": 3,
+    "title": "New reactor design improves plastic feedstock synthesis using oxygen and electricity",
+    "category": "SCIENCE",
+    "date": "2026-10-03T19:20:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A \"hidden variable\" that can determine the success or failure of a chemical reaction has been found in the immediate vicinity of electrodes.",
+    "content": "<h2>概要</h2><p>A \"hidden variable\" that can determine the success or failure of a chemical reaction has been found in the immediate vicinity of electrodes.</p><p><a href=\"https://phys.org/news/2026-09-reactor-plastic-feedstock-synthesis-oxygen.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-reactor-plastic-feedstock-synthesis-oxygen.html"
+  },
+  {
+    "id": 4,
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "category": "TECH",
+    "date": "2026-10-03T18:43:57.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "content": "<h2>概要</h2><p>The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.</p><p><a href=\"https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+  },
+  {
+    "id": 5,
+    "title": "Recovery after intimate partner violence: New study reveals what works",
+    "category": "SCIENCE",
+    "date": "2026-10-03T18:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Violence in the home can range from intimidation to physical abuse. When it occurs there, we refer to it as domestic violence. Every year, more than 1 million people in the Netherlands age 16 and older experience domestic violence. This type of violence is often perpetrated by a current or former partner, in which case it is referred to as intimate partner violence.",
+    "content": "<h2>概要</h2><p>Violence in the home can range from intimidation to physical abuse. When it occurs there, we refer to it as domestic violence. Every year, more than 1 million people in the Netherlands age 16 and older experience domestic violence. This type of violence is often perpetrated by a current or former partner, in which case it is referred to as intimate partner violence.</p><p><a href=\"https://phys.org/news/2026-09-recovery-intimate-partner-violence-reveals.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-recovery-intimate-partner-violence-reveals.html"
+  },
+  {
+    "id": 6,
+    "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+    "category": "TECH",
+    "date": "2026-10-03T18:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+    "content": "<h2>概要</h2><p>The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.</p><p><a href=\"https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/"
+  },
+  {
+    "id": 7,
+    "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+    "category": "WORLD",
+    "date": "2026-10-03T17:48:42.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+    "content": "<h2>概要</h2><p>Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 8,
+    "title": "Reading hidden topology in light, even when energy leaks away",
+    "category": "SCIENCE",
+    "date": "2026-10-03T17:40:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "When I explain topology to students, I start with a knot in a rope. You can stretch it, twist it or shake it, but the knot stays until you cut the rope. Physicists have found that some materials and devices carry similar \"knots\" in how waves move through them. These are topological properties, labeled by whole numbers that don't change under small imperfections. That robustness is why topology has become one of the central ideas in modern physics. It promises electronics, photonics and quantum devices that tolerate defects and noise.",
+    "content": "<h2>概要</h2><p>When I explain topology to students, I start with a knot in a rope. You can stretch it, twist it or shake it, but the knot stays until you cut the rope. Physicists have found that some materials and devices carry similar \"knots\" in how waves move through them. These are topological properties, labeled by whole numbers that don't change under small imperfections. That robustness is why topology has become one of the central ideas in modern physics. It promises electronics, photonics and quantum devices that tolerate defects and noise.</p><p><a href=\"https://phys.org/news/2026-10-hidden-topology-energy-leaks.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-10-hidden-topology-energy-leaks.html"
+  },
+  {
+    "id": 9,
+    "title": "Q&A: An Earth-like planet with two suns?",
+    "category": "SCIENCE",
+    "date": "2026-10-03T17:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A nearby star system with two suns could potentially support an Earth-sized planet in a region where liquid water could exist, according to a new paper examining the dynamics of the system.",
+    "content": "<h2>概要</h2><p>A nearby star system with two suns could potentially support an Earth-sized planet in a region where liquid water could exist, according to a new paper examining the dynamics of the system.</p><p><a href=\"https://phys.org/news/2026-09-qa-earth-planet-suns.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-09-qa-earth-planet-suns.html"
+  },
+  {
+    "id": 10,
+    "title": "Q&A: An Earth-like planet with two suns?",
+    "category": "SPACE",
+    "date": "2026-10-03T17:00:01.000Z",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A nearby star system with two suns could potentially support an Earth-sized planet in a region where liquid water could exist, according to a new paper examining the dynamics of the system.",
+    "content": "<h2>概要</h2><p>A nearby star system with two suns could potentially support an Earth-sized planet in a region where liquid water could exist, according to a new paper examining the dynamics of the system.</p><p><a href=\"https://phys.org/news/2026-09-qa-earth-planet-suns.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org Space",
+    "sourceUrl": "https://phys.org/news/2026-09-qa-earth-planet-suns.html"
+  },
+  {
+    "id": 11,
+    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "category": "TECH",
+    "date": "2026-10-03T16:49:10.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.\" During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is \"successfully integrating AI technology into development workflows.\"\nCapcom has said previously that it will not use AI …\nRead the full story at The Verge.",
+    "content": "<h2>概要</h2><p>Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.\" During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is \"successfully integrating AI technology into development workflows.\"\nCapcom has said previously that it will not use AI …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/games/1004418/capcom-ai-game-development\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+  },
+  {
+    "id": 12,
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "category": "TECH",
+    "date": "2026-10-03T16:30:01.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "content": "<h2>概要</h2><p>By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.</p><p><a href=\"https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+  },
+  {
+    "id": 13,
+    "title": "The best early October Prime Day deals happening now",
+    "category": "TECH",
+    "date": "2026-10-03T16:22:40.000Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT).\nOctober Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays.\nThe most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor). This post will be updated ahead of October 6th as new deals become available.\nBose SoundLink Plus\nWhile the Max is an awesome, powerful speaker, the Plus packs a ton of performance into a more portable form factor. It has an IP67 rating, and it’s easy to clean, too. Read our review.\n\nWhere to Buy:\n\n $269 $179 at Amazon\n $269 $179 at Best Buy\n $269 $179 at Bose\n\nBose SoundLink Max\nBose’s SoundLink Max improves on the smaller Flex with true stereo sound — and very powerful sound at that. It’s got a removable handle for easy transport, and there’s an aux input for playing audio when you want to listen at a higher quality than what Bluetooth can deliver. Read our review.\n\nWhere to Buy:\n\n $399 $279 at Amazon\n $399 $279 at Best Buy\n $399 $279 at Bose\n\nBelkin Qi2.2 25W 2-in-1 foldable charging dock\nSlap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter.\n\nWhere to Buy:\n\n $60 $42.99 at Amazon\n $100 $75 at Amazon (w/ Apple Watch support)\n\nBelkin Charging Case for Nintendo Switch 2\nThe case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker).\n\nWhere to Buy:\n\n $69.99 $59.49 at Amazon (in black or sand)\n\nAsus ProArt 27-inch 1440p USB-C monitor\nAn affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor.\n\nWhere to Buy:\n\n $299 $275 at Amazon\n\nBelkin MagSafe 15W 2-in-1 wireless charging dock\nA slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories.\n\nWhere to Buy:\n\n $120 $59.99 at Amazon\n\nRing Battery Doorbell 2K\nAt more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C.\n\nWhere to Buy:\n\n $99.99 $39.99 at Amazon\n $99.99 $39.99 at Best Buy\n\nBissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner\nBissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range.\n\nWhere to Buy:\n\n $279.99 $209.99 at Amazon\n $279.99 $209.99 at Bissell\n\nRing Floodlight Cam 2K\nThis model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it.\n\nWhere to Buy:\n\n $199.99 $99.99 at Amazon\n\nRing Battery Doorbell 4K Pro\nThe highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges.\n\nWhere to Buy:\n\n $249.99 $149.99 at Amazon\n $249.99 $149.99 at Best Buy\n\nAmazon Fire HD 8 tablet\nThe eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it.\n\nWhere to Buy:\n\n $129.99 $79.99 at Amazon (4GB RAM, 64GB)\n $99.99 $54.99 at Best Buy (3GB RAM, 32GB)\n\nEcovacs Deebot X12 OmniCyclone\nThe X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs.\n\nWhere to Buy:\n\n $1499.99 $799 at Amazon\n $1499.99 $841.99 at Best Buy\n $1499.99 $842 at Ecovacs\n\nBlink Mini pan and tilt camera\nThe panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself.\n\nWhere to Buy:\n\n $39.99 $23.99 at Amazon\n $39.99 $23.99 at Best Buy\n\nAmazon Fire TV Stick 4K Plus\nThe latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus.\n\nWhere to Buy:\n\n $69.99 $37.99 at Amazon\n $69.99 $37.99 at Best Buy\n\nAmazon Fire TV Stick 4K Max (2023, latest model)\nAmazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch.\n\nWhere to Buy:\n\n $84.99 $44.99 at Amazon\n $84.99 $44.99 at Best Buy\n\nAmazon Fire TV Cube (2022, latest model)\nThe hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review.\n\nWhere to Buy:\n\n $199.99 $89.99 at Amazon\n $199.99 $89.99 at Best Buy\n\nAmazon Echo Spot\nAmazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review.\n\nWhere to Buy:\n\n $109.99 $54.99 at Amazon\n $109.99 $54.99 at Best Buy\n $109.99 $54.99 at Target\n\nAmazon Echo Dot Max\nThe Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box.\n\nWhere to Buy:\n\n $119.99 $79.99 at Amazon\n $119.99 $79.99 at Best Buy\n $119.99 $79.99 at Target\n\nAmazon Echo Dot (Fifth-Gen)\nAmazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review.\n\nWhere to Buy:\n\n $79.99 $39.99 at Amazon\n $79.99 $39.99 at Best Buy\n $79.99 $39.99 at Target\n\nAmazon Echo Show 11 (2025)\nThe Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review.\n\nWhere to Buy:\n\n $249.99 $149.99 at Amazon\n $249.99 $149.99 at Best Buy\n $249.99 $149.99 at Target\n\nAmazon Echo Show 15\nThe new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices.\n\nWhere to Buy:\n\n $349.99 $249.99 at Amazon\n $349.99 $249.99 at Best Buy\n $349.99 $249.99 at Target\n\nEero Pro 6E tri-band router\nEero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review.\n\nWhere to Buy:\n\n $199.99 $149.99 at Amazon (single pack)\n $499.99 $374.99 at Best Buy (three-pack)\n $499.99 $374.99 at Amazon (three-pack)\n\nSamsung 32-inch Movingstyle smart display\nSimilar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery.\n\nWhere to Buy:\n\n $699.99 $499.99 at Amazon\n\nDreame X50 Ultra\nWith high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid.\n\nWhere to Buy:\n\n $1099.99 $899.99 at Amazon (for Prime members)\n $1099.99 $849.99 at Dreame (with free account)",
+    "content": "<h2>概要</h2><p>It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT).\nOctober Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays.\nThe most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor). This post will be updated ahead of October 6th as new deals become available.\nBose SoundLink Plus\nWhile the Max is an awesome, powerful speaker, the Plus packs a ton of performance into a more portable form factor. It has an IP67 rating, and it’s easy to clean, too. Read our review.\n\nWhere to Buy:\n\n $269 $179 at Amazon\n $269 $179 at Best Buy\n $269 $179 at Bose\n\nBose SoundLink Max\nBose’s SoundLink Max improves on the smaller Flex with true stereo sound — and very powerful sound at that. It’s got a removable handle for easy transport, and there’s an aux input for playing audio when you want to listen at a higher quality than what Bluetooth can deliver. Read our review.\n\nWhere to Buy:\n\n $399 $279 at Amazon\n $399 $279 at Best Buy\n $399 $279 at Bose\n\nBelkin Qi2.2 25W 2-in-1 foldable charging dock\nSlap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter.\n\nWhere to Buy:\n\n $60 $42.99 at Amazon\n $100 $75 at Amazon (w/ Apple Watch support)\n\nBelkin Charging Case for Nintendo Switch 2\nThe case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker).\n\nWhere to Buy:\n\n $69.99 $59.49 at Amazon (in black or sand)\n\nAsus ProArt 27-inch 1440p USB-C monitor\nAn affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor.\n\nWhere to Buy:\n\n $299 $275 at Amazon\n\nBelkin MagSafe 15W 2-in-1 wireless charging dock\nA slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories.\n\nWhere to Buy:\n\n $120 $59.99 at Amazon\n\nRing Battery Doorbell 2K\nAt more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C.\n\nWhere to Buy:\n\n $99.99 $39.99 at Amazon\n $99.99 $39.99 at Best Buy\n\nBissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner\nBissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range.\n\nWhere to Buy:\n\n $279.99 $209.99 at Amazon\n $279.99 $209.99 at Bissell\n\nRing Floodlight Cam 2K\nThis model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it.\n\nWhere to Buy:\n\n $199.99 $99.99 at Amazon\n\nRing Battery Doorbell 4K Pro\nThe highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges.\n\nWhere to Buy:\n\n $249.99 $149.99 at Amazon\n $249.99 $149.99 at Best Buy\n\nAmazon Fire HD 8 tablet\nThe eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it.\n\nWhere to Buy:\n\n $129.99 $79.99 at Amazon (4GB RAM, 64GB)\n $99.99 $54.99 at Best Buy (3GB RAM, 32GB)\n\nEcovacs Deebot X12 OmniCyclone\nThe X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs.\n\nWhere to Buy:\n\n $1499.99 $799 at Amazon\n $1499.99 $841.99 at Best Buy\n $1499.99 $842 at Ecovacs\n\nBlink Mini pan and tilt camera\nThe panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself.\n\nWhere to Buy:\n\n $39.99 $23.99 at Amazon\n $39.99 $23.99 at Best Buy\n\nAmazon Fire TV Stick 4K Plus\nThe latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus.\n\nWhere to Buy:\n\n $69.99 $37.99 at Amazon\n $69.99 $37.99 at Best Buy\n\nAmazon Fire TV Stick 4K Max (2023, latest model)\nAmazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch.\n\nWhere to Buy:\n\n $84.99 $44.99 at Amazon\n $84.99 $44.99 at Best Buy\n\nAmazon Fire TV Cube (2022, latest model)\nThe hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review.\n\nWhere to Buy:\n\n $199.99 $89.99 at Amazon\n $199.99 $89.99 at Best Buy\n\nAmazon Echo Spot\nAmazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review.\n\nWhere to Buy:\n\n $109.99 $54.99 at Amazon\n $109.99 $54.99 at Best Buy\n $109.99 $54.99 at Target\n\nAmazon Echo Dot Max\nThe Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box.\n\nWhere to Buy:\n\n $119.99 $79.99 at Amazon\n $119.99 $79.99 at Best Buy\n $119.99 $79.99 at Target\n\nAmazon Echo Dot (Fifth-Gen)\nAmazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review.\n\nWhere to Buy:\n\n $79.99 $39.99 at Amazon\n $79.99 $39.99 at Best Buy\n $79.99 $39.99 at Target\n\nAmazon Echo Show 11 (2025)\nThe Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review.\n\nWhere to Buy:\n\n $249.99 $149.99 at Amazon\n $249.99 $149.99 at Best Buy\n $249.99 $149.99 at Target\n\nAmazon Echo Show 15\nThe new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices.\n\nWhere to Buy:\n\n $349.99 $249.99 at Amazon\n $349.99 $249.99 at Best Buy\n $349.99 $249.99 at Target\n\nEero Pro 6E tri-band router\nEero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review.\n\nWhere to Buy:\n\n $199.99 $149.99 at Amazon (single pack)\n $499.99 $374.99 at Best Buy (three-pack)\n $499.99 $374.99 at Amazon (three-pack)\n\nSamsung 32-inch Movingstyle smart display\nSimilar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery.\n\nWhere to Buy:\n\n $699.99 $499.99 at Amazon\n\nDreame X50 Ultra\nWith high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid.\n\nWhere to Buy:\n\n $1099.99 $899.99 at Amazon (for Prime members)\n $1099.99 $849.99 at Dreame (with free account)</p><p><a href=\"https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october"
+  },
+  {
+    "id": 14,
+    "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+    "category": "WORLD",
+    "date": "2026-10-03T16:16:49.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+    "content": "<h2>概要</h2><p>The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 15,
     "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
     "category": "TECH",
     "date": "2026-10-03T15:02:01.000Z",
@@ -33,18 +165,7 @@
     "sourceUrl": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/"
   },
   {
-    "id": 4,
-    "title": "Newly discovered hair cells on squid may offer clues to understanding hearing loss in humans",
-    "category": "SCIENCE",
-    "date": "2026-10-03T15:00:02.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Scientists have known for years that squid have cells with bundles of tiny, hairlike protrusions on their heads and arms, similar to those buried deep inside the human ear that allow us to hear. Now, researchers at Case Western Reserve University have discovered that these animals have hundreds more of these cells, called hair cells, lining the entire surface of their bodies. The discovery may provide researchers with an unprecedented window into how humans use—and lose—their hearing.",
-    "content": "<h2>概要</h2><p>Scientists have known for years that squid have cells with bundles of tiny, hairlike protrusions on their heads and arms, similar to those buried deep inside the human ear that allow us to hear. Now, researchers at Case Western Reserve University have discovered that these animals have hundreds more of these cells, called hair cells, lining the entire surface of their bodies. The discovery may provide researchers with an unprecedented window into how humans use—and lose—their hearing.</p><p><a href=\"https://phys.org/news/2026-10-newly-hair-cells-squid-clues.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-10-newly-hair-cells-squid-clues.html"
-  },
-  {
-    "id": 5,
+    "id": 16,
     "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
     "category": "TECH",
     "date": "2026-10-03T15:00:00.000Z",
@@ -55,7 +176,7 @@
     "sourceUrl": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
   },
   {
-    "id": 6,
+    "id": 17,
     "title": "Vessev built an electric ferry that almost flies",
     "category": "TECH",
     "date": "2026-10-03T14:42:00.000Z",
@@ -66,7 +187,7 @@
     "sourceUrl": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/"
   },
   {
-    "id": 7,
+    "id": 18,
     "title": "Hidden for Centuries Near Machu Picchu, an Ancient System of Unknown Inca Roadways Has Resurfaced",
     "category": "MYSTERY",
     "date": "2026-10-03T14:32:14.000Z",
@@ -77,7 +198,7 @@
     "sourceUrl": "https://thedebrief.org/hidden-for-centuries-near-machu-picchu-an-ancient-system-of-unknown-inca-roadways-has-resurfaced/"
   },
   {
-    "id": 8,
+    "id": 19,
     "title": "An OpenAI safety employee has quit and is sounding the alarm",
     "category": "TECH",
     "date": "2026-10-03T14:31:56.000Z",
@@ -88,7 +209,7 @@
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
   },
   {
-    "id": 9,
+    "id": 20,
     "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
     "category": "WORLD",
     "date": "2026-10-03T14:27:33.000Z",
@@ -99,40 +220,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 10,
-    "title": "A short breath extends the mating calls of male tokay geckos",
-    "category": "SCIENCE",
-    "date": "2026-10-03T14:00:06.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Tokay geckos (Gekko gecko), large and mostly nocturnal geckos native to parts of Asia, are among the few nonbird reptiles that make sounds to attract potential mates, defend their territory and signal distress. Male tokay geckos' calls typically begin with quieter rattles, followed by louder two-part sounds that can sound like \"ge-ko\" or \"to-kay.\"",
-    "content": "<h2>概要</h2><p>Tokay geckos (Gekko gecko), large and mostly nocturnal geckos native to parts of Asia, are among the few nonbird reptiles that make sounds to attract potential mates, defend their territory and signal distress. Male tokay geckos' calls typically begin with quieter rattles, followed by louder two-part sounds that can sound like \"ge-ko\" or \"to-kay.\"</p><p><a href=\"https://phys.org/news/2026-09-short-male-tokay-geckos.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-short-male-tokay-geckos.html"
-  },
-  {
-    "id": 11,
-    "title": "All the AI agents that can live in your text messages ",
-    "category": "TECH",
-    "date": "2026-10-03T14:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "content": "<h2>概要</h2><p>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</p><p><a href=\"https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
-  },
-  {
-    "id": 12,
-    "title": "Spotify billionaire’s body scan startup has come to America",
-    "category": "TECH",
-    "date": "2026-10-03T14:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
-    "content": "<h2>概要</h2><p>Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.</p><p><a href=\"https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/"
-  },
-  {
-    "id": 13,
+    "id": 21,
     "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 3)",
     "category": "MYSTERY",
     "date": "2026-10-03T14:00:00.000Z",
@@ -143,7 +231,7 @@
     "sourceUrl": "https://singularityhub.com/2026/10/03/this-weeks-awesome-tech-stories-from-around-the-web-through-october-3-2/"
   },
   {
-    "id": 14,
+    "id": 22,
     "title": "This Unusual “Rogue DNA” Allows Some Cancers to Thrive—and Scientists Just Found Its Achilles’ Heel",
     "category": "MYSTERY",
     "date": "2026-10-03T13:42:39.000Z",
@@ -154,8 +242,8 @@
     "sourceUrl": "https://thedebrief.org/this-unusual-rogue-dna-allows-some-cancers-to-thrive-and-scientists-just-found-its-achilles-heel/"
   },
   {
-    "id": 15,
-    "title": "Protesters across Spain demand action over housing crisis",
+    "id": 23,
+    "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
     "category": "WORLD",
     "date": "2026-10-03T13:34:11.000Z",
     "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
@@ -165,18 +253,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 16,
-    "title": "Milky Way may have begun as thousands of galaxies, new simulations suggest",
-    "category": "SCIENCE",
-    "date": "2026-10-03T13:00:07.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "In the early days of the universe, our home looked very different from how it does today. Back then, the region in our universe that would eventually become our Milky Way neighborhood was a collection of thousands of smaller galaxies—some pumping out tons of new stars, others filled only with gas or littered with dead stars and black holes.",
-    "content": "<h2>概要</h2><p>In the early days of the universe, our home looked very different from how it does today. Back then, the region in our universe that would eventually become our Milky Way neighborhood was a collection of thousands of smaller galaxies—some pumping out tons of new stars, others filled only with gas or littered with dead stars and black holes.</p><p><a href=\"https://phys.org/news/2026-09-milky-begun-thousands-galaxies-simulations.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-milky-begun-thousands-galaxies-simulations.html"
-  },
-  {
-    "id": 17,
+    "id": 24,
     "title": "Milky Way may have begun as thousands of galaxies, new simulations suggest",
     "category": "SPACE",
     "date": "2026-10-03T13:00:07.000Z",
@@ -187,18 +264,7 @@
     "sourceUrl": "https://phys.org/news/2026-09-milky-begun-thousands-galaxies-simulations.html"
   },
   {
-    "id": 18,
-    "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-    "category": "WORLD",
-    "date": "2026-10-03T12:59:10.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-    "content": "<h2>概要</h2><p>The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 19,
+    "id": 25,
     "title": "When Magenta Solar Panels Were Placed Above Growing Broccoli Something Unexpected Happened",
     "category": "MYSTERY",
     "date": "2026-10-03T12:49:55.000Z",
@@ -209,7 +275,7 @@
     "sourceUrl": "https://thedebrief.org/when-magenta-solar-panels-were-placed-above-growing-broccoli-something-unexpected-happened/"
   },
   {
-    "id": 20,
+    "id": 26,
     "title": "South Korean Soldiers Were Searching for Landmines—They Found a Centuries-Old Weapon Instead",
     "category": "MYSTERY",
     "date": "2026-10-03T12:49:34.000Z",
@@ -220,7 +286,7 @@
     "sourceUrl": "https://thedebrief.org/south-korean-soldiers-were-searching-for-landmines-they-found-a-centuries-old-weapon-instead/"
   },
   {
-    "id": 21,
+    "id": 27,
     "title": "“A Final Pathway for Reducing Anxiety”: If Smoking Cannabis ‘Stresses’ You Out, This Might Be Why",
     "category": "MYSTERY",
     "date": "2026-10-03T12:48:13.000Z",
@@ -231,18 +297,7 @@
     "sourceUrl": "https://thedebrief.org/a-final-pathway-for-reducing-anxiety-if-smoking-cannabis-stresses-you-out-this-might-be-why/"
   },
   {
-    "id": 22,
-    "title": "New interactive tool tracks private equity investments in health care across U.S.",
-    "category": "SCIENCE",
-    "date": "2026-10-03T12:40:04.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new interactive tool launched on Tuesday, Sept. 8, offers policymakers, researchers, journalists and the public a state-by-state look at private equity investments in U.S. health care.",
-    "content": "<h2>概要</h2><p>A new interactive tool launched on Tuesday, Sept. 8, offers policymakers, researchers, journalists and the public a state-by-state look at private equity investments in U.S. health care.</p><p><a href=\"https://phys.org/news/2026-09-interactive-tool-tracks-private-equity.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-09-interactive-tool-tracks-private-equity.html"
-  },
-  {
-    "id": 23,
+    "id": 28,
     "title": "3D movies are finally worth watching",
     "category": "TECH",
     "date": "2026-10-03T12:00:00.000Z",
@@ -253,7 +308,7 @@
     "sourceUrl": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro"
   },
   {
-    "id": 24,
+    "id": 29,
     "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
     "category": "TECH",
     "date": "2026-10-03T12:00:00.000Z",
@@ -264,7 +319,7 @@
     "sourceUrl": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/"
   },
   {
-    "id": 25,
+    "id": 30,
     "title": "How to Collect CDs",
     "category": "TECH",
     "date": "2026-10-03T11:30:00.000Z",
@@ -275,7 +330,7 @@
     "sourceUrl": "https://www.wired.com/story/how-to-collect-cds/"
   },
   {
-    "id": 26,
+    "id": 31,
     "title": "The dawn of the age of the exoskeleton",
     "category": "TECH",
     "date": "2026-10-03T11:15:33.000Z",
@@ -286,7 +341,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/"
   },
   {
-    "id": 27,
+    "id": 32,
     "title": "The Best E-Readers That Aren't a Kindle (2026): Kobo, Boox",
     "category": "TECH",
     "date": "2026-10-03T11:05:00.000Z",
@@ -297,7 +352,7 @@
     "sourceUrl": "https://www.wired.com/gallery/best-ereaders/"
   },
   {
-    "id": 28,
+    "id": 33,
     "title": "Best Mosquito Repellents for Your Yard: What Works and What Doesn’t (2026)",
     "category": "TECH",
     "date": "2026-10-03T10:03:00.000Z",
@@ -308,7 +363,7 @@
     "sourceUrl": "https://www.wired.com/story/best-mosquito-repellents/"
   },
   {
-    "id": 29,
+    "id": 34,
     "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
     "category": "WORLD",
     "date": "2026-10-03T09:00:56.000Z",
@@ -319,18 +374,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar"
   },
   {
-    "id": 30,
-    "title": "A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’",
-    "category": "TECH",
-    "date": "2026-10-03T09:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Scientists left structures up to 100 meters under the surface. Here’s what they found when they retrieved them 10 years later.",
-    "content": "<h2>概要</h2><p>Scientists left structures up to 100 meters under the surface. Here’s what they found when they retrieved them 10 years later.</p><p><a href=\"https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/"
-  },
-  {
-    "id": 31,
+    "id": 35,
     "title": "Suppliers pile pressure on government over energy bills",
     "category": "BUSINESS",
     "date": "2026-10-03T08:58:44.000Z",
@@ -341,7 +385,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 32,
+    "id": 36,
     "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
     "category": "WORLD",
     "date": "2026-10-03T04:38:31.000Z",
@@ -352,7 +396,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 33,
+    "id": 37,
     "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
     "category": "BUSINESS",
     "date": "2026-10-03T04:38:31.000Z",
@@ -363,7 +407,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 34,
+    "id": 38,
     "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
     "category": "SPACE",
     "date": "2026-10-03T04:05:00.000Z",
@@ -374,18 +418,7 @@
     "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/"
   },
   {
-    "id": 35,
-    "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-    "category": "SPACE",
-    "date": "2026-10-03T04:05:00.000Z",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg?w=1600&#038;h=800&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-    "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Selfie at Vera […]",
-    "content": "<h2>概要</h2><p>APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Selfie at Vera […]</p><p><a href=\"https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/"
-  },
-  {
-    "id": 36,
+    "id": 39,
     "title": "Brazil's big political rematch: What to know about the Brazilian election",
     "category": "WORLD",
     "date": "2026-10-03T02:57:07.000Z",
@@ -396,7 +429,7 @@
     "sourceUrl": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy"
   },
   {
-    "id": 37,
+    "id": 40,
     "title": "iPhone 18 Pro Max can’t call or text on AT&#038;T? Apple will replace it for free",
     "category": "TECH",
     "date": "2026-10-03T01:43:56.000Z",
@@ -407,18 +440,7 @@
     "sourceUrl": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/"
   },
   {
-    "id": 38,
-    "title": "Meta wants your next gadget to be Muse-infused",
-    "category": "TECH",
-    "date": "2026-10-03T00:45:39.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-    "content": "<h2>概要</h2><p>Meta wants Muse in your TV and your toaster, so it's giving the code away for free.</p><p><a href=\"https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
-  },
-  {
-    "id": 39,
+    "id": 41,
     "title": "Team selected for NASA program to explore potential lunar cave",
     "category": "SPACE",
     "date": "2026-10-02T23:20:06.000Z",
@@ -429,7 +451,7 @@
     "sourceUrl": "https://phys.org/news/2026-10-team-nasa-explore-potential-lunar.html"
   },
   {
-    "id": 40,
+    "id": 42,
     "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
     "category": "TECH",
     "date": "2026-10-02T23:03:16.000Z",
@@ -440,7 +462,7 @@
     "sourceUrl": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
   },
   {
-    "id": 41,
+    "id": 43,
     "title": "Someone got Doom in an SQL database",
     "category": "TECH",
     "date": "2026-10-02T21:19:05.000Z",
@@ -451,18 +473,7 @@
     "sourceUrl": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/"
   },
   {
-    "id": 42,
-    "title": "Meta open sources code to let you make Muse AI gadgets",
-    "category": "TECH",
-    "date": "2026-10-02T21:08:37.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm.\n\"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench. …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm.\n\"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench. …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
-  },
-  {
-    "id": 43,
+    "id": 44,
     "title": "How Brazil's two leading presidential candidates are talking about crime",
     "category": "WORLD",
     "date": "2026-10-02T21:07:41.000Z",
@@ -473,7 +484,7 @@
     "sourceUrl": "https://www.npr.org/2026/10/02/nx-s1-5986091/how-brazils-two-leading-presidential-candidates-are-talking-about-crime"
   },
   {
-    "id": 44,
+    "id": 45,
     "title": "The ‘WarGames’ Problem: Computer Science Has Long Understood What It Takes to Keep AI Under Control",
     "category": "MYSTERY",
     "date": "2026-10-02T20:54:15.000Z",
@@ -484,7 +495,7 @@
     "sourceUrl": "https://singularityhub.com/2026/10/02/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control/"
   },
   {
-    "id": 45,
+    "id": 46,
     "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
     "category": "TECH",
     "date": "2026-10-02T20:30:27.000Z",
@@ -493,17 +504,6 @@
     "content": "<h2>概要</h2><p>Amazon praised for ending NDAs but slammed for downplaying data center pollution.</p><p><a href=\"https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "Ars Technica",
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
-  },
-  {
-    "id": 46,
-    "title": "Netflix is pivoting away from prestige",
-    "category": "TECH",
-    "date": "2026-10-02T20:30:26.000Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK072_VRG_Illo_N_Barclay_7_netflix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a larger strategic shift. With rival studios Paramount and Warner Bros. Discovery on the verge of a megamerger that will reshape the entertainment landscape, Netflix is clearly thinking about how it can continue to hold its own in the ongoing streaming wars. But as the company charts its path forward, its plan to court subscribers might not put so much em …\nRead the full story at The Verge.",
-    "content": "<h2>概要</h2><p>Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a larger strategic shift. With rival studios Paramount and Warner Bros. Discovery on the verge of a megamerger that will reshape the entertainment landscape, Netflix is clearly thinking about how it can continue to hold its own in the ongoing streaming wars. But as the company charts its path forward, its plan to court subscribers might not put so much em …\nRead the full story at The Verge.</p><p><a href=\"https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "The Verge",
-    "sourceUrl": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig"
   },
   {
     "id": 47,
@@ -562,17 +562,6 @@
   },
   {
     "id": 52,
-    "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
-    "category": "SPACE",
-    "date": "2026-10-02T19:54:54.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20260828-admin-0031large.jpg?w=1920",
-    "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in […]",
-    "content": "<h2>概要</h2><p>As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in […]</p><p><a href=\"https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/"
-  },
-  {
-    "id": 53,
     "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
     "category": "SPACE",
     "date": "2026-10-02T19:30:00.000Z",
@@ -583,18 +572,7 @@
     "sourceUrl": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/"
   },
   {
-    "id": 54,
-    "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
-    "category": "SPACE",
-    "date": "2026-10-02T19:30:00.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg?w=1536",
-    "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions […]",
-    "content": "<h2>概要</h2><p>NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions […]</p><p><a href=\"https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/"
-  },
-  {
-    "id": 55,
+    "id": 53,
     "title": "Computational tools for society’s most complex challenges",
     "category": "TECH",
     "date": "2026-10-02T19:30:00.000Z",
@@ -605,7 +583,7 @@
     "sourceUrl": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002"
   },
   {
-    "id": 56,
+    "id": 54,
     "title": "Computational tools for society’s most complex challenges",
     "category": "TECH",
     "date": "2026-10-02T19:30:00.000Z",
@@ -616,7 +594,7 @@
     "sourceUrl": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002"
   },
   {
-    "id": 57,
+    "id": 55,
     "title": "Germany's political center fights for relevance after far-right and far-left gains",
     "category": "WORLD",
     "date": "2026-10-02T19:22:57.000Z",
@@ -627,7 +605,7 @@
     "sourceUrl": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz"
   },
   {
-    "id": 58,
+    "id": 56,
     "title": "Black holes may grow quietly alongside galaxies even without violent mergers",
     "category": "SPACE",
     "date": "2026-10-02T19:20:02.000Z",
@@ -638,7 +616,7 @@
     "sourceUrl": "https://phys.org/news/2026-10-black-holes-quietly-galaxies-violent.html"
   },
   {
-    "id": 59,
+    "id": 57,
     "title": "NASA’s DAVINCI Probe Can Stand the Heat",
     "category": "SPACE",
     "date": "2026-10-02T19:00:36.000Z",
@@ -649,18 +627,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/"
   },
   {
-    "id": 60,
-    "title": "NASA’s DAVINCI Probe Can Stand the Heat",
-    "category": "SPACE",
-    "date": "2026-10-02T19:00:36.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/10/davinci-heat-test-1.jpg?w=2048",
-    "summary": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the temperature to 869 F, or 465 C, over the course […]",
-    "content": "<h2>概要</h2><p>The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the temperature to 869 F, or 465 C, over the course […]</p><p><a href=\"https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/"
-  },
-  {
-    "id": 61,
+    "id": 58,
     "title": "This new ChatGPT scam tricks you into installing malware – how to spot the trap",
     "category": "TECH",
     "date": "2026-10-02T18:18:57.000Z",
@@ -671,7 +638,7 @@
     "sourceUrl": "https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/"
   },
   {
-    "id": 62,
+    "id": 59,
     "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
     "category": "WORLD",
     "date": "2026-10-02T18:16:07.000Z",
@@ -682,7 +649,7 @@
     "sourceUrl": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first"
   },
   {
-    "id": 63,
+    "id": 60,
     "title": "Documenting the tech worker movement",
     "category": "TECH",
     "date": "2026-10-02T17:00:00.000Z",
@@ -693,7 +660,7 @@
     "sourceUrl": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918"
   },
   {
-    "id": 64,
+    "id": 61,
     "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
     "category": "SPACE",
     "date": "2026-10-02T16:36:25.000Z",
@@ -704,18 +671,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/"
   },
   {
-    "id": 65,
-    "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
-    "category": "SPACE",
-    "date": "2026-10-02T16:36:25.000Z",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=2048",
-    "summary": "Lee esta nota de prensa en inglés aquí. La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro Espacial Johnson de la agencia, en Houston. Esta función es fundamental para reforzar el liderazgo […]",
-    "content": "<h2>概要</h2><p>Lee esta nota de prensa en inglés aquí. La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro Espacial Johnson de la agencia, en Houston. Esta función es fundamental para reforzar el liderazgo […]</p><p><a href=\"https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NASA Image of the Day",
-    "sourceUrl": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/"
-  },
-  {
-    "id": 66,
+    "id": 62,
     "title": "How stars shine: Infrared observations expose gaps in models of how stars distribute their light",
     "category": "SPACE",
     "date": "2026-10-02T16:20:20.000Z",
@@ -726,18 +682,7 @@
     "sourceUrl": "https://phys.org/news/2026-10-stars-infrared-expose-gaps.html"
   },
   {
-    "id": 67,
-    "title": "What space travel teaches us about sleep and circadian rhythms",
-    "category": "SPACE",
-    "date": "2026-10-02T16:00:11.000Z",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
-    "summary": "On Earth, most of us rarely have to think about the signals that keep our internal clocks aligned. The sun rises, daylight changes, darkness arrives and morning comes again.",
-    "content": "<h2>概要</h2><p>On Earth, most of us rarely have to think about the signals that keep our internal clocks aligned. The sun rises, daylight changes, darkness arrives and morning comes again.</p><p><a href=\"https://phys.org/news/2026-10-space-circadian-rhythms.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org Space",
-    "sourceUrl": "https://phys.org/news/2026-10-space-circadian-rhythms.html"
-  },
-  {
-    "id": 68,
+    "id": 63,
     "title": "UK diesel prices top £2 a litre for first time, RAC says",
     "category": "BUSINESS",
     "date": "2026-10-02T15:50:05.000Z",
@@ -748,7 +693,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 69,
+    "id": 64,
     "title": "Redefining enterprise intelligence with autonomous AI",
     "category": "TECH",
     "date": "2026-10-02T15:49:04.000Z",
@@ -759,7 +704,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
   },
   {
-    "id": 70,
+    "id": 65,
     "title": "Redefining enterprise intelligence with autonomous AI",
     "category": "TECH",
     "date": "2026-10-02T15:49:04.000Z",
@@ -770,7 +715,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
   },
   {
-    "id": 71,
+    "id": 66,
     "title": "Google Wallet not working on your Pixel? 4 ways to fix tap-to-pay",
     "category": "TECH",
     "date": "2026-10-02T15:16:21.000Z",
@@ -781,7 +726,7 @@
     "sourceUrl": "https://www.zdnet.com/tech/tap-to-pay-trouble-pixel-phones-google-wallet-nfc/"
   },
   {
-    "id": 72,
+    "id": 67,
     "title": "The next generation’s guide to the new space economy",
     "category": "TECH",
     "date": "2026-10-02T14:50:00.000Z",
@@ -792,7 +737,7 @@
     "sourceUrl": "https://news.mit.edu/2026/guide-to-new-space-economy-1002"
   },
   {
-    "id": 73,
+    "id": 68,
     "title": "The next generation’s guide to the new space economy",
     "category": "TECH",
     "date": "2026-10-02T14:50:00.000Z",
@@ -803,7 +748,7 @@
     "sourceUrl": "https://news.mit.edu/2026/guide-to-new-space-economy-1002"
   },
   {
-    "id": 74,
+    "id": 69,
     "title": "US jobs market sees sharp slowdown ahead of midterm elections",
     "category": "BUSINESS",
     "date": "2026-10-02T14:30:48.000Z",
@@ -814,7 +759,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 75,
+    "id": 70,
     "title": "Week in images: 28 Sep - 2 Oct 2026",
     "category": "SPACE",
     "date": "2026-10-02T13:10:00.000Z",
@@ -825,7 +770,7 @@
     "sourceUrl": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_Sep_-_2_Oct_2026"
   },
   {
-    "id": 76,
+    "id": 71,
     "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
     "category": "TECH",
     "date": "2026-10-02T12:10:00.000Z",
@@ -836,7 +781,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
   },
   {
-    "id": 77,
+    "id": 72,
     "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
     "category": "TECH",
     "date": "2026-10-02T12:10:00.000Z",
@@ -847,7 +792,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
   },
   {
-    "id": 78,
+    "id": 73,
     "title": "Beyond the airlock - Sophie Adenot's three spacewalks",
     "category": "SPACE",
     "date": "2026-10-02T10:00:00.000Z",
@@ -858,7 +803,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks"
   },
   {
-    "id": 79,
+    "id": 74,
     "title": "Earth from Space: Typhoon Surigae",
     "category": "SPACE",
     "date": "2026-10-02T09:00:00.000Z",
@@ -869,7 +814,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae"
   },
   {
-    "id": 80,
+    "id": 75,
     "title": "A new contest pits competitors against each other in a race to biological youth",
     "category": "TECH",
     "date": "2026-10-02T09:00:00.000Z",
@@ -880,7 +825,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/"
   },
   {
-    "id": 81,
+    "id": 76,
     "title": "A new contest pits competitors against each other in a race to biological youth",
     "category": "TECH",
     "date": "2026-10-02T09:00:00.000Z",
@@ -891,7 +836,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/"
   },
   {
-    "id": 82,
+    "id": 77,
     "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
     "category": "WORLD",
     "date": "2026-10-02T08:55:42.000Z",
@@ -902,7 +847,7 @@
     "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin"
   },
   {
-    "id": 83,
+    "id": 78,
     "title": "OpenAI fires workers for 'mishandling sensitive information'",
     "category": "TECH",
     "date": "2026-10-02T08:20:32.000Z",
@@ -913,7 +858,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 84,
+    "id": 79,
     "title": "Don’t be fooled—LLMs don’t reason",
     "category": "TECH",
     "date": "2026-10-02T08:00:00.000Z",
@@ -924,7 +869,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
   },
   {
-    "id": 85,
+    "id": 80,
     "title": "Don’t be fooled—LLMs don’t reason",
     "category": "TECH",
     "date": "2026-10-02T08:00:00.000Z",
@@ -935,7 +880,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
   },
   {
-    "id": 86,
+    "id": 81,
     "title": "Jammertest pumps up the jam in Norway",
     "category": "SPACE",
     "date": "2026-10-02T07:05:00.000Z",
@@ -946,7 +891,7 @@
     "sourceUrl": "https://www.esa.int/Applications/Satellite_navigation/Jammertest_pumps_up_the_jam_in_Norway"
   },
   {
-    "id": 87,
+    "id": 82,
     "title": "MIT class project turns into an FDA-cleared treatment for tremors",
     "category": "TECH",
     "date": "2026-10-02T04:00:00.000Z",
@@ -957,7 +902,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002"
   },
   {
-    "id": 88,
+    "id": 83,
     "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
     "category": "TECH",
     "date": "2026-10-01T23:45:06.000Z",
@@ -968,7 +913,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 89,
+    "id": 84,
     "title": "Star Catcher Is About to Beam Power Between Two Satellites for the First Time",
     "category": "MYSTERY",
     "date": "2026-10-01T23:19:54.000Z",
@@ -979,7 +924,7 @@
     "sourceUrl": "https://singularityhub.com/2026/10/01/star-catcher-is-about-to-beam-power-between-two-satellites-for-the-first-time/"
   },
   {
-    "id": 90,
+    "id": 85,
     "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
     "category": "BUSINESS",
     "date": "2026-10-01T23:00:06.000Z",
@@ -990,7 +935,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 91,
+    "id": 86,
     "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
     "category": "TECH",
     "date": "2026-10-01T22:00:00.000Z",
@@ -1001,7 +946,7 @@
     "sourceUrl": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001"
   },
   {
-    "id": 92,
+    "id": 87,
     "title": "The Download: AI “mind-reading” and creative uses for small batteries",
     "category": "TECH",
     "date": "2026-10-01T12:10:00.000Z",
@@ -1012,7 +957,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
   },
   {
-    "id": 93,
+    "id": 88,
     "title": "The Download: AI “mind-reading” and creative uses for small batteries",
     "category": "TECH",
     "date": "2026-10-01T12:10:00.000Z",
@@ -1023,7 +968,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
   },
   {
-    "id": 94,
+    "id": 89,
     "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
     "category": "TECH",
     "date": "2026-10-01T11:37:46.000Z",
@@ -1034,7 +979,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 95,
+    "id": 90,
     "title": "AI boom could trigger market shocks, Bank of England boss warns",
     "category": "TECH",
     "date": "2026-10-01T10:05:25.000Z",
@@ -1045,7 +990,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 96,
+    "id": 91,
     "title": "Who owns AI risk at work? Business and tech leaders can’t agree, PwC survey finds",
     "category": "TECH",
     "date": "2026-10-01T09:00:00.000Z",
@@ -1056,7 +1001,7 @@
     "sourceUrl": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/"
   },
   {
-    "id": 97,
+    "id": 92,
     "title": "Tiny image sparks big backlash in Nikon photo contest",
     "category": "TECH",
     "date": "2026-09-30T23:10:19.000Z",
@@ -1067,7 +1012,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 98,
+    "id": 93,
     "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
     "category": "WORLD",
     "date": "2026-09-30T19:51:24.000Z",
@@ -1078,7 +1023,7 @@
     "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund"
   },
   {
-    "id": 99,
+    "id": 94,
     "title": "openSUSE Leap adds a new security layer: Immutable mode",
     "category": "TECH",
     "date": "2026-09-30T17:58:06.000Z",
@@ -1089,7 +1034,7 @@
     "sourceUrl": "https://www.zdnet.com/tech/opensuse-leap-immutable-mode-security/"
   },
   {
-    "id": 100,
+    "id": 95,
     "title": "This game-playing AI is the new champ at Stratego ",
     "category": "TECH",
     "date": "2026-09-30T15:00:00.000Z",
@@ -1100,7 +1045,7 @@
     "sourceUrl": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930"
   },
   {
-    "id": 101,
+    "id": 96,
     "title": "South African leader urges men to speak up on gender-based violence after series of killings",
     "category": "WORLD",
     "date": "2026-09-30T14:16:33.000Z",
@@ -1111,7 +1056,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings"
   },
   {
-    "id": 102,
+    "id": 97,
     "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
     "category": "WORLD",
     "date": "2026-09-30T12:47:15.000Z",
@@ -1122,7 +1067,7 @@
     "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration"
   },
   {
-    "id": 103,
+    "id": 98,
     "title": "Lung cancers can use two different mechanisms to evade KRAS-inhibiting drugs",
     "category": "SCIENCE",
     "date": "2026-09-30T09:00:00.000Z",
@@ -1133,7 +1078,7 @@
     "sourceUrl": "https://news.mit.edu/2026/lung-cancers-can-use-two-different-mechanisms-evade-kras-inhibiting-drugs-0930"
   },
   {
-    "id": 104,
+    "id": 99,
     "title": "This Robot Dog Crushed a Marathon Without Stopping to Recharge",
     "category": "MYSTERY",
     "date": "2026-09-29T20:19:08.000Z",
@@ -1144,7 +1089,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/29/this-robot-dog-crushed-a-marathon-without-stopping-to-recharge/"
   },
   {
-    "id": 105,
+    "id": 100,
     "title": "US Launches $215 Million Race to Build an Error-Corrected Quantum Computer by 2028",
     "category": "MYSTERY",
     "date": "2026-09-28T22:01:26.000Z",
@@ -1155,7 +1100,7 @@
     "sourceUrl": "https://singularityhub.com/2026/09/28/us-launches-215-million-race-to-build-an-error-corrected-quantum-computer-by-2028/"
   },
   {
-    "id": 106,
+    "id": 101,
     "title": "Scattering neutrinos to probe the fundamental laws of the universe",
     "category": "SCIENCE",
     "date": "2026-09-25T04:00:00.000Z",
@@ -1166,7 +1111,7 @@
     "sourceUrl": "https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925"
   },
   {
-    "id": 107,
+    "id": 102,
     "title": "Estimating suicide risk from text",
     "category": "SCIENCE",
     "date": "2026-09-24T21:00:00.000Z",
@@ -1177,7 +1122,7 @@
     "sourceUrl": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924"
   },
   {
-    "id": 108,
+    "id": 103,
     "title": "Biologists identify a cellular pathway that allows colorectal cancer to metastasize",
     "category": "SCIENCE",
     "date": "2026-09-24T18:00:00.000Z",
@@ -1188,7 +1133,7 @@
     "sourceUrl": "https://news.mit.edu/2026/biologists-identify-cellular-pathway-allows-colorectal-cancer-metastasize-0924"
   },
   {
-    "id": 109,
+    "id": 104,
     "title": "How the brain keeps its options straight at decision time",
     "category": "SCIENCE",
     "date": "2026-09-22T20:00:00.000Z",
@@ -1199,7 +1144,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-brain-keeps-its-options-straight-at-decision-time-0922"
   },
   {
-    "id": 110,
+    "id": 105,
     "title": "εpsilon",
     "category": "SPACE",
     "date": "2026-01-21T12:54:00.000Z",
