@@ -1,6 +1,138 @@
 [
   {
     "id": 1,
+    "title": "Deadly fire breaks out at Canada military base",
+    "category": "WORLD",
+    "date": "2026-10-18T04:00:50.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+    "content": "<h2>概要</h2><p>Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".</p><p><a href=\"https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 2,
+    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "category": "WORLD",
+    "date": "2026-10-18T01:10:25.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+    "content": "<h2>概要</h2><p>The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 3,
+    "title": "World's oldest shipwreck discovered off coast of Turkey",
+    "category": "SCIENCE",
+    "date": "2026-10-18T00:30:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A shipwreck off the coast of Turkey is the oldest shipwreck in the world, our team of archaeologists believes. There's little left of the ship itself, but based on clues from its cargo—including pottery vessels—a research team I was part of has tentatively dated the wreck to around 2700–2400 B.C.",
+    "content": "<h2>概要</h2><p>A shipwreck off the coast of Turkey is the oldest shipwreck in the world, our team of archaeologists believes. There's little left of the ship itself, but based on clues from its cargo—including pottery vessels—a research team I was part of has tentatively dated the wreck to around 2700–2400 B.C.</p><p><a href=\"https://phys.org/news/2026-10-world-oldest-shipwreck-coast-turkey.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-10-world-oldest-shipwreck-coast-turkey.html"
+  },
+  {
+    "id": 4,
+    "title": "European diplomats attacked by Israeli settlers in West Bank",
+    "category": "WORLD",
+    "date": "2026-10-17T23:52:38.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+    "content": "<h2>概要</h2><p>The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 5,
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "category": "TECH",
+    "date": "2026-10-17T21:31:32.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "content": "<h2>概要</h2><p>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</p><p><a href=\"https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+  },
+  {
+    "id": 6,
+    "title": "What a worm's brain can teach us about sex differences in the nervous system",
+    "category": "SCIENCE",
+    "date": "2026-10-17T21:20:01.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Ever wonder what goes on inside the brain of a worm—how it processes information, responds to stimuli and perceives the world around it? Northeastern University researchers have opened up that can of worms, specifically the one containing C. elegans, a tiny roundworm that's one of the most extensively studied animals in biology.",
+    "content": "<h2>概要</h2><p>Ever wonder what goes on inside the brain of a worm—how it processes information, responds to stimuli and perceives the world around it? Northeastern University researchers have opened up that can of worms, specifically the one containing C. elegans, a tiny roundworm that's one of the most extensively studied animals in biology.</p><p><a href=\"https://phys.org/news/2026-10-worm-brain-sex-differences-nervous.html\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "Phys.org",
+    "sourceUrl": "https://phys.org/news/2026-10-worm-brain-sex-differences-nervous.html"
+  },
+  {
+    "id": 7,
+    "title": "Student protests widen into greater social unrest in France",
+    "category": "WORLD",
+    "date": "2026-10-17T21:18:52.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6006735",
+    "summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
+    "content": "<h2>概要</h2><p>Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.</p><p><a href=\"https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france"
+  },
+  {
+    "id": 8,
+    "title": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
+    "category": "WORLD",
+    "date": "2026-10-17T21:18:50.000Z",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6001729",
+    "summary": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.",
+    "content": "<h2>概要</h2><p>NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.</p><p><a href=\"https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "NPR World",
+    "sourceUrl": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal"
+  },
+  {
+    "id": 9,
+    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+    "category": "TECH",
+    "date": "2026-10-17T20:55:52.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+    "content": "<h2>概要</h2><p>A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.</p><p><a href=\"https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
+  },
+  {
+    "id": 10,
+    "title": "Anti-government protesters battle with police in Albania ",
+    "category": "WORLD",
+    "date": "2026-10-17T20:53:00.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+    "content": "<h2>概要</h2><p>There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.</p><p><a href=\"https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 11,
+    "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+    "category": "WORLD",
+    "date": "2026-10-17T20:52:17.000Z",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+    "content": "<h2>概要</h2><p>Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 12,
+    "title": "No further action against government adviser's wife over Palestine Action post, police say",
+    "category": "TECH",
+    "date": "2026-10-17T20:24:32.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+    "content": "<h2>概要</h2><p>Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "BBC Technology",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": 13,
     "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
     "category": "TECH",
     "date": "2026-10-17T20:21:19.000Z",
@@ -11,7 +143,7 @@
     "sourceUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
   },
   {
-    "id": 2,
+    "id": 14,
     "title": "How one of Earth's worst volcanic disasters affected societies in prehistoric Japan",
     "category": "SCIENCE",
     "date": "2026-10-17T20:00:01.000Z",
@@ -22,7 +154,7 @@
     "sourceUrl": "https://phys.org/news/2026-10-earth-worst-volcanic-disasters-affected.html"
   },
   {
-    "id": 3,
+    "id": 15,
     "title": "TikTok bans Musk documentary account",
     "category": "TECH",
     "date": "2026-10-17T19:32:23.000Z",
@@ -33,18 +165,7 @@
     "sourceUrl": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary"
   },
   {
-    "id": 4,
-    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    "category": "WORLD",
-    "date": "2026-10-17T19:19:19.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-    "content": "<h2>概要</h2><p>The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 5,
+    "id": 16,
     "title": "Simulations explore nuclear mitigation of asteroid threats",
     "category": "SCIENCE",
     "date": "2026-10-17T19:00:05.000Z",
@@ -55,7 +176,7 @@
     "sourceUrl": "https://phys.org/news/2026-10-simulations-explore-nuclear-mitigation-asteroid.html"
   },
   {
-    "id": 6,
+    "id": 17,
     "title": "Simulations explore nuclear mitigation of asteroid threats",
     "category": "SPACE",
     "date": "2026-10-17T19:00:05.000Z",
@@ -66,8 +187,8 @@
     "sourceUrl": "https://phys.org/news/2026-10-simulations-explore-nuclear-mitigation-asteroid.html"
   },
   {
-    "id": 7,
-    "title": "Replit is no longer working with Anthropic, CEO says",
+    "id": 18,
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
     "category": "TECH",
     "date": "2026-10-17T18:48:08.000Z",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
@@ -77,7 +198,7 @@
     "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
   },
   {
-    "id": 8,
+    "id": 19,
     "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
     "category": "SCIENCE",
     "date": "2026-10-17T18:00:02.000Z",
@@ -88,18 +209,7 @@
     "sourceUrl": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html"
   },
   {
-    "id": 9,
-    "title": "What an ancient volcanic eruption teaches us about resilience today",
-    "category": "SCIENCE",
-    "date": "2026-10-17T17:00:05.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "When a massive environmental disaster strikes, do societies simply collapse and disappear? Or do people find a way to adapt, rebuild and recover?",
-    "content": "<h2>概要</h2><p>When a massive environmental disaster strikes, do societies simply collapse and disappear? Or do people find a way to adapt, rebuild and recover?</p><p><a href=\"https://phys.org/news/2026-10-ancient-volcanic-eruption-resilience-today.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-10-ancient-volcanic-eruption-resilience-today.html"
-  },
-  {
-    "id": 10,
+    "id": 20,
     "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
     "category": "TECH",
     "date": "2026-10-17T17:00:00.000Z",
@@ -110,7 +220,7 @@
     "sourceUrl": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance"
   },
   {
-    "id": 11,
+    "id": 21,
     "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
     "category": "TECH",
     "date": "2026-10-17T16:39:44.000Z",
@@ -121,18 +231,7 @@
     "sourceUrl": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway"
   },
   {
-    "id": 12,
-    "title": "Hand-cranked device tells blood type and red cell levels in 1 minute",
-    "category": "SCIENCE",
-    "date": "2026-10-17T16:00:01.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "When someone is badly injured, doctors urgently need two facts: the patient's blood type, so that a transfusion is safe, and their hematocrit, the share of the blood made up of red blood cells, which reveals blood loss or anemia. Hospitals measure both with large machines that need electricity and trained staff, which are often unavailable in ambulances, disaster zones or remote clinics.",
-    "content": "<h2>概要</h2><p>When someone is badly injured, doctors urgently need two facts: the patient's blood type, so that a transfusion is safe, and their hematocrit, the share of the blood made up of red blood cells, which reveals blood loss or anemia. Hospitals measure both with large machines that need electricity and trained staff, which are often unavailable in ambulances, disaster zones or remote clinics.</p><p><a href=\"https://phys.org/news/2026-10-cranked-device-blood-red-cell.html\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Phys.org",
-    "sourceUrl": "https://phys.org/news/2026-10-cranked-device-blood-red-cell.html"
-  },
-  {
-    "id": 13,
+    "id": 22,
     "title": "Scuffles and fires break out as protesters rally across France, joining students",
     "category": "WORLD",
     "date": "2026-10-17T15:57:40.000Z",
@@ -143,7 +242,7 @@
     "sourceUrl": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france"
   },
   {
-    "id": 14,
+    "id": 23,
     "title": "Salt crystals could hold clues to life beneath Enceladus's ice",
     "category": "SPACE",
     "date": "2026-10-17T15:40:01.000Z",
@@ -154,7 +253,7 @@
     "sourceUrl": "https://phys.org/news/2026-10-salt-crystals-clues-life-beneath.html"
   },
   {
-    "id": 15,
+    "id": 24,
     "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
     "category": "TECH",
     "date": "2026-10-17T15:30:00.000Z",
@@ -165,7 +264,7 @@
     "sourceUrl": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
   },
   {
-    "id": 16,
+    "id": 25,
     "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
     "category": "WORLD",
     "date": "2026-10-17T15:10:14.000Z",
@@ -176,7 +275,7 @@
     "sourceUrl": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery"
   },
   {
-    "id": 17,
+    "id": 26,
     "title": "Meta removes language that may have allowed it to scrape news sites",
     "category": "TECH",
     "date": "2026-10-17T15:04:36.000Z",
@@ -187,7 +286,7 @@
     "sourceUrl": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
   },
   {
-    "id": 18,
+    "id": 27,
     "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
     "category": "TECH",
     "date": "2026-10-17T15:00:00.000Z",
@@ -198,7 +297,7 @@
     "sourceUrl": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale"
   },
   {
-    "id": 19,
+    "id": 28,
     "title": " On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion ",
     "category": "SPACE",
     "date": "2026-10-17T14:49:01.000Z",
@@ -209,7 +308,7 @@
     "sourceUrl": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026"
   },
   {
-    "id": 20,
+    "id": 29,
     "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
     "category": "WORLD",
     "date": "2026-10-17T14:25:10.000Z",
@@ -220,7 +319,7 @@
     "sourceUrl": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia"
   },
   {
-    "id": 21,
+    "id": 30,
     "title": " This Week In Space podcast: Episode 232 — The Lunar Dump ",
     "category": "SPACE",
     "date": "2026-10-17T14:17:38.000Z",
@@ -231,7 +330,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump"
   },
   {
-    "id": 22,
+    "id": 31,
     "title": " 6 scientifically accurate star projectors to turn any room into a home planetarium ",
     "category": "SPACE",
     "date": "2026-10-17T14:00:00.000Z",
@@ -242,7 +341,7 @@
     "sourceUrl": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium"
   },
   {
-    "id": 23,
+    "id": 32,
     "title": "Lone, starless cloud may be a 'dark' galaxy",
     "category": "SPACE",
     "date": "2026-10-17T13:40:04.000Z",
@@ -253,7 +352,7 @@
     "sourceUrl": "https://phys.org/news/2026-10-lone-starless-cloud-dark-galaxy.html"
   },
   {
-    "id": 24,
+    "id": 33,
     "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
     "category": "TECH",
     "date": "2026-10-17T13:00:00.000Z",
@@ -264,7 +363,7 @@
     "sourceUrl": "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/"
   },
   {
-    "id": 25,
+    "id": 34,
     "title": "13,800-Year-Old Alaskan ‘Base Camp’ Yields New Clues to Ancient Beringia Land Bridge Mystery",
     "category": "MYSTERY",
     "date": "2026-10-17T12:42:07.000Z",
@@ -275,7 +374,7 @@
     "sourceUrl": "https://thedebrief.org/13800-year-old-alaskan-base-camp-yields-new-clues-to-ancient-beringia-land-bridge-mystery/"
   },
   {
-    "id": 26,
+    "id": 35,
     "title": "Scientists Create a ‘Light-Powered Brain’ That Could Transform Future Communications",
     "category": "MYSTERY",
     "date": "2026-10-17T12:37:30.000Z",
@@ -286,18 +385,7 @@
     "sourceUrl": "https://thedebrief.org/scientists-create-a-light-powered-brain-that-could-transform-future-communications/"
   },
   {
-    "id": 27,
-    "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-    "category": "WORLD",
-    "date": "2026-10-17T12:11:58.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
-    "content": "<h2>概要</h2><p>She and five staff members were found to have used the inedible paint in meals to make them look more appealing.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 28,
+    "id": 36,
     "title": "Encryption Is Getting Squeezed From All Sides",
     "category": "TECH",
     "date": "2026-10-17T12:00:00.000Z",
@@ -308,7 +396,7 @@
     "sourceUrl": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/"
   },
   {
-    "id": 29,
+    "id": 37,
     "title": " 'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2 ",
     "category": "SPACE",
     "date": "2026-10-17T12:00:00.000Z",
@@ -319,7 +407,7 @@
     "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2"
   },
   {
-    "id": 30,
+    "id": 38,
     "title": "The Best LED Grow Lights for Houseplants This Winter (2026)",
     "category": "TECH",
     "date": "2026-10-17T11:30:00.000Z",
@@ -330,7 +418,7 @@
     "sourceUrl": "https://www.wired.com/story/best-led-grow-lights/"
   },
   {
-    "id": 31,
+    "id": 39,
     "title": "Science says your boss should talk less in meetings",
     "category": "TECH",
     "date": "2026-10-17T11:15:11.000Z",
@@ -341,7 +429,7 @@
     "sourceUrl": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"
   },
   {
-    "id": 32,
+    "id": 40,
     "title": "These 12 Automatic Cat Feeders Were the Best We Tested in 2026",
     "category": "TECH",
     "date": "2026-10-17T11:02:00.000Z",
@@ -352,7 +440,7 @@
     "sourceUrl": "https://www.wired.com/gallery/best-automatic-cat-feeders/"
   },
   {
-    "id": 33,
+    "id": 41,
     "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
     "category": "TECH",
     "date": "2026-10-17T11:00:21.000Z",
@@ -363,18 +451,7 @@
     "sourceUrl": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/"
   },
   {
-    "id": 34,
-    "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
-    "category": "WORLD",
-    "date": "2026-10-17T11:00:00.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2960x2164+0+0/resize/2960x2164!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F6e%2F44e3ca8d447b91752571736d3899%2Fap26246528745965.jpg",
-    "summary": "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's past\nare still fighting for justice. As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late.",
-    "content": "<h2>概要</h2><p>More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's past\nare still fighting for justice. As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late.</p><p><a href=\"https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid"
-  },
-  {
-    "id": 35,
+    "id": 42,
     "title": "HTC Made Smart Glasses That Are Way More Private",
     "category": "TECH",
     "date": "2026-10-17T10:30:00.000Z",
@@ -385,7 +462,7 @@
     "sourceUrl": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/"
   },
   {
-    "id": 36,
+    "id": 43,
     "title": "Don’t Let a Crypto Inheritance Get Stuck on the Blockchain",
     "category": "TECH",
     "date": "2026-10-17T10:30:00.000Z",
@@ -396,7 +473,7 @@
     "sourceUrl": "https://www.wired.com/story/crypto-inheritance-how-to/"
   },
   {
-    "id": 37,
+    "id": 44,
     "title": " The Orionid meteor shower peaks next week! Here's what to expect ",
     "category": "SPACE",
     "date": "2026-10-17T10:00:00.000Z",
@@ -407,29 +484,7 @@
     "sourceUrl": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect"
   },
   {
-    "id": 38,
-    "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-    "category": "WORLD",
-    "date": "2026-10-17T09:58:17.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-    "content": "<h2>概要</h2><p>The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 39,
-    "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
-    "category": "WORLD",
-    "date": "2026-10-17T09:00:00.000Z",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5544x3696+0+0/resize/5544x3696!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F43%2F2c%2Fd3fd11634aa782ae90dbe430eb41%2Fsidewalk-sleepers-india-21.jpg",
-    "summary": "Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own — and on the street.",
-    "content": "<h2>概要</h2><p>Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own — and on the street.</p><p><a href=\"https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "NPR World",
-    "sourceUrl": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk"
-  },
-  {
-    "id": 40,
+    "id": 45,
     "title": "APOD: 2026 October 17 – 3D 67P",
     "category": "SPACE",
     "date": "2026-10-17T04:05:00.000Z",
@@ -440,7 +495,7 @@
     "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/"
   },
   {
-    "id": 41,
+    "id": 46,
     "title": "APOD: 2026 October 17 – 3D 67P",
     "category": "SPACE",
     "date": "2026-10-17T04:05:00.000Z",
@@ -451,40 +506,7 @@
     "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/"
   },
   {
-    "id": 42,
-    "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-    "category": "WORLD",
-    "date": "2026-10-17T03:11:10.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-    "content": "<h2>概要</h2><p>Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.</p><p><a href=\"https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 43,
-    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-    "category": "TECH",
-    "date": "2026-10-17T02:36:18.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
-    "content": "<h2>概要</h2><p>Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.</p><p><a href=\"https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/"
-  },
-  {
-    "id": 44,
-    "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-    "category": "WORLD",
-    "date": "2026-10-17T02:33:09.000Z",
-    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-    "content": "<h2>概要</h2><p>The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC World",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 45,
+    "id": 47,
     "title": "Astronomer leads global team on NASA mission to create unprecedented view of the early universe",
     "category": "SPACE",
     "date": "2026-10-16T23:20:01.000Z",
@@ -495,7 +517,7 @@
     "sourceUrl": "https://phys.org/news/2026-10-astronomer-global-team-nasa-mission.html"
   },
   {
-    "id": 46,
+    "id": 48,
     "title": "Plants shift gene activity within minutes of entering spaceflight, experiment reveals",
     "category": "SPACE",
     "date": "2026-10-16T23:00:01.000Z",
@@ -506,7 +528,7 @@
     "sourceUrl": "https://phys.org/news/2026-10-shift-gene-minutes-spaceflight-reveals.html"
   },
   {
-    "id": 47,
+    "id": 49,
     "title": "OpenAI models hacked a crypto wallet and breached more websites",
     "category": "TECH",
     "date": "2026-10-16T20:59:01.000Z",
@@ -517,7 +539,7 @@
     "sourceUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
   },
   {
-    "id": 48,
+    "id": 50,
     "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
     "category": "TECH",
     "date": "2026-10-16T20:20:07.000Z",
@@ -528,7 +550,7 @@
     "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
   },
   {
-    "id": 49,
+    "id": 51,
     "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
     "category": "SPACE",
     "date": "2026-10-16T20:14:39.000Z",
@@ -539,7 +561,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/"
   },
   {
-    "id": 50,
+    "id": 52,
     "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
     "category": "SPACE",
     "date": "2026-10-16T20:14:39.000Z",
@@ -550,7 +572,7 @@
     "sourceUrl": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/"
   },
   {
-    "id": 51,
+    "id": 53,
     "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
     "category": "TECH",
     "date": "2026-10-16T19:41:18.000Z",
@@ -561,18 +583,7 @@
     "sourceUrl": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/"
   },
   {
-    "id": 52,
-    "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-    "category": "TECH",
-    "date": "2026-10-16T19:40:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-    "content": "<h2>概要</h2><p>The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.</p><p><a href=\"https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/"
-  },
-  {
-    "id": 53,
+    "id": 54,
     "title": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say",
     "category": "TECH",
     "date": "2026-10-16T19:36:02.000Z",
@@ -583,7 +594,7 @@
     "sourceUrl": "https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/"
   },
   {
-    "id": 54,
+    "id": 55,
     "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
     "category": "TECH",
     "date": "2026-10-16T18:11:29.000Z",
@@ -592,17 +603,6 @@
     "content": "<h2>概要</h2><p>The Australian government hopes to protect social media users from being served content they don't want to see.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "BBC Technology",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 55,
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "category": "TECH",
-    "date": "2026-10-16T18:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
-    "content": "<h2>概要</h2><p>Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…</p><p><a href=\"https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT Technology Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   },
   {
     "id": 56,
@@ -617,6 +617,17 @@
   },
   {
     "id": 57,
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "category": "TECH",
+    "date": "2026-10-16T18:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+    "content": "<h2>概要</h2><p>Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…</p><p><a href=\"https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+  },
+  {
+    "id": 58,
     "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
     "category": "TECH",
     "date": "2026-10-16T17:11:35.000Z",
@@ -627,7 +638,7 @@
     "sourceUrl": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/"
   },
   {
-    "id": 58,
+    "id": 59,
     "title": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
     "category": "TECH",
     "date": "2026-10-16T17:10:27.000Z",
@@ -638,7 +649,7 @@
     "sourceUrl": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/"
   },
   {
-    "id": 59,
+    "id": 60,
     "title": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
     "category": "TECH",
     "date": "2026-10-16T16:44:50.000Z",
@@ -649,7 +660,7 @@
     "sourceUrl": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/"
   },
   {
-    "id": 60,
+    "id": 61,
     "title": "Artemis II Heat Shield After Splashdown",
     "category": "SPACE",
     "date": "2026-10-16T16:28:01.000Z",
@@ -660,7 +671,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/"
   },
   {
-    "id": 61,
+    "id": 62,
     "title": "Artemis II Heat Shield After Splashdown",
     "category": "SPACE",
     "date": "2026-10-16T16:28:01.000Z",
@@ -671,7 +682,7 @@
     "sourceUrl": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/"
   },
   {
-    "id": 62,
+    "id": 63,
     "title": "Fostering community amid Kendall Square’s innovation",
     "category": "TECH",
     "date": "2026-10-16T16:00:00.000Z",
@@ -682,7 +693,7 @@
     "sourceUrl": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016"
   },
   {
-    "id": 63,
+    "id": 64,
     "title": "“Something Out of Science Fiction”: A Ghostly Green Star Has Been Revealed for the First Time",
     "category": "MYSTERY",
     "date": "2026-10-16T15:46:36.000Z",
@@ -693,7 +704,7 @@
     "sourceUrl": "https://thedebrief.org/something-out-of-science-fiction-a-ghostly-green-star-has-been-revealed-for-the-first-time/"
   },
   {
-    "id": 64,
+    "id": 65,
     "title": "Russian man linked to deadly London hospitals hack arrested",
     "category": "TECH",
     "date": "2026-10-16T15:31:33.000Z",
@@ -704,7 +715,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 65,
+    "id": 66,
     "title": "Climate Change Is Altering the Atmosphere in Ways That Could Make Military Radar See Farther—or Go Blind",
     "category": "MYSTERY",
     "date": "2026-10-16T15:30:52.000Z",
@@ -715,7 +726,7 @@
     "sourceUrl": "https://thedebrief.org/climate-change-is-altering-the-atmosphere-in-ways-that-could-make-military-radar-see-farther-or-go-blind/"
   },
   {
-    "id": 66,
+    "id": 67,
     "title": "I Am Artemis: Allison Mjoen",
     "category": "SPACE",
     "date": "2026-10-16T14:24:29.000Z",
@@ -726,7 +737,7 @@
     "sourceUrl": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/"
   },
   {
-    "id": 67,
+    "id": 68,
     "title": "I Am Artemis: Allison Mjoen",
     "category": "SPACE",
     "date": "2026-10-16T14:24:29.000Z",
@@ -735,17 +746,6 @@
     "content": "<h2>概要</h2><p>As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will one day send humans back to […]</p><p><a href=\"https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "NASA Image of the Day",
     "sourceUrl": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/"
-  },
-  {
-    "id": 68,
-    "title": "The Evolving Quest to Build Life in a Lab",
-    "category": "MYSTERY",
-    "date": "2026-10-16T14:00:00.000Z",
-    "image": "https://singularityhub.com/uploads/2026/10/SpudCell_synthetic_cell_division-1-scaled-1.jpeg",
-    "summary": "Scientists want to create cells from scratch, to unveil life’s origins or provide specialized functions. Are they close?\nThe post The Evolving Quest to Build Life in a Lab appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>Scientists want to create cells from scratch, to unveil life’s origins or provide specialized functions. Are they close?\nThe post The Evolving Quest to Build Life in a Lab appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/10/16/the-evolving-quest-to-build-life-in-a-lab/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/10/16/the-evolving-quest-to-build-life-in-a-lab/"
   },
   {
     "id": 69,
@@ -936,17 +936,6 @@
   },
   {
     "id": 86,
-    "title": "Living with a stink? Technology might help",
-    "category": "TECH",
-    "date": "2026-10-15T23:18:21.000Z",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-    "content": "<h2>概要</h2><p>Smells from rubbish dumps and industrial facilities are being more carefully monitored.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "BBC Technology",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": 87,
     "title": "I find it quite demoralising in store - why I do all my shopping online",
     "category": "BUSINESS",
     "date": "2026-10-15T23:16:12.000Z",
@@ -957,7 +946,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 88,
+    "id": 87,
     "title": "Suzy Nelson transformed student life at MIT",
     "category": "TECH",
     "date": "2026-10-15T21:35:00.000Z",
@@ -968,7 +957,7 @@
     "sourceUrl": "https://news.mit.edu/2026/suzy-nelson-transformed-student-life-at-mit-1015"
   },
   {
-    "id": 89,
+    "id": 88,
     "title": "MIT student leaders: Q&A with Association of Student Activities president Hana Sousa",
     "category": "TECH",
     "date": "2026-10-15T21:15:00.000Z",
@@ -979,7 +968,7 @@
     "sourceUrl": "https://news.mit.edu/2026/qa-mit-student-leaders-asa-president-hana-sousa-1015"
   },
   {
-    "id": 90,
+    "id": 89,
     "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
     "category": "TECH",
     "date": "2026-10-15T21:00:00.000Z",
@@ -990,7 +979,7 @@
     "sourceUrl": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015"
   },
   {
-    "id": 91,
+    "id": 90,
     "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
     "category": "TECH",
     "date": "2026-10-15T21:00:00.000Z",
@@ -1001,7 +990,7 @@
     "sourceUrl": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015"
   },
   {
-    "id": 92,
+    "id": 91,
     "title": "AI model decodes the language cells use to communicate",
     "category": "TECH",
     "date": "2026-10-15T20:50:00.000Z",
@@ -1009,21 +998,21 @@
     "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.",
     "content": "<h2>概要</h2><p>A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.</p><p><a href=\"https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015\" target=\"_blank\">出典記事を読む</a></p>",
     "source": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015"
+  },
+  {
+    "id": 92,
+    "title": "AI model decodes the language cells use to communicate",
+    "category": "SCIENCE",
+    "date": "2026-10-15T20:50:00.000Z",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+    "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.",
+    "content": "<h2>概要</h2><p>A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.</p><p><a href=\"https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015\" target=\"_blank\">出典記事を読む</a></p>",
+    "source": "MIT News Science",
     "sourceUrl": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015"
   },
   {
     "id": 93,
-    "title": "AI model decodes the language cells use to communicate",
-    "category": "SCIENCE",
-    "date": "2026-10-15T20:50:00.000Z",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
-    "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.",
-    "content": "<h2>概要</h2><p>A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.</p><p><a href=\"https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "MIT News Science",
-    "sourceUrl": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015"
-  },
-  {
-    "id": 94,
     "title": "Satellite data reveal how Antarctica’s ice cliffs behave over time",
     "category": "TECH",
     "date": "2026-10-15T18:00:00.000Z",
@@ -1034,7 +1023,7 @@
     "sourceUrl": "https://news.mit.edu/2026/satellite-data-reveal-how-antarcticas-ice-cliffs-behave-over-time-1015"
   },
   {
-    "id": 95,
+    "id": 94,
     "title": "Satellite data reveal how Antarctica’s ice cliffs behave over time",
     "category": "SCIENCE",
     "date": "2026-10-15T18:00:00.000Z",
@@ -1045,7 +1034,7 @@
     "sourceUrl": "https://news.mit.edu/2026/satellite-data-reveal-how-antarcticas-ice-cliffs-behave-over-time-1015"
   },
   {
-    "id": 96,
+    "id": 95,
     "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
     "category": "BUSINESS",
     "date": "2026-10-15T14:55:21.000Z",
@@ -1056,18 +1045,7 @@
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": 97,
-    "title": "The Oldest Living Land Animal Is 194. DNA May Now Reveal the Secret to His Longevity.",
-    "category": "MYSTERY",
-    "date": "2026-10-15T14:00:00.000Z",
-    "image": "https://singularityhub.com/uploads/2026/10/Jonathan-tortoise-st-helena-1882.jpeg",
-    "summary": "Jonathan the giant tortoise was born when Darwin was still a young man. Youthful gene activity may account for his exceptionally long life.\nThe post The Oldest Living Land Animal Is 194. DNA May Now Reveal the Secret to His Longevity. appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>Jonathan the giant tortoise was born when Darwin was still a young man. Youthful gene activity may account for his exceptionally long life.\nThe post The Oldest Living Land Animal Is 194. DNA May Now Reveal the Secret to His Longevity. appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/10/15/the-oldest-living-land-animal-is-194-now-his-dna-may-reveal-secrets-to-longevity/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/10/15/the-oldest-living-land-animal-is-194-now-his-dna-may-reveal-secrets-to-longevity/"
-  },
-  {
-    "id": 98,
+    "id": 96,
     "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
     "category": "WORLD",
     "date": "2026-10-15T08:00:25.000Z",
@@ -1078,7 +1056,7 @@
     "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch"
   },
   {
-    "id": 99,
+    "id": 97,
     "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
     "category": "WORLD",
     "date": "2026-10-14T19:01:29.000Z",
@@ -1089,7 +1067,7 @@
     "sourceUrl": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story"
   },
   {
-    "id": 100,
+    "id": 98,
     "title": "MIT remembers Thomas Rose, a brilliant researcher and generous colleague",
     "category": "TECH",
     "date": "2026-10-14T18:30:00.000Z",
@@ -1100,7 +1078,7 @@
     "sourceUrl": "https://news.mit.edu/2026/mit-remembers-thomas-rose-1014"
   },
   {
-    "id": 101,
+    "id": 99,
     "title": "Researchers improve weather forecasts looking two to six weeks out",
     "category": "TECH",
     "date": "2026-10-14T15:00:00.000Z",
@@ -1111,7 +1089,7 @@
     "sourceUrl": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014"
   },
   {
-    "id": 102,
+    "id": 100,
     "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
     "category": "WORLD",
     "date": "2026-10-14T13:16:30.000Z",
@@ -1122,7 +1100,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial"
   },
   {
-    "id": 103,
+    "id": 101,
     "title": "How artificial neural networks build their own learning machinery",
     "category": "SCIENCE",
     "date": "2026-10-13T21:00:00.000Z",
@@ -1133,18 +1111,7 @@
     "sourceUrl": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013"
   },
   {
-    "id": 104,
-    "title": "Radical New Tactic Would Stop Deadly Cancers Before They Start",
-    "category": "MYSTERY",
-    "date": "2026-10-13T14:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Cancer interception aims  to prevent abnormal growths from developing into tumors.\nThe post Radical New Tactic Would Stop Deadly Cancers Before They Start appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>Cancer interception aims  to prevent abnormal growths from developing into tumors.\nThe post Radical New Tactic Would Stop Deadly Cancers Before They Start appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/10/13/radical-new-tactic-would-stop-deadly-cancers-before-they-start/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/10/13/radical-new-tactic-would-stop-deadly-cancers-before-they-start/"
-  },
-  {
-    "id": 105,
+    "id": 102,
     "title": "Week in images: 12-16 October 2026",
     "category": "SPACE",
     "date": "2026-10-13T13:10:00.000Z",
@@ -1155,7 +1122,7 @@
     "sourceUrl": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_October_2026"
   },
   {
-    "id": 106,
+    "id": 103,
     "title": "Reprogrammed NK immune cells target cancer and autoimmune disorders",
     "category": "TECH",
     "date": "2026-10-13T09:00:00.000Z",
@@ -1166,18 +1133,7 @@
     "sourceUrl": "https://news.mit.edu/2026/reprogrammed-nk-immune-cells-target-cancer-and-autoimmune-disorders-1013"
   },
   {
-    "id": 107,
-    "title": "This AI Reconstructs What You’re Looking at From a Brain Scan",
-    "category": "MYSTERY",
-    "date": "2026-10-12T17:44:24.000Z",
-    "image": "https://singularityhub.com/uploads/2026/10/brain-scan-images-ai-mind-reading-full.jpeg?auto=webp",
-    "summary": "The technology could one day decode dreams—or reveal our most private thoughts.\nThe post This AI Reconstructs What You’re Looking at From a Brain Scan appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>The technology could one day decode dreams—or reveal our most private thoughts.\nThe post This AI Reconstructs What You’re Looking at From a Brain Scan appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/10/12/this-ai-reconstructs-what-youre-looking-at-from-a-brain-scan/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/10/12/this-ai-reconstructs-what-youre-looking-at-from-a-brain-scan/"
-  },
-  {
-    "id": 108,
+    "id": 104,
     "title": "Welcome home, Sophie Adenot",
     "category": "SPACE",
     "date": "2026-10-12T13:00:00.000Z",
@@ -1188,18 +1144,7 @@
     "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot"
   },
   {
-    "id": 109,
-    "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 10)",
-    "category": "MYSTERY",
-    "date": "2026-10-10T14:00:00.000Z",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "summary": "Every week, we scour the web for important, insightful, and fascinating stories in science and technology.\nThe post This Week’s Awesome Tech Stories From Around the Web (Through October 10) appeared first on SingularityHub.",
-    "content": "<h2>概要</h2><p>Every week, we scour the web for important, insightful, and fascinating stories in science and technology.\nThe post This Week’s Awesome Tech Stories From Around the Web (Through October 10) appeared first on SingularityHub.</p><p><a href=\"https://singularityhub.com/2026/10/10/this-weeks-awesome-tech-stories-from-around-the-web-through-october-10-2/\" target=\"_blank\">出典記事を読む</a></p>",
-    "source": "Singularity Hub",
-    "sourceUrl": "https://singularityhub.com/2026/10/10/this-weeks-awesome-tech-stories-from-around-the-web-through-october-10-2/"
-  },
-  {
-    "id": 110,
+    "id": 105,
     "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station ",
     "category": "SPACE",
     "date": "2026-10-10T09:01:00.000Z",
@@ -1210,7 +1155,7 @@
     "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station"
   },
   {
-    "id": 111,
+    "id": 106,
     "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
     "category": "WORLD",
     "date": "2026-10-09T21:36:18.000Z",
@@ -1221,7 +1166,7 @@
     "sourceUrl": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
   },
   {
-    "id": 112,
+    "id": 107,
     "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
     "category": "WORLD",
     "date": "2026-10-09T16:30:09.000Z",
@@ -1232,7 +1177,7 @@
     "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
   },
   {
-    "id": 113,
+    "id": 108,
     "title": "3 Questions: What is the best path forward for AI in academia?",
     "category": "SCIENCE",
     "date": "2026-10-08T21:25:00.000Z",
@@ -1243,7 +1188,7 @@
     "sourceUrl": "https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008"
   },
   {
-    "id": 114,
+    "id": 109,
     "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
     "category": "SCIENCE",
     "date": "2026-10-07T20:55:00.000Z",
@@ -1254,7 +1199,7 @@
     "sourceUrl": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
   },
   {
-    "id": 115,
+    "id": 110,
     "title": "εpsilon",
     "category": "SPACE",
     "date": "2026-01-21T12:54:00.000Z",
